@@ -1,0 +1,615 @@
+,date,home_team,score,away_team
+0,05-08-2022,Benfica,4 - 0,Arouca
+1,15-08-2022,Arouca,1 - 0,Gil Vicente
+2,20-08-2022,CD Santa Clara,1 - 2,Arouca
+3,28-08-2022,Arouca,0 - 6,Sp Braga
+4,04-09-2022,Casa Pia,0 - 0,Arouca
+5,11-09-2022,Arouca,1 - 2,Boavista
+6,18-09-2022,Arouca,2 - 2,Guimaraes
+7,02-10-2022,Pacos Ferreira,1 - 1,Arouca
+8,10-10-2022,Arouca,4 - 1,FC Famalicão
+9,23-10-2022,Maritimo,1 - 1,Arouca
+10,29-10-2022,Arouca,1 - 0,Sp Lisbon
+11,05-11-2022,Vizela,0 - 1,Arouca
+12,12-11-2022,Arouca,0 - 1,Rio Ave
+13,28-12-2022,Porto,5 - 1,Arouca
+14,07-01-2023,Arouca,2 - 0,Estoril
+15,15-01-2023,Chaves,1 - 1,Arouca
+16,20-01-2023,Arouca,4 - 0,Portimonense SC
+17,31-01-2023,Arouca,0 - 3,Benfica
+18,05-02-2023,Gil Vicente,1 - 1,Arouca
+19,11-02-2023,Arouca,1 - 0,CD Santa Clara
+20,19-02-2023,Sp Braga,2 - 0,Arouca
+21,25-02-2023,Arouca,2 - 0,Casa Pia
+22,03-03-2023,Boavista,0 - 0,Arouca
+23,11-03-2023,Guimaraes,0 - 2,Arouca
+24,18-03-2023,Arouca,1 - 1,Pacos Ferreira
+25,03-04-2023,FC Famalicão,0 - 1,Arouca
+26,08-04-2023,Arouca,1 - 0,Maritimo
+27,16-04-2023,Sp Lisbon,1 - 1,Arouca
+28,23-04-2023,Arouca,1 - 0,Vizela
+29,28-04-2023,Rio Ave,1 - 0,Arouca
+30,08-05-2023,Arouca,0 - 1,Porto
+31,15-05-2023,Estoril,2 - 0,Arouca
+32,20-05-2023,Arouca,1 - 0,Chaves
+33,27-05-2023,Portimonense SC,0 - 2,Arouca
+34,05-08-2022,Benfica,4 - 0,Arouca
+35,13-08-2022,Casa Pia,0 - 1,Benfica
+36,27-08-2022,Boavista,0 - 3,Benfica
+37,30-08-2022,Benfica,3 - 2,Pacos Ferreira
+38,02-09-2022,Benfica,2 - 1,Vizela
+39,10-09-2022,FC Famalicão,0 - 1,Benfica
+40,18-09-2022,Benfica,5 - 0,Maritimo
+41,01-10-2022,Guimaraes,0 - 0,Benfica
+42,08-10-2022,Benfica,4 - 2,Rio Ave
+43,21-10-2022,Porto,0 - 1,Benfica
+44,29-10-2022,Benfica,5 - 0,Chaves
+45,06-11-2022,Estoril,1 - 5,Benfica
+46,13-11-2022,Benfica,3 - 1,Gil Vicente
+47,30-12-2022,Sp Braga,3 - 0,Benfica
+48,06-01-2023,Benfica,1 - 0,Portimonense SC
+49,15-01-2023,Benfica,2 - 2,Sp Lisbon
+50,21-01-2023,CD Santa Clara,0 - 3,Benfica
+51,26-01-2023,Pacos Ferreira,0 - 2,Benfica
+52,31-01-2023,Arouca,0 - 3,Benfica
+53,04-02-2023,Benfica,3 - 0,Casa Pia
+54,20-02-2023,Benfica,3 - 1,Boavista
+55,25-02-2023,Vizela,0 - 2,Benfica
+56,03-03-2023,Benfica,2 - 0,FC Famalicão
+57,12-03-2023,Maritimo,0 - 3,Benfica
+58,18-03-2023,Benfica,5 - 1,Guimaraes
+59,02-04-2023,Rio Ave,0 - 1,Benfica
+60,07-04-2023,Benfica,1 - 2,Porto
+61,15-04-2023,Chaves,1 - 0,Benfica
+62,23-04-2023,Benfica,1 - 0,Estoril
+63,29-04-2023,Gil Vicente,0 - 2,Benfica
+64,06-05-2023,Benfica,1 - 0,Sp Braga
+65,13-05-2023,Portimonense SC,1 - 5,Benfica
+66,21-05-2023,Sp Lisbon,2 - 2,Benfica
+67,27-05-2023,Benfica,3 - 0,CD Santa Clara
+68,07-08-2022,Portimonense SC,0 - 1,Boavista
+69,14-08-2022,Boavista,2 - 1,CD Santa Clara
+70,21-08-2022,Casa Pia,2 - 0,Boavista
+71,27-08-2022,Boavista,0 - 3,Benfica
+72,05-09-2022,Boavista,1 - 0,Pacos Ferreira
+73,11-09-2022,Arouca,1 - 2,Boavista
+74,17-09-2022,Boavista,2 - 1,Sp Lisbon
+75,02-10-2022,FC Famalicão,4 - 0,Boavista
+76,09-10-2022,Boavista,1 - 1,Maritimo
+77,23-10-2022,Guimaraes,3 - 2,Boavista
+78,30-10-2022,Boavista,2 - 2,Vizela
+79,06-11-2022,Rio Ave,1 - 0,Boavista
+80,12-11-2022,Boavista,1 - 4,Porto
+81,08-01-2023,Boavista,1 - 0,Gil Vicente
+82,14-01-2023,Sp Braga,1 - 0,Boavista
+83,23-01-2023,Boavista,1 - 1,Chaves
+84,29-01-2023,Boavista,4 - 2,Portimonense SC
+85,04-02-2023,CD Santa Clara,2 - 2,Boavista
+86,09-02-2023,Estoril,2 - 1,Boavista
+87,13-02-2023,Boavista,0 - 0,Casa Pia
+88,20-02-2023,Benfica,3 - 1,Boavista
+89,26-02-2023,Pacos Ferreira,1 - 3,Boavista
+90,03-03-2023,Boavista,0 - 0,Arouca
+91,12-03-2023,Sp Lisbon,3 - 0,Boavista
+92,19-03-2023,Boavista,1 - 2,FC Famalicão
+93,02-04-2023,Maritimo,4 - 2,Boavista
+94,07-04-2023,Boavista,2 - 1,Guimaraes
+95,17-04-2023,Vizela,1 - 1,Boavista
+96,22-04-2023,Boavista,3 - 2,Rio Ave
+97,30-04-2023,Porto,1 - 0,Boavista
+98,06-05-2023,Boavista,1 - 0,Estoril
+99,12-05-2023,Gil Vicente,3 - 1,Boavista
+100,20-05-2023,Boavista,1 - 1,Sp Braga
+101,27-05-2023,Chaves,1 - 4,Boavista
+102,07-08-2022,CD Santa Clara,0 - 0,Casa Pia
+103,14-08-2022,Boavista,2 - 1,CD Santa Clara
+104,20-08-2022,CD Santa Clara,1 - 2,Arouca
+105,28-08-2022,FC Famalicão,1 - 0,CD Santa Clara
+106,04-09-2022,CD Santa Clara,2 - 1,Maritimo
+107,09-09-2022,Guimaraes,1 - 0,CD Santa Clara
+108,17-09-2022,CD Santa Clara,1 - 1,Pacos Ferreira
+109,02-10-2022,Rio Ave,1 - 0,CD Santa Clara
+110,08-10-2022,CD Santa Clara,1 - 2,Sp Lisbon
+111,23-10-2022,Vizela,0 - 1,CD Santa Clara
+112,29-10-2022,CD Santa Clara,1 - 1,Porto
+113,07-11-2022,Chaves,0 - 0,CD Santa Clara
+114,14-11-2022,CD Santa Clara,3 - 1,Estoril
+115,29-12-2022,Gil Vicente,1 - 0,CD Santa Clara
+116,05-01-2023,CD Santa Clara,0 - 4,Sp Braga
+117,13-01-2023,Portimonense SC,0 - 0,CD Santa Clara
+118,21-01-2023,CD Santa Clara,0 - 3,Benfica
+119,29-01-2023,Casa Pia,2 - 1,CD Santa Clara
+120,04-02-2023,CD Santa Clara,2 - 2,Boavista
+121,11-02-2023,Arouca,1 - 0,CD Santa Clara
+122,19-02-2023,CD Santa Clara,1 - 3,FC Famalicão
+123,25-02-2023,Maritimo,3 - 1,CD Santa Clara
+124,05-03-2023,CD Santa Clara,1 - 3,Guimaraes
+125,11-03-2023,Pacos Ferreira,1 - 0,CD Santa Clara
+126,17-03-2023,CD Santa Clara,0 - 2,Rio Ave
+127,01-04-2023,Sp Lisbon,3 - 0,CD Santa Clara
+128,07-04-2023,CD Santa Clara,0 - 1,Vizela
+129,15-04-2023,Porto,2 - 1,CD Santa Clara
+130,23-04-2023,CD Santa Clara,1 - 1,Chaves
+131,30-04-2023,Estoril,3 - 0,CD Santa Clara
+132,06-05-2023,CD Santa Clara,3 - 2,Gil Vicente
+133,14-05-2023,Sp Braga,5 - 3,CD Santa Clara
+134,20-05-2023,CD Santa Clara,1 - 0,Portimonense SC
+135,27-05-2023,Benfica,3 - 0,CD Santa Clara
+136,07-08-2022,CD Santa Clara,0 - 0,Casa Pia
+137,13-08-2022,Casa Pia,0 - 1,Benfica
+138,21-08-2022,Casa Pia,2 - 0,Boavista
+139,29-08-2022,Guimaraes,0 - 1,Casa Pia
+140,04-09-2022,Casa Pia,0 - 0,Arouca
+141,11-09-2022,Pacos Ferreira,2 - 3,Casa Pia
+142,18-09-2022,Casa Pia,1 - 0,FC Famalicão
+143,03-10-2022,Maritimo,1 - 2,Casa Pia
+144,09-10-2022,Casa Pia,0 - 1,Vizela
+145,22-10-2022,Sp Lisbon,3 - 1,Casa Pia
+146,30-10-2022,Casa Pia,1 - 0,Rio Ave
+147,06-11-2022,Sp Braga,0 - 1,Casa Pia
+148,13-11-2022,Casa Pia,1 - 2,Chaves
+149,28-12-2022,Portimonense SC,1 - 2,Casa Pia
+150,07-01-2023,Casa Pia,0 - 0,Porto
+151,16-01-2023,Estoril,2 - 0,Casa Pia
+152,22-01-2023,Casa Pia,1 - 3,Gil Vicente
+153,29-01-2023,Casa Pia,2 - 1,CD Santa Clara
+154,04-02-2023,Benfica,3 - 0,Casa Pia
+155,13-02-2023,Boavista,0 - 0,Casa Pia
+156,19-02-2023,Casa Pia,0 - 0,Guimaraes
+157,25-02-2023,Arouca,2 - 0,Casa Pia
+158,06-03-2023,Casa Pia,2 - 1,Pacos Ferreira
+159,13-03-2023,FC Famalicão,1 - 0,Casa Pia
+160,19-03-2023,Casa Pia,2 - 0,Maritimo
+161,01-04-2023,Vizela,3 - 1,Casa Pia
+162,09-04-2023,Casa Pia,3 - 4,Sp Lisbon
+163,16-04-2023,Rio Ave,1 - 1,Casa Pia
+164,21-04-2023,Casa Pia,0 - 1,Sp Braga
+165,29-04-2023,Chaves,1 - 0,Casa Pia
+166,05-05-2023,Casa Pia,1 - 1,Portimonense SC
+167,14-05-2023,Porto,2 - 1,Casa Pia
+168,21-05-2023,Casa Pia,2 - 2,Estoril
+169,27-05-2023,Gil Vicente,1 - 0,Casa Pia
+170,07-08-2022,Chaves,0 - 1,Guimaraes
+171,15-08-2022,Maritimo,1 - 2,Chaves
+172,20-08-2022,Chaves,1 - 1,Vizela
+173,27-08-2022,Sp Lisbon,0 - 2,Chaves
+174,05-09-2022,Chaves,1 - 1,Rio Ave
+175,10-09-2022,Porto,3 - 0,Chaves
+176,16-09-2022,Portimonense SC,1 - 0,Chaves
+177,01-10-2022,Chaves,1 - 1,Estoril
+178,09-10-2022,Sp Braga,0 - 1,Chaves
+179,23-10-2022,Chaves,3 - 1,Gil Vicente
+180,29-10-2022,Benfica,5 - 0,Chaves
+181,07-11-2022,Chaves,0 - 0,CD Santa Clara
+182,13-11-2022,Casa Pia,1 - 2,Chaves
+183,30-12-2022,Chaves,0 - 2,FC Famalicão
+184,08-01-2023,Pacos Ferreira,1 - 1,Chaves
+185,15-01-2023,Chaves,1 - 1,Arouca
+186,23-01-2023,Boavista,1 - 1,Chaves
+187,30-01-2023,Guimaraes,2 - 1,Chaves
+188,05-02-2023,Chaves,2 - 1,Maritimo
+189,10-02-2023,Vizela,0 - 0,Chaves
+190,20-02-2023,Chaves,2 - 3,Sp Lisbon
+191,26-02-2023,Rio Ave,1 - 0,Chaves
+192,04-03-2023,Chaves,1 - 3,Porto
+193,11-03-2023,Chaves,2 - 0,Portimonense SC
+194,18-03-2023,Estoril,0 - 2,Chaves
+195,02-04-2023,Chaves,1 - 2,Sp Braga
+196,10-04-2023,Gil Vicente,0 - 0,Chaves
+197,15-04-2023,Chaves,1 - 0,Benfica
+198,23-04-2023,CD Santa Clara,1 - 1,Chaves
+199,29-04-2023,Chaves,1 - 0,Casa Pia
+200,08-05-2023,FC Famalicão,1 - 2,Chaves
+201,13-05-2023,Chaves,2 - 0,Pacos Ferreira
+202,20-05-2023,Arouca,1 - 0,Chaves
+203,27-05-2023,Chaves,1 - 4,Boavista
+204,06-08-2022,Estoril,2 - 0,FC Famalicão
+205,14-08-2022,Guimaraes,1 - 0,Estoril
+206,19-08-2022,Estoril,2 - 2,Rio Ave
+207,26-08-2022,Pacos Ferreira,0 - 3,Estoril
+208,02-09-2022,Estoril,0 - 2,Sp Lisbon
+209,12-09-2022,Vizela,0 - 1,Estoril
+210,17-09-2022,Estoril,1 - 1,Porto
+211,01-10-2022,Chaves,1 - 1,Estoril
+212,07-10-2022,Gil Vicente,0 - 1,Estoril
+213,22-10-2022,Estoril,0 - 2,Sp Braga
+214,30-10-2022,Portimonense SC,1 - 1,Estoril
+215,06-11-2022,Estoril,1 - 5,Benfica
+216,14-11-2022,CD Santa Clara,3 - 1,Estoril
+217,07-01-2023,Arouca,2 - 0,Estoril
+218,16-01-2023,Estoril,2 - 0,Casa Pia
+219,22-01-2023,Maritimo,1 - 0,Estoril
+220,29-01-2023,FC Famalicão,1 - 0,Estoril
+221,04-02-2023,Estoril,0 - 1,Guimaraes
+222,09-02-2023,Estoril,2 - 1,Boavista
+223,13-02-2023,Rio Ave,2 - 0,Estoril
+224,18-02-2023,Estoril,1 - 3,Pacos Ferreira
+225,27-02-2023,Sp Lisbon,2 - 0,Estoril
+226,04-03-2023,Estoril,0 - 3,Vizela
+227,10-03-2023,Porto,3 - 2,Estoril
+228,18-03-2023,Estoril,0 - 2,Chaves
+229,31-03-2023,Estoril,1 - 0,Gil Vicente
+230,08-04-2023,Sp Braga,4 - 1,Estoril
+231,15-04-2023,Estoril,0 - 1,Portimonense SC
+232,23-04-2023,Benfica,1 - 0,Estoril
+233,30-04-2023,Estoril,3 - 0,CD Santa Clara
+234,06-05-2023,Boavista,1 - 0,Estoril
+235,15-05-2023,Estoril,2 - 0,Arouca
+236,21-05-2023,Casa Pia,2 - 2,Estoril
+237,27-05-2023,Estoril,3 - 1,Maritimo
+238,03-06-2023,Estrela,2 - 1,Maritimo
+239,06-08-2022,Estoril,2 - 0,FC Famalicão
+240,12-08-2022,FC Famalicão,0 - 3,Sp Braga
+241,22-08-2022,Gil Vicente,0 - 0,FC Famalicão
+242,28-08-2022,FC Famalicão,1 - 0,CD Santa Clara
+243,04-09-2022,Portimonense SC,1 - 0,FC Famalicão
+244,10-09-2022,FC Famalicão,0 - 1,Benfica
+245,18-09-2022,Casa Pia,1 - 0,FC Famalicão
+246,02-10-2022,FC Famalicão,4 - 0,Boavista
+247,10-10-2022,Arouca,4 - 1,FC Famalicão
+248,22-10-2022,FC Famalicão,2 - 1,Pacos Ferreira
+249,31-10-2022,Guimaraes,3 - 2,FC Famalicão
+250,06-11-2022,Maritimo,0 - 0,FC Famalicão
+251,13-11-2022,FC Famalicão,1 - 2,Sp Lisbon
+252,30-12-2022,Chaves,0 - 2,FC Famalicão
+253,06-01-2023,FC Famalicão,2 - 1,Vizela
+254,15-01-2023,Porto,4 - 1,FC Famalicão
+255,22-01-2023,FC Famalicão,0 - 0,Rio Ave
+256,29-01-2023,FC Famalicão,1 - 0,Estoril
+257,05-02-2023,Sp Braga,4 - 1,FC Famalicão
+258,12-02-2023,FC Famalicão,0 - 1,Gil Vicente
+259,19-02-2023,CD Santa Clara,1 - 3,FC Famalicão
+260,24-02-2023,FC Famalicão,1 - 0,Portimonense SC
+261,03-03-2023,Benfica,2 - 0,FC Famalicão
+262,13-03-2023,FC Famalicão,1 - 0,Casa Pia
+263,19-03-2023,Boavista,1 - 2,FC Famalicão
+264,03-04-2023,FC Famalicão,0 - 1,Arouca
+265,08-04-2023,Pacos Ferreira,1 - 3,FC Famalicão
+266,14-04-2023,FC Famalicão,2 - 1,Guimaraes
+267,22-04-2023,FC Famalicão,3 - 2,Maritimo
+268,30-04-2023,Sp Lisbon,2 - 1,FC Famalicão
+269,08-05-2023,FC Famalicão,1 - 2,Chaves
+270,13-05-2023,Vizela,0 - 0,FC Famalicão
+271,20-05-2023,FC Famalicão,2 - 4,Porto
+272,26-05-2023,Rio Ave,2 - 2,FC Famalicão
+273,08-08-2022,Gil Vicente,1 - 0,Pacos Ferreira
+274,15-08-2022,Arouca,1 - 0,Gil Vicente
+275,22-08-2022,Gil Vicente,0 - 0,FC Famalicão
+276,29-08-2022,Vizela,2 - 2,Gil Vicente
+277,03-09-2022,Gil Vicente,0 - 2,Porto
+278,11-09-2022,Maritimo,1 - 2,Gil Vicente
+279,17-09-2022,Gil Vicente,2 - 2,Rio Ave
+280,30-09-2022,Sp Lisbon,3 - 1,Gil Vicente
+281,07-10-2022,Gil Vicente,0 - 1,Estoril
+282,23-10-2022,Chaves,3 - 1,Gil Vicente
+283,30-10-2022,Gil Vicente,0 - 1,Sp Braga
+284,04-11-2022,Gil Vicente,1 - 2,Portimonense SC
+285,13-11-2022,Benfica,3 - 1,Gil Vicente
+286,29-12-2022,Gil Vicente,1 - 0,CD Santa Clara
+287,08-01-2023,Boavista,1 - 0,Gil Vicente
+288,16-01-2023,Gil Vicente,2 - 1,Guimaraes
+289,22-01-2023,Casa Pia,1 - 3,Gil Vicente
+290,31-01-2023,Pacos Ferreira,2 - 1,Gil Vicente
+291,05-02-2023,Gil Vicente,1 - 1,Arouca
+292,12-02-2023,FC Famalicão,0 - 1,Gil Vicente
+293,17-02-2023,Gil Vicente,1 - 1,Vizela
+294,26-02-2023,Porto,1 - 2,Gil Vicente
+295,05-03-2023,Gil Vicente,2 - 0,Maritimo
+296,12-03-2023,Rio Ave,2 - 1,Gil Vicente
+297,31-03-2023,Estoril,1 - 0,Gil Vicente
+298,05-04-2023,Gil Vicente,0 - 0,Sp Lisbon
+299,10-04-2023,Gil Vicente,0 - 0,Chaves
+300,16-04-2023,Sp Braga,1 - 0,Gil Vicente
+301,23-04-2023,Portimonense SC,1 - 0,Gil Vicente
+302,29-04-2023,Gil Vicente,0 - 2,Benfica
+303,06-05-2023,CD Santa Clara,3 - 2,Gil Vicente
+304,12-05-2023,Gil Vicente,3 - 1,Boavista
+305,21-05-2023,Guimaraes,1 - 0,Gil Vicente
+306,27-05-2023,Gil Vicente,1 - 0,Casa Pia
+307,07-08-2022,Chaves,0 - 1,Guimaraes
+308,14-08-2022,Guimaraes,1 - 0,Estoril
+309,21-08-2022,Portimonense SC,2 - 1,Guimaraes
+310,29-08-2022,Guimaraes,0 - 1,Casa Pia
+311,03-09-2022,Sp Braga,1 - 0,Guimaraes
+312,09-09-2022,Guimaraes,1 - 0,CD Santa Clara
+313,18-09-2022,Arouca,2 - 2,Guimaraes
+314,01-10-2022,Guimaraes,0 - 0,Benfica
+315,08-10-2022,Pacos Ferreira,0 - 1,Guimaraes
+316,23-10-2022,Guimaraes,3 - 2,Boavista
+317,31-10-2022,Guimaraes,3 - 2,FC Famalicão
+318,05-11-2022,Sp Lisbon,3 - 0,Guimaraes
+319,13-11-2022,Guimaraes,1 - 0,Maritimo
+320,30-12-2022,Vizela,3 - 0,Guimaraes
+321,07-01-2023,Guimaraes,0 - 0,Rio Ave
+322,16-01-2023,Gil Vicente,2 - 1,Guimaraes
+323,21-01-2023,Guimaraes,0 - 1,Porto
+324,30-01-2023,Guimaraes,2 - 1,Chaves
+325,04-02-2023,Estoril,0 - 1,Guimaraes
+326,11-02-2023,Guimaraes,1 - 0,Portimonense SC
+327,19-02-2023,Casa Pia,0 - 0,Guimaraes
+328,27-02-2023,Guimaraes,2 - 1,Sp Braga
+329,05-03-2023,CD Santa Clara,1 - 3,Guimaraes
+330,11-03-2023,Guimaraes,0 - 2,Arouca
+331,18-03-2023,Benfica,5 - 1,Guimaraes
+332,01-04-2023,Guimaraes,0 - 0,Pacos Ferreira
+333,07-04-2023,Boavista,2 - 1,Guimaraes
+334,14-04-2023,FC Famalicão,2 - 1,Guimaraes
+335,24-04-2023,Guimaraes,0 - 2,Sp Lisbon
+336,29-04-2023,Maritimo,1 - 2,Guimaraes
+337,07-05-2023,Guimaraes,3 - 0,Vizela
+338,14-05-2023,Rio Ave,0 - 1,Guimaraes
+339,21-05-2023,Guimaraes,1 - 0,Gil Vicente
+340,27-05-2023,Porto,3 - 0,Guimaraes
+341,06-08-2022,Porto,5 - 1,Maritimo
+342,15-08-2022,Maritimo,1 - 2,Chaves
+343,21-08-2022,Sp Braga,5 - 0,Maritimo
+344,27-08-2022,Maritimo,0 - 1,Portimonense SC
+345,04-09-2022,CD Santa Clara,2 - 1,Maritimo
+346,11-09-2022,Maritimo,1 - 2,Gil Vicente
+347,18-09-2022,Benfica,5 - 0,Maritimo
+348,03-10-2022,Maritimo,1 - 2,Casa Pia
+349,09-10-2022,Boavista,1 - 1,Maritimo
+350,23-10-2022,Maritimo,1 - 1,Arouca
+351,28-10-2022,Pacos Ferreira,0 - 1,Maritimo
+352,06-11-2022,Maritimo,0 - 0,FC Famalicão
+353,13-11-2022,Guimaraes,1 - 0,Maritimo
+354,23-12-2022,Rio Ave,1 - 1,Maritimo
+355,08-01-2023,Maritimo,1 - 0,Sp Lisbon
+356,14-01-2023,Vizela,3 - 0,Maritimo
+357,22-01-2023,Maritimo,1 - 0,Estoril
+358,01-02-2023,Maritimo,0 - 2,Porto
+359,05-02-2023,Chaves,2 - 1,Maritimo
+360,12-02-2023,Maritimo,1 - 2,Sp Braga
+361,18-02-2023,Portimonense SC,2 - 1,Maritimo
+362,25-02-2023,Maritimo,3 - 1,CD Santa Clara
+363,05-03-2023,Gil Vicente,2 - 0,Maritimo
+364,12-03-2023,Maritimo,0 - 3,Benfica
+365,19-03-2023,Casa Pia,2 - 0,Maritimo
+366,02-04-2023,Maritimo,4 - 2,Boavista
+367,08-04-2023,Arouca,1 - 0,Maritimo
+368,15-04-2023,Maritimo,3 - 1,Pacos Ferreira
+369,22-04-2023,FC Famalicão,3 - 2,Maritimo
+370,29-04-2023,Maritimo,1 - 2,Guimaraes
+371,07-05-2023,Maritimo,2 - 2,Rio Ave
+372,13-05-2023,Sp Lisbon,2 - 1,Maritimo
+373,19-05-2023,Maritimo,1 - 0,Vizela
+374,27-05-2023,Estoril,3 - 1,Maritimo
+375,03-06-2023,Estrela,2 - 1,Maritimo
+376,08-08-2022,Gil Vicente,1 - 0,Pacos Ferreira
+377,15-08-2022,Pacos Ferreira,0 - 3,Portimonense SC
+378,26-08-2022,Pacos Ferreira,0 - 3,Estoril
+379,30-08-2022,Benfica,3 - 2,Pacos Ferreira
+380,05-09-2022,Boavista,1 - 0,Pacos Ferreira
+381,11-09-2022,Pacos Ferreira,2 - 3,Casa Pia
+382,17-09-2022,CD Santa Clara,1 - 1,Pacos Ferreira
+383,02-10-2022,Pacos Ferreira,1 - 1,Arouca
+384,08-10-2022,Pacos Ferreira,0 - 1,Guimaraes
+385,22-10-2022,FC Famalicão,2 - 1,Pacos Ferreira
+386,28-10-2022,Pacos Ferreira,0 - 1,Maritimo
+387,05-11-2022,Porto,4 - 0,Pacos Ferreira
+388,13-11-2022,Pacos Ferreira,0 - 2,Vizela
+389,29-12-2022,Sp Lisbon,3 - 0,Pacos Ferreira
+390,08-01-2023,Pacos Ferreira,1 - 1,Chaves
+391,14-01-2023,Rio Ave,0 - 1,Pacos Ferreira
+392,21-01-2023,Pacos Ferreira,1 - 2,Sp Braga
+393,26-01-2023,Pacos Ferreira,0 - 2,Benfica
+394,31-01-2023,Pacos Ferreira,2 - 1,Gil Vicente
+395,06-02-2023,Portimonense SC,1 - 0,Pacos Ferreira
+396,18-02-2023,Estoril,1 - 3,Pacos Ferreira
+397,26-02-2023,Pacos Ferreira,1 - 3,Boavista
+398,06-03-2023,Casa Pia,2 - 1,Pacos Ferreira
+399,11-03-2023,Pacos Ferreira,1 - 0,CD Santa Clara
+400,18-03-2023,Arouca,1 - 1,Pacos Ferreira
+401,01-04-2023,Guimaraes,0 - 0,Pacos Ferreira
+402,08-04-2023,Pacos Ferreira,1 - 3,FC Famalicão
+403,15-04-2023,Maritimo,3 - 1,Pacos Ferreira
+404,22-04-2023,Pacos Ferreira,0 - 2,Porto
+405,29-04-2023,Vizela,1 - 2,Pacos Ferreira
+406,07-05-2023,Pacos Ferreira,0 - 4,Sp Lisbon
+407,13-05-2023,Chaves,2 - 0,Pacos Ferreira
+408,21-05-2023,Pacos Ferreira,3 - 1,Rio Ave
+409,27-05-2023,Sp Braga,3 - 0,Pacos Ferreira
+410,07-08-2022,Portimonense SC,0 - 1,Boavista
+411,15-08-2022,Pacos Ferreira,0 - 3,Portimonense SC
+412,21-08-2022,Portimonense SC,2 - 1,Guimaraes
+413,27-08-2022,Maritimo,0 - 1,Portimonense SC
+414,04-09-2022,Portimonense SC,1 - 0,FC Famalicão
+415,10-09-2022,Sp Lisbon,4 - 0,Portimonense SC
+416,16-09-2022,Portimonense SC,1 - 0,Chaves
+417,01-10-2022,Vizela,1 - 0,Portimonense SC
+418,08-10-2022,Portimonense SC,0 - 2,Porto
+419,24-10-2022,Rio Ave,1 - 0,Portimonense SC
+420,30-10-2022,Portimonense SC,1 - 1,Estoril
+421,04-11-2022,Gil Vicente,1 - 2,Portimonense SC
+422,13-11-2022,Portimonense SC,1 - 2,Sp Braga
+423,28-12-2022,Portimonense SC,1 - 2,Casa Pia
+424,06-01-2023,Benfica,1 - 0,Portimonense SC
+425,13-01-2023,Portimonense SC,0 - 0,CD Santa Clara
+426,20-01-2023,Arouca,4 - 0,Portimonense SC
+427,29-01-2023,Boavista,4 - 2,Portimonense SC
+428,06-02-2023,Portimonense SC,1 - 0,Pacos Ferreira
+429,11-02-2023,Guimaraes,1 - 0,Portimonense SC
+430,18-02-2023,Portimonense SC,2 - 1,Maritimo
+431,24-02-2023,FC Famalicão,1 - 0,Portimonense SC
+432,04-03-2023,Portimonense SC,0 - 1,Sp Lisbon
+433,11-03-2023,Chaves,2 - 0,Portimonense SC
+434,18-03-2023,Portimonense SC,0 - 1,Vizela
+435,02-04-2023,Porto,1 - 0,Portimonense SC
+436,08-04-2023,Portimonense SC,2 - 2,Rio Ave
+437,15-04-2023,Estoril,0 - 1,Portimonense SC
+438,23-04-2023,Portimonense SC,1 - 0,Gil Vicente
+439,29-04-2023,Sp Braga,4 - 1,Portimonense SC
+440,05-05-2023,Casa Pia,1 - 1,Portimonense SC
+441,13-05-2023,Portimonense SC,1 - 5,Benfica
+442,20-05-2023,CD Santa Clara,1 - 0,Portimonense SC
+443,27-05-2023,Portimonense SC,0 - 2,Arouca
+444,06-08-2022,Porto,5 - 1,Maritimo
+445,14-08-2022,Vizela,0 - 1,Porto
+446,20-08-2022,Porto,3 - 0,Sp Lisbon
+447,28-08-2022,Rio Ave,3 - 1,Porto
+448,03-09-2022,Gil Vicente,0 - 2,Porto
+449,10-09-2022,Porto,3 - 0,Chaves
+450,17-09-2022,Estoril,1 - 1,Porto
+451,30-09-2022,Porto,4 - 1,Sp Braga
+452,08-10-2022,Portimonense SC,0 - 2,Porto
+453,21-10-2022,Porto,0 - 1,Benfica
+454,29-10-2022,CD Santa Clara,1 - 1,Porto
+455,05-11-2022,Porto,4 - 0,Pacos Ferreira
+456,12-11-2022,Boavista,1 - 4,Porto
+457,28-12-2022,Porto,5 - 1,Arouca
+458,07-01-2023,Casa Pia,0 - 0,Porto
+459,15-01-2023,Porto,4 - 1,FC Famalicão
+460,21-01-2023,Guimaraes,0 - 1,Porto
+461,01-02-2023,Maritimo,0 - 2,Porto
+462,05-02-2023,Porto,2 - 0,Vizela
+463,12-02-2023,Sp Lisbon,1 - 2,Porto
+464,18-02-2023,Porto,1 - 0,Rio Ave
+465,26-02-2023,Porto,1 - 2,Gil Vicente
+466,04-03-2023,Chaves,1 - 3,Porto
+467,10-03-2023,Porto,3 - 2,Estoril
+468,19-03-2023,Sp Braga,0 - 0,Porto
+469,02-04-2023,Porto,1 - 0,Portimonense SC
+470,07-04-2023,Benfica,1 - 2,Porto
+471,15-04-2023,Porto,2 - 1,CD Santa Clara
+472,22-04-2023,Pacos Ferreira,0 - 2,Porto
+473,30-04-2023,Porto,1 - 0,Boavista
+474,08-05-2023,Arouca,0 - 1,Porto
+475,14-05-2023,Porto,2 - 1,Casa Pia
+476,20-05-2023,FC Famalicão,2 - 4,Porto
+477,27-05-2023,Porto,3 - 0,Guimaraes
+478,06-08-2022,Rio Ave,0 - 1,Vizela
+479,13-08-2022,Sp Lisbon,3 - 0,Rio Ave
+480,19-08-2022,Estoril,2 - 2,Rio Ave
+481,28-08-2022,Rio Ave,3 - 1,Porto
+482,05-09-2022,Chaves,1 - 1,Rio Ave
+483,11-09-2022,Rio Ave,2 - 3,Sp Braga
+484,17-09-2022,Gil Vicente,2 - 2,Rio Ave
+485,02-10-2022,Rio Ave,1 - 0,CD Santa Clara
+486,08-10-2022,Benfica,4 - 2,Rio Ave
+487,24-10-2022,Rio Ave,1 - 0,Portimonense SC
+488,30-10-2022,Casa Pia,1 - 0,Rio Ave
+489,06-11-2022,Rio Ave,1 - 0,Boavista
+490,12-11-2022,Arouca,0 - 1,Rio Ave
+491,23-12-2022,Rio Ave,1 - 1,Maritimo
+492,07-01-2023,Guimaraes,0 - 0,Rio Ave
+493,14-01-2023,Rio Ave,0 - 1,Pacos Ferreira
+494,22-01-2023,FC Famalicão,0 - 0,Rio Ave
+495,29-01-2023,Vizela,3 - 1,Rio Ave
+496,06-02-2023,Rio Ave,0 - 1,Sp Lisbon
+497,13-02-2023,Rio Ave,2 - 0,Estoril
+498,18-02-2023,Porto,1 - 0,Rio Ave
+499,26-02-2023,Rio Ave,1 - 0,Chaves
+500,05-03-2023,Sp Braga,2 - 0,Rio Ave
+501,12-03-2023,Rio Ave,2 - 1,Gil Vicente
+502,17-03-2023,CD Santa Clara,0 - 2,Rio Ave
+503,02-04-2023,Rio Ave,0 - 1,Benfica
+504,08-04-2023,Portimonense SC,2 - 2,Rio Ave
+505,16-04-2023,Rio Ave,1 - 1,Casa Pia
+506,22-04-2023,Boavista,3 - 2,Rio Ave
+507,28-04-2023,Rio Ave,1 - 0,Arouca
+508,07-05-2023,Maritimo,2 - 2,Rio Ave
+509,14-05-2023,Rio Ave,0 - 1,Guimaraes
+510,21-05-2023,Pacos Ferreira,3 - 1,Rio Ave
+511,26-05-2023,Rio Ave,2 - 2,FC Famalicão
+512,07-08-2022,Sp Braga,3 - 3,Sp Lisbon
+513,12-08-2022,FC Famalicão,0 - 3,Sp Braga
+514,21-08-2022,Sp Braga,5 - 0,Maritimo
+515,28-08-2022,Arouca,0 - 6,Sp Braga
+516,03-09-2022,Sp Braga,1 - 0,Guimaraes
+517,11-09-2022,Rio Ave,2 - 3,Sp Braga
+518,18-09-2022,Sp Braga,2 - 0,Vizela
+519,30-09-2022,Porto,4 - 1,Sp Braga
+520,09-10-2022,Sp Braga,0 - 1,Chaves
+521,22-10-2022,Estoril,0 - 2,Sp Braga
+522,30-10-2022,Gil Vicente,0 - 1,Sp Braga
+523,06-11-2022,Sp Braga,0 - 1,Casa Pia
+524,13-11-2022,Portimonense SC,1 - 2,Sp Braga
+525,30-12-2022,Sp Braga,3 - 0,Benfica
+526,05-01-2023,CD Santa Clara,0 - 4,Sp Braga
+527,14-01-2023,Sp Braga,1 - 0,Boavista
+528,21-01-2023,Pacos Ferreira,1 - 2,Sp Braga
+529,01-02-2023,Sp Lisbon,5 - 0,Sp Braga
+530,05-02-2023,Sp Braga,4 - 1,FC Famalicão
+531,12-02-2023,Maritimo,1 - 2,Sp Braga
+532,19-02-2023,Sp Braga,2 - 0,Arouca
+533,27-02-2023,Guimaraes,2 - 1,Sp Braga
+534,05-03-2023,Sp Braga,2 - 0,Rio Ave
+535,11-03-2023,Vizela,0 - 4,Sp Braga
+536,19-03-2023,Sp Braga,0 - 0,Porto
+537,02-04-2023,Chaves,1 - 2,Sp Braga
+538,08-04-2023,Sp Braga,4 - 1,Estoril
+539,16-04-2023,Sp Braga,1 - 0,Gil Vicente
+540,21-04-2023,Casa Pia,0 - 1,Sp Braga
+541,29-04-2023,Sp Braga,4 - 1,Portimonense SC
+542,06-05-2023,Benfica,1 - 0,Sp Braga
+543,14-05-2023,Sp Braga,5 - 3,CD Santa Clara
+544,20-05-2023,Boavista,1 - 1,Sp Braga
+545,27-05-2023,Sp Braga,3 - 0,Pacos Ferreira
+546,07-08-2022,Sp Braga,3 - 3,Sp Lisbon
+547,13-08-2022,Sp Lisbon,3 - 0,Rio Ave
+548,20-08-2022,Porto,3 - 0,Sp Lisbon
+549,27-08-2022,Sp Lisbon,0 - 2,Chaves
+550,02-09-2022,Estoril,0 - 2,Sp Lisbon
+551,10-09-2022,Sp Lisbon,4 - 0,Portimonense SC
+552,17-09-2022,Boavista,2 - 1,Sp Lisbon
+553,30-09-2022,Sp Lisbon,3 - 1,Gil Vicente
+554,08-10-2022,CD Santa Clara,1 - 2,Sp Lisbon
+555,22-10-2022,Sp Lisbon,3 - 1,Casa Pia
+556,29-10-2022,Arouca,1 - 0,Sp Lisbon
+557,05-11-2022,Sp Lisbon,3 - 0,Guimaraes
+558,13-11-2022,FC Famalicão,1 - 2,Sp Lisbon
+559,29-12-2022,Sp Lisbon,3 - 0,Pacos Ferreira
+560,08-01-2023,Maritimo,1 - 0,Sp Lisbon
+561,15-01-2023,Benfica,2 - 2,Sp Lisbon
+562,20-01-2023,Sp Lisbon,2 - 1,Vizela
+563,01-02-2023,Sp Lisbon,5 - 0,Sp Braga
+564,06-02-2023,Rio Ave,0 - 1,Sp Lisbon
+565,12-02-2023,Sp Lisbon,1 - 2,Porto
+566,20-02-2023,Chaves,2 - 3,Sp Lisbon
+567,27-02-2023,Sp Lisbon,2 - 0,Estoril
+568,04-03-2023,Portimonense SC,0 - 1,Sp Lisbon
+569,12-03-2023,Sp Lisbon,3 - 0,Boavista
+570,01-04-2023,Sp Lisbon,3 - 0,CD Santa Clara
+571,05-04-2023,Gil Vicente,0 - 0,Sp Lisbon
+572,09-04-2023,Casa Pia,3 - 4,Sp Lisbon
+573,16-04-2023,Sp Lisbon,1 - 1,Arouca
+574,24-04-2023,Guimaraes,0 - 2,Sp Lisbon
+575,30-04-2023,Sp Lisbon,2 - 1,FC Famalicão
+576,07-05-2023,Pacos Ferreira,0 - 4,Sp Lisbon
+577,13-05-2023,Sp Lisbon,2 - 1,Maritimo
+578,21-05-2023,Sp Lisbon,2 - 2,Benfica
+579,26-05-2023,Vizela,1 - 2,Sp Lisbon
+580,06-08-2022,Rio Ave,0 - 1,Vizela
+581,14-08-2022,Vizela,0 - 1,Porto
+582,20-08-2022,Chaves,1 - 1,Vizela
+583,29-08-2022,Vizela,2 - 2,Gil Vicente
+584,02-09-2022,Benfica,2 - 1,Vizela
+585,12-09-2022,Vizela,0 - 1,Estoril
+586,18-09-2022,Sp Braga,2 - 0,Vizela
+587,01-10-2022,Vizela,1 - 0,Portimonense SC
+588,09-10-2022,Casa Pia,0 - 1,Vizela
+589,23-10-2022,Vizela,0 - 1,CD Santa Clara
+590,30-10-2022,Boavista,2 - 2,Vizela
+591,05-11-2022,Vizela,0 - 1,Arouca
+592,13-11-2022,Pacos Ferreira,0 - 2,Vizela
+593,30-12-2022,Vizela,3 - 0,Guimaraes
+594,06-01-2023,FC Famalicão,2 - 1,Vizela
+595,14-01-2023,Vizela,3 - 0,Maritimo
+596,20-01-2023,Sp Lisbon,2 - 1,Vizela
+597,29-01-2023,Vizela,3 - 1,Rio Ave
+598,05-02-2023,Porto,2 - 0,Vizela
+599,10-02-2023,Vizela,0 - 0,Chaves
+600,17-02-2023,Gil Vicente,1 - 1,Vizela
+601,25-02-2023,Vizela,0 - 2,Benfica
+602,04-03-2023,Estoril,0 - 3,Vizela
+603,11-03-2023,Vizela,0 - 4,Sp Braga
+604,18-03-2023,Portimonense SC,0 - 1,Vizela
+605,01-04-2023,Vizela,3 - 1,Casa Pia
+606,07-04-2023,CD Santa Clara,0 - 1,Vizela
+607,17-04-2023,Vizela,1 - 1,Boavista
+608,23-04-2023,Arouca,1 - 0,Vizela
+609,29-04-2023,Vizela,1 - 2,Pacos Ferreira
+610,07-05-2023,Guimaraes,3 - 0,Vizela
+611,13-05-2023,Vizela,0 - 0,FC Famalicão
+612,19-05-2023,Maritimo,1 - 0,Vizela
+613,26-05-2023,Vizela,1 - 2,Sp Lisbon

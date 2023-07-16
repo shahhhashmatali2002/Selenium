@@ -1,0 +1,467 @@
+,date,home_team,score,away_team
+0,31-07-2022,Celtic,2 - 0,Aberdeen
+1,06-08-2022,Aberdeen,4 - 1,St Mirren
+2,13-08-2022,Aberdeen,2 - 3,Motherwell
+3,20-08-2022,St Johnstone,0 - 1,Aberdeen
+4,27-08-2022,Aberdeen,5 - 0,Livingston
+5,03-09-2022,Ross County,1 - 1,Aberdeen
+6,17-09-2022,Hibernian,3 - 1,Aberdeen
+7,01-10-2022,Aberdeen,4 - 1,Kilmarnock
+8,08-10-2022,Dundee United,4 - 0,Aberdeen
+9,16-10-2022,Aberdeen,2 - 0,Hearts
+10,22-10-2022,Motherwell,1 - 2,Aberdeen
+11,29-10-2022,Rangers,4 - 1,Aberdeen
+12,04-11-2022,Aberdeen,4 - 1,Hibernian
+13,08-11-2022,Livingston,2 - 1,Aberdeen
+14,12-11-2022,Aberdeen,1 - 0,Dundee United
+15,17-12-2022,Aberdeen,0 - 1,Celtic
+16,20-12-2022,Aberdeen,2 - 3,Rangers
+17,24-12-2022,St Mirren,3 - 1,Aberdeen
+18,28-12-2022,Kilmarnock,2 - 1,Aberdeen
+19,02-01-2023,Aberdeen,0 - 0,Ross County
+20,07-01-2023,Aberdeen,2 - 0,St Johnstone
+21,18-01-2023,Hearts,5 - 0,Aberdeen
+22,28-01-2023,Hibernian,6 - 0,Aberdeen
+23,01-02-2023,Aberdeen,1 - 3,St Mirren
+24,04-02-2023,Aberdeen,3 - 1,Motherwell
+25,18-02-2023,Celtic,4 - 0,Aberdeen
+26,25-02-2023,Aberdeen,1 - 0,Livingston
+27,04-03-2023,Dundee United,1 - 3,Aberdeen
+28,18-03-2023,Aberdeen,3 - 0,Hearts
+29,01-04-2023,St Johnstone,0 - 1,Aberdeen
+30,08-04-2023,Aberdeen,2 - 0,Kilmarnock
+31,14-04-2023,Ross County,0 - 1,Aberdeen
+32,23-04-2023,Aberdeen,2 - 0,Rangers
+33,07-05-2023,Rangers,1 - 0,Aberdeen
+34,13-05-2023,Aberdeen,0 - 0,Hibernian
+35,20-05-2023,Hearts,2 - 1,Aberdeen
+36,24-05-2023,Aberdeen,3 - 0,St Mirren
+37,27-05-2023,Celtic,5 - 0,Aberdeen
+38,19-05-2023,Partick,3 - 0,Ayr
+39,26-05-2023,Ayr,0 - 5,Partick
+40,31-07-2022,Celtic,2 - 0,Aberdeen
+41,06-08-2022,Ross County,1 - 3,Celtic
+42,14-08-2022,Kilmarnock,0 - 5,Celtic
+43,21-08-2022,Celtic,2 - 0,Hearts
+44,28-08-2022,Dundee United,0 - 9,Celtic
+45,03-09-2022,Celtic,4 - 0,Rangers
+46,18-09-2022,St Mirren,2 - 0,Celtic
+47,01-10-2022,Celtic,2 - 1,Motherwell
+48,08-10-2022,St Johnstone,1 - 2,Celtic
+49,15-10-2022,Celtic,6 - 1,Hibernian
+50,22-10-2022,Hearts,3 - 4,Celtic
+51,30-10-2022,Livingston,0 - 3,Celtic
+52,05-11-2022,Celtic,4 - 2,Dundee United
+53,09-11-2022,Motherwell,1 - 2,Celtic
+54,12-11-2022,Celtic,2 - 1,Ross County
+55,17-12-2022,Aberdeen,0 - 1,Celtic
+56,21-12-2022,Celtic,2 - 1,Livingston
+57,24-12-2022,Celtic,4 - 1,St Johnstone
+58,28-12-2022,Hibernian,0 - 4,Celtic
+59,02-01-2023,Rangers,2 - 2,Celtic
+60,07-01-2023,Celtic,2 - 0,Kilmarnock
+61,18-01-2023,Celtic,4 - 0,St Mirren
+62,29-01-2023,Dundee United,0 - 2,Celtic
+63,01-02-2023,Celtic,3 - 0,Livingston
+64,05-02-2023,St Johnstone,1 - 4,Celtic
+65,18-02-2023,Celtic,4 - 0,Aberdeen
+66,05-03-2023,St Mirren,1 - 5,Celtic
+67,08-03-2023,Celtic,3 - 1,Hearts
+68,18-03-2023,Celtic,3 - 1,Hibernian
+69,02-04-2023,Ross County,0 - 2,Celtic
+70,08-04-2023,Celtic,3 - 2,Rangers
+71,16-04-2023,Kilmarnock,1 - 4,Celtic
+72,22-04-2023,Celtic,1 - 1,Motherwell
+73,07-05-2023,Hearts,0 - 2,Celtic
+74,13-05-2023,Rangers,3 - 0,Celtic
+75,20-05-2023,Celtic,2 - 2,St Mirren
+76,24-05-2023,Hibernian,4 - 2,Celtic
+77,27-05-2023,Celtic,5 - 0,Aberdeen
+78,30-07-2022,Kilmarnock,1 - 1,Dundee United
+79,07-08-2022,Dundee United,0 - 1,Livingston
+80,14-08-2022,Hearts,4 - 1,Dundee United
+81,20-08-2022,Dundee United,0 - 3,St Mirren
+82,28-08-2022,Dundee United,0 - 9,Celtic
+83,03-09-2022,Motherwell,0 - 0,Dundee United
+84,17-09-2022,Rangers,2 - 1,Dundee United
+85,01-10-2022,Dundee United,1 - 2,St Johnstone
+86,08-10-2022,Dundee United,4 - 0,Aberdeen
+87,11-10-2022,Dundee United,1 - 0,Hibernian
+88,15-10-2022,Ross County,1 - 1,Dundee United
+89,22-10-2022,St Mirren,2 - 1,Dundee United
+90,29-10-2022,Dundee United,0 - 1,Motherwell
+91,05-11-2022,Celtic,4 - 2,Dundee United
+92,09-11-2022,Dundee United,4 - 0,Kilmarnock
+93,12-11-2022,Aberdeen,1 - 0,Dundee United
+94,24-12-2022,Dundee United,2 - 2,Hearts
+95,28-12-2022,Dundee United,3 - 0,Ross County
+96,02-01-2023,St Johnstone,0 - 1,Dundee United
+97,08-01-2023,Dundee United,0 - 2,Rangers
+98,14-01-2023,Hibernian,2 - 2,Dundee United
+99,29-01-2023,Dundee United,0 - 2,Celtic
+100,01-02-2023,Kilmarnock,1 - 0,Dundee United
+101,04-02-2023,Hearts,3 - 1,Dundee United
+102,18-02-2023,Dundee United,1 - 2,St Johnstone
+103,25-02-2023,Ross County,4 - 0,Dundee United
+104,04-03-2023,Dundee United,1 - 3,Aberdeen
+105,08-03-2023,Livingston,1 - 1,Dundee United
+106,18-03-2023,Dundee United,1 - 1,St Mirren
+107,01-04-2023,Rangers,2 - 0,Dundee United
+108,09-04-2023,Dundee United,2 - 1,Hibernian
+109,15-04-2023,Motherwell,1 - 2,Dundee United
+110,22-04-2023,Dundee United,2 - 0,Livingston
+111,06-05-2023,St Johnstone,1 - 0,Dundee United
+112,13-05-2023,Dundee United,1 - 3,Ross County
+113,20-05-2023,Livingston,2 - 1,Dundee United
+114,24-05-2023,Dundee United,0 - 3,Kilmarnock
+115,28-05-2023,Motherwell,3 - 2,Dundee United
+116,30-07-2022,Hearts,2 - 1,Ross County
+117,07-08-2022,Hibernian,1 - 1,Hearts
+118,14-08-2022,Hearts,4 - 1,Dundee United
+119,21-08-2022,Celtic,2 - 0,Hearts
+120,28-08-2022,Hearts,3 - 2,St Johnstone
+121,03-09-2022,Livingston,1 - 0,Hearts
+122,18-09-2022,Motherwell,0 - 3,Hearts
+123,01-10-2022,Hearts,0 - 4,Rangers
+124,09-10-2022,Kilmarnock,2 - 2,Hearts
+125,16-10-2022,Aberdeen,2 - 0,Hearts
+126,22-10-2022,Hearts,3 - 4,Celtic
+127,30-10-2022,Ross County,1 - 2,Hearts
+128,06-11-2022,Hearts,3 - 2,Motherwell
+129,09-11-2022,Rangers,1 - 0,Hearts
+130,12-11-2022,Hearts,1 - 1,Livingston
+131,17-12-2022,Hearts,3 - 1,Kilmarnock
+132,24-12-2022,Dundee United,2 - 2,Hearts
+133,28-12-2022,St Johnstone,2 - 3,Hearts
+134,02-01-2023,Hearts,3 - 0,Hibernian
+135,07-01-2023,St Mirren,1 - 1,Hearts
+136,13-01-2023,Hearts,1 - 0,St Mirren
+137,18-01-2023,Hearts,5 - 0,Aberdeen
+138,29-01-2023,Livingston,0 - 0,Hearts
+139,01-02-2023,Hearts,0 - 3,Rangers
+140,04-02-2023,Hearts,3 - 1,Dundee United
+141,19-02-2023,Motherwell,2 - 0,Hearts
+142,04-03-2023,Hearts,3 - 0,St Johnstone
+143,08-03-2023,Celtic,3 - 1,Hearts
+144,18-03-2023,Aberdeen,3 - 0,Hearts
+145,01-04-2023,Kilmarnock,2 - 1,Hearts
+146,08-04-2023,Hearts,0 - 2,St Mirren
+147,15-04-2023,Hibernian,1 - 0,Hearts
+148,22-04-2023,Hearts,6 - 1,Ross County
+149,07-05-2023,Hearts,0 - 2,Celtic
+150,13-05-2023,St Mirren,2 - 2,Hearts
+151,20-05-2023,Hearts,2 - 1,Aberdeen
+152,24-05-2023,Rangers,2 - 2,Hearts
+153,27-05-2023,Hearts,1 - 1,Hibernian
+154,30-07-2022,St Johnstone,0 - 1,Hibernian
+155,07-08-2022,Hibernian,1 - 1,Hearts
+156,13-08-2022,Livingston,2 - 1,Hibernian
+157,20-08-2022,Hibernian,2 - 2,Rangers
+158,27-08-2022,St Mirren,1 - 0,Hibernian
+159,03-09-2022,Hibernian,1 - 0,Kilmarnock
+160,17-09-2022,Hibernian,3 - 1,Aberdeen
+161,01-10-2022,Ross County,0 - 2,Hibernian
+162,08-10-2022,Hibernian,1 - 0,Motherwell
+163,11-10-2022,Dundee United,1 - 0,Hibernian
+164,15-10-2022,Celtic,6 - 1,Hibernian
+165,21-10-2022,Hibernian,1 - 2,St Johnstone
+166,29-10-2022,Hibernian,3 - 0,St Mirren
+167,04-11-2022,Aberdeen,4 - 1,Hibernian
+168,08-11-2022,Hibernian,0 - 2,Ross County
+169,12-11-2022,Kilmarnock,1 - 0,Hibernian
+170,15-12-2022,Rangers,3 - 2,Hibernian
+171,24-12-2022,Hibernian,4 - 0,Livingston
+172,28-12-2022,Hibernian,0 - 4,Celtic
+173,02-01-2023,Hearts,3 - 0,Hibernian
+174,08-01-2023,Motherwell,2 - 3,Hibernian
+175,14-01-2023,Hibernian,2 - 2,Dundee United
+176,28-01-2023,Hibernian,6 - 0,Aberdeen
+177,31-01-2023,Ross County,1 - 1,Hibernian
+178,04-02-2023,St Mirren,0 - 1,Hibernian
+179,18-02-2023,Hibernian,2 - 0,Kilmarnock
+180,04-03-2023,Livingston,1 - 4,Hibernian
+181,08-03-2023,Hibernian,1 - 4,Rangers
+182,18-03-2023,Celtic,3 - 1,Hibernian
+183,01-04-2023,Hibernian,1 - 3,Motherwell
+184,09-04-2023,Dundee United,2 - 1,Hibernian
+185,15-04-2023,Hibernian,1 - 0,Hearts
+186,22-04-2023,St Johnstone,1 - 1,Hibernian
+187,06-05-2023,Hibernian,2 - 1,St Mirren
+188,13-05-2023,Aberdeen,0 - 0,Hibernian
+189,21-05-2023,Hibernian,1 - 3,Rangers
+190,24-05-2023,Hibernian,4 - 2,Celtic
+191,27-05-2023,Hearts,1 - 1,Hibernian
+192,30-07-2022,Kilmarnock,1 - 1,Dundee United
+193,06-08-2022,Rangers,2 - 0,Kilmarnock
+194,14-08-2022,Kilmarnock,0 - 5,Celtic
+195,20-08-2022,Ross County,1 - 0,Kilmarnock
+196,27-08-2022,Kilmarnock,2 - 1,Motherwell
+197,03-09-2022,Hibernian,1 - 0,Kilmarnock
+198,17-09-2022,Livingston,1 - 0,Kilmarnock
+199,01-10-2022,Aberdeen,4 - 1,Kilmarnock
+200,05-10-2022,Kilmarnock,2 - 1,St Johnstone
+201,09-10-2022,Kilmarnock,2 - 2,Hearts
+202,15-10-2022,St Mirren,0 - 0,Kilmarnock
+203,22-10-2022,Kilmarnock,1 - 0,Ross County
+204,29-10-2022,St Johnstone,1 - 0,Kilmarnock
+205,04-11-2022,Kilmarnock,2 - 3,Livingston
+206,09-11-2022,Dundee United,4 - 0,Kilmarnock
+207,12-11-2022,Kilmarnock,1 - 0,Hibernian
+208,17-12-2022,Hearts,3 - 1,Kilmarnock
+209,23-12-2022,Motherwell,2 - 2,Kilmarnock
+210,28-12-2022,Kilmarnock,2 - 1,Aberdeen
+211,02-01-2023,Kilmarnock,0 - 0,St Mirren
+212,07-01-2023,Celtic,2 - 0,Kilmarnock
+213,18-01-2023,Kilmarnock,2 - 3,Rangers
+214,28-01-2023,Ross County,3 - 0,Kilmarnock
+215,01-02-2023,Kilmarnock,1 - 0,Dundee United
+216,04-02-2023,Livingston,3 - 1,Kilmarnock
+217,18-02-2023,Hibernian,2 - 0,Kilmarnock
+218,25-02-2023,Kilmarnock,1 - 1,Motherwell
+219,04-03-2023,Rangers,3 - 1,Kilmarnock
+220,18-03-2023,Kilmarnock,1 - 1,St Johnstone
+221,01-04-2023,Kilmarnock,2 - 1,Hearts
+222,08-04-2023,Aberdeen,2 - 0,Kilmarnock
+223,16-04-2023,Kilmarnock,1 - 4,Celtic
+224,22-04-2023,St Mirren,0 - 2,Kilmarnock
+225,06-05-2023,Motherwell,2 - 0,Kilmarnock
+226,13-05-2023,Kilmarnock,2 - 0,Livingston
+227,20-05-2023,Kilmarnock,0 - 1,St Johnstone
+228,24-05-2023,Dundee United,0 - 3,Kilmarnock
+229,28-05-2023,Kilmarnock,3 - 1,Ross County
+230,30-07-2022,Livingston,1 - 2,Rangers
+231,07-08-2022,Dundee United,0 - 1,Livingston
+232,13-08-2022,Livingston,2 - 1,Hibernian
+233,20-08-2022,Motherwell,1 - 0,Livingston
+234,27-08-2022,Aberdeen,5 - 0,Livingston
+235,03-09-2022,Livingston,1 - 0,Hearts
+236,17-09-2022,Livingston,1 - 0,Kilmarnock
+237,01-10-2022,St Mirren,2 - 1,Livingston
+238,08-10-2022,Livingston,0 - 1,Ross County
+239,15-10-2022,Livingston,1 - 0,St Johnstone
+240,22-10-2022,Rangers,1 - 1,Livingston
+241,30-10-2022,Livingston,0 - 3,Celtic
+242,04-11-2022,Kilmarnock,2 - 3,Livingston
+243,08-11-2022,Livingston,2 - 1,Aberdeen
+244,12-11-2022,Hearts,1 - 1,Livingston
+245,21-12-2022,Celtic,2 - 1,Livingston
+246,24-12-2022,Hibernian,4 - 0,Livingston
+247,28-12-2022,Livingston,1 - 1,St Mirren
+248,02-01-2023,Livingston,1 - 1,Motherwell
+249,07-01-2023,Ross County,0 - 2,Livingston
+250,14-01-2023,St Johnstone,2 - 4,Livingston
+251,29-01-2023,Livingston,0 - 0,Hearts
+252,01-02-2023,Celtic,3 - 0,Livingston
+253,04-02-2023,Livingston,3 - 1,Kilmarnock
+254,18-02-2023,Livingston,0 - 3,Rangers
+255,25-02-2023,Aberdeen,1 - 0,Livingston
+256,04-03-2023,Livingston,1 - 4,Hibernian
+257,08-03-2023,Livingston,1 - 1,Dundee United
+258,18-03-2023,Livingston,2 - 1,Ross County
+259,01-04-2023,St Mirren,3 - 0,Livingston
+260,08-04-2023,Motherwell,3 - 0,Livingston
+261,15-04-2023,Livingston,2 - 0,St Johnstone
+262,22-04-2023,Dundee United,2 - 0,Livingston
+263,06-05-2023,Ross County,2 - 0,Livingston
+264,13-05-2023,Kilmarnock,2 - 0,Livingston
+265,20-05-2023,Livingston,2 - 1,Dundee United
+266,24-05-2023,Livingston,1 - 1,Motherwell
+267,28-05-2023,St Johnstone,2 - 0,Livingston
+268,31-07-2022,St Mirren,0 - 1,Motherwell
+269,06-08-2022,Motherwell,1 - 2,St Johnstone
+270,13-08-2022,Aberdeen,2 - 3,Motherwell
+271,20-08-2022,Motherwell,1 - 0,Livingston
+272,27-08-2022,Kilmarnock,2 - 1,Motherwell
+273,03-09-2022,Motherwell,0 - 0,Dundee United
+274,18-09-2022,Motherwell,0 - 3,Hearts
+275,01-10-2022,Celtic,2 - 1,Motherwell
+276,04-10-2022,Ross County,0 - 5,Motherwell
+277,08-10-2022,Hibernian,1 - 0,Motherwell
+278,16-10-2022,Motherwell,1 - 2,Rangers
+279,22-10-2022,Motherwell,1 - 2,Aberdeen
+280,29-10-2022,Dundee United,0 - 1,Motherwell
+281,06-11-2022,Hearts,3 - 2,Motherwell
+282,09-11-2022,Motherwell,1 - 2,Celtic
+283,12-11-2022,St Johnstone,1 - 1,Motherwell
+284,23-12-2022,Motherwell,2 - 2,Kilmarnock
+285,28-12-2022,Rangers,3 - 0,Motherwell
+286,02-01-2023,Livingston,1 - 1,Motherwell
+287,08-01-2023,Motherwell,2 - 3,Hibernian
+288,14-01-2023,Motherwell,1 - 1,Ross County
+289,28-01-2023,St Mirren,1 - 0,Motherwell
+290,01-02-2023,Motherwell,0 - 2,St Johnstone
+291,04-02-2023,Aberdeen,3 - 1,Motherwell
+292,15-02-2023,Motherwell,2 - 1,St Mirren
+293,19-02-2023,Motherwell,2 - 0,Hearts
+294,25-02-2023,Kilmarnock,1 - 1,Motherwell
+295,04-03-2023,Ross County,0 - 2,Motherwell
+296,18-03-2023,Motherwell,2 - 4,Rangers
+297,01-04-2023,Hibernian,1 - 3,Motherwell
+298,08-04-2023,Motherwell,3 - 0,Livingston
+299,15-04-2023,Motherwell,1 - 2,Dundee United
+300,22-04-2023,Celtic,1 - 1,Motherwell
+301,06-05-2023,Motherwell,2 - 0,Kilmarnock
+302,13-05-2023,St Johnstone,0 - 2,Motherwell
+303,20-05-2023,Motherwell,1 - 0,Ross County
+304,24-05-2023,Livingston,1 - 1,Motherwell
+305,28-05-2023,Motherwell,3 - 2,Dundee United
+306,09-05-2023,Partick,4 - 3,Queens Park
+307,12-05-2023,Queens Park,0 - 4,Partick
+308,19-05-2023,Partick,3 - 0,Ayr
+309,26-05-2023,Ayr,0 - 5,Partick
+310,01-06-2023,Partick,2 - 0,Ross County
+311,09-05-2023,Partick,4 - 3,Queens Park
+312,12-05-2023,Queens Park,0 - 4,Partick
+313,30-07-2022,Livingston,1 - 2,Rangers
+314,06-08-2022,Rangers,2 - 0,Kilmarnock
+315,13-08-2022,Rangers,4 - 0,St Johnstone
+316,20-08-2022,Hibernian,2 - 2,Rangers
+317,27-08-2022,Rangers,4 - 0,Ross County
+318,03-09-2022,Celtic,4 - 0,Rangers
+319,17-09-2022,Rangers,2 - 1,Dundee United
+320,01-10-2022,Hearts,0 - 4,Rangers
+321,08-10-2022,Rangers,4 - 0,St Mirren
+322,16-10-2022,Motherwell,1 - 2,Rangers
+323,22-10-2022,Rangers,1 - 1,Livingston
+324,29-10-2022,Rangers,4 - 1,Aberdeen
+325,06-11-2022,St Johnstone,2 - 1,Rangers
+326,09-11-2022,Rangers,1 - 0,Hearts
+327,12-11-2022,St Mirren,1 - 1,Rangers
+328,15-12-2022,Rangers,3 - 2,Hibernian
+329,20-12-2022,Aberdeen,2 - 3,Rangers
+330,23-12-2022,Ross County,0 - 1,Rangers
+331,28-12-2022,Rangers,3 - 0,Motherwell
+332,02-01-2023,Rangers,2 - 2,Celtic
+333,08-01-2023,Dundee United,0 - 2,Rangers
+334,18-01-2023,Kilmarnock,2 - 3,Rangers
+335,28-01-2023,Rangers,2 - 0,St Johnstone
+336,01-02-2023,Hearts,0 - 3,Rangers
+337,04-02-2023,Rangers,2 - 1,Ross County
+338,18-02-2023,Livingston,0 - 3,Rangers
+339,04-03-2023,Rangers,3 - 1,Kilmarnock
+340,08-03-2023,Hibernian,1 - 4,Rangers
+341,18-03-2023,Motherwell,2 - 4,Rangers
+342,01-04-2023,Rangers,2 - 0,Dundee United
+343,08-04-2023,Celtic,3 - 2,Rangers
+344,15-04-2023,Rangers,5 - 2,St Mirren
+345,23-04-2023,Aberdeen,2 - 0,Rangers
+346,07-05-2023,Rangers,1 - 0,Aberdeen
+347,13-05-2023,Rangers,3 - 0,Celtic
+348,21-05-2023,Hibernian,1 - 3,Rangers
+349,24-05-2023,Rangers,2 - 2,Hearts
+350,27-05-2023,St Mirren,0 - 3,Rangers
+351,30-07-2022,Hearts,2 - 1,Ross County
+352,06-08-2022,Ross County,1 - 3,Celtic
+353,13-08-2022,St Mirren,1 - 0,Ross County
+354,20-08-2022,Ross County,1 - 0,Kilmarnock
+355,27-08-2022,Rangers,4 - 0,Ross County
+356,03-09-2022,Ross County,1 - 1,Aberdeen
+357,17-09-2022,St Johnstone,0 - 0,Ross County
+358,01-10-2022,Ross County,0 - 2,Hibernian
+359,04-10-2022,Ross County,0 - 5,Motherwell
+360,08-10-2022,Livingston,0 - 1,Ross County
+361,15-10-2022,Ross County,1 - 1,Dundee United
+362,22-10-2022,Kilmarnock,1 - 0,Ross County
+363,30-10-2022,Ross County,1 - 2,Hearts
+364,05-11-2022,Ross County,3 - 2,St Mirren
+365,08-11-2022,Hibernian,0 - 2,Ross County
+366,12-11-2022,Celtic,2 - 1,Ross County
+367,17-12-2022,Ross County,1 - 2,St Johnstone
+368,23-12-2022,Ross County,0 - 1,Rangers
+369,28-12-2022,Dundee United,3 - 0,Ross County
+370,02-01-2023,Aberdeen,0 - 0,Ross County
+371,07-01-2023,Ross County,0 - 2,Livingston
+372,14-01-2023,Motherwell,1 - 1,Ross County
+373,28-01-2023,Ross County,3 - 0,Kilmarnock
+374,31-01-2023,Ross County,1 - 1,Hibernian
+375,04-02-2023,Rangers,2 - 1,Ross County
+376,18-02-2023,St Mirren,1 - 0,Ross County
+377,25-02-2023,Ross County,4 - 0,Dundee United
+378,04-03-2023,Ross County,0 - 2,Motherwell
+379,18-03-2023,Livingston,2 - 1,Ross County
+380,02-04-2023,Ross County,0 - 2,Celtic
+381,08-04-2023,St Johnstone,0 - 2,Ross County
+382,14-04-2023,Ross County,0 - 1,Aberdeen
+383,22-04-2023,Hearts,6 - 1,Ross County
+384,06-05-2023,Ross County,2 - 0,Livingston
+385,13-05-2023,Dundee United,1 - 3,Ross County
+386,20-05-2023,Motherwell,1 - 0,Ross County
+387,24-05-2023,Ross County,3 - 3,St Johnstone
+388,28-05-2023,Kilmarnock,3 - 1,Ross County
+389,01-06-2023,Partick,2 - 0,Ross County
+390,30-07-2022,St Johnstone,0 - 1,Hibernian
+391,06-08-2022,Motherwell,1 - 2,St Johnstone
+392,13-08-2022,Rangers,4 - 0,St Johnstone
+393,20-08-2022,St Johnstone,0 - 1,Aberdeen
+394,28-08-2022,Hearts,3 - 2,St Johnstone
+395,03-09-2022,St Johnstone,3 - 0,St Mirren
+396,17-09-2022,St Johnstone,0 - 0,Ross County
+397,01-10-2022,Dundee United,1 - 2,St Johnstone
+398,05-10-2022,Kilmarnock,2 - 1,St Johnstone
+399,08-10-2022,St Johnstone,1 - 2,Celtic
+400,15-10-2022,Livingston,1 - 0,St Johnstone
+401,21-10-2022,Hibernian,1 - 2,St Johnstone
+402,29-10-2022,St Johnstone,1 - 0,Kilmarnock
+403,06-11-2022,St Johnstone,2 - 1,Rangers
+404,09-11-2022,St Mirren,2 - 2,St Johnstone
+405,12-11-2022,St Johnstone,1 - 1,Motherwell
+406,17-12-2022,Ross County,1 - 2,St Johnstone
+407,24-12-2022,Celtic,4 - 1,St Johnstone
+408,28-12-2022,St Johnstone,2 - 3,Hearts
+409,02-01-2023,St Johnstone,0 - 1,Dundee United
+410,07-01-2023,Aberdeen,2 - 0,St Johnstone
+411,14-01-2023,St Johnstone,2 - 4,Livingston
+412,28-01-2023,Rangers,2 - 0,St Johnstone
+413,01-02-2023,Motherwell,0 - 2,St Johnstone
+414,05-02-2023,St Johnstone,1 - 4,Celtic
+415,18-02-2023,Dundee United,1 - 2,St Johnstone
+416,25-02-2023,St Johnstone,1 - 1,St Mirren
+417,04-03-2023,Hearts,3 - 0,St Johnstone
+418,18-03-2023,Kilmarnock,1 - 1,St Johnstone
+419,01-04-2023,St Johnstone,0 - 1,Aberdeen
+420,08-04-2023,St Johnstone,0 - 2,Ross County
+421,15-04-2023,Livingston,2 - 0,St Johnstone
+422,22-04-2023,St Johnstone,1 - 1,Hibernian
+423,06-05-2023,St Johnstone,1 - 0,Dundee United
+424,13-05-2023,St Johnstone,0 - 2,Motherwell
+425,20-05-2023,Kilmarnock,0 - 1,St Johnstone
+426,24-05-2023,Ross County,3 - 3,St Johnstone
+427,28-05-2023,St Johnstone,2 - 0,Livingston
+428,31-07-2022,St Mirren,0 - 1,Motherwell
+429,06-08-2022,Aberdeen,4 - 1,St Mirren
+430,13-08-2022,St Mirren,1 - 0,Ross County
+431,20-08-2022,Dundee United,0 - 3,St Mirren
+432,27-08-2022,St Mirren,1 - 0,Hibernian
+433,03-09-2022,St Johnstone,3 - 0,St Mirren
+434,18-09-2022,St Mirren,2 - 0,Celtic
+435,01-10-2022,St Mirren,2 - 1,Livingston
+436,08-10-2022,Rangers,4 - 0,St Mirren
+437,15-10-2022,St Mirren,0 - 0,Kilmarnock
+438,22-10-2022,St Mirren,2 - 1,Dundee United
+439,29-10-2022,Hibernian,3 - 0,St Mirren
+440,05-11-2022,Ross County,3 - 2,St Mirren
+441,09-11-2022,St Mirren,2 - 2,St Johnstone
+442,12-11-2022,St Mirren,1 - 1,Rangers
+443,24-12-2022,St Mirren,3 - 1,Aberdeen
+444,28-12-2022,Livingston,1 - 1,St Mirren
+445,02-01-2023,Kilmarnock,0 - 0,St Mirren
+446,07-01-2023,St Mirren,1 - 1,Hearts
+447,13-01-2023,Hearts,1 - 0,St Mirren
+448,18-01-2023,Celtic,4 - 0,St Mirren
+449,28-01-2023,St Mirren,1 - 0,Motherwell
+450,01-02-2023,Aberdeen,1 - 3,St Mirren
+451,04-02-2023,St Mirren,0 - 1,Hibernian
+452,15-02-2023,Motherwell,2 - 1,St Mirren
+453,18-02-2023,St Mirren,1 - 0,Ross County
+454,25-02-2023,St Johnstone,1 - 1,St Mirren
+455,05-03-2023,St Mirren,1 - 5,Celtic
+456,18-03-2023,Dundee United,1 - 1,St Mirren
+457,01-04-2023,St Mirren,3 - 0,Livingston
+458,08-04-2023,Hearts,0 - 2,St Mirren
+459,15-04-2023,Rangers,5 - 2,St Mirren
+460,22-04-2023,St Mirren,0 - 2,Kilmarnock
+461,06-05-2023,Hibernian,2 - 1,St Mirren
+462,13-05-2023,St Mirren,2 - 2,Hearts
+463,20-05-2023,Celtic,2 - 2,St Mirren
+464,24-05-2023,Aberdeen,3 - 0,St Mirren
+465,27-05-2023,St Mirren,0 - 3,Rangers

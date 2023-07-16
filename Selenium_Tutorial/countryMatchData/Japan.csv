@@ -1,0 +1,377 @@
+,date,home_team,score,away_team
+0,18-02-2023,Cerezo Osaka,2 - 2,Albirex Niigata
+1,26-02-2023,Sanfrecce Hiroshima,1 - 2,Albirex Niigata
+2,04-03-2023,Albirex Niigata,2 - 2,Consadole Sapporo
+3,11-03-2023,Albirex Niigata,1 - 0,Kawasaki Frontale
+4,18-03-2023,Urawa Red Diamonds,2 - 1,Albirex Niigata
+5,01-04-2023,Albirex Niigata,1 - 3,Nagoya Grampus
+6,09-04-2023,Vissel Kobe,0 - 0,Albirex Niigata
+7,15-04-2023,Albirex Niigata,3 - 2,Avispa Fukuoka
+8,23-04-2023,Albirex Niigata,0 - 2,Kashima Antlers
+9,29-04-2023,FC Tokyo,2 - 1,Albirex Niigata
+10,03-05-2023,Yokohama FC,1 - 0,Albirex Niigata
+11,07-05-2023,Albirex Niigata,0 - 0,Kashiwa Reysol
+12,14-05-2023,Albirex Niigata,2 - 1,Yokohama F-Marinos
+13,20-05-2023,Sagan Tosu,2 - 0,Albirex Niigata
+14,28-05-2023,Albirex Niigata,1 - 3,Gamba Osaka
+15,03-06-2023,Shonan Bellmare,2 - 2,Albirex Niigata
+16,11-06-2023,Albirex Niigata,1 - 3,Kyoto Sanga
+17,24-06-2023,Kashiwa Reysol,0 - 0,Albirex Niigata
+18,01-07-2023,Albirex Niigata,2 - 0,Sanfrecce Hiroshima
+19,07-07-2023,Albirex Niigata,0 - 1,Vissel Kobe
+20,15-07-2023,Consadole Sapporo,? - ?,Albirex Niigata
+21,18-02-2023,Vissel Kobe,1 - 0,Avispa Fukuoka
+22,25-02-2023,Avispa Fukuoka,2 - 1,Cerezo Osaka
+23,04-03-2023,Avispa Fukuoka,1 - 0,Kashiwa Reysol
+24,12-03-2023,Kashima Antlers,0 - 0,Avispa Fukuoka
+25,19-03-2023,Avispa Fukuoka,2 - 1,Shonan Bellmare
+26,01-04-2023,Yokohama FC,1 - 1,Avispa Fukuoka
+27,09-04-2023,Avispa Fukuoka,2 - 1,Kyoto Sanga
+28,15-04-2023,Albirex Niigata,3 - 2,Avispa Fukuoka
+29,23-04-2023,Consadole Sapporo,2 - 2,Avispa Fukuoka
+30,29-04-2023,Avispa Fukuoka,1 - 3,Kawasaki Frontale
+31,03-05-2023,Avispa Fukuoka,1 - 0,FC Tokyo
+32,07-05-2023,Sanfrecce Hiroshima,3 - 1,Avispa Fukuoka
+33,14-05-2023,Avispa Fukuoka,0 - 0,Sagan Tosu
+34,20-05-2023,Avispa Fukuoka,0 - 0,Urawa Red Diamonds
+35,28-05-2023,Yokohama F-Marinos,2 - 0,Avispa Fukuoka
+36,03-06-2023,Avispa Fukuoka,1 - 2,Gamba Osaka
+37,11-06-2023,Nagoya Grampus,2 - 1,Avispa Fukuoka
+38,25-06-2023,Avispa Fukuoka,0 - 3,Vissel Kobe
+39,30-06-2023,Cerezo Osaka,0 - 1,Avispa Fukuoka
+40,08-07-2023,Avispa Fukuoka,2 - 1,Consadole Sapporo
+41,16-07-2023,Shonan Bellmare,? - ?,Avispa Fukuoka
+42,18-02-2023,Cerezo Osaka,2 - 2,Albirex Niigata
+43,25-02-2023,Avispa Fukuoka,2 - 1,Cerezo Osaka
+44,04-03-2023,Urawa Red Diamonds,2 - 1,Cerezo Osaka
+45,12-03-2023,Cerezo Osaka,2 - 1,Sagan Tosu
+46,18-03-2023,Kawasaki Frontale,0 - 0,Cerezo Osaka
+47,01-04-2023,Cerezo Osaka,2 - 1,Yokohama F-Marinos
+48,09-04-2023,Cerezo Osaka,2 - 3,Consadole Sapporo
+49,15-04-2023,FC Tokyo,1 - 2,Cerezo Osaka
+50,23-04-2023,Cerezo Osaka,1 - 0,Kashiwa Reysol
+51,29-04-2023,Cerezo Osaka,0 - 1,Sanfrecce Hiroshima
+52,03-05-2023,Gamba Osaka,1 - 2,Cerezo Osaka
+53,07-05-2023,Cerezo Osaka,0 - 1,Kashima Antlers
+54,14-05-2023,Kyoto Sanga,0 - 1,Cerezo Osaka
+55,20-05-2023,Shonan Bellmare,0 - 2,Cerezo Osaka
+56,28-05-2023,Cerezo Osaka,2 - 0,Yokohama FC
+57,03-06-2023,Nagoya Grampus,3 - 1,Cerezo Osaka
+58,10-06-2023,Cerezo Osaka,2 - 1,Vissel Kobe
+59,24-06-2023,Consadole Sapporo,1 - 4,Cerezo Osaka
+60,30-06-2023,Cerezo Osaka,0 - 1,Avispa Fukuoka
+61,08-07-2023,Sagan Tosu,2 - 1,Cerezo Osaka
+62,16-07-2023,Cerezo Osaka,? - ?,Urawa Red Diamonds
+63,18-02-2023,Sanfrecce Hiroshima,0 - 0,Consadole Sapporo
+64,25-02-2023,Consadole Sapporo,1 - 3,Vissel Kobe
+65,04-03-2023,Albirex Niigata,2 - 2,Consadole Sapporo
+66,12-03-2023,Consadole Sapporo,2 - 0,Yokohama F-Marinos
+67,18-03-2023,Gamba Osaka,2 - 2,Consadole Sapporo
+68,01-04-2023,Consadole Sapporo,3 - 4,Kawasaki Frontale
+69,09-04-2023,Cerezo Osaka,2 - 3,Consadole Sapporo
+70,15-04-2023,Urawa Red Diamonds,4 - 1,Consadole Sapporo
+71,23-04-2023,Consadole Sapporo,2 - 2,Avispa Fukuoka
+72,29-04-2023,Yokohama FC,1 - 4,Consadole Sapporo
+73,03-05-2023,Consadole Sapporo,0 - 1,Kashima Antlers
+74,06-05-2023,Consadole Sapporo,5 - 1,FC Tokyo
+75,13-05-2023,Shonan Bellmare,2 - 4,Consadole Sapporo
+76,19-05-2023,Consadole Sapporo,2 - 1,Kyoto Sanga
+77,27-05-2023,Consadole Sapporo,1 - 2,Nagoya Grampus
+78,03-06-2023,Kashiwa Reysol,4 - 5,Consadole Sapporo
+79,10-06-2023,Sagan Tosu,1 - 1,Consadole Sapporo
+80,24-06-2023,Consadole Sapporo,1 - 4,Cerezo Osaka
+81,01-07-2023,Vissel Kobe,1 - 1,Consadole Sapporo
+82,08-07-2023,Avispa Fukuoka,2 - 1,Consadole Sapporo
+83,15-07-2023,Consadole Sapporo,? - ?,Albirex Niigata
+84,18-02-2023,FC Tokyo,2 - 0,Urawa Red Diamonds
+85,26-02-2023,Kashiwa Reysol,1 - 1,FC Tokyo
+86,04-03-2023,Kyoto Sanga,2 - 0,FC Tokyo
+87,12-03-2023,FC Tokyo,3 - 1,Yokohama FC
+88,18-03-2023,Nagoya Grampus,0 - 0,FC Tokyo
+89,01-04-2023,Sagan Tosu,1 - 0,FC Tokyo
+90,09-04-2023,FC Tokyo,2 - 2,Shonan Bellmare
+91,15-04-2023,FC Tokyo,1 - 2,Cerezo Osaka
+92,22-04-2023,Sanfrecce Hiroshima,1 - 2,FC Tokyo
+93,29-04-2023,FC Tokyo,2 - 1,Albirex Niigata
+94,03-05-2023,Avispa Fukuoka,1 - 0,FC Tokyo
+95,06-05-2023,Consadole Sapporo,5 - 1,FC Tokyo
+96,12-05-2023,FC Tokyo,2 - 1,Kawasaki Frontale
+97,20-05-2023,Kashima Antlers,1 - 1,FC Tokyo
+98,27-05-2023,Vissel Kobe,3 - 2,FC Tokyo
+99,03-06-2023,FC Tokyo,2 - 3,Yokohama F-Marinos
+100,11-06-2023,Gamba Osaka,3 - 1,FC Tokyo
+101,24-06-2023,FC Tokyo,2 - 0,Nagoya Grampus
+102,01-07-2023,FC Tokyo,1 - 0,Kashiwa Reysol
+103,08-07-2023,Urawa Red Diamonds,0 - 0,FC Tokyo
+104,16-07-2023,FC Tokyo,? - ?,Kashima Antlers
+105,18-02-2023,Kashiwa Reysol,2 - 2,Gamba Osaka
+106,25-02-2023,Gamba Osaka,1 - 1,Sagan Tosu
+107,04-03-2023,Vissel Kobe,4 - 0,Gamba Osaka
+108,12-03-2023,Gamba Osaka,1 - 2,Sanfrecce Hiroshima
+109,18-03-2023,Gamba Osaka,2 - 2,Consadole Sapporo
+110,01-04-2023,Shonan Bellmare,4 - 1,Gamba Osaka
+111,09-04-2023,Gamba Osaka,2 - 0,Kawasaki Frontale
+112,15-04-2023,Kyoto Sanga,2 - 1,Gamba Osaka
+113,23-04-2023,Gamba Osaka,1 - 1,Yokohama FC
+114,29-04-2023,Kashima Antlers,4 - 0,Gamba Osaka
+115,03-05-2023,Gamba Osaka,1 - 2,Cerezo Osaka
+116,06-05-2023,Nagoya Grampus,1 - 0,Gamba Osaka
+117,14-05-2023,Urawa Red Diamonds,3 - 1,Gamba Osaka
+118,20-05-2023,Gamba Osaka,0 - 2,Yokohama F-Marinos
+119,28-05-2023,Albirex Niigata,1 - 3,Gamba Osaka
+120,03-06-2023,Avispa Fukuoka,1 - 2,Gamba Osaka
+121,11-06-2023,Gamba Osaka,3 - 1,FC Tokyo
+122,24-06-2023,Gamba Osaka,2 - 1,Kashima Antlers
+123,01-07-2023,Yokohama FC,0 - 0,Gamba Osaka
+124,08-07-2023,Gamba Osaka,1 - 0,Kyoto Sanga
+125,16-07-2023,Gamba Osaka,? - ?,Kashiwa Reysol
+126,18-02-2023,Kyoto Sanga,0 - 2,Kashima Antlers
+127,25-02-2023,Kashima Antlers,1 - 2,Kawasaki Frontale
+128,04-03-2023,Yokohama FC,1 - 3,Kashima Antlers
+129,12-03-2023,Kashima Antlers,0 - 0,Avispa Fukuoka
+130,18-03-2023,Yokohama F-Marinos,2 - 1,Kashima Antlers
+131,01-04-2023,Kashima Antlers,1 - 2,Sanfrecce Hiroshima
+132,09-04-2023,Kashiwa Reysol,1 - 0,Kashima Antlers
+133,15-04-2023,Kashima Antlers,1 - 5,Vissel Kobe
+134,23-04-2023,Albirex Niigata,0 - 2,Kashima Antlers
+135,29-04-2023,Kashima Antlers,4 - 0,Gamba Osaka
+136,03-05-2023,Consadole Sapporo,0 - 1,Kashima Antlers
+137,07-05-2023,Cerezo Osaka,0 - 1,Kashima Antlers
+138,14-05-2023,Kashima Antlers,2 - 0,Nagoya Grampus
+139,20-05-2023,Kashima Antlers,1 - 1,FC Tokyo
+140,27-05-2023,Sagan Tosu,2 - 2,Kashima Antlers
+141,04-06-2023,Urawa Red Diamonds,0 - 0,Kashima Antlers
+142,11-06-2023,Kashima Antlers,1 - 0,Shonan Bellmare
+143,24-06-2023,Gamba Osaka,2 - 1,Kashima Antlers
+144,01-07-2023,Kashima Antlers,0 - 0,Kyoto Sanga
+145,08-07-2023,Sanfrecce Hiroshima,1 - 1,Kashima Antlers
+146,16-07-2023,FC Tokyo,? - ?,Kashima Antlers
+147,18-02-2023,Kashiwa Reysol,2 - 2,Gamba Osaka
+148,26-02-2023,Kashiwa Reysol,1 - 1,FC Tokyo
+149,04-03-2023,Avispa Fukuoka,1 - 0,Kashiwa Reysol
+150,12-03-2023,Kashiwa Reysol,0 - 3,Nagoya Grampus
+151,19-03-2023,Sanfrecce Hiroshima,1 - 0,Kashiwa Reysol
+152,31-03-2023,Kashiwa Reysol,0 - 3,Urawa Red Diamonds
+153,09-04-2023,Kashiwa Reysol,1 - 0,Kashima Antlers
+154,15-04-2023,Sagan Tosu,1 - 1,Kashiwa Reysol
+155,23-04-2023,Cerezo Osaka,1 - 0,Kashiwa Reysol
+156,29-04-2023,Kashiwa Reysol,1 - 1,Kyoto Sanga
+157,03-05-2023,Shonan Bellmare,1 - 2,Kashiwa Reysol
+158,07-05-2023,Albirex Niigata,0 - 0,Kashiwa Reysol
+159,13-05-2023,Kashiwa Reysol,0 - 1,Yokohama FC
+160,20-05-2023,Kashiwa Reysol,1 - 1,Vissel Kobe
+161,28-05-2023,Kawasaki Frontale,2 - 0,Kashiwa Reysol
+162,03-06-2023,Kashiwa Reysol,4 - 5,Consadole Sapporo
+163,10-06-2023,Yokohama F-Marinos,4 - 3,Kashiwa Reysol
+164,24-06-2023,Kashiwa Reysol,0 - 0,Albirex Niigata
+165,01-07-2023,FC Tokyo,1 - 0,Kashiwa Reysol
+166,08-07-2023,Kashiwa Reysol,1 - 1,Shonan Bellmare
+167,16-07-2023,Gamba Osaka,? - ?,Kashiwa Reysol
+168,17-02-2023,Kawasaki Frontale,1 - 2,Yokohama F-Marinos
+169,25-02-2023,Kashima Antlers,1 - 2,Kawasaki Frontale
+170,04-03-2023,Kawasaki Frontale,1 - 1,Shonan Bellmare
+171,11-03-2023,Albirex Niigata,1 - 0,Kawasaki Frontale
+172,18-03-2023,Kawasaki Frontale,0 - 0,Cerezo Osaka
+173,01-04-2023,Consadole Sapporo,3 - 4,Kawasaki Frontale
+174,09-04-2023,Gamba Osaka,2 - 0,Kawasaki Frontale
+175,15-04-2023,Kawasaki Frontale,1 - 2,Nagoya Grampus
+176,23-04-2023,Kawasaki Frontale,1 - 1,Urawa Red Diamonds
+177,29-04-2023,Avispa Fukuoka,1 - 3,Kawasaki Frontale
+178,03-05-2023,Kyoto Sanga,0 - 1,Kawasaki Frontale
+179,07-05-2023,Kawasaki Frontale,1 - 0,Sagan Tosu
+180,12-05-2023,FC Tokyo,2 - 1,Kawasaki Frontale
+181,20-05-2023,Yokohama FC,2 - 1,Kawasaki Frontale
+182,28-05-2023,Kawasaki Frontale,2 - 0,Kashiwa Reysol
+183,11-06-2023,Kawasaki Frontale,1 - 0,Sanfrecce Hiroshima
+184,24-06-2023,Urawa Red Diamonds,1 - 1,Kawasaki Frontale
+185,01-07-2023,Nagoya Grampus,2 - 0,Kawasaki Frontale
+186,08-07-2023,Kawasaki Frontale,3 - 0,Yokohama FC
+187,15-07-2023,Yokohama F-Marinos,? - ?,Kawasaki Frontale
+188,18-02-2023,Kyoto Sanga,0 - 2,Kashima Antlers
+189,25-02-2023,Nagoya Grampus,1 - 0,Kyoto Sanga
+190,04-03-2023,Kyoto Sanga,2 - 0,FC Tokyo
+191,12-03-2023,Shonan Bellmare,0 - 2,Kyoto Sanga
+192,18-03-2023,Yokohama FC,1 - 4,Kyoto Sanga
+193,01-04-2023,Kyoto Sanga,0 - 3,Vissel Kobe
+194,09-04-2023,Avispa Fukuoka,2 - 1,Kyoto Sanga
+195,15-04-2023,Kyoto Sanga,2 - 1,Gamba Osaka
+196,23-04-2023,Kyoto Sanga,2 - 3,Sagan Tosu
+197,29-04-2023,Kashiwa Reysol,1 - 1,Kyoto Sanga
+198,03-05-2023,Kyoto Sanga,0 - 1,Kawasaki Frontale
+199,07-05-2023,Yokohama F-Marinos,4 - 1,Kyoto Sanga
+200,14-05-2023,Kyoto Sanga,0 - 1,Cerezo Osaka
+201,19-05-2023,Consadole Sapporo,2 - 1,Kyoto Sanga
+202,27-05-2023,Kyoto Sanga,0 - 2,Urawa Red Diamonds
+203,04-06-2023,Sanfrecce Hiroshima,3 - 1,Kyoto Sanga
+204,11-06-2023,Albirex Niigata,1 - 3,Kyoto Sanga
+205,24-06-2023,Kyoto Sanga,2 - 1,Yokohama FC
+206,01-07-2023,Kashima Antlers,0 - 0,Kyoto Sanga
+207,08-07-2023,Gamba Osaka,1 - 0,Kyoto Sanga
+208,16-07-2023,Kyoto Sanga,? - ?,Nagoya Grampus
+209,18-02-2023,Yokohama FC,0 - 1,Nagoya Grampus
+210,25-02-2023,Nagoya Grampus,1 - 0,Kyoto Sanga
+211,04-03-2023,Sagan Tosu,1 - 0,Nagoya Grampus
+212,12-03-2023,Kashiwa Reysol,0 - 3,Nagoya Grampus
+213,18-03-2023,Nagoya Grampus,0 - 0,FC Tokyo
+214,01-04-2023,Albirex Niigata,1 - 3,Nagoya Grampus
+215,09-04-2023,Nagoya Grampus,0 - 0,Urawa Red Diamonds
+216,15-04-2023,Kawasaki Frontale,1 - 2,Nagoya Grampus
+217,23-04-2023,Nagoya Grampus,2 - 2,Shonan Bellmare
+218,29-04-2023,Yokohama F-Marinos,1 - 1,Nagoya Grampus
+219,03-05-2023,Nagoya Grampus,2 - 2,Vissel Kobe
+220,06-05-2023,Nagoya Grampus,1 - 0,Gamba Osaka
+221,14-05-2023,Kashima Antlers,2 - 0,Nagoya Grampus
+222,20-05-2023,Nagoya Grampus,2 - 1,Sanfrecce Hiroshima
+223,27-05-2023,Consadole Sapporo,1 - 2,Nagoya Grampus
+224,03-06-2023,Nagoya Grampus,3 - 1,Cerezo Osaka
+225,11-06-2023,Nagoya Grampus,2 - 1,Avispa Fukuoka
+226,24-06-2023,FC Tokyo,2 - 0,Nagoya Grampus
+227,01-07-2023,Nagoya Grampus,2 - 0,Kawasaki Frontale
+228,08-07-2023,Nagoya Grampus,2 - 2,Yokohama F-Marinos
+229,16-07-2023,Kyoto Sanga,? - ?,Nagoya Grampus
+230,18-02-2023,Sagan Tosu,1 - 5,Shonan Bellmare
+231,25-02-2023,Gamba Osaka,1 - 1,Sagan Tosu
+232,04-03-2023,Sagan Tosu,1 - 0,Nagoya Grampus
+233,12-03-2023,Cerezo Osaka,2 - 1,Sagan Tosu
+234,18-03-2023,Sagan Tosu,0 - 1,Vissel Kobe
+235,01-04-2023,Sagan Tosu,1 - 0,FC Tokyo
+236,09-04-2023,Sanfrecce Hiroshima,1 - 0,Sagan Tosu
+237,15-04-2023,Sagan Tosu,1 - 1,Kashiwa Reysol
+238,23-04-2023,Kyoto Sanga,2 - 3,Sagan Tosu
+239,03-05-2023,Sagan Tosu,1 - 3,Yokohama F-Marinos
+240,07-05-2023,Kawasaki Frontale,1 - 0,Sagan Tosu
+241,10-05-2023,Urawa Red Diamonds,0 - 2,Sagan Tosu
+242,14-05-2023,Avispa Fukuoka,0 - 0,Sagan Tosu
+243,20-05-2023,Sagan Tosu,2 - 0,Albirex Niigata
+244,27-05-2023,Sagan Tosu,2 - 2,Kashima Antlers
+245,03-06-2023,Yokohama FC,1 - 2,Sagan Tosu
+246,10-06-2023,Sagan Tosu,1 - 1,Consadole Sapporo
+247,24-06-2023,Shonan Bellmare,0 - 6,Sagan Tosu
+248,01-07-2023,Sagan Tosu,1 - 2,Urawa Red Diamonds
+249,08-07-2023,Sagan Tosu,2 - 1,Cerezo Osaka
+250,16-07-2023,Vissel Kobe,? - ?,Sagan Tosu
+251,18-02-2023,Sanfrecce Hiroshima,0 - 0,Consadole Sapporo
+252,26-02-2023,Sanfrecce Hiroshima,1 - 2,Albirex Niigata
+253,03-03-2023,Yokohama F-Marinos,1 - 1,Sanfrecce Hiroshima
+254,12-03-2023,Gamba Osaka,1 - 2,Sanfrecce Hiroshima
+255,19-03-2023,Sanfrecce Hiroshima,1 - 0,Kashiwa Reysol
+256,01-04-2023,Kashima Antlers,1 - 2,Sanfrecce Hiroshima
+257,09-04-2023,Sanfrecce Hiroshima,1 - 0,Sagan Tosu
+258,15-04-2023,Yokohama FC,0 - 3,Sanfrecce Hiroshima
+259,22-04-2023,Sanfrecce Hiroshima,1 - 2,FC Tokyo
+260,29-04-2023,Cerezo Osaka,0 - 1,Sanfrecce Hiroshima
+261,07-05-2023,Sanfrecce Hiroshima,3 - 1,Avispa Fukuoka
+262,13-05-2023,Vissel Kobe,2 - 0,Sanfrecce Hiroshima
+263,20-05-2023,Nagoya Grampus,2 - 1,Sanfrecce Hiroshima
+264,27-05-2023,Sanfrecce Hiroshima,1 - 0,Shonan Bellmare
+265,31-05-2023,Urawa Red Diamonds,2 - 1,Sanfrecce Hiroshima
+266,04-06-2023,Sanfrecce Hiroshima,3 - 1,Kyoto Sanga
+267,11-06-2023,Kawasaki Frontale,1 - 0,Sanfrecce Hiroshima
+268,24-06-2023,Sanfrecce Hiroshima,0 - 1,Yokohama F-Marinos
+269,01-07-2023,Albirex Niigata,2 - 0,Sanfrecce Hiroshima
+270,08-07-2023,Sanfrecce Hiroshima,1 - 1,Kashima Antlers
+271,16-07-2023,Sanfrecce Hiroshima,? - ?,Yokohama FC
+272,18-02-2023,Sagan Tosu,1 - 5,Shonan Bellmare
+273,24-02-2023,Shonan Bellmare,2 - 2,Yokohama FC
+274,04-03-2023,Kawasaki Frontale,1 - 1,Shonan Bellmare
+275,12-03-2023,Shonan Bellmare,0 - 2,Kyoto Sanga
+276,19-03-2023,Avispa Fukuoka,2 - 1,Shonan Bellmare
+277,01-04-2023,Shonan Bellmare,4 - 1,Gamba Osaka
+278,09-04-2023,FC Tokyo,2 - 2,Shonan Bellmare
+279,15-04-2023,Shonan Bellmare,1 - 1,Yokohama F-Marinos
+280,23-04-2023,Nagoya Grampus,2 - 2,Shonan Bellmare
+281,29-04-2023,Vissel Kobe,2 - 0,Shonan Bellmare
+282,03-05-2023,Shonan Bellmare,1 - 2,Kashiwa Reysol
+283,13-05-2023,Shonan Bellmare,2 - 4,Consadole Sapporo
+284,20-05-2023,Shonan Bellmare,0 - 2,Cerezo Osaka
+285,27-05-2023,Sanfrecce Hiroshima,1 - 0,Shonan Bellmare
+286,03-06-2023,Shonan Bellmare,2 - 2,Albirex Niigata
+287,11-06-2023,Kashima Antlers,1 - 0,Shonan Bellmare
+288,24-06-2023,Shonan Bellmare,0 - 6,Sagan Tosu
+289,28-06-2023,Urawa Red Diamonds,4 - 1,Shonan Bellmare
+290,02-07-2023,Yokohama F-Marinos,4 - 1,Shonan Bellmare
+291,08-07-2023,Kashiwa Reysol,1 - 1,Shonan Bellmare
+292,16-07-2023,Shonan Bellmare,? - ?,Avispa Fukuoka
+293,18-02-2023,FC Tokyo,2 - 0,Urawa Red Diamonds
+294,25-02-2023,Yokohama F-Marinos,2 - 0,Urawa Red Diamonds
+295,04-03-2023,Urawa Red Diamonds,2 - 1,Cerezo Osaka
+296,11-03-2023,Vissel Kobe,0 - 1,Urawa Red Diamonds
+297,18-03-2023,Urawa Red Diamonds,2 - 1,Albirex Niigata
+298,31-03-2023,Kashiwa Reysol,0 - 3,Urawa Red Diamonds
+299,09-04-2023,Nagoya Grampus,0 - 0,Urawa Red Diamonds
+300,15-04-2023,Urawa Red Diamonds,4 - 1,Consadole Sapporo
+301,23-04-2023,Kawasaki Frontale,1 - 1,Urawa Red Diamonds
+302,10-05-2023,Urawa Red Diamonds,0 - 2,Sagan Tosu
+303,14-05-2023,Urawa Red Diamonds,3 - 1,Gamba Osaka
+304,20-05-2023,Avispa Fukuoka,0 - 0,Urawa Red Diamonds
+305,27-05-2023,Kyoto Sanga,0 - 2,Urawa Red Diamonds
+306,31-05-2023,Urawa Red Diamonds,2 - 1,Sanfrecce Hiroshima
+307,04-06-2023,Urawa Red Diamonds,0 - 0,Kashima Antlers
+308,11-06-2023,Yokohama FC,0 - 0,Urawa Red Diamonds
+309,24-06-2023,Urawa Red Diamonds,1 - 1,Kawasaki Frontale
+310,28-06-2023,Urawa Red Diamonds,4 - 1,Shonan Bellmare
+311,01-07-2023,Sagan Tosu,1 - 2,Urawa Red Diamonds
+312,08-07-2023,Urawa Red Diamonds,0 - 0,FC Tokyo
+313,16-07-2023,Cerezo Osaka,? - ?,Urawa Red Diamonds
+314,18-02-2023,Vissel Kobe,1 - 0,Avispa Fukuoka
+315,25-02-2023,Consadole Sapporo,1 - 3,Vissel Kobe
+316,04-03-2023,Vissel Kobe,4 - 0,Gamba Osaka
+317,11-03-2023,Vissel Kobe,0 - 1,Urawa Red Diamonds
+318,18-03-2023,Sagan Tosu,0 - 1,Vissel Kobe
+319,01-04-2023,Kyoto Sanga,0 - 3,Vissel Kobe
+320,09-04-2023,Vissel Kobe,0 - 0,Albirex Niigata
+321,15-04-2023,Kashima Antlers,1 - 5,Vissel Kobe
+322,22-04-2023,Vissel Kobe,2 - 3,Yokohama F-Marinos
+323,29-04-2023,Vissel Kobe,2 - 0,Shonan Bellmare
+324,03-05-2023,Nagoya Grampus,2 - 2,Vissel Kobe
+325,07-05-2023,Vissel Kobe,3 - 0,Yokohama FC
+326,13-05-2023,Vissel Kobe,2 - 0,Sanfrecce Hiroshima
+327,20-05-2023,Kashiwa Reysol,1 - 1,Vissel Kobe
+328,27-05-2023,Vissel Kobe,3 - 2,FC Tokyo
+329,10-06-2023,Cerezo Osaka,2 - 1,Vissel Kobe
+330,25-06-2023,Avispa Fukuoka,0 - 3,Vissel Kobe
+331,01-07-2023,Vissel Kobe,1 - 1,Consadole Sapporo
+332,07-07-2023,Albirex Niigata,0 - 1,Vissel Kobe
+333,16-07-2023,Vissel Kobe,? - ?,Sagan Tosu
+334,17-02-2023,Kawasaki Frontale,1 - 2,Yokohama F-Marinos
+335,25-02-2023,Yokohama F-Marinos,2 - 0,Urawa Red Diamonds
+336,03-03-2023,Yokohama F-Marinos,1 - 1,Sanfrecce Hiroshima
+337,12-03-2023,Consadole Sapporo,2 - 0,Yokohama F-Marinos
+338,18-03-2023,Yokohama F-Marinos,2 - 1,Kashima Antlers
+339,01-04-2023,Cerezo Osaka,2 - 1,Yokohama F-Marinos
+340,08-04-2023,Yokohama F-Marinos,5 - 0,Yokohama FC
+341,15-04-2023,Shonan Bellmare,1 - 1,Yokohama F-Marinos
+342,22-04-2023,Vissel Kobe,2 - 3,Yokohama F-Marinos
+343,29-04-2023,Yokohama F-Marinos,1 - 1,Nagoya Grampus
+344,03-05-2023,Sagan Tosu,1 - 3,Yokohama F-Marinos
+345,07-05-2023,Yokohama F-Marinos,4 - 1,Kyoto Sanga
+346,14-05-2023,Albirex Niigata,2 - 1,Yokohama F-Marinos
+347,20-05-2023,Gamba Osaka,0 - 2,Yokohama F-Marinos
+348,28-05-2023,Yokohama F-Marinos,2 - 0,Avispa Fukuoka
+349,03-06-2023,FC Tokyo,2 - 3,Yokohama F-Marinos
+350,10-06-2023,Yokohama F-Marinos,4 - 3,Kashiwa Reysol
+351,24-06-2023,Sanfrecce Hiroshima,0 - 1,Yokohama F-Marinos
+352,02-07-2023,Yokohama F-Marinos,4 - 1,Shonan Bellmare
+353,08-07-2023,Nagoya Grampus,2 - 2,Yokohama F-Marinos
+354,15-07-2023,Yokohama F-Marinos,? - ?,Kawasaki Frontale
+355,18-02-2023,Yokohama FC,0 - 1,Nagoya Grampus
+356,24-02-2023,Shonan Bellmare,2 - 2,Yokohama FC
+357,04-03-2023,Yokohama FC,1 - 3,Kashima Antlers
+358,12-03-2023,FC Tokyo,3 - 1,Yokohama FC
+359,18-03-2023,Yokohama FC,1 - 4,Kyoto Sanga
+360,01-04-2023,Yokohama FC,1 - 1,Avispa Fukuoka
+361,08-04-2023,Yokohama F-Marinos,5 - 0,Yokohama FC
+362,15-04-2023,Yokohama FC,0 - 3,Sanfrecce Hiroshima
+363,23-04-2023,Gamba Osaka,1 - 1,Yokohama FC
+364,29-04-2023,Yokohama FC,1 - 4,Consadole Sapporo
+365,03-05-2023,Yokohama FC,1 - 0,Albirex Niigata
+366,07-05-2023,Vissel Kobe,3 - 0,Yokohama FC
+367,13-05-2023,Kashiwa Reysol,0 - 1,Yokohama FC
+368,20-05-2023,Yokohama FC,2 - 1,Kawasaki Frontale
+369,28-05-2023,Cerezo Osaka,2 - 0,Yokohama FC
+370,03-06-2023,Yokohama FC,1 - 2,Sagan Tosu
+371,11-06-2023,Yokohama FC,0 - 0,Urawa Red Diamonds
+372,24-06-2023,Kyoto Sanga,2 - 1,Yokohama FC
+373,01-07-2023,Yokohama FC,0 - 0,Gamba Osaka
+374,08-07-2023,Kawasaki Frontale,3 - 0,Yokohama FC
+375,16-07-2023,Sanfrecce Hiroshima,? - ?,Yokohama FC

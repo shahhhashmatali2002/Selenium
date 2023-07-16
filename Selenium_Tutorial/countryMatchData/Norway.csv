@@ -1,0 +1,227 @@
+,date,home_team,score,away_team
+0,10-04-2023,Aalesunds FK,0 - 1,Vålerenga
+1,16-04-2023,Strømsgodset IF,1 - 0,Aalesunds FK
+2,23-04-2023,Aalesunds FK,0 - 3,FK Bodø / Glimt
+3,30-04-2023,Sandefjord,4 - 0,Aalesunds FK
+4,03-05-2023,Molde FK,3 - 0,Aalesunds FK
+5,07-05-2023,Aalesunds FK,0 - 0,FK Haugesund
+6,13-05-2023,Stabæk Fotball,1 - 0,Aalesunds FK
+7,16-05-2023,Aalesunds FK,3 - 1,Molde FK
+8,29-05-2023,Sarpsborg 08 FF,3 - 1,Aalesunds FK
+9,04-06-2023,Aalesunds FK,1 - 3,SK Brann
+10,11-06-2023,Aalesunds FK,2 - 3,Tromso
+11,02-07-2023,Aalesunds FK,1 - 0,Rosenborg
+12,07-07-2023,Ham-Kam,2 - 1,Aalesunds FK
+13,16-07-2023,Aalesunds FK,? - ?,Odd Grenland BK
+14,10-04-2023,Sarpsborg 08 FF,0 - 2,FK Bodø / Glimt
+15,16-04-2023,FK Bodø / Glimt,4 - 0,Stabæk Fotball
+16,23-04-2023,Aalesunds FK,0 - 3,FK Bodø / Glimt
+17,29-04-2023,FK Bodø / Glimt,2 - 2,SK Brann
+18,03-05-2023,FK Bodø / Glimt,2 - 0,Odd Grenland BK
+19,07-05-2023,Lillestrom,1 - 2,FK Bodø / Glimt
+20,13-05-2023,FK Bodø / Glimt,3 - 2,Rosenborg
+21,16-05-2023,Tromso,2 - 3,FK Bodø / Glimt
+22,29-05-2023,FK Bodø / Glimt,5 - 1,Viking FK
+23,04-06-2023,Vålerenga,1 - 3,FK Bodø / Glimt
+24,11-06-2023,FK Bodø / Glimt,3 - 0,Ham-Kam
+25,25-06-2023,Strømsgodset IF,2 - 0,FK Bodø / Glimt
+26,02-07-2023,FK Bodø / Glimt,2 - 2,Molde FK
+27,09-07-2023,Odd Grenland BK,0 - 2,FK Bodø / Glimt
+28,16-07-2023,FK Bodø / Glimt,? - ?,FK Haugesund
+29,10-04-2023,SK Brann,3 - 0,FK Haugesund
+30,16-04-2023,FK Haugesund,3 - 2,Ham-Kam
+31,23-04-2023,Stabæk Fotball,3 - 0,FK Haugesund
+32,30-04-2023,FK Haugesund,0 - 0,Sarpsborg 08 FF
+33,07-05-2023,Aalesunds FK,0 - 0,FK Haugesund
+34,13-05-2023,FK Haugesund,1 - 1,Vålerenga
+35,16-05-2023,Rosenborg,1 - 0,FK Haugesund
+36,29-05-2023,FK Haugesund,1 - 2,Tromso
+37,04-06-2023,Strømsgodset IF,1 - 2,FK Haugesund
+38,11-06-2023,FK Haugesund,3 - 2,Sandefjord
+39,25-06-2023,Molde FK,1 - 0,FK Haugesund
+40,02-07-2023,FK Haugesund,2 - 1,Odd Grenland BK
+41,08-07-2023,Viking FK,2 - 0,FK Haugesund
+42,16-07-2023,FK Bodø / Glimt,? - ?,FK Haugesund
+43,10-04-2023,Ham-Kam,2 - 0,Sandefjord
+44,16-04-2023,FK Haugesund,3 - 2,Ham-Kam
+45,23-04-2023,Ham-Kam,2 - 0,Strømsgodset IF
+46,30-04-2023,Viking FK,7 - 3,Ham-Kam
+47,07-05-2023,Ham-Kam,0 - 4,Molde FK
+48,13-05-2023,Ham-Kam,1 - 2,Tromso
+49,16-05-2023,Vålerenga,3 - 0,Ham-Kam
+50,29-05-2023,Ham-Kam,0 - 0,Lillestrom
+51,04-06-2023,Rosenborg,4 - 0,Ham-Kam
+52,11-06-2023,FK Bodø / Glimt,3 - 0,Ham-Kam
+53,25-06-2023,Ham-Kam,0 - 1,Odd Grenland BK
+54,02-07-2023,SK Brann,2 - 1,Ham-Kam
+55,07-07-2023,Ham-Kam,2 - 1,Aalesunds FK
+56,16-07-2023,Sarpsborg 08 FF,? - ?,Ham-Kam
+57,15-04-2023,Viking FK,2 - 0,Lillestrom
+58,19-04-2023,Lillestrom,4 - 3,Strømsgodset IF
+59,23-04-2023,Lillestrom,2 - 1,Molde FK
+60,01-05-2023,Vålerenga,3 - 4,Lillestrom
+61,07-05-2023,Lillestrom,1 - 2,FK Bodø / Glimt
+62,12-05-2023,Odd Grenland BK,0 - 1,Lillestrom
+63,16-05-2023,Lillestrom,1 - 2,Sarpsborg 08 FF
+64,29-05-2023,Ham-Kam,0 - 0,Lillestrom
+65,04-06-2023,Lillestrom,3 - 1,Stabæk Fotball
+66,11-06-2023,SK Brann,2 - 2,Lillestrom
+67,02-07-2023,Lillestrom,0 - 1,Tromso
+68,09-07-2023,Rosenborg,1 - 2,Lillestrom
+69,16-07-2023,Lillestrom,? - ?,Sandefjord
+70,10-04-2023,Tromso,1 - 0,Molde FK
+71,16-04-2023,Molde FK,1 - 1,Rosenborg
+72,23-04-2023,Lillestrom,2 - 1,Molde FK
+73,30-04-2023,Molde FK,2 - 3,Stabæk Fotball
+74,03-05-2023,Molde FK,3 - 0,Aalesunds FK
+75,07-05-2023,Ham-Kam,0 - 4,Molde FK
+76,13-05-2023,Molde FK,3 - 2,Strømsgodset IF
+77,16-05-2023,Aalesunds FK,3 - 1,Molde FK
+78,29-05-2023,Molde FK,5 - 0,Sandefjord
+79,04-06-2023,Viking FK,3 - 4,Molde FK
+80,11-06-2023,Odd Grenland BK,1 - 0,Molde FK
+81,25-06-2023,Molde FK,1 - 0,FK Haugesund
+82,02-07-2023,FK Bodø / Glimt,2 - 2,Molde FK
+83,09-07-2023,Molde FK,2 - 0,SK Brann
+84,15-07-2023,Vålerenga,? - ?,Molde FK
+85,10-04-2023,Stabæk Fotball,0 - 0,Odd Grenland BK
+86,16-04-2023,Odd Grenland BK,2 - 0,SK Brann
+87,23-04-2023,Sarpsborg 08 FF,0 - 0,Odd Grenland BK
+88,30-04-2023,Odd Grenland BK,0 - 0,Rosenborg
+89,03-05-2023,FK Bodø / Glimt,2 - 0,Odd Grenland BK
+90,07-05-2023,Tromso,0 - 1,Odd Grenland BK
+91,12-05-2023,Odd Grenland BK,0 - 1,Lillestrom
+92,16-05-2023,Viking FK,3 - 2,Odd Grenland BK
+93,29-05-2023,Odd Grenland BK,1 - 1,Strømsgodset IF
+94,04-06-2023,Sandefjord,4 - 1,Odd Grenland BK
+95,11-06-2023,Odd Grenland BK,1 - 0,Molde FK
+96,25-06-2023,Ham-Kam,0 - 1,Odd Grenland BK
+97,02-07-2023,FK Haugesund,2 - 1,Odd Grenland BK
+98,09-07-2023,Odd Grenland BK,0 - 2,FK Bodø / Glimt
+99,16-07-2023,Aalesunds FK,? - ?,Odd Grenland BK
+100,10-04-2023,Rosenborg,1 - 0,Viking FK
+101,16-04-2023,Molde FK,1 - 1,Rosenborg
+102,23-04-2023,Rosenborg,1 - 1,Sandefjord
+103,30-04-2023,Odd Grenland BK,0 - 0,Rosenborg
+104,03-05-2023,Rosenborg,0 - 2,SK Brann
+105,06-05-2023,Rosenborg,1 - 3,Vålerenga
+106,13-05-2023,FK Bodø / Glimt,3 - 2,Rosenborg
+107,16-05-2023,Rosenborg,1 - 0,FK Haugesund
+108,29-05-2023,SK Brann,3 - 1,Rosenborg
+109,04-06-2023,Rosenborg,4 - 0,Ham-Kam
+110,11-06-2023,Stabæk Fotball,2 - 2,Rosenborg
+111,25-06-2023,Rosenborg,0 - 3,Sarpsborg 08 FF
+112,02-07-2023,Aalesunds FK,1 - 0,Rosenborg
+113,09-07-2023,Rosenborg,1 - 2,Lillestrom
+114,16-07-2023,Rosenborg,? - ?,Tromso
+115,10-04-2023,SK Brann,3 - 0,FK Haugesund
+116,16-04-2023,Odd Grenland BK,2 - 0,SK Brann
+117,22-04-2023,SK Brann,3 - 1,Vålerenga
+118,29-04-2023,FK Bodø / Glimt,2 - 2,SK Brann
+119,03-05-2023,Rosenborg,0 - 2,SK Brann
+120,08-05-2023,SK Brann,0 - 0,Sandefjord
+121,13-05-2023,Sarpsborg 08 FF,2 - 1,SK Brann
+122,16-05-2023,SK Brann,4 - 1,Stabæk Fotball
+123,29-05-2023,SK Brann,3 - 1,Rosenborg
+124,04-06-2023,Aalesunds FK,1 - 3,SK Brann
+125,11-06-2023,SK Brann,2 - 2,Lillestrom
+126,24-06-2023,Viking FK,3 - 1,SK Brann
+127,02-07-2023,SK Brann,2 - 1,Ham-Kam
+128,09-07-2023,Molde FK,2 - 0,SK Brann
+129,16-07-2023,SK Brann,? - ?,Strømsgodset IF
+130,10-04-2023,Ham-Kam,2 - 0,Sandefjord
+131,16-04-2023,Sandefjord,0 - 0,Tromso
+132,23-04-2023,Rosenborg,1 - 1,Sandefjord
+133,30-04-2023,Sandefjord,4 - 0,Aalesunds FK
+134,08-05-2023,SK Brann,0 - 0,Sandefjord
+135,13-05-2023,Sandefjord,1 - 2,Viking FK
+136,16-05-2023,Strømsgodset IF,1 - 0,Sandefjord
+137,29-05-2023,Molde FK,5 - 0,Sandefjord
+138,04-06-2023,Sandefjord,4 - 1,Odd Grenland BK
+139,11-06-2023,FK Haugesund,3 - 2,Sandefjord
+140,02-07-2023,Sarpsborg 08 FF,6 - 1,Sandefjord
+141,09-07-2023,Sandefjord,0 - 0,Stabæk Fotball
+142,16-07-2023,Lillestrom,? - ?,Sandefjord
+143,10-04-2023,Sarpsborg 08 FF,0 - 2,FK Bodø / Glimt
+144,16-04-2023,Vålerenga,0 - 2,Sarpsborg 08 FF
+145,23-04-2023,Sarpsborg 08 FF,0 - 0,Odd Grenland BK
+146,30-04-2023,FK Haugesund,0 - 0,Sarpsborg 08 FF
+147,07-05-2023,Stabæk Fotball,1 - 1,Sarpsborg 08 FF
+148,13-05-2023,Sarpsborg 08 FF,2 - 1,SK Brann
+149,16-05-2023,Lillestrom,1 - 2,Sarpsborg 08 FF
+150,29-05-2023,Sarpsborg 08 FF,3 - 1,Aalesunds FK
+151,04-06-2023,Tromso,2 - 1,Sarpsborg 08 FF
+152,11-06-2023,Sarpsborg 08 FF,1 - 3,Viking FK
+153,25-06-2023,Rosenborg,0 - 3,Sarpsborg 08 FF
+154,02-07-2023,Sarpsborg 08 FF,6 - 1,Sandefjord
+155,09-07-2023,Strømsgodset IF,5 - 2,Sarpsborg 08 FF
+156,16-07-2023,Sarpsborg 08 FF,? - ?,Ham-Kam
+157,10-04-2023,Stabæk Fotball,0 - 0,Odd Grenland BK
+158,16-04-2023,FK Bodø / Glimt,4 - 0,Stabæk Fotball
+159,23-04-2023,Stabæk Fotball,3 - 0,FK Haugesund
+160,30-04-2023,Molde FK,2 - 3,Stabæk Fotball
+161,07-05-2023,Stabæk Fotball,1 - 1,Sarpsborg 08 FF
+162,13-05-2023,Stabæk Fotball,1 - 0,Aalesunds FK
+163,16-05-2023,SK Brann,4 - 1,Stabæk Fotball
+164,29-05-2023,Stabæk Fotball,2 - 1,Vålerenga
+165,04-06-2023,Lillestrom,3 - 1,Stabæk Fotball
+166,11-06-2023,Stabæk Fotball,2 - 2,Rosenborg
+167,25-06-2023,Tromso,2 - 1,Stabæk Fotball
+168,03-07-2023,Stabæk Fotball,0 - 1,Strømsgodset IF
+169,09-07-2023,Sandefjord,0 - 0,Stabæk Fotball
+170,16-07-2023,Stabæk Fotball,? - ?,Viking FK
+171,16-04-2023,Strømsgodset IF,1 - 0,Aalesunds FK
+172,19-04-2023,Lillestrom,4 - 3,Strømsgodset IF
+173,23-04-2023,Ham-Kam,2 - 0,Strømsgodset IF
+174,30-04-2023,Strømsgodset IF,0 - 1,Tromso
+175,07-05-2023,Viking FK,1 - 1,Strømsgodset IF
+176,13-05-2023,Molde FK,3 - 2,Strømsgodset IF
+177,16-05-2023,Strømsgodset IF,1 - 0,Sandefjord
+178,29-05-2023,Odd Grenland BK,1 - 1,Strømsgodset IF
+179,04-06-2023,Strømsgodset IF,1 - 2,FK Haugesund
+180,11-06-2023,Vålerenga,0 - 1,Strømsgodset IF
+181,25-06-2023,Strømsgodset IF,2 - 0,FK Bodø / Glimt
+182,03-07-2023,Stabæk Fotball,0 - 1,Strømsgodset IF
+183,09-07-2023,Strømsgodset IF,5 - 2,Sarpsborg 08 FF
+184,16-07-2023,SK Brann,? - ?,Strømsgodset IF
+185,10-04-2023,Tromso,1 - 0,Molde FK
+186,16-04-2023,Sandefjord,0 - 0,Tromso
+187,23-04-2023,Tromso,1 - 1,Viking FK
+188,30-04-2023,Strømsgodset IF,0 - 1,Tromso
+189,07-05-2023,Tromso,0 - 1,Odd Grenland BK
+190,13-05-2023,Ham-Kam,1 - 2,Tromso
+191,16-05-2023,Tromso,2 - 3,FK Bodø / Glimt
+192,29-05-2023,FK Haugesund,1 - 2,Tromso
+193,04-06-2023,Tromso,2 - 1,Sarpsborg 08 FF
+194,11-06-2023,Aalesunds FK,2 - 3,Tromso
+195,25-06-2023,Tromso,2 - 1,Stabæk Fotball
+196,02-07-2023,Lillestrom,0 - 1,Tromso
+197,09-07-2023,Tromso,0 - 0,Vålerenga
+198,16-07-2023,Rosenborg,? - ?,Tromso
+199,10-04-2023,Rosenborg,1 - 0,Viking FK
+200,15-04-2023,Viking FK,2 - 0,Lillestrom
+201,23-04-2023,Tromso,1 - 1,Viking FK
+202,30-04-2023,Viking FK,7 - 3,Ham-Kam
+203,07-05-2023,Viking FK,1 - 1,Strømsgodset IF
+204,13-05-2023,Sandefjord,1 - 2,Viking FK
+205,16-05-2023,Viking FK,3 - 2,Odd Grenland BK
+206,29-05-2023,FK Bodø / Glimt,5 - 1,Viking FK
+207,04-06-2023,Viking FK,3 - 4,Molde FK
+208,11-06-2023,Sarpsborg 08 FF,1 - 3,Viking FK
+209,24-06-2023,Viking FK,3 - 1,SK Brann
+210,01-07-2023,Vålerenga,1 - 2,Viking FK
+211,08-07-2023,Viking FK,2 - 0,FK Haugesund
+212,16-07-2023,Stabæk Fotball,? - ?,Viking FK
+213,10-04-2023,Aalesunds FK,0 - 1,Vålerenga
+214,16-04-2023,Vålerenga,0 - 2,Sarpsborg 08 FF
+215,22-04-2023,SK Brann,3 - 1,Vålerenga
+216,01-05-2023,Vålerenga,3 - 4,Lillestrom
+217,06-05-2023,Rosenborg,1 - 3,Vålerenga
+218,13-05-2023,FK Haugesund,1 - 1,Vålerenga
+219,16-05-2023,Vålerenga,3 - 0,Ham-Kam
+220,29-05-2023,Stabæk Fotball,2 - 1,Vålerenga
+221,04-06-2023,Vålerenga,1 - 3,FK Bodø / Glimt
+222,11-06-2023,Vålerenga,0 - 1,Strømsgodset IF
+223,01-07-2023,Vålerenga,1 - 2,Viking FK
+224,09-07-2023,Tromso,0 - 0,Vålerenga
+225,15-07-2023,Vålerenga,? - ?,Molde FK

@@ -1,0 +1,635 @@
+,date,home_team,score,away_team
+0,07-08-2022,Giresunspor,2 - 3,Adana Demirspor
+1,13-08-2022,Adana Demirspor,3 - 0,Sivasspor
+2,22-08-2022,Fenerbahce,4 - 2,Adana Demirspor
+3,27-08-2022,Adana Demirspor,1 - 0,Ümraniyespor
+4,04-09-2022,Hatayspor,1 - 1,Adana Demirspor
+5,12-09-2022,Adana Demirspor,3 - 2,Trabzonspor
+6,17-09-2022,Antalyaspor,0 - 3,Adana Demirspor
+7,01-10-2022,Adana Demirspor,0 - 0,Galatasaray
+8,07-10-2022,Gaziantep BBK,1 - 1,Adana Demirspor
+9,15-10-2022,Kasimpasa,1 - 4,Adana Demirspor
+10,23-10-2022,Adana Demirspor,1 - 1,Konyaspor
+11,30-10-2022,Kayserispor,2 - 2,Adana Demirspor
+12,11-11-2022,Alanyaspor,0 - 0,Adana Demirspor
+13,25-12-2022,Adana Demirspor,2 - 1,Fatih Karagümrük
+14,29-12-2022,Besiktas,1 - 0,Adana Demirspor
+15,05-01-2023,Adana Demirspor,6 - 0,İstanbulspor
+16,09-01-2023,Buyuksehyr,2 - 1,Adana Demirspor
+17,14-01-2023,Adana Demirspor,3 - 1,Ankaragucu
+18,20-01-2023,Adana Demirspor,1 - 1,Giresunspor
+19,28-01-2023,Sivasspor,1 - 2,Adana Demirspor
+20,02-02-2023,Adana Demirspor,1 - 1,Fenerbahce
+21,26-02-2023,Ümraniyespor,1 - 1,Adana Demirspor
+22,12-03-2023,Trabzonspor,4 - 1,Adana Demirspor
+23,18-03-2023,Adana Demirspor,2 - 0,Antalyaspor
+24,01-04-2023,Galatasaray,2 - 0,Adana Demirspor
+25,15-04-2023,Adana Demirspor,5 - 0,Kasimpasa
+26,19-04-2023,Konyaspor,1 - 2,Adana Demirspor
+27,23-04-2023,Adana Demirspor,5 - 3,Kayserispor
+28,06-05-2023,Adana Demirspor,4 - 2,Alanyaspor
+29,17-05-2023,Fatih Karagümrük,2 - 3,Adana Demirspor
+30,21-05-2023,Adana Demirspor,1 - 4,Besiktas
+31,30-05-2023,İstanbulspor,0 - 2,Adana Demirspor
+32,03-06-2023,Adana Demirspor,2 - 3,Buyuksehyr
+33,07-06-2023,Ankaragucu,1 - 2,Adana Demirspor
+34,07-08-2022,Fatih Karagümrük,2 - 4,Alanyaspor
+35,14-08-2022,Alanyaspor,3 - 3,Besiktas
+36,22-08-2022,Sivasspor,1 - 1,Alanyaspor
+37,27-08-2022,Alanyaspor,0 - 1,İstanbulspor
+38,03-09-2022,Buyuksehyr,2 - 0,Alanyaspor
+39,09-09-2022,Alanyaspor,2 - 1,Ankaragucu
+40,18-09-2022,Fenerbahce,5 - 0,Alanyaspor
+41,02-10-2022,Alanyaspor,1 - 1,Giresunspor
+42,09-10-2022,Hatayspor,1 - 0,Alanyaspor
+43,14-10-2022,Alanyaspor,3 - 2,Antalyaspor
+44,23-10-2022,Galatasaray,2 - 2,Alanyaspor
+45,29-10-2022,Alanyaspor,2 - 0,Gaziantep BBK
+46,04-11-2022,Ümraniyespor,3 - 1,Alanyaspor
+47,11-11-2022,Alanyaspor,0 - 0,Adana Demirspor
+48,25-12-2022,Konyaspor,2 - 2,Alanyaspor
+49,28-12-2022,Alanyaspor,3 - 1,Kayserispor
+50,04-01-2023,Kasimpasa,4 - 1,Alanyaspor
+51,09-01-2023,Alanyaspor,5 - 0,Trabzonspor
+52,22-01-2023,Alanyaspor,2 - 2,Fatih Karagümrük
+53,27-01-2023,Besiktas,3 - 0,Alanyaspor
+54,31-01-2023,Alanyaspor,0 - 3,Sivasspor
+55,05-02-2023,İstanbulspor,2 - 1,Alanyaspor
+56,03-03-2023,Alanyaspor,1 - 0,Buyuksehyr
+57,12-03-2023,Ankaragucu,2 - 0,Alanyaspor
+58,19-03-2023,Alanyaspor,1 - 3,Fenerbahce
+59,02-04-2023,Giresunspor,2 - 2,Alanyaspor
+60,14-04-2023,Antalyaspor,3 - 1,Alanyaspor
+61,18-04-2023,Alanyaspor,1 - 4,Galatasaray
+62,28-04-2023,Alanyaspor,1 - 0,Ümraniyespor
+63,06-05-2023,Adana Demirspor,4 - 2,Alanyaspor
+64,16-05-2023,Alanyaspor,0 - 3,Konyaspor
+65,20-05-2023,Kayserispor,0 - 4,Alanyaspor
+66,30-05-2023,Alanyaspor,1 - 3,Kasimpasa
+67,03-06-2023,Trabzonspor,5 - 1,Alanyaspor
+68,08-08-2022,Ankaragucu,0 - 0,Konyaspor
+69,14-08-2022,Gaziantep BBK,1 - 0,Ankaragucu
+70,27-08-2022,Fatih Karagümrük,4 - 1,Ankaragucu
+71,04-09-2022,Ankaragucu,2 - 3,Besiktas
+72,09-09-2022,Alanyaspor,2 - 1,Ankaragucu
+73,18-09-2022,Ankaragucu,2 - 1,Sivasspor
+74,01-10-2022,Ankaragucu,1 - 2,Buyuksehyr
+75,08-10-2022,İstanbulspor,1 - 2,Ankaragucu
+76,17-10-2022,Ankaragucu,0 - 3,Fenerbahce
+77,24-10-2022,Giresunspor,1 - 1,Ankaragucu
+78,30-10-2022,Ankaragucu,4 - 1,Hatayspor
+79,04-11-2022,Kasimpasa,1 - 1,Ankaragucu
+80,11-11-2022,Ankaragucu,1 - 1,Trabzonspor
+81,23-12-2022,Antalyaspor,0 - 2,Ankaragucu
+82,27-12-2022,Ankaragucu,1 - 2,Ümraniyespor
+83,04-01-2023,Galatasaray,2 - 1,Ankaragucu
+84,08-01-2023,Ankaragucu,2 - 1,Kayserispor
+85,14-01-2023,Adana Demirspor,3 - 1,Ankaragucu
+86,23-01-2023,Konyaspor,0 - 1,Ankaragucu
+87,28-01-2023,Ankaragucu,0 - 2,Gaziantep BBK
+88,04-02-2023,Ankaragucu,0 - 2,Fatih Karagümrük
+89,05-03-2023,Besiktas,2 - 1,Ankaragucu
+90,12-03-2023,Ankaragucu,2 - 0,Alanyaspor
+91,19-03-2023,Sivasspor,2 - 0,Ankaragucu
+92,01-04-2023,Buyuksehyr,1 - 0,Ankaragucu
+93,08-04-2023,Ankaragucu,3 - 2,İstanbulspor
+94,15-04-2023,Fenerbahce,2 - 1,Ankaragucu
+95,20-04-2023,Ankaragucu,3 - 1,Giresunspor
+96,29-04-2023,Ankaragucu,0 - 0,Kasimpasa
+97,08-05-2023,Trabzonspor,2 - 0,Ankaragucu
+98,17-05-2023,Ankaragucu,1 - 1,Antalyaspor
+99,21-05-2023,Ümraniyespor,1 - 2,Ankaragucu
+100,30-05-2023,Ankaragucu,1 - 4,Galatasaray
+101,03-06-2023,Kayserispor,0 - 1,Ankaragucu
+102,07-06-2023,Ankaragucu,1 - 2,Adana Demirspor
+103,07-08-2022,Antalyaspor,0 - 1,Galatasaray
+104,14-08-2022,Ümraniyespor,0 - 1,Antalyaspor
+105,20-08-2022,Antalyaspor,5 - 2,Trabzonspor
+106,26-08-2022,Gaziantep BBK,5 - 2,Antalyaspor
+107,04-09-2022,Antalyaspor,0 - 2,Kasimpasa
+108,11-09-2022,Kayserispor,1 - 0,Antalyaspor
+109,17-09-2022,Antalyaspor,0 - 3,Adana Demirspor
+110,08-10-2022,Antalyaspor,1 - 1,Konyaspor
+111,14-10-2022,Alanyaspor,3 - 2,Antalyaspor
+112,21-10-2022,Antalyaspor,2 - 1,İstanbulspor
+113,31-10-2022,Sivasspor,0 - 2,Antalyaspor
+114,06-11-2022,Antalyaspor,4 - 2,Fatih Karagümrük
+115,23-12-2022,Antalyaspor,0 - 2,Ankaragucu
+116,27-12-2022,Buyuksehyr,2 - 0,Antalyaspor
+117,03-01-2023,Antalyaspor,1 - 2,Fenerbahce
+118,07-01-2023,Hatayspor,0 - 0,Antalyaspor
+119,14-01-2023,Antalyaspor,2 - 2,Giresunspor
+120,21-01-2023,Galatasaray,2 - 1,Antalyaspor
+121,28-01-2023,Antalyaspor,3 - 2,Ümraniyespor
+122,01-02-2023,Trabzonspor,2 - 0,Antalyaspor
+123,04-02-2023,Antalyaspor,1 - 0,Gaziantep BBK
+124,26-02-2023,Besiktas,0 - 0,Antalyaspor
+125,06-03-2023,Kasimpasa,3 - 1,Antalyaspor
+126,11-03-2023,Antalyaspor,4 - 0,Kayserispor
+127,18-03-2023,Adana Demirspor,2 - 0,Antalyaspor
+128,07-04-2023,Konyaspor,1 - 1,Antalyaspor
+129,14-04-2023,Antalyaspor,3 - 1,Alanyaspor
+130,19-04-2023,İstanbulspor,3 - 3,Antalyaspor
+131,24-04-2023,Antalyaspor,1 - 2,Sivasspor
+132,29-04-2023,Fatih Karagümrük,0 - 1,Antalyaspor
+133,06-05-2023,Antalyaspor,1 - 3,Besiktas
+134,17-05-2023,Ankaragucu,1 - 1,Antalyaspor
+135,21-05-2023,Antalyaspor,0 - 0,Buyuksehyr
+136,30-05-2023,Fenerbahce,2 - 0,Antalyaspor
+137,03-06-2023,Antalyaspor,3 - 0,Hatayspor
+138,07-06-2023,Giresunspor,2 - 0,Antalyaspor
+139,06-08-2022,Besiktas,1 - 0,Kayserispor
+140,14-08-2022,Alanyaspor,3 - 3,Besiktas
+141,21-08-2022,Besiktas,4 - 1,Fatih Karagümrük
+142,29-08-2022,Besiktas,3 - 1,Sivasspor
+143,04-09-2022,Ankaragucu,2 - 3,Besiktas
+144,12-09-2022,Besiktas,0 - 1,Buyuksehyr
+145,17-09-2022,İstanbulspor,2 - 2,Besiktas
+146,02-10-2022,Besiktas,0 - 0,Fenerbahce
+147,08-10-2022,Giresunspor,0 - 1,Besiktas
+148,16-10-2022,Besiktas,2 - 2,Trabzonspor
+149,24-10-2022,Hatayspor,2 - 1,Besiktas
+150,30-10-2022,Besiktas,5 - 2,Ümraniyespor
+151,05-11-2022,Galatasaray,2 - 1,Besiktas
+152,25-12-2022,Gaziantep BBK,1 - 1,Besiktas
+153,29-12-2022,Besiktas,1 - 0,Adana Demirspor
+154,07-01-2023,Besiktas,2 - 1,Kasimpasa
+155,14-01-2023,Konyaspor,1 - 2,Besiktas
+156,22-01-2023,Kayserispor,0 - 2,Besiktas
+157,27-01-2023,Besiktas,3 - 0,Alanyaspor
+158,31-01-2023,Fatih Karagümrük,1 - 1,Besiktas
+159,04-02-2023,Sivasspor,1 - 0,Besiktas
+160,26-02-2023,Besiktas,0 - 0,Antalyaspor
+161,05-03-2023,Besiktas,2 - 1,Ankaragucu
+162,12-03-2023,Buyuksehyr,0 - 2,Besiktas
+163,18-03-2023,Besiktas,3 - 1,İstanbulspor
+164,02-04-2023,Fenerbahce,2 - 4,Besiktas
+165,09-04-2023,Besiktas,3 - 1,Giresunspor
+166,16-04-2023,Trabzonspor,0 - 0,Besiktas
+167,22-04-2023,Ümraniyespor,0 - 2,Besiktas
+168,30-04-2023,Besiktas,3 - 1,Galatasaray
+169,06-05-2023,Antalyaspor,1 - 3,Besiktas
+170,21-05-2023,Adana Demirspor,1 - 4,Besiktas
+171,03-06-2023,Kasimpasa,2 - 5,Besiktas
+172,07-06-2023,Besiktas,3 - 3,Konyaspor
+173,08-08-2022,Buyuksehyr,4 - 0,Kasimpasa
+174,15-08-2022,Konyaspor,0 - 0,Buyuksehyr
+175,21-08-2022,Buyuksehyr,2 - 0,Kayserispor
+176,03-09-2022,Buyuksehyr,2 - 0,Alanyaspor
+177,12-09-2022,Besiktas,0 - 1,Buyuksehyr
+178,18-09-2022,Buyuksehyr,0 - 0,Fatih Karagümrük
+179,01-10-2022,Ankaragucu,1 - 2,Buyuksehyr
+180,10-10-2022,Buyuksehyr,0 - 2,Sivasspor
+181,16-10-2022,Buyuksehyr,2 - 0,İstanbulspor
+182,22-10-2022,Fenerbahce,1 - 0,Buyuksehyr
+183,31-10-2022,Buyuksehyr,3 - 1,Giresunspor
+184,07-11-2022,Hatayspor,3 - 3,Buyuksehyr
+185,12-11-2022,Buyuksehyr,0 - 7,Galatasaray
+186,23-12-2022,Ümraniyespor,1 - 3,Buyuksehyr
+187,27-12-2022,Buyuksehyr,2 - 0,Antalyaspor
+188,05-01-2023,Gaziantep BBK,1 - 1,Buyuksehyr
+189,09-01-2023,Buyuksehyr,2 - 1,Adana Demirspor
+190,14-01-2023,Trabzonspor,1 - 0,Buyuksehyr
+191,21-01-2023,Kasimpasa,1 - 3,Buyuksehyr
+192,29-01-2023,Buyuksehyr,2 - 0,Konyaspor
+193,02-02-2023,Kayserispor,1 - 0,Buyuksehyr
+194,03-03-2023,Alanyaspor,1 - 0,Buyuksehyr
+195,12-03-2023,Buyuksehyr,0 - 2,Besiktas
+196,19-03-2023,Fatih Karagümrük,2 - 2,Buyuksehyr
+197,01-04-2023,Buyuksehyr,1 - 0,Ankaragucu
+198,09-04-2023,Sivasspor,1 - 1,Buyuksehyr
+199,15-04-2023,İstanbulspor,1 - 0,Buyuksehyr
+200,19-04-2023,Buyuksehyr,1 - 2,Fenerbahce
+201,24-04-2023,Giresunspor,2 - 4,Buyuksehyr
+202,08-05-2023,Galatasaray,1 - 0,Buyuksehyr
+203,17-05-2023,Buyuksehyr,1 - 1,Ümraniyespor
+204,21-05-2023,Antalyaspor,0 - 0,Buyuksehyr
+205,03-06-2023,Adana Demirspor,2 - 3,Buyuksehyr
+206,06-06-2023,Buyuksehyr,3 - 1,Trabzonspor
+207,07-08-2022,Fatih Karagümrük,2 - 4,Alanyaspor
+208,21-08-2022,Besiktas,4 - 1,Fatih Karagümrük
+209,27-08-2022,Fatih Karagümrük,4 - 1,Ankaragucu
+210,03-09-2022,Sivasspor,0 - 0,Fatih Karagümrük
+211,10-09-2022,Fatih Karagümrük,1 - 1,Giresunspor
+212,18-09-2022,Buyuksehyr,0 - 0,Fatih Karagümrük
+213,03-10-2022,Fatih Karagümrük,1 - 2,İstanbulspor
+214,09-10-2022,Fenerbahce,5 - 4,Fatih Karagümrük
+215,15-10-2022,Fatih Karagümrük,3 - 0,Hatayspor
+216,22-10-2022,Ümraniyespor,1 - 3,Fatih Karagümrük
+217,28-10-2022,Fatih Karagümrük,0 - 2,Galatasaray
+218,06-11-2022,Antalyaspor,4 - 2,Fatih Karagümrük
+219,13-11-2022,Fatih Karagümrük,3 - 3,Gaziantep BBK
+220,25-12-2022,Adana Demirspor,2 - 1,Fatih Karagümrük
+221,28-12-2022,Fatih Karagümrük,4 - 1,Trabzonspor
+222,04-01-2023,Kayserispor,2 - 4,Fatih Karagümrük
+223,08-01-2023,Fatih Karagümrük,3 - 3,Konyaspor
+224,15-01-2023,Kasimpasa,2 - 2,Fatih Karagümrük
+225,22-01-2023,Alanyaspor,2 - 2,Fatih Karagümrük
+226,31-01-2023,Fatih Karagümrük,1 - 1,Besiktas
+227,04-02-2023,Ankaragucu,0 - 2,Fatih Karagümrük
+228,04-03-2023,Fatih Karagümrük,4 - 3,Sivasspor
+229,10-03-2023,Giresunspor,2 - 2,Fatih Karagümrük
+230,19-03-2023,Fatih Karagümrük,2 - 2,Buyuksehyr
+231,03-04-2023,İstanbulspor,0 - 1,Fatih Karagümrük
+232,10-04-2023,Fatih Karagümrük,1 - 2,Fenerbahce
+233,18-04-2023,Fatih Karagümrük,4 - 2,Ümraniyespor
+234,23-04-2023,Galatasaray,3 - 3,Fatih Karagümrük
+235,29-04-2023,Fatih Karagümrük,0 - 1,Antalyaspor
+236,17-05-2023,Fatih Karagümrük,2 - 3,Adana Demirspor
+237,22-05-2023,Trabzonspor,4 - 1,Fatih Karagümrük
+238,30-05-2023,Fatih Karagümrük,2 - 0,Kayserispor
+239,03-06-2023,Konyaspor,1 - 1,Fatih Karagümrük
+240,06-06-2023,Fatih Karagümrük,3 - 0,Kasimpasa
+241,08-08-2022,Fenerbahce,3 - 3,Ümraniyespor
+242,15-08-2022,Kasimpasa,0 - 6,Fenerbahce
+243,22-08-2022,Fenerbahce,4 - 2,Adana Demirspor
+244,29-08-2022,Konyaspor,1 - 0,Fenerbahce
+245,03-09-2022,Fenerbahce,2 - 0,Kayserispor
+246,18-09-2022,Fenerbahce,5 - 0,Alanyaspor
+247,02-10-2022,Besiktas,0 - 0,Fenerbahce
+248,09-10-2022,Fenerbahce,5 - 4,Fatih Karagümrük
+249,17-10-2022,Ankaragucu,0 - 3,Fenerbahce
+250,22-10-2022,Fenerbahce,1 - 0,Buyuksehyr
+251,30-10-2022,İstanbulspor,2 - 5,Fenerbahce
+252,07-11-2022,Fenerbahce,1 - 0,Sivasspor
+253,12-11-2022,Fenerbahce,1 - 2,Giresunspor
+254,24-12-2022,Trabzonspor,2 - 0,Fenerbahce
+255,27-12-2022,Fenerbahce,4 - 0,Hatayspor
+256,03-01-2023,Antalyaspor,1 - 2,Fenerbahce
+257,08-01-2023,Fenerbahce,0 - 3,Galatasaray
+258,15-01-2023,Gaziantep BBK,1 - 2,Fenerbahce
+259,23-01-2023,Ümraniyespor,1 - 2,Fenerbahce
+260,29-01-2023,Fenerbahce,5 - 1,Kasimpasa
+261,02-02-2023,Adana Demirspor,1 - 1,Fenerbahce
+262,25-02-2023,Fenerbahce,4 - 0,Konyaspor
+263,04-03-2023,Kayserispor,1 - 2,Fenerbahce
+264,19-03-2023,Alanyaspor,1 - 3,Fenerbahce
+265,02-04-2023,Fenerbahce,2 - 4,Besiktas
+266,10-04-2023,Fatih Karagümrük,1 - 2,Fenerbahce
+267,15-04-2023,Fenerbahce,2 - 1,Ankaragucu
+268,19-04-2023,Buyuksehyr,1 - 2,Fenerbahce
+269,24-04-2023,Fenerbahce,3 - 3,İstanbulspor
+270,29-04-2023,Sivasspor,1 - 3,Fenerbahce
+271,07-05-2023,Giresunspor,1 - 1,Fenerbahce
+272,18-05-2023,Fenerbahce,3 - 1,Trabzonspor
+273,30-05-2023,Fenerbahce,2 - 0,Antalyaspor
+274,04-06-2023,Galatasaray,3 - 0,Fenerbahce
+275,07-06-2023,Fenerbahce,3 - 0,Gaziantep BBK
+276,07-08-2022,Antalyaspor,0 - 1,Galatasaray
+277,13-08-2022,Galatasaray,0 - 1,Giresunspor
+278,19-08-2022,Ümraniyespor,0 - 1,Galatasaray
+279,28-08-2022,Trabzonspor,0 - 0,Galatasaray
+280,05-09-2022,Galatasaray,2 - 1,Gaziantep BBK
+281,11-09-2022,Kasimpasa,2 - 3,Galatasaray
+282,16-09-2022,Galatasaray,2 - 1,Konyaspor
+283,01-10-2022,Adana Demirspor,0 - 0,Galatasaray
+284,15-10-2022,Kayserispor,2 - 1,Galatasaray
+285,23-10-2022,Galatasaray,2 - 2,Alanyaspor
+286,28-10-2022,Fatih Karagümrük,0 - 2,Galatasaray
+287,05-11-2022,Galatasaray,2 - 1,Besiktas
+288,12-11-2022,Buyuksehyr,0 - 7,Galatasaray
+289,25-12-2022,Galatasaray,2 - 1,İstanbulspor
+290,29-12-2022,Sivasspor,1 - 2,Galatasaray
+291,04-01-2023,Galatasaray,2 - 1,Ankaragucu
+292,08-01-2023,Fenerbahce,0 - 3,Galatasaray
+293,13-01-2023,Galatasaray,4 - 0,Hatayspor
+294,21-01-2023,Galatasaray,2 - 1,Antalyaspor
+295,28-01-2023,Giresunspor,0 - 4,Galatasaray
+296,01-02-2023,Galatasaray,3 - 2,Ümraniyespor
+297,05-02-2023,Galatasaray,2 - 1,Trabzonspor
+298,11-03-2023,Galatasaray,1 - 0,Kasimpasa
+299,17-03-2023,Konyaspor,2 - 1,Galatasaray
+300,01-04-2023,Galatasaray,2 - 0,Adana Demirspor
+301,14-04-2023,Galatasaray,6 - 0,Kayserispor
+302,18-04-2023,Alanyaspor,1 - 4,Galatasaray
+303,23-04-2023,Galatasaray,3 - 3,Fatih Karagümrük
+304,30-04-2023,Besiktas,3 - 1,Galatasaray
+305,08-05-2023,Galatasaray,1 - 0,Buyuksehyr
+306,16-05-2023,İstanbulspor,0 - 2,Galatasaray
+307,20-05-2023,Galatasaray,2 - 0,Sivasspor
+308,30-05-2023,Ankaragucu,1 - 4,Galatasaray
+309,04-06-2023,Galatasaray,3 - 0,Fenerbahce
+310,07-06-2023,Hatayspor,0 - 3,Galatasaray
+311,06-08-2022,Sivasspor,1 - 1,Gaziantep BBK
+312,14-08-2022,Gaziantep BBK,1 - 0,Ankaragucu
+313,20-08-2022,Hatayspor,1 - 2,Gaziantep BBK
+314,26-08-2022,Gaziantep BBK,5 - 2,Antalyaspor
+315,05-09-2022,Galatasaray,2 - 1,Gaziantep BBK
+316,11-09-2022,Gaziantep BBK,1 - 1,Ümraniyespor
+317,18-09-2022,Trabzonspor,3 - 2,Gaziantep BBK
+318,01-10-2022,Kasimpasa,1 - 0,Gaziantep BBK
+319,07-10-2022,Gaziantep BBK,1 - 1,Adana Demirspor
+320,15-10-2022,Konyaspor,0 - 1,Gaziantep BBK
+321,29-10-2022,Alanyaspor,2 - 0,Gaziantep BBK
+322,06-11-2022,Gaziantep BBK,1 - 2,Kayserispor
+323,13-11-2022,Fatih Karagümrük,3 - 3,Gaziantep BBK
+324,25-12-2022,Gaziantep BBK,1 - 1,Besiktas
+325,29-12-2022,Giresunspor,2 - 1,Gaziantep BBK
+326,05-01-2023,Gaziantep BBK,1 - 1,Buyuksehyr
+327,09-01-2023,İstanbulspor,1 - 1,Gaziantep BBK
+328,15-01-2023,Gaziantep BBK,1 - 2,Fenerbahce
+329,22-01-2023,Gaziantep BBK,1 - 2,Sivasspor
+330,28-01-2023,Ankaragucu,0 - 2,Gaziantep BBK
+331,01-02-2023,Gaziantep BBK,4 - 1,Hatayspor
+332,04-02-2023,Antalyaspor,1 - 0,Gaziantep BBK
+333,03-06-2023,Gaziantep BBK,0 - 3,İstanbulspor
+334,07-06-2023,Fenerbahce,3 - 0,Gaziantep BBK
+335,07-08-2022,Giresunspor,2 - 3,Adana Demirspor
+336,13-08-2022,Galatasaray,0 - 1,Giresunspor
+337,20-08-2022,Giresunspor,1 - 0,Kasimpasa
+338,28-08-2022,Kayserispor,3 - 0,Giresunspor
+339,03-09-2022,Giresunspor,0 - 1,Konyaspor
+340,10-09-2022,Fatih Karagümrük,1 - 1,Giresunspor
+341,02-10-2022,Alanyaspor,1 - 1,Giresunspor
+342,08-10-2022,Giresunspor,0 - 1,Besiktas
+343,17-10-2022,Sivasspor,3 - 0,Giresunspor
+344,24-10-2022,Giresunspor,1 - 1,Ankaragucu
+345,31-10-2022,Buyuksehyr,3 - 1,Giresunspor
+346,05-11-2022,Giresunspor,3 - 2,İstanbulspor
+347,12-11-2022,Fenerbahce,1 - 2,Giresunspor
+348,24-12-2022,Hatayspor,1 - 1,Giresunspor
+349,29-12-2022,Giresunspor,2 - 1,Gaziantep BBK
+350,05-01-2023,Trabzonspor,3 - 0,Giresunspor
+351,08-01-2023,Giresunspor,0 - 1,Ümraniyespor
+352,14-01-2023,Antalyaspor,2 - 2,Giresunspor
+353,20-01-2023,Adana Demirspor,1 - 1,Giresunspor
+354,28-01-2023,Giresunspor,0 - 4,Galatasaray
+355,01-02-2023,Kasimpasa,5 - 1,Giresunspor
+356,25-02-2023,Giresunspor,1 - 2,Kayserispor
+357,05-03-2023,Konyaspor,0 - 0,Giresunspor
+358,10-03-2023,Giresunspor,2 - 2,Fatih Karagümrük
+359,02-04-2023,Giresunspor,2 - 2,Alanyaspor
+360,09-04-2023,Besiktas,3 - 1,Giresunspor
+361,16-04-2023,Giresunspor,1 - 0,Sivasspor
+362,20-04-2023,Ankaragucu,3 - 1,Giresunspor
+363,24-04-2023,Giresunspor,2 - 4,Buyuksehyr
+364,01-05-2023,İstanbulspor,1 - 0,Giresunspor
+365,07-05-2023,Giresunspor,1 - 1,Fenerbahce
+366,30-05-2023,Giresunspor,2 - 4,Trabzonspor
+367,03-06-2023,Ümraniyespor,0 - 1,Giresunspor
+368,07-06-2023,Giresunspor,2 - 0,Antalyaspor
+369,12-08-2022,Trabzonspor,1 - 0,Hatayspor
+370,20-08-2022,Hatayspor,1 - 2,Gaziantep BBK
+371,28-08-2022,Kasimpasa,1 - 0,Hatayspor
+372,04-09-2022,Hatayspor,1 - 1,Adana Demirspor
+373,10-09-2022,Konyaspor,1 - 0,Hatayspor
+374,16-09-2022,Hatayspor,0 - 4,Kayserispor
+375,02-10-2022,Sivasspor,1 - 2,Hatayspor
+376,09-10-2022,Hatayspor,1 - 0,Alanyaspor
+377,15-10-2022,Fatih Karagümrük,3 - 0,Hatayspor
+378,24-10-2022,Hatayspor,2 - 1,Besiktas
+379,30-10-2022,Ankaragucu,4 - 1,Hatayspor
+380,07-11-2022,Hatayspor,3 - 3,Buyuksehyr
+381,13-11-2022,İstanbulspor,0 - 1,Hatayspor
+382,24-12-2022,Hatayspor,1 - 1,Giresunspor
+383,27-12-2022,Fenerbahce,4 - 0,Hatayspor
+384,03-01-2023,Ümraniyespor,2 - 2,Hatayspor
+385,07-01-2023,Hatayspor,0 - 0,Antalyaspor
+386,13-01-2023,Galatasaray,4 - 0,Hatayspor
+387,28-01-2023,Hatayspor,2 - 1,Trabzonspor
+388,01-02-2023,Gaziantep BBK,4 - 1,Hatayspor
+389,05-02-2023,Hatayspor,1 - 0,Kasimpasa
+390,03-06-2023,Antalyaspor,3 - 0,Hatayspor
+391,07-06-2023,Hatayspor,0 - 3,Galatasaray
+392,08-08-2022,Buyuksehyr,4 - 0,Kasimpasa
+393,15-08-2022,Kasimpasa,0 - 6,Fenerbahce
+394,20-08-2022,Giresunspor,1 - 0,Kasimpasa
+395,28-08-2022,Kasimpasa,1 - 0,Hatayspor
+396,04-09-2022,Antalyaspor,0 - 2,Kasimpasa
+397,11-09-2022,Kasimpasa,2 - 3,Galatasaray
+398,17-09-2022,Ümraniyespor,1 - 2,Kasimpasa
+399,01-10-2022,Kasimpasa,1 - 0,Gaziantep BBK
+400,10-10-2022,Trabzonspor,0 - 0,Kasimpasa
+401,15-10-2022,Kasimpasa,1 - 4,Adana Demirspor
+402,23-10-2022,Kasimpasa,0 - 1,Kayserispor
+403,29-10-2022,Konyaspor,1 - 1,Kasimpasa
+404,04-11-2022,Kasimpasa,1 - 1,Ankaragucu
+405,24-12-2022,Kasimpasa,1 - 2,Sivasspor
+406,28-12-2022,İstanbulspor,2 - 1,Kasimpasa
+407,04-01-2023,Kasimpasa,4 - 1,Alanyaspor
+408,07-01-2023,Besiktas,2 - 1,Kasimpasa
+409,15-01-2023,Kasimpasa,2 - 2,Fatih Karagümrük
+410,21-01-2023,Kasimpasa,1 - 3,Buyuksehyr
+411,29-01-2023,Fenerbahce,5 - 1,Kasimpasa
+412,01-02-2023,Kasimpasa,5 - 1,Giresunspor
+413,05-02-2023,Hatayspor,1 - 0,Kasimpasa
+414,06-03-2023,Kasimpasa,3 - 1,Antalyaspor
+415,11-03-2023,Galatasaray,1 - 0,Kasimpasa
+416,18-03-2023,Kasimpasa,1 - 1,Ümraniyespor
+417,08-04-2023,Kasimpasa,2 - 0,Trabzonspor
+418,15-04-2023,Adana Demirspor,5 - 0,Kasimpasa
+419,19-04-2023,Kayserispor,0 - 0,Kasimpasa
+420,23-04-2023,Kasimpasa,1 - 2,Konyaspor
+421,29-04-2023,Ankaragucu,0 - 0,Kasimpasa
+422,16-05-2023,Sivasspor,1 - 2,Kasimpasa
+423,20-05-2023,Kasimpasa,1 - 0,İstanbulspor
+424,30-05-2023,Alanyaspor,1 - 3,Kasimpasa
+425,03-06-2023,Kasimpasa,2 - 5,Besiktas
+426,06-06-2023,Fatih Karagümrük,3 - 0,Kasimpasa
+427,06-08-2022,Besiktas,1 - 0,Kayserispor
+428,13-08-2022,Kayserispor,1 - 0,İstanbulspor
+429,21-08-2022,Buyuksehyr,2 - 0,Kayserispor
+430,28-08-2022,Kayserispor,3 - 0,Giresunspor
+431,03-09-2022,Fenerbahce,2 - 0,Kayserispor
+432,11-09-2022,Kayserispor,1 - 0,Antalyaspor
+433,16-09-2022,Hatayspor,0 - 4,Kayserispor
+434,01-10-2022,Kayserispor,1 - 2,Trabzonspor
+435,09-10-2022,Ümraniyespor,2 - 2,Kayserispor
+436,15-10-2022,Kayserispor,2 - 1,Galatasaray
+437,23-10-2022,Kasimpasa,0 - 1,Kayserispor
+438,30-10-2022,Kayserispor,2 - 2,Adana Demirspor
+439,06-11-2022,Gaziantep BBK,1 - 2,Kayserispor
+440,13-11-2022,Kayserispor,1 - 2,Konyaspor
+441,28-12-2022,Alanyaspor,3 - 1,Kayserispor
+442,04-01-2023,Kayserispor,2 - 4,Fatih Karagümrük
+443,08-01-2023,Ankaragucu,2 - 1,Kayserispor
+444,13-01-2023,Kayserispor,4 - 1,Sivasspor
+445,22-01-2023,Kayserispor,0 - 2,Besiktas
+446,29-01-2023,İstanbulspor,2 - 4,Kayserispor
+447,02-02-2023,Kayserispor,1 - 0,Buyuksehyr
+448,25-02-2023,Giresunspor,1 - 2,Kayserispor
+449,04-03-2023,Kayserispor,1 - 2,Fenerbahce
+450,11-03-2023,Antalyaspor,4 - 0,Kayserispor
+451,01-04-2023,Trabzonspor,3 - 4,Kayserispor
+452,10-04-2023,Kayserispor,3 - 1,Ümraniyespor
+453,14-04-2023,Galatasaray,6 - 0,Kayserispor
+454,19-04-2023,Kayserispor,0 - 0,Kasimpasa
+455,23-04-2023,Adana Demirspor,5 - 3,Kayserispor
+456,07-05-2023,Konyaspor,2 - 2,Kayserispor
+457,20-05-2023,Kayserispor,0 - 4,Alanyaspor
+458,30-05-2023,Fatih Karagümrük,2 - 0,Kayserispor
+459,03-06-2023,Kayserispor,0 - 1,Ankaragucu
+460,06-06-2023,Sivasspor,1 - 1,Kayserispor
+461,08-08-2022,Ankaragucu,0 - 0,Konyaspor
+462,15-08-2022,Konyaspor,0 - 0,Buyuksehyr
+463,22-08-2022,İstanbulspor,0 - 4,Konyaspor
+464,29-08-2022,Konyaspor,1 - 0,Fenerbahce
+465,03-09-2022,Giresunspor,0 - 1,Konyaspor
+466,10-09-2022,Konyaspor,1 - 0,Hatayspor
+467,16-09-2022,Galatasaray,2 - 1,Konyaspor
+468,02-10-2022,Konyaspor,1 - 0,Ümraniyespor
+469,08-10-2022,Antalyaspor,1 - 1,Konyaspor
+470,15-10-2022,Konyaspor,0 - 1,Gaziantep BBK
+471,23-10-2022,Adana Demirspor,1 - 1,Konyaspor
+472,29-10-2022,Konyaspor,1 - 1,Kasimpasa
+473,06-11-2022,Trabzonspor,2 - 2,Konyaspor
+474,13-11-2022,Kayserispor,1 - 2,Konyaspor
+475,25-12-2022,Konyaspor,2 - 2,Alanyaspor
+476,04-01-2023,Konyaspor,2 - 2,Sivasspor
+477,08-01-2023,Fatih Karagümrük,3 - 3,Konyaspor
+478,14-01-2023,Konyaspor,1 - 2,Besiktas
+479,23-01-2023,Konyaspor,0 - 1,Ankaragucu
+480,29-01-2023,Buyuksehyr,2 - 0,Konyaspor
+481,02-02-2023,Konyaspor,0 - 1,İstanbulspor
+482,25-02-2023,Fenerbahce,4 - 0,Konyaspor
+483,05-03-2023,Konyaspor,0 - 0,Giresunspor
+484,17-03-2023,Konyaspor,2 - 1,Galatasaray
+485,02-04-2023,Ümraniyespor,2 - 2,Konyaspor
+486,07-04-2023,Konyaspor,1 - 1,Antalyaspor
+487,19-04-2023,Konyaspor,1 - 2,Adana Demirspor
+488,23-04-2023,Kasimpasa,1 - 2,Konyaspor
+489,29-04-2023,Konyaspor,2 - 1,Trabzonspor
+490,07-05-2023,Konyaspor,2 - 2,Kayserispor
+491,16-05-2023,Alanyaspor,0 - 3,Konyaspor
+492,30-05-2023,Sivasspor,1 - 0,Konyaspor
+493,03-06-2023,Konyaspor,1 - 1,Fatih Karagümrük
+494,07-06-2023,Besiktas,3 - 3,Konyaspor
+495,06-08-2022,Sivasspor,1 - 1,Gaziantep BBK
+496,13-08-2022,Adana Demirspor,3 - 0,Sivasspor
+497,22-08-2022,Sivasspor,1 - 1,Alanyaspor
+498,29-08-2022,Besiktas,3 - 1,Sivasspor
+499,03-09-2022,Sivasspor,0 - 0,Fatih Karagümrük
+500,11-09-2022,Sivasspor,1 - 1,İstanbulspor
+501,18-09-2022,Ankaragucu,2 - 1,Sivasspor
+502,02-10-2022,Sivasspor,1 - 2,Hatayspor
+503,10-10-2022,Buyuksehyr,0 - 2,Sivasspor
+504,17-10-2022,Sivasspor,3 - 0,Giresunspor
+505,22-10-2022,Trabzonspor,1 - 0,Sivasspor
+506,31-10-2022,Sivasspor,0 - 2,Antalyaspor
+507,07-11-2022,Fenerbahce,1 - 0,Sivasspor
+508,12-11-2022,Sivasspor,2 - 2,Ümraniyespor
+509,24-12-2022,Kasimpasa,1 - 2,Sivasspor
+510,29-12-2022,Sivasspor,1 - 2,Galatasaray
+511,04-01-2023,Konyaspor,2 - 2,Sivasspor
+512,13-01-2023,Kayserispor,4 - 1,Sivasspor
+513,22-01-2023,Gaziantep BBK,1 - 2,Sivasspor
+514,28-01-2023,Sivasspor,1 - 2,Adana Demirspor
+515,31-01-2023,Alanyaspor,0 - 3,Sivasspor
+516,04-02-2023,Sivasspor,1 - 0,Besiktas
+517,04-03-2023,Fatih Karagümrük,4 - 3,Sivasspor
+518,13-03-2023,İstanbulspor,3 - 0,Sivasspor
+519,19-03-2023,Sivasspor,2 - 0,Ankaragucu
+520,09-04-2023,Sivasspor,1 - 1,Buyuksehyr
+521,16-04-2023,Giresunspor,1 - 0,Sivasspor
+522,20-04-2023,Sivasspor,4 - 1,Trabzonspor
+523,24-04-2023,Antalyaspor,1 - 2,Sivasspor
+524,29-04-2023,Sivasspor,1 - 3,Fenerbahce
+525,07-05-2023,Ümraniyespor,4 - 1,Sivasspor
+526,16-05-2023,Sivasspor,1 - 2,Kasimpasa
+527,20-05-2023,Galatasaray,2 - 0,Sivasspor
+528,30-05-2023,Sivasspor,1 - 0,Konyaspor
+529,06-06-2023,Sivasspor,1 - 1,Kayserispor
+530,05-08-2022,İstanbulspor,0 - 2,Trabzonspor
+531,12-08-2022,Trabzonspor,1 - 0,Hatayspor
+532,20-08-2022,Antalyaspor,5 - 2,Trabzonspor
+533,28-08-2022,Trabzonspor,0 - 0,Galatasaray
+534,02-09-2022,Ümraniyespor,0 - 1,Trabzonspor
+535,12-09-2022,Adana Demirspor,3 - 2,Trabzonspor
+536,18-09-2022,Trabzonspor,3 - 2,Gaziantep BBK
+537,01-10-2022,Kayserispor,1 - 2,Trabzonspor
+538,10-10-2022,Trabzonspor,0 - 0,Kasimpasa
+539,16-10-2022,Besiktas,2 - 2,Trabzonspor
+540,22-10-2022,Trabzonspor,1 - 0,Sivasspor
+541,06-11-2022,Trabzonspor,2 - 2,Konyaspor
+542,11-11-2022,Ankaragucu,1 - 1,Trabzonspor
+543,24-12-2022,Trabzonspor,2 - 0,Fenerbahce
+544,28-12-2022,Fatih Karagümrük,4 - 1,Trabzonspor
+545,05-01-2023,Trabzonspor,3 - 0,Giresunspor
+546,09-01-2023,Alanyaspor,5 - 0,Trabzonspor
+547,14-01-2023,Trabzonspor,1 - 0,Buyuksehyr
+548,22-01-2023,Trabzonspor,4 - 0,İstanbulspor
+549,28-01-2023,Hatayspor,2 - 1,Trabzonspor
+550,01-02-2023,Trabzonspor,2 - 0,Antalyaspor
+551,05-02-2023,Galatasaray,2 - 1,Trabzonspor
+552,04-03-2023,Trabzonspor,1 - 2,Ümraniyespor
+553,12-03-2023,Trabzonspor,4 - 1,Adana Demirspor
+554,01-04-2023,Trabzonspor,3 - 4,Kayserispor
+555,08-04-2023,Kasimpasa,2 - 0,Trabzonspor
+556,16-04-2023,Trabzonspor,0 - 0,Besiktas
+557,20-04-2023,Sivasspor,4 - 1,Trabzonspor
+558,29-04-2023,Konyaspor,2 - 1,Trabzonspor
+559,08-05-2023,Trabzonspor,2 - 0,Ankaragucu
+560,18-05-2023,Fenerbahce,3 - 1,Trabzonspor
+561,22-05-2023,Trabzonspor,4 - 1,Fatih Karagümrük
+562,30-05-2023,Giresunspor,2 - 4,Trabzonspor
+563,03-06-2023,Trabzonspor,5 - 1,Alanyaspor
+564,06-06-2023,Buyuksehyr,3 - 1,Trabzonspor
+565,08-08-2022,Fenerbahce,3 - 3,Ümraniyespor
+566,14-08-2022,Ümraniyespor,0 - 1,Antalyaspor
+567,19-08-2022,Ümraniyespor,0 - 1,Galatasaray
+568,27-08-2022,Adana Demirspor,1 - 0,Ümraniyespor
+569,02-09-2022,Ümraniyespor,0 - 1,Trabzonspor
+570,11-09-2022,Gaziantep BBK,1 - 1,Ümraniyespor
+571,17-09-2022,Ümraniyespor,1 - 2,Kasimpasa
+572,02-10-2022,Konyaspor,1 - 0,Ümraniyespor
+573,09-10-2022,Ümraniyespor,2 - 2,Kayserispor
+574,22-10-2022,Ümraniyespor,1 - 3,Fatih Karagümrük
+575,30-10-2022,Besiktas,5 - 2,Ümraniyespor
+576,04-11-2022,Ümraniyespor,3 - 1,Alanyaspor
+577,12-11-2022,Sivasspor,2 - 2,Ümraniyespor
+578,23-12-2022,Ümraniyespor,1 - 3,Buyuksehyr
+579,27-12-2022,Ankaragucu,1 - 2,Ümraniyespor
+580,03-01-2023,Ümraniyespor,2 - 2,Hatayspor
+581,08-01-2023,Giresunspor,0 - 1,Ümraniyespor
+582,15-01-2023,Ümraniyespor,0 - 2,İstanbulspor
+583,23-01-2023,Ümraniyespor,1 - 2,Fenerbahce
+584,28-01-2023,Antalyaspor,3 - 2,Ümraniyespor
+585,01-02-2023,Galatasaray,3 - 2,Ümraniyespor
+586,26-02-2023,Ümraniyespor,1 - 1,Adana Demirspor
+587,04-03-2023,Trabzonspor,1 - 2,Ümraniyespor
+588,18-03-2023,Kasimpasa,1 - 1,Ümraniyespor
+589,02-04-2023,Ümraniyespor,2 - 2,Konyaspor
+590,10-04-2023,Kayserispor,3 - 1,Ümraniyespor
+591,18-04-2023,Fatih Karagümrük,4 - 2,Ümraniyespor
+592,22-04-2023,Ümraniyespor,0 - 2,Besiktas
+593,28-04-2023,Alanyaspor,1 - 0,Ümraniyespor
+594,07-05-2023,Ümraniyespor,4 - 1,Sivasspor
+595,17-05-2023,Buyuksehyr,1 - 1,Ümraniyespor
+596,21-05-2023,Ümraniyespor,1 - 2,Ankaragucu
+597,03-06-2023,Ümraniyespor,0 - 1,Giresunspor
+598,07-06-2023,İstanbulspor,4 - 0,Ümraniyespor
+599,05-08-2022,İstanbulspor,0 - 2,Trabzonspor
+600,13-08-2022,Kayserispor,1 - 0,İstanbulspor
+601,22-08-2022,İstanbulspor,0 - 4,Konyaspor
+602,27-08-2022,Alanyaspor,0 - 1,İstanbulspor
+603,11-09-2022,Sivasspor,1 - 1,İstanbulspor
+604,17-09-2022,İstanbulspor,2 - 2,Besiktas
+605,03-10-2022,Fatih Karagümrük,1 - 2,İstanbulspor
+606,08-10-2022,İstanbulspor,1 - 2,Ankaragucu
+607,16-10-2022,Buyuksehyr,2 - 0,İstanbulspor
+608,21-10-2022,Antalyaspor,2 - 1,İstanbulspor
+609,30-10-2022,İstanbulspor,2 - 5,Fenerbahce
+610,05-11-2022,Giresunspor,3 - 2,İstanbulspor
+611,13-11-2022,İstanbulspor,0 - 1,Hatayspor
+612,25-12-2022,Galatasaray,2 - 1,İstanbulspor
+613,28-12-2022,İstanbulspor,2 - 1,Kasimpasa
+614,05-01-2023,Adana Demirspor,6 - 0,İstanbulspor
+615,09-01-2023,İstanbulspor,1 - 1,Gaziantep BBK
+616,15-01-2023,Ümraniyespor,0 - 2,İstanbulspor
+617,22-01-2023,Trabzonspor,4 - 0,İstanbulspor
+618,29-01-2023,İstanbulspor,2 - 4,Kayserispor
+619,02-02-2023,Konyaspor,0 - 1,İstanbulspor
+620,05-02-2023,İstanbulspor,2 - 1,Alanyaspor
+621,13-03-2023,İstanbulspor,3 - 0,Sivasspor
+622,18-03-2023,Besiktas,3 - 1,İstanbulspor
+623,03-04-2023,İstanbulspor,0 - 1,Fatih Karagümrük
+624,08-04-2023,Ankaragucu,3 - 2,İstanbulspor
+625,15-04-2023,İstanbulspor,1 - 0,Buyuksehyr
+626,19-04-2023,İstanbulspor,3 - 3,Antalyaspor
+627,24-04-2023,Fenerbahce,3 - 3,İstanbulspor
+628,01-05-2023,İstanbulspor,1 - 0,Giresunspor
+629,16-05-2023,İstanbulspor,0 - 2,Galatasaray
+630,20-05-2023,Kasimpasa,1 - 0,İstanbulspor
+631,30-05-2023,İstanbulspor,0 - 2,Adana Demirspor
+632,03-06-2023,Gaziantep BBK,0 - 3,İstanbulspor
+633,07-06-2023,İstanbulspor,4 - 0,Ümraniyespor

@@ -1,0 +1,613 @@
+,date,home_team,score,away_team
+0,18-07-2022,Gornik Zabrze,0 - 2,Cracovia Krakow
+1,23-07-2022,Cracovia Krakow,2 - 0,Korona Kielce
+2,29-07-2022,Cracovia Krakow,3 - 0,Legia Warsaw
+3,05-08-2022,FKS Stal Mielec,2 - 0,Cracovia Krakow
+4,13-08-2022,Cracovia Krakow,0 - 1,Piast Gliwice
+5,20-08-2022,Slask Wroclaw,1 - 1,Cracovia Krakow
+6,28-08-2022,Cracovia Krakow,0 - 2,KS Warta Poznań
+7,03-09-2022,Cracovia Krakow,3 - 0,Raków Częst.
+8,09-09-2022,Widzew Łódź,2 - 0,Cracovia Krakow
+9,17-09-2022,Cracovia Krakow,1 - 1,Pogon Szczecin
+10,30-09-2022,Radomiak Radom,0 - 2,Cracovia Krakow
+11,08-10-2022,Cracovia Krakow,0 - 1,Lechia Gdansk
+12,16-10-2022,Miedz Legnica,1 - 1,Cracovia Krakow
+13,23-10-2022,Cracovia Krakow,0 - 0,Lech Poznan
+14,30-10-2022,Zaglebie Lubin,0 - 2,Cracovia Krakow
+15,05-11-2022,Cracovia Krakow,1 - 0,Jagiellonia Bialystok
+16,11-11-2022,Wisla Plock SA,1 - 0,Cracovia Krakow
+17,30-01-2023,Cracovia Krakow,2 - 0,Gornik Zabrze
+18,06-02-2023,Korona Kielce,2 - 1,Cracovia Krakow
+19,12-02-2023,Legia Warsaw,2 - 2,Cracovia Krakow
+20,17-02-2023,Cracovia Krakow,2 - 1,FKS Stal Mielec
+21,25-02-2023,Piast Gliwice,2 - 1,Cracovia Krakow
+22,05-03-2023,Cracovia Krakow,1 - 1,Slask Wroclaw
+23,12-03-2023,KS Warta Poznań,0 - 0,Cracovia Krakow
+24,18-03-2023,Raków Częst.,4 - 1,Cracovia Krakow
+25,02-04-2023,Cracovia Krakow,1 - 1,Widzew Łódź
+26,08-04-2023,Pogon Szczecin,3 - 2,Cracovia Krakow
+27,15-04-2023,Cracovia Krakow,3 - 0,Radomiak Radom
+28,22-04-2023,Lechia Gdansk,1 - 2,Cracovia Krakow
+29,01-05-2023,Cracovia Krakow,1 - 1,Miedz Legnica
+30,06-05-2023,Lech Poznan,3 - 0,Cracovia Krakow
+31,13-05-2023,Cracovia Krakow,0 - 1,Zaglebie Lubin
+32,20-05-2023,Jagiellonia Bialystok,1 - 1,Cracovia Krakow
+33,27-05-2023,Cracovia Krakow,3 - 0,Wisla Plock SA
+34,16-07-2022,Lech Poznan,0 - 2,FKS Stal Mielec
+35,25-07-2022,FKS Stal Mielec,1 - 1,Radomiak Radom
+36,31-07-2022,Raków Częst.,3 - 2,FKS Stal Mielec
+37,05-08-2022,FKS Stal Mielec,2 - 0,Cracovia Krakow
+38,13-08-2022,Gornik Zabrze,1 - 3,FKS Stal Mielec
+39,21-08-2022,Piast Gliwice,4 - 0,FKS Stal Mielec
+40,26-08-2022,FKS Stal Mielec,0 - 1,Legia Warsaw
+41,03-09-2022,FKS Stal Mielec,2 - 0,Slask Wroclaw
+42,12-09-2022,Jagiellonia Bialystok,4 - 0,FKS Stal Mielec
+43,17-09-2022,FKS Stal Mielec,0 - 3,Widzew Łódź
+44,02-10-2022,Miedz Legnica,0 - 2,FKS Stal Mielec
+45,07-10-2022,FKS Stal Mielec,4 - 2,Pogon Szczecin
+46,14-10-2022,Korona Kielce,0 - 2,FKS Stal Mielec
+47,22-10-2022,FKS Stal Mielec,1 - 1,Wisla Plock SA
+48,30-10-2022,Lechia Gdansk,1 - 0,FKS Stal Mielec
+49,04-11-2022,FKS Stal Mielec,3 - 0,Zaglebie Lubin
+50,11-11-2022,KS Warta Poznań,1 - 1,FKS Stal Mielec
+51,27-01-2023,FKS Stal Mielec,0 - 0,Lech Poznan
+52,05-02-2023,Radomiak Radom,1 - 0,FKS Stal Mielec
+53,10-02-2023,FKS Stal Mielec,0 - 0,Raków Częst.
+54,17-02-2023,Cracovia Krakow,2 - 1,FKS Stal Mielec
+55,26-02-2023,FKS Stal Mielec,0 - 1,Gornik Zabrze
+56,03-03-2023,FKS Stal Mielec,0 - 2,Piast Gliwice
+57,12-03-2023,Legia Warsaw,2 - 0,FKS Stal Mielec
+58,18-03-2023,Slask Wroclaw,1 - 1,FKS Stal Mielec
+59,03-04-2023,FKS Stal Mielec,1 - 1,Jagiellonia Bialystok
+60,08-04-2023,Widzew Łódź,0 - 2,FKS Stal Mielec
+61,17-04-2023,FKS Stal Mielec,1 - 1,Miedz Legnica
+62,22-04-2023,Pogon Szczecin,4 - 2,FKS Stal Mielec
+63,30-04-2023,FKS Stal Mielec,2 - 1,Korona Kielce
+64,07-05-2023,Wisla Plock SA,0 - 0,FKS Stal Mielec
+65,14-05-2023,FKS Stal Mielec,0 - 0,Lechia Gdansk
+66,19-05-2023,Zaglebie Lubin,2 - 0,FKS Stal Mielec
+67,27-05-2023,FKS Stal Mielec,1 - 0,KS Warta Poznań
+68,18-07-2022,Gornik Zabrze,0 - 2,Cracovia Krakow
+69,30-07-2022,Radomiak Radom,0 - 3,Gornik Zabrze
+70,07-08-2022,Gornik Zabrze,1 - 0,Raków Częst.
+71,13-08-2022,Gornik Zabrze,1 - 3,FKS Stal Mielec
+72,19-08-2022,Legia Warsaw,2 - 2,Gornik Zabrze
+73,26-08-2022,Gornik Zabrze,1 - 1,Jagiellonia Bialystok
+74,05-09-2022,Wisla Plock SA,1 - 1,Gornik Zabrze
+75,10-09-2022,Gornik Zabrze,3 - 3,Piast Gliwice
+76,18-09-2022,Korona Kielce,1 - 2,Gornik Zabrze
+77,01-10-2022,Gornik Zabrze,2 - 3,Zaglebie Lubin
+78,08-10-2022,Slask Wroclaw,4 - 1,Gornik Zabrze
+79,16-10-2022,Gornik Zabrze,1 - 2,Lech Poznan
+80,23-10-2022,KS Warta Poznań,0 - 0,Gornik Zabrze
+81,28-10-2022,Gornik Zabrze,3 - 0,Widzew Łódź
+82,05-11-2022,Pogon Szczecin,1 - 4,Gornik Zabrze
+83,12-11-2022,Gornik Zabrze,0 - 3,Miedz Legnica
+84,18-11-2022,Lechia Gdansk,2 - 1,Gornik Zabrze
+85,30-01-2023,Cracovia Krakow,2 - 0,Gornik Zabrze
+86,04-02-2023,Gornik Zabrze,1 - 1,Lechia Gdansk
+87,12-02-2023,Gornik Zabrze,0 - 0,Radomiak Radom
+88,18-02-2023,Raków Częst.,2 - 0,Gornik Zabrze
+89,26-02-2023,FKS Stal Mielec,0 - 1,Gornik Zabrze
+90,04-03-2023,Gornik Zabrze,0 - 1,Legia Warsaw
+91,11-03-2023,Jagiellonia Bialystok,2 - 1,Gornik Zabrze
+92,17-03-2023,Gornik Zabrze,3 - 2,Wisla Plock SA
+93,31-03-2023,Piast Gliwice,1 - 0,Gornik Zabrze
+94,06-04-2023,Gornik Zabrze,1 - 1,Korona Kielce
+95,14-04-2023,Zaglebie Lubin,0 - 2,Gornik Zabrze
+96,23-04-2023,Gornik Zabrze,2 - 0,Slask Wroclaw
+97,30-04-2023,Lech Poznan,0 - 1,Gornik Zabrze
+98,05-05-2023,Gornik Zabrze,2 - 0,KS Warta Poznań
+99,13-05-2023,Widzew Łódź,2 - 3,Gornik Zabrze
+100,20-05-2023,Gornik Zabrze,2 - 1,Pogon Szczecin
+101,27-05-2023,Miedz Legnica,0 - 0,Gornik Zabrze
+102,16-07-2022,Jagiellonia Bialystok,2 - 0,Piast Gliwice
+103,22-07-2022,Jagiellonia Bialystok,0 - 2,Widzew Łódź
+104,31-07-2022,Pogon Szczecin,1 - 0,Jagiellonia Bialystok
+105,06-08-2022,Jagiellonia Bialystok,1 - 2,Radomiak Radom
+106,14-08-2022,Raków Częst.,2 - 2,Jagiellonia Bialystok
+107,19-08-2022,Jagiellonia Bialystok,2 - 1,Miedz Legnica
+108,26-08-2022,Gornik Zabrze,1 - 1,Jagiellonia Bialystok
+109,04-09-2022,Zaglebie Lubin,1 - 1,Jagiellonia Bialystok
+110,12-09-2022,Jagiellonia Bialystok,4 - 0,FKS Stal Mielec
+111,17-09-2022,Lechia Gdansk,2 - 2,Jagiellonia Bialystok
+112,02-10-2022,Jagiellonia Bialystok,4 - 1,Korona Kielce
+113,07-10-2022,Jagiellonia Bialystok,1 - 1,Wisla Plock SA
+114,15-10-2022,KS Warta Poznań,2 - 0,Jagiellonia Bialystok
+115,23-10-2022,Slask Wroclaw,2 - 2,Jagiellonia Bialystok
+116,29-10-2022,Jagiellonia Bialystok,2 - 5,Legia Warsaw
+117,05-11-2022,Cracovia Krakow,1 - 0,Jagiellonia Bialystok
+118,12-11-2022,Jagiellonia Bialystok,1 - 2,Lech Poznan
+119,29-01-2023,Piast Gliwice,1 - 1,Jagiellonia Bialystok
+120,03-02-2023,Widzew Łódź,1 - 1,Jagiellonia Bialystok
+121,11-02-2023,Jagiellonia Bialystok,2 - 0,Pogon Szczecin
+122,20-02-2023,Radomiak Radom,0 - 0,Jagiellonia Bialystok
+123,24-02-2023,Jagiellonia Bialystok,1 - 2,Raków Częst.
+124,05-03-2023,Miedz Legnica,1 - 1,Jagiellonia Bialystok
+125,11-03-2023,Jagiellonia Bialystok,2 - 1,Gornik Zabrze
+126,18-03-2023,Jagiellonia Bialystok,2 - 2,Zaglebie Lubin
+127,03-04-2023,FKS Stal Mielec,1 - 1,Jagiellonia Bialystok
+128,10-04-2023,Jagiellonia Bialystok,1 - 0,Lechia Gdansk
+129,15-04-2023,Korona Kielce,2 - 1,Jagiellonia Bialystok
+130,21-04-2023,Wisla Plock SA,2 - 4,Jagiellonia Bialystok
+131,29-04-2023,Jagiellonia Bialystok,3 - 1,KS Warta Poznań
+132,05-05-2023,Jagiellonia Bialystok,1 - 1,Slask Wroclaw
+133,12-05-2023,Legia Warsaw,5 - 1,Jagiellonia Bialystok
+134,20-05-2023,Jagiellonia Bialystok,1 - 1,Cracovia Krakow
+135,27-05-2023,Lech Poznan,2 - 0,Jagiellonia Bialystok
+136,15-07-2022,Raków Częst.,1 - 0,KS Warta Poznań
+137,22-07-2022,KS Warta Poznań,0 - 4,Wisla Plock SA
+138,30-07-2022,Miedz Legnica,1 - 2,KS Warta Poznań
+139,07-08-2022,KS Warta Poznań,1 - 2,Pogon Szczecin
+140,15-08-2022,Korona Kielce,0 - 1,KS Warta Poznań
+141,20-08-2022,KS Warta Poznań,0 - 1,Widzew Łódź
+142,28-08-2022,Cracovia Krakow,0 - 2,KS Warta Poznań
+143,03-09-2022,Lechia Gdansk,0 - 0,KS Warta Poznań
+144,09-09-2022,KS Warta Poznań,2 - 2,Zaglebie Lubin
+145,18-09-2022,KS Warta Poznań,0 - 1,Lech Poznan
+146,03-10-2022,Slask Wroclaw,0 - 2,KS Warta Poznań
+147,08-10-2022,Legia Warsaw,1 - 0,KS Warta Poznań
+148,15-10-2022,KS Warta Poznań,2 - 0,Jagiellonia Bialystok
+149,23-10-2022,KS Warta Poznań,0 - 0,Gornik Zabrze
+150,31-10-2022,Radomiak Radom,2 - 3,KS Warta Poznań
+151,05-11-2022,Piast Gliwice,0 - 2,KS Warta Poznań
+152,11-11-2022,KS Warta Poznań,1 - 1,FKS Stal Mielec
+153,28-01-2023,KS Warta Poznań,1 - 1,Raków Częst.
+154,13-02-2023,KS Warta Poznań,1 - 1,Miedz Legnica
+155,18-02-2023,Pogon Szczecin,3 - 1,KS Warta Poznań
+156,25-02-2023,KS Warta Poznań,5 - 1,Korona Kielce
+157,04-03-2023,Widzew Łódź,0 - 2,KS Warta Poznań
+158,08-03-2023,Wisla Plock SA,1 - 0,KS Warta Poznań
+159,12-03-2023,KS Warta Poznań,0 - 0,Cracovia Krakow
+160,19-03-2023,KS Warta Poznań,2 - 0,Lechia Gdansk
+161,31-03-2023,Zaglebie Lubin,0 - 0,KS Warta Poznań
+162,08-04-2023,Lech Poznan,2 - 0,KS Warta Poznań
+163,14-04-2023,KS Warta Poznań,3 - 1,Slask Wroclaw
+164,21-04-2023,KS Warta Poznań,1 - 0,Legia Warsaw
+165,29-04-2023,Jagiellonia Bialystok,3 - 1,KS Warta Poznań
+166,05-05-2023,Gornik Zabrze,2 - 0,KS Warta Poznań
+167,15-05-2023,KS Warta Poznań,1 - 2,Radomiak Radom
+168,22-05-2023,KS Warta Poznań,1 - 1,Piast Gliwice
+169,27-05-2023,FKS Stal Mielec,1 - 0,KS Warta Poznań
+170,16-07-2022,Korona Kielce,1 - 1,Legia Warsaw
+171,23-07-2022,Cracovia Krakow,2 - 0,Korona Kielce
+172,01-08-2022,Korona Kielce,3 - 1,Slask Wroclaw
+173,06-08-2022,Lechia Gdansk,0 - 1,Korona Kielce
+174,15-08-2022,Korona Kielce,0 - 1,KS Warta Poznań
+175,20-08-2022,Wisla Plock SA,2 - 1,Korona Kielce
+176,27-08-2022,Radomiak Radom,0 - 2,Korona Kielce
+177,04-09-2022,Korona Kielce,1 - 2,Pogon Szczecin
+178,11-09-2022,Miedz Legnica,2 - 2,Korona Kielce
+179,18-09-2022,Korona Kielce,1 - 2,Gornik Zabrze
+180,02-10-2022,Jagiellonia Bialystok,4 - 1,Korona Kielce
+181,09-10-2022,Zaglebie Lubin,1 - 1,Korona Kielce
+182,14-10-2022,Korona Kielce,0 - 2,FKS Stal Mielec
+183,22-10-2022,Raków Częst.,1 - 0,Korona Kielce
+184,29-10-2022,Korona Kielce,1 - 1,Piast Gliwice
+185,06-11-2022,Lech Poznan,3 - 2,Korona Kielce
+186,12-11-2022,Korona Kielce,0 - 1,Widzew Łódź
+187,29-01-2023,Legia Warsaw,3 - 2,Korona Kielce
+188,06-02-2023,Korona Kielce,2 - 1,Cracovia Krakow
+189,11-02-2023,Slask Wroclaw,1 - 1,Korona Kielce
+190,18-02-2023,Korona Kielce,1 - 0,Lechia Gdansk
+191,25-02-2023,KS Warta Poznań,5 - 1,Korona Kielce
+192,04-03-2023,Korona Kielce,1 - 0,Wisla Plock SA
+193,11-03-2023,Korona Kielce,2 - 1,Radomiak Radom
+194,18-03-2023,Pogon Szczecin,0 - 0,Korona Kielce
+195,01-04-2023,Korona Kielce,1 - 0,Miedz Legnica
+196,06-04-2023,Gornik Zabrze,1 - 1,Korona Kielce
+197,15-04-2023,Korona Kielce,2 - 1,Jagiellonia Bialystok
+198,23-04-2023,Korona Kielce,2 - 2,Zaglebie Lubin
+199,30-04-2023,FKS Stal Mielec,2 - 1,Korona Kielce
+200,07-05-2023,Korona Kielce,1 - 0,Raków Częst.
+201,12-05-2023,Piast Gliwice,2 - 1,Korona Kielce
+202,19-05-2023,Korona Kielce,0 - 3,Lech Poznan
+203,27-05-2023,Widzew Łódź,0 - 3,Korona Kielce
+204,16-07-2022,Lech Poznan,0 - 2,FKS Stal Mielec
+205,31-07-2022,Lech Poznan,1 - 3,Wisla Plock SA
+206,07-08-2022,Zaglebie Lubin,1 - 1,Lech Poznan
+207,14-08-2022,Lech Poznan,0 - 1,Slask Wroclaw
+208,28-08-2022,Lech Poznan,1 - 0,Piast Gliwice
+209,31-08-2022,Lechia Gdansk,0 - 3,Lech Poznan
+210,04-09-2022,Lech Poznan,2 - 0,Widzew Łódź
+211,11-09-2022,Pogon Szczecin,2 - 2,Lech Poznan
+212,18-09-2022,KS Warta Poznań,0 - 1,Lech Poznan
+213,01-10-2022,Lech Poznan,0 - 0,Legia Warsaw
+214,09-10-2022,Lech Poznan,1 - 0,Radomiak Radom
+215,16-10-2022,Gornik Zabrze,1 - 2,Lech Poznan
+216,23-10-2022,Cracovia Krakow,0 - 0,Lech Poznan
+217,30-10-2022,Lech Poznan,1 - 2,Raków Częst.
+218,06-11-2022,Lech Poznan,3 - 2,Korona Kielce
+219,12-11-2022,Jagiellonia Bialystok,1 - 2,Lech Poznan
+220,27-01-2023,FKS Stal Mielec,0 - 0,Lech Poznan
+221,01-02-2023,Miedz Legnica,2 - 2,Lech Poznan
+222,05-02-2023,Lech Poznan,1 - 0,Miedz Legnica
+223,11-02-2023,Wisla Plock SA,0 - 1,Lech Poznan
+224,19-02-2023,Lech Poznan,1 - 2,Zaglebie Lubin
+225,26-02-2023,Slask Wroclaw,2 - 1,Lech Poznan
+226,03-03-2023,Lech Poznan,5 - 0,Lechia Gdansk
+227,12-03-2023,Piast Gliwice,1 - 1,Lech Poznan
+228,19-03-2023,Widzew Łódź,1 - 2,Lech Poznan
+229,02-04-2023,Lech Poznan,2 - 2,Pogon Szczecin
+230,08-04-2023,Lech Poznan,2 - 0,KS Warta Poznań
+231,16-04-2023,Legia Warsaw,2 - 2,Lech Poznan
+232,24-04-2023,Radomiak Radom,1 - 1,Lech Poznan
+233,30-04-2023,Lech Poznan,0 - 1,Gornik Zabrze
+234,06-05-2023,Lech Poznan,3 - 0,Cracovia Krakow
+235,14-05-2023,Raków Częst.,0 - 2,Lech Poznan
+236,19-05-2023,Korona Kielce,0 - 3,Lech Poznan
+237,27-05-2023,Lech Poznan,2 - 0,Jagiellonia Bialystok
+238,17-07-2022,Wisla Plock SA,3 - 0,Lechia Gdansk
+239,31-07-2022,Widzew Łódź,2 - 3,Lechia Gdansk
+240,06-08-2022,Lechia Gdansk,0 - 1,Korona Kielce
+241,14-08-2022,Radomiak Radom,4 - 1,Lechia Gdansk
+242,27-08-2022,Miedz Legnica,2 - 1,Lechia Gdansk
+243,31-08-2022,Lechia Gdansk,0 - 3,Lech Poznan
+244,03-09-2022,Lechia Gdansk,0 - 0,KS Warta Poznań
+245,10-09-2022,Slask Wroclaw,2 - 1,Lechia Gdansk
+246,17-09-2022,Lechia Gdansk,2 - 2,Jagiellonia Bialystok
+247,01-10-2022,Pogon Szczecin,2 - 1,Lechia Gdansk
+248,08-10-2022,Cracovia Krakow,0 - 1,Lechia Gdansk
+249,15-10-2022,Lechia Gdansk,0 - 3,Raków Częst.
+250,24-10-2022,Zaglebie Lubin,0 - 3,Lechia Gdansk
+251,30-10-2022,Lechia Gdansk,1 - 0,FKS Stal Mielec
+252,04-11-2022,Legia Warsaw,2 - 1,Lechia Gdansk
+253,13-11-2022,Lechia Gdansk,1 - 3,Piast Gliwice
+254,18-11-2022,Lechia Gdansk,2 - 1,Gornik Zabrze
+255,29-01-2023,Lechia Gdansk,1 - 0,Wisla Plock SA
+256,04-02-2023,Gornik Zabrze,1 - 1,Lechia Gdansk
+257,10-02-2023,Lechia Gdansk,0 - 0,Widzew Łódź
+258,18-02-2023,Korona Kielce,1 - 0,Lechia Gdansk
+259,25-02-2023,Lechia Gdansk,1 - 3,Radomiak Radom
+260,03-03-2023,Lech Poznan,5 - 0,Lechia Gdansk
+261,10-03-2023,Lechia Gdansk,4 - 0,Miedz Legnica
+262,19-03-2023,KS Warta Poznań,2 - 0,Lechia Gdansk
+263,01-04-2023,Lechia Gdansk,0 - 0,Slask Wroclaw
+264,10-04-2023,Jagiellonia Bialystok,1 - 0,Lechia Gdansk
+265,15-04-2023,Lechia Gdansk,0 - 1,Pogon Szczecin
+266,22-04-2023,Lechia Gdansk,1 - 2,Cracovia Krakow
+267,28-04-2023,Raków Częst.,4 - 0,Lechia Gdansk
+268,06-05-2023,Lechia Gdansk,1 - 3,Zaglebie Lubin
+269,14-05-2023,FKS Stal Mielec,0 - 0,Lechia Gdansk
+270,20-05-2023,Lechia Gdansk,1 - 0,Legia Warsaw
+271,27-05-2023,Piast Gliwice,0 - 1,Lechia Gdansk
+272,16-07-2022,Korona Kielce,1 - 1,Legia Warsaw
+273,23-07-2022,Legia Warsaw,2 - 0,Zaglebie Lubin
+274,29-07-2022,Cracovia Krakow,3 - 0,Legia Warsaw
+275,05-08-2022,Legia Warsaw,2 - 0,Piast Gliwice
+276,12-08-2022,Widzew Łódź,1 - 2,Legia Warsaw
+277,19-08-2022,Legia Warsaw,2 - 2,Gornik Zabrze
+278,26-08-2022,FKS Stal Mielec,0 - 1,Legia Warsaw
+279,02-09-2022,Legia Warsaw,1 - 0,Radomiak Radom
+280,11-09-2022,Raków Częst.,4 - 0,Legia Warsaw
+281,16-09-2022,Legia Warsaw,3 - 2,Miedz Legnica
+282,01-10-2022,Lech Poznan,0 - 0,Legia Warsaw
+283,08-10-2022,Legia Warsaw,1 - 0,KS Warta Poznań
+284,14-10-2022,Wisla Plock SA,2 - 1,Legia Warsaw
+285,22-10-2022,Legia Warsaw,1 - 1,Pogon Szczecin
+286,29-10-2022,Jagiellonia Bialystok,2 - 5,Legia Warsaw
+287,04-11-2022,Legia Warsaw,2 - 1,Lechia Gdansk
+288,13-11-2022,Slask Wroclaw,0 - 0,Legia Warsaw
+289,29-01-2023,Legia Warsaw,3 - 2,Korona Kielce
+290,04-02-2023,Zaglebie Lubin,1 - 2,Legia Warsaw
+291,12-02-2023,Legia Warsaw,2 - 2,Cracovia Krakow
+292,19-02-2023,Piast Gliwice,0 - 1,Legia Warsaw
+293,24-02-2023,Legia Warsaw,2 - 2,Widzew Łódź
+294,04-03-2023,Gornik Zabrze,0 - 1,Legia Warsaw
+295,12-03-2023,Legia Warsaw,2 - 0,FKS Stal Mielec
+296,17-03-2023,Radomiak Radom,0 - 2,Legia Warsaw
+297,01-04-2023,Legia Warsaw,3 - 1,Raków Częst.
+298,10-04-2023,Miedz Legnica,2 - 2,Legia Warsaw
+299,16-04-2023,Legia Warsaw,2 - 2,Lech Poznan
+300,21-04-2023,KS Warta Poznań,1 - 0,Legia Warsaw
+301,28-04-2023,Legia Warsaw,2 - 0,Wisla Plock SA
+302,07-05-2023,Pogon Szczecin,2 - 1,Legia Warsaw
+303,12-05-2023,Legia Warsaw,5 - 1,Jagiellonia Bialystok
+304,20-05-2023,Lechia Gdansk,1 - 0,Legia Warsaw
+305,27-05-2023,Legia Warsaw,3 - 1,Slask Wroclaw
+306,17-07-2022,Radomiak Radom,1 - 1,Miedz Legnica
+307,30-07-2022,Miedz Legnica,1 - 2,KS Warta Poznań
+308,08-08-2022,Wisla Plock SA,4 - 1,Miedz Legnica
+309,12-08-2022,Miedz Legnica,0 - 1,Zaglebie Lubin
+310,19-08-2022,Jagiellonia Bialystok,2 - 1,Miedz Legnica
+311,27-08-2022,Miedz Legnica,2 - 1,Lechia Gdansk
+312,05-09-2022,Piast Gliwice,2 - 1,Miedz Legnica
+313,11-09-2022,Miedz Legnica,2 - 2,Korona Kielce
+314,16-09-2022,Legia Warsaw,3 - 2,Miedz Legnica
+315,02-10-2022,Miedz Legnica,0 - 2,FKS Stal Mielec
+316,10-10-2022,Raków Częst.,1 - 0,Miedz Legnica
+317,16-10-2022,Miedz Legnica,1 - 1,Cracovia Krakow
+318,21-10-2022,Widzew Łódź,1 - 0,Miedz Legnica
+319,28-10-2022,Miedz Legnica,2 - 4,Pogon Szczecin
+320,06-11-2022,Miedz Legnica,1 - 0,Slask Wroclaw
+321,12-11-2022,Gornik Zabrze,0 - 3,Miedz Legnica
+322,27-01-2023,Miedz Legnica,0 - 0,Radomiak Radom
+323,01-02-2023,Miedz Legnica,2 - 2,Lech Poznan
+324,05-02-2023,Lech Poznan,1 - 0,Miedz Legnica
+325,13-02-2023,KS Warta Poznań,1 - 1,Miedz Legnica
+326,19-02-2023,Miedz Legnica,2 - 1,Wisla Plock SA
+327,27-02-2023,Zaglebie Lubin,2 - 1,Miedz Legnica
+328,05-03-2023,Miedz Legnica,1 - 1,Jagiellonia Bialystok
+329,10-03-2023,Lechia Gdansk,4 - 0,Miedz Legnica
+330,19-03-2023,Miedz Legnica,0 - 1,Piast Gliwice
+331,01-04-2023,Korona Kielce,1 - 0,Miedz Legnica
+332,10-04-2023,Miedz Legnica,2 - 2,Legia Warsaw
+333,17-04-2023,FKS Stal Mielec,1 - 1,Miedz Legnica
+334,22-04-2023,Miedz Legnica,0 - 2,Raków Częst.
+335,01-05-2023,Cracovia Krakow,1 - 1,Miedz Legnica
+336,08-05-2023,Miedz Legnica,0 - 1,Widzew Łódź
+337,14-05-2023,Pogon Szczecin,3 - 2,Miedz Legnica
+338,21-05-2023,Slask Wroclaw,4 - 2,Miedz Legnica
+339,27-05-2023,Miedz Legnica,0 - 0,Gornik Zabrze
+340,16-07-2022,Jagiellonia Bialystok,2 - 0,Piast Gliwice
+341,29-07-2022,Piast Gliwice,0 - 1,Zaglebie Lubin
+342,05-08-2022,Legia Warsaw,2 - 0,Piast Gliwice
+343,13-08-2022,Cracovia Krakow,0 - 1,Piast Gliwice
+344,21-08-2022,Piast Gliwice,4 - 0,FKS Stal Mielec
+345,28-08-2022,Lech Poznan,1 - 0,Piast Gliwice
+346,05-09-2022,Piast Gliwice,2 - 1,Miedz Legnica
+347,10-09-2022,Gornik Zabrze,3 - 3,Piast Gliwice
+348,16-09-2022,Piast Gliwice,1 - 1,Slask Wroclaw
+349,30-09-2022,Wisla Plock SA,1 - 0,Piast Gliwice
+350,06-10-2022,Piast Gliwice,0 - 1,Raków Częst.
+351,10-10-2022,Piast Gliwice,1 - 2,Widzew Łódź
+352,15-10-2022,Pogon Szczecin,1 - 1,Piast Gliwice
+353,24-10-2022,Piast Gliwice,1 - 2,Radomiak Radom
+354,29-10-2022,Korona Kielce,1 - 1,Piast Gliwice
+355,05-11-2022,Piast Gliwice,0 - 2,KS Warta Poznań
+356,13-11-2022,Lechia Gdansk,1 - 3,Piast Gliwice
+357,29-01-2023,Piast Gliwice,1 - 1,Jagiellonia Bialystok
+358,04-02-2023,Raków Częst.,1 - 0,Piast Gliwice
+359,12-02-2023,Zaglebie Lubin,0 - 2,Piast Gliwice
+360,19-02-2023,Piast Gliwice,0 - 1,Legia Warsaw
+361,25-02-2023,Piast Gliwice,2 - 1,Cracovia Krakow
+362,03-03-2023,FKS Stal Mielec,0 - 2,Piast Gliwice
+363,12-03-2023,Piast Gliwice,1 - 1,Lech Poznan
+364,19-03-2023,Miedz Legnica,0 - 1,Piast Gliwice
+365,31-03-2023,Piast Gliwice,1 - 0,Gornik Zabrze
+366,06-04-2023,Slask Wroclaw,0 - 1,Piast Gliwice
+367,16-04-2023,Piast Gliwice,1 - 0,Wisla Plock SA
+368,23-04-2023,Widzew Łódź,2 - 3,Piast Gliwice
+369,29-04-2023,Piast Gliwice,0 - 0,Pogon Szczecin
+370,06-05-2023,Radomiak Radom,0 - 1,Piast Gliwice
+371,12-05-2023,Piast Gliwice,2 - 1,Korona Kielce
+372,22-05-2023,KS Warta Poznań,1 - 1,Piast Gliwice
+373,27-05-2023,Piast Gliwice,0 - 1,Lechia Gdansk
+374,17-07-2022,Pogon Szczecin,2 - 1,Widzew Łódź
+375,24-07-2022,Slask Wroclaw,2 - 1,Pogon Szczecin
+376,31-07-2022,Pogon Szczecin,1 - 0,Jagiellonia Bialystok
+377,07-08-2022,KS Warta Poznań,1 - 2,Pogon Szczecin
+378,13-08-2022,Pogon Szczecin,2 - 2,Wisla Plock SA
+379,27-08-2022,Pogon Szczecin,3 - 0,Zaglebie Lubin
+380,31-08-2022,Raków Częst.,1 - 0,Pogon Szczecin
+381,04-09-2022,Korona Kielce,1 - 2,Pogon Szczecin
+382,11-09-2022,Pogon Szczecin,2 - 2,Lech Poznan
+383,17-09-2022,Cracovia Krakow,1 - 1,Pogon Szczecin
+384,01-10-2022,Pogon Szczecin,2 - 1,Lechia Gdansk
+385,07-10-2022,FKS Stal Mielec,4 - 2,Pogon Szczecin
+386,15-10-2022,Pogon Szczecin,1 - 1,Piast Gliwice
+387,22-10-2022,Legia Warsaw,1 - 1,Pogon Szczecin
+388,28-10-2022,Miedz Legnica,2 - 4,Pogon Szczecin
+389,05-11-2022,Pogon Szczecin,1 - 4,Gornik Zabrze
+390,13-11-2022,Radomiak Radom,1 - 2,Pogon Szczecin
+391,28-01-2023,Widzew Łódź,3 - 3,Pogon Szczecin
+392,05-02-2023,Pogon Szczecin,0 - 2,Slask Wroclaw
+393,11-02-2023,Jagiellonia Bialystok,2 - 0,Pogon Szczecin
+394,18-02-2023,Pogon Szczecin,3 - 1,KS Warta Poznań
+395,26-02-2023,Wisla Plock SA,0 - 1,Pogon Szczecin
+396,05-03-2023,Pogon Szczecin,0 - 2,Raków Częst.
+397,11-03-2023,Zaglebie Lubin,0 - 1,Pogon Szczecin
+398,18-03-2023,Pogon Szczecin,0 - 0,Korona Kielce
+399,02-04-2023,Lech Poznan,2 - 2,Pogon Szczecin
+400,08-04-2023,Pogon Szczecin,3 - 2,Cracovia Krakow
+401,15-04-2023,Lechia Gdansk,0 - 1,Pogon Szczecin
+402,22-04-2023,Pogon Szczecin,4 - 2,FKS Stal Mielec
+403,29-04-2023,Piast Gliwice,0 - 0,Pogon Szczecin
+404,07-05-2023,Pogon Szczecin,2 - 1,Legia Warsaw
+405,14-05-2023,Pogon Szczecin,3 - 2,Miedz Legnica
+406,20-05-2023,Gornik Zabrze,2 - 1,Pogon Szczecin
+407,27-05-2023,Pogon Szczecin,4 - 0,Radomiak Radom
+408,17-07-2022,Radomiak Radom,1 - 1,Miedz Legnica
+409,25-07-2022,FKS Stal Mielec,1 - 1,Radomiak Radom
+410,30-07-2022,Radomiak Radom,0 - 3,Gornik Zabrze
+411,06-08-2022,Jagiellonia Bialystok,1 - 2,Radomiak Radom
+412,14-08-2022,Radomiak Radom,4 - 1,Lechia Gdansk
+413,21-08-2022,Zaglebie Lubin,0 - 1,Radomiak Radom
+414,27-08-2022,Radomiak Radom,0 - 2,Korona Kielce
+415,02-09-2022,Legia Warsaw,1 - 0,Radomiak Radom
+416,10-09-2022,Radomiak Radom,2 - 0,Wisla Plock SA
+417,17-09-2022,Raków Częst.,3 - 0,Radomiak Radom
+418,30-09-2022,Radomiak Radom,0 - 2,Cracovia Krakow
+419,09-10-2022,Lech Poznan,1 - 0,Radomiak Radom
+420,15-10-2022,Radomiak Radom,2 - 0,Slask Wroclaw
+421,24-10-2022,Piast Gliwice,1 - 2,Radomiak Radom
+422,31-10-2022,Radomiak Radom,2 - 3,KS Warta Poznań
+423,06-11-2022,Widzew Łódź,1 - 3,Radomiak Radom
+424,13-11-2022,Radomiak Radom,1 - 2,Pogon Szczecin
+425,27-01-2023,Miedz Legnica,0 - 0,Radomiak Radom
+426,05-02-2023,Radomiak Radom,1 - 0,FKS Stal Mielec
+427,12-02-2023,Gornik Zabrze,0 - 0,Radomiak Radom
+428,20-02-2023,Radomiak Radom,0 - 0,Jagiellonia Bialystok
+429,25-02-2023,Lechia Gdansk,1 - 3,Radomiak Radom
+430,06-03-2023,Radomiak Radom,0 - 1,Zaglebie Lubin
+431,11-03-2023,Korona Kielce,2 - 1,Radomiak Radom
+432,17-03-2023,Radomiak Radom,0 - 2,Legia Warsaw
+433,02-04-2023,Wisla Plock SA,1 - 1,Radomiak Radom
+434,10-04-2023,Radomiak Radom,0 - 0,Raków Częst.
+435,15-04-2023,Cracovia Krakow,3 - 0,Radomiak Radom
+436,24-04-2023,Radomiak Radom,1 - 1,Lech Poznan
+437,30-04-2023,Slask Wroclaw,0 - 1,Radomiak Radom
+438,06-05-2023,Radomiak Radom,0 - 1,Piast Gliwice
+439,15-05-2023,KS Warta Poznań,1 - 2,Radomiak Radom
+440,21-05-2023,Radomiak Radom,3 - 1,Widzew Łódź
+441,27-05-2023,Pogon Szczecin,4 - 0,Radomiak Radom
+442,15-07-2022,Raków Częst.,1 - 0,KS Warta Poznań
+443,31-07-2022,Raków Częst.,3 - 2,FKS Stal Mielec
+444,07-08-2022,Gornik Zabrze,1 - 0,Raków Częst.
+445,14-08-2022,Raków Częst.,2 - 2,Jagiellonia Bialystok
+446,28-08-2022,Slask Wroclaw,1 - 4,Raków Częst.
+447,31-08-2022,Raków Częst.,1 - 0,Pogon Szczecin
+448,03-09-2022,Cracovia Krakow,3 - 0,Raków Częst.
+449,11-09-2022,Raków Częst.,4 - 0,Legia Warsaw
+450,17-09-2022,Raków Częst.,3 - 0,Radomiak Radom
+451,02-10-2022,Widzew Łódź,0 - 0,Raków Częst.
+452,06-10-2022,Piast Gliwice,0 - 1,Raków Częst.
+453,10-10-2022,Raków Częst.,1 - 0,Miedz Legnica
+454,15-10-2022,Lechia Gdansk,0 - 3,Raków Częst.
+455,22-10-2022,Raków Częst.,1 - 0,Korona Kielce
+456,30-10-2022,Lech Poznan,1 - 2,Raków Częst.
+457,05-11-2022,Raków Częst.,7 - 1,Wisla Plock SA
+458,12-11-2022,Zaglebie Lubin,1 - 2,Raków Częst.
+459,28-01-2023,KS Warta Poznań,1 - 1,Raków Częst.
+460,04-02-2023,Raków Częst.,1 - 0,Piast Gliwice
+461,10-02-2023,FKS Stal Mielec,0 - 0,Raków Częst.
+462,18-02-2023,Raków Częst.,2 - 0,Gornik Zabrze
+463,24-02-2023,Jagiellonia Bialystok,1 - 2,Raków Częst.
+464,05-03-2023,Pogon Szczecin,0 - 2,Raków Częst.
+465,10-03-2023,Raków Częst.,4 - 1,Slask Wroclaw
+466,18-03-2023,Raków Częst.,4 - 1,Cracovia Krakow
+467,01-04-2023,Legia Warsaw,3 - 1,Raków Częst.
+468,10-04-2023,Radomiak Radom,0 - 0,Raków Częst.
+469,16-04-2023,Raków Częst.,2 - 0,Widzew Łódź
+470,22-04-2023,Miedz Legnica,0 - 2,Raków Częst.
+471,28-04-2023,Raków Częst.,4 - 0,Lechia Gdansk
+472,07-05-2023,Korona Kielce,1 - 0,Raków Częst.
+473,14-05-2023,Raków Częst.,0 - 2,Lech Poznan
+474,21-05-2023,Wisla Plock SA,1 - 2,Raków Częst.
+475,27-05-2023,Raków Częst.,1 - 1,Zaglebie Lubin
+476,15-07-2022,Zaglebie Lubin,0 - 0,Slask Wroclaw
+477,24-07-2022,Slask Wroclaw,2 - 1,Pogon Szczecin
+478,01-08-2022,Korona Kielce,3 - 1,Slask Wroclaw
+479,06-08-2022,Slask Wroclaw,0 - 0,Widzew Łódź
+480,14-08-2022,Lech Poznan,0 - 1,Slask Wroclaw
+481,20-08-2022,Slask Wroclaw,1 - 1,Cracovia Krakow
+482,28-08-2022,Slask Wroclaw,1 - 4,Raków Częst.
+483,03-09-2022,FKS Stal Mielec,2 - 0,Slask Wroclaw
+484,10-09-2022,Slask Wroclaw,2 - 1,Lechia Gdansk
+485,16-09-2022,Piast Gliwice,1 - 1,Slask Wroclaw
+486,03-10-2022,Slask Wroclaw,0 - 2,KS Warta Poznań
+487,08-10-2022,Slask Wroclaw,4 - 1,Gornik Zabrze
+488,15-10-2022,Radomiak Radom,2 - 0,Slask Wroclaw
+489,23-10-2022,Slask Wroclaw,2 - 2,Jagiellonia Bialystok
+490,29-10-2022,Wisla Plock SA,1 - 2,Slask Wroclaw
+491,06-11-2022,Miedz Legnica,1 - 0,Slask Wroclaw
+492,13-11-2022,Slask Wroclaw,0 - 0,Legia Warsaw
+493,28-01-2023,Slask Wroclaw,0 - 3,Zaglebie Lubin
+494,05-02-2023,Pogon Szczecin,0 - 2,Slask Wroclaw
+495,11-02-2023,Slask Wroclaw,1 - 1,Korona Kielce
+496,17-02-2023,Widzew Łódź,1 - 0,Slask Wroclaw
+497,26-02-2023,Slask Wroclaw,2 - 1,Lech Poznan
+498,05-03-2023,Cracovia Krakow,1 - 1,Slask Wroclaw
+499,10-03-2023,Raków Częst.,4 - 1,Slask Wroclaw
+500,18-03-2023,Slask Wroclaw,1 - 1,FKS Stal Mielec
+501,01-04-2023,Lechia Gdansk,0 - 0,Slask Wroclaw
+502,06-04-2023,Slask Wroclaw,0 - 1,Piast Gliwice
+503,14-04-2023,KS Warta Poznań,3 - 1,Slask Wroclaw
+504,23-04-2023,Gornik Zabrze,2 - 0,Slask Wroclaw
+505,30-04-2023,Slask Wroclaw,0 - 1,Radomiak Radom
+506,05-05-2023,Jagiellonia Bialystok,1 - 1,Slask Wroclaw
+507,13-05-2023,Slask Wroclaw,3 - 1,Wisla Plock SA
+508,21-05-2023,Slask Wroclaw,4 - 2,Miedz Legnica
+509,27-05-2023,Legia Warsaw,3 - 1,Slask Wroclaw
+510,17-07-2022,Pogon Szczecin,2 - 1,Widzew Łódź
+511,22-07-2022,Jagiellonia Bialystok,0 - 2,Widzew Łódź
+512,31-07-2022,Widzew Łódź,2 - 3,Lechia Gdansk
+513,06-08-2022,Slask Wroclaw,0 - 0,Widzew Łódź
+514,12-08-2022,Widzew Łódź,1 - 2,Legia Warsaw
+515,20-08-2022,KS Warta Poznań,0 - 1,Widzew Łódź
+516,27-08-2022,Widzew Łódź,2 - 1,Wisla Plock SA
+517,04-09-2022,Lech Poznan,2 - 0,Widzew Łódź
+518,09-09-2022,Widzew Łódź,2 - 0,Cracovia Krakow
+519,17-09-2022,FKS Stal Mielec,0 - 3,Widzew Łódź
+520,02-10-2022,Widzew Łódź,0 - 0,Raków Częst.
+521,10-10-2022,Piast Gliwice,1 - 2,Widzew Łódź
+522,16-10-2022,Widzew Łódź,3 - 0,Zaglebie Lubin
+523,21-10-2022,Widzew Łódź,1 - 0,Miedz Legnica
+524,28-10-2022,Gornik Zabrze,3 - 0,Widzew Łódź
+525,06-11-2022,Widzew Łódź,1 - 3,Radomiak Radom
+526,12-11-2022,Korona Kielce,0 - 1,Widzew Łódź
+527,28-01-2023,Widzew Łódź,3 - 3,Pogon Szczecin
+528,03-02-2023,Widzew Łódź,1 - 1,Jagiellonia Bialystok
+529,10-02-2023,Lechia Gdansk,0 - 0,Widzew Łódź
+530,17-02-2023,Widzew Łódź,1 - 0,Slask Wroclaw
+531,24-02-2023,Legia Warsaw,2 - 2,Widzew Łódź
+532,04-03-2023,Widzew Łódź,0 - 2,KS Warta Poznań
+533,13-03-2023,Wisla Plock SA,1 - 1,Widzew Łódź
+534,19-03-2023,Widzew Łódź,1 - 2,Lech Poznan
+535,02-04-2023,Cracovia Krakow,1 - 1,Widzew Łódź
+536,08-04-2023,Widzew Łódź,0 - 2,FKS Stal Mielec
+537,16-04-2023,Raków Częst.,2 - 0,Widzew Łódź
+538,23-04-2023,Widzew Łódź,2 - 3,Piast Gliwice
+539,29-04-2023,Zaglebie Lubin,2 - 0,Widzew Łódź
+540,08-05-2023,Miedz Legnica,0 - 1,Widzew Łódź
+541,13-05-2023,Widzew Łódź,2 - 3,Gornik Zabrze
+542,21-05-2023,Radomiak Radom,3 - 1,Widzew Łódź
+543,27-05-2023,Widzew Łódź,0 - 3,Korona Kielce
+544,17-07-2022,Wisla Plock SA,3 - 0,Lechia Gdansk
+545,22-07-2022,KS Warta Poznań,0 - 4,Wisla Plock SA
+546,31-07-2022,Lech Poznan,1 - 3,Wisla Plock SA
+547,08-08-2022,Wisla Plock SA,4 - 1,Miedz Legnica
+548,13-08-2022,Pogon Szczecin,2 - 2,Wisla Plock SA
+549,20-08-2022,Wisla Plock SA,2 - 1,Korona Kielce
+550,27-08-2022,Widzew Łódź,2 - 1,Wisla Plock SA
+551,05-09-2022,Wisla Plock SA,1 - 1,Gornik Zabrze
+552,10-09-2022,Radomiak Radom,2 - 0,Wisla Plock SA
+553,18-09-2022,Zaglebie Lubin,2 - 1,Wisla Plock SA
+554,30-09-2022,Wisla Plock SA,1 - 0,Piast Gliwice
+555,07-10-2022,Jagiellonia Bialystok,1 - 1,Wisla Plock SA
+556,14-10-2022,Wisla Plock SA,2 - 1,Legia Warsaw
+557,22-10-2022,FKS Stal Mielec,1 - 1,Wisla Plock SA
+558,29-10-2022,Wisla Plock SA,1 - 2,Slask Wroclaw
+559,05-11-2022,Raków Częst.,7 - 1,Wisla Plock SA
+560,11-11-2022,Wisla Plock SA,1 - 0,Cracovia Krakow
+561,29-01-2023,Lechia Gdansk,1 - 0,Wisla Plock SA
+562,11-02-2023,Wisla Plock SA,0 - 1,Lech Poznan
+563,19-02-2023,Miedz Legnica,2 - 1,Wisla Plock SA
+564,26-02-2023,Wisla Plock SA,0 - 1,Pogon Szczecin
+565,04-03-2023,Korona Kielce,1 - 0,Wisla Plock SA
+566,08-03-2023,Wisla Plock SA,1 - 0,KS Warta Poznań
+567,13-03-2023,Wisla Plock SA,1 - 1,Widzew Łódź
+568,17-03-2023,Gornik Zabrze,3 - 2,Wisla Plock SA
+569,02-04-2023,Wisla Plock SA,1 - 1,Radomiak Radom
+570,08-04-2023,Wisla Plock SA,2 - 0,Zaglebie Lubin
+571,16-04-2023,Piast Gliwice,1 - 0,Wisla Plock SA
+572,21-04-2023,Wisla Plock SA,2 - 4,Jagiellonia Bialystok
+573,28-04-2023,Legia Warsaw,2 - 0,Wisla Plock SA
+574,07-05-2023,Wisla Plock SA,0 - 0,FKS Stal Mielec
+575,13-05-2023,Slask Wroclaw,3 - 1,Wisla Plock SA
+576,21-05-2023,Wisla Plock SA,1 - 2,Raków Częst.
+577,27-05-2023,Cracovia Krakow,3 - 0,Wisla Plock SA
+578,15-07-2022,Zaglebie Lubin,0 - 0,Slask Wroclaw
+579,23-07-2022,Legia Warsaw,2 - 0,Zaglebie Lubin
+580,29-07-2022,Piast Gliwice,0 - 1,Zaglebie Lubin
+581,07-08-2022,Zaglebie Lubin,1 - 1,Lech Poznan
+582,12-08-2022,Miedz Legnica,0 - 1,Zaglebie Lubin
+583,21-08-2022,Zaglebie Lubin,0 - 1,Radomiak Radom
+584,27-08-2022,Pogon Szczecin,3 - 0,Zaglebie Lubin
+585,04-09-2022,Zaglebie Lubin,1 - 1,Jagiellonia Bialystok
+586,09-09-2022,KS Warta Poznań,2 - 2,Zaglebie Lubin
+587,18-09-2022,Zaglebie Lubin,2 - 1,Wisla Plock SA
+588,01-10-2022,Gornik Zabrze,2 - 3,Zaglebie Lubin
+589,09-10-2022,Zaglebie Lubin,1 - 1,Korona Kielce
+590,16-10-2022,Widzew Łódź,3 - 0,Zaglebie Lubin
+591,24-10-2022,Zaglebie Lubin,0 - 3,Lechia Gdansk
+592,30-10-2022,Zaglebie Lubin,0 - 2,Cracovia Krakow
+593,04-11-2022,FKS Stal Mielec,3 - 0,Zaglebie Lubin
+594,12-11-2022,Zaglebie Lubin,1 - 2,Raków Częst.
+595,28-01-2023,Slask Wroclaw,0 - 3,Zaglebie Lubin
+596,04-02-2023,Zaglebie Lubin,1 - 2,Legia Warsaw
+597,12-02-2023,Zaglebie Lubin,0 - 2,Piast Gliwice
+598,19-02-2023,Lech Poznan,1 - 2,Zaglebie Lubin
+599,27-02-2023,Zaglebie Lubin,2 - 1,Miedz Legnica
+600,06-03-2023,Radomiak Radom,0 - 1,Zaglebie Lubin
+601,11-03-2023,Zaglebie Lubin,0 - 1,Pogon Szczecin
+602,18-03-2023,Jagiellonia Bialystok,2 - 2,Zaglebie Lubin
+603,31-03-2023,Zaglebie Lubin,0 - 0,KS Warta Poznań
+604,08-04-2023,Wisla Plock SA,2 - 0,Zaglebie Lubin
+605,14-04-2023,Zaglebie Lubin,0 - 2,Gornik Zabrze
+606,23-04-2023,Korona Kielce,2 - 2,Zaglebie Lubin
+607,29-04-2023,Zaglebie Lubin,2 - 0,Widzew Łódź
+608,06-05-2023,Lechia Gdansk,1 - 3,Zaglebie Lubin
+609,13-05-2023,Cracovia Krakow,0 - 1,Zaglebie Lubin
+610,19-05-2023,Zaglebie Lubin,2 - 0,FKS Stal Mielec
+611,27-05-2023,Raków Częst.,1 - 1,Zaglebie Lubin

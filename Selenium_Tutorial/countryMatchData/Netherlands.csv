@@ -1,0 +1,641 @@
+,date,home_team,score,away_team
+0,07-08-2022,AZ Alkmaar,2 - 0,GO Ahead Eagles
+1,14-08-2022,Sparta Rotterdam,2 - 3,AZ Alkmaar
+2,28-08-2022,Cambuur,0 - 1,AZ Alkmaar
+3,01-09-2022,AZ Alkmaar,1 - 1,NEC Nijmegen
+4,04-09-2022,FC Emmen,0 - 3,AZ Alkmaar
+5,11-09-2022,AZ Alkmaar,1 - 1,Twente
+6,18-09-2022,AZ Alkmaar,2 - 1,Ajax
+7,01-10-2022,Groningen,1 - 4,AZ Alkmaar
+8,09-10-2022,Utrecht,1 - 2,AZ Alkmaar
+9,16-10-2022,AZ Alkmaar,1 - 3,Feyenoord
+10,23-10-2022,Excelsior,2 - 1,AZ Alkmaar
+11,30-10-2022,AZ Alkmaar,2 - 1,FC Volendam
+12,06-11-2022,Waalwijk,3 - 1,AZ Alkmaar
+13,12-11-2022,PSV Eindhoven,0 - 1,AZ Alkmaar
+14,07-01-2023,AZ Alkmaar,1 - 1,Vitesse
+15,14-01-2023,Heerenveen,0 - 2,AZ Alkmaar
+16,22-01-2023,AZ Alkmaar,3 - 1,Fortuna Sittard
+17,25-01-2023,GO Ahead Eagles,1 - 4,AZ Alkmaar
+18,28-01-2023,AZ Alkmaar,5 - 5,Utrecht
+19,04-02-2023,FC Volendam,1 - 1,AZ Alkmaar
+20,10-02-2023,AZ Alkmaar,5 - 0,Excelsior
+21,18-02-2023,Feyenoord,2 - 1,AZ Alkmaar
+22,25-02-2023,AZ Alkmaar,2 - 1,Cambuur
+23,03-03-2023,Vitesse,0 - 1,AZ Alkmaar
+24,11-03-2023,AZ Alkmaar,1 - 0,Groningen
+25,19-03-2023,Twente,2 - 1,AZ Alkmaar
+26,01-04-2023,AZ Alkmaar,1 - 1,Heerenveen
+27,08-04-2023,AZ Alkmaar,0 - 1,Sparta Rotterdam
+28,16-04-2023,Fortuna Sittard,0 - 3,AZ Alkmaar
+29,23-04-2023,AZ Alkmaar,3 - 0,Waalwijk
+30,06-05-2023,Ajax,0 - 0,AZ Alkmaar
+31,14-05-2023,AZ Alkmaar,5 - 1,FC Emmen
+32,21-05-2023,NEC Nijmegen,0 - 3,AZ Alkmaar
+33,28-05-2023,AZ Alkmaar,1 - 2,PSV Eindhoven
+34,06-08-2022,Fortuna Sittard,2 - 3,Ajax
+35,14-08-2022,Ajax,6 - 1,Groningen
+36,21-08-2022,Sparta Rotterdam,0 - 1,Ajax
+37,28-08-2022,Utrecht,0 - 2,Ajax
+38,03-09-2022,Ajax,4 - 0,Cambuur
+39,10-09-2022,Ajax,5 - 0,Heerenveen
+40,18-09-2022,AZ Alkmaar,2 - 1,Ajax
+41,01-10-2022,Ajax,1 - 1,GO Ahead Eagles
+42,08-10-2022,FC Volendam,2 - 4,Ajax
+43,16-10-2022,Ajax,7 - 1,Excelsior
+44,22-10-2022,Waalwijk,1 - 4,Ajax
+45,06-11-2022,Ajax,1 - 2,PSV Eindhoven
+46,09-11-2022,Ajax,2 - 2,Vitesse
+47,12-11-2022,FC Emmen,3 - 3,Ajax
+48,08-01-2023,NEC Nijmegen,1 - 1,Ajax
+49,14-01-2023,Ajax,0 - 0,Twente
+50,22-01-2023,Feyenoord,1 - 1,Ajax
+51,26-01-2023,Ajax,1 - 1,FC Volendam
+52,29-01-2023,Excelsior,1 - 4,Ajax
+53,05-02-2023,Cambuur,0 - 5,Ajax
+54,12-02-2023,Ajax,3 - 1,Waalwijk
+55,19-02-2023,Ajax,4 - 0,Sparta Rotterdam
+56,26-02-2023,Vitesse,1 - 2,Ajax
+57,05-03-2023,Ajax,1 - 0,NEC Nijmegen
+58,12-03-2023,Heerenveen,2 - 4,Ajax
+59,19-03-2023,Ajax,2 - 3,Feyenoord
+60,02-04-2023,GO Ahead Eagles,0 - 0,Ajax
+61,09-04-2023,Ajax,4 - 0,Fortuna Sittard
+62,16-04-2023,Ajax,3 - 1,FC Emmen
+63,23-04-2023,PSV Eindhoven,3 - 0,Ajax
+64,06-05-2023,Ajax,0 - 0,AZ Alkmaar
+65,16-05-2023,Groningen,2 - 3,Ajax
+66,21-05-2023,Ajax,3 - 1,Utrecht
+67,28-05-2023,Twente,3 - 1,Ajax
+68,22-05-2023,FC Eindhoven,1 - 0,Almere City FC
+69,30-05-2023,VVV Venlo,1 - 1,Almere City FC
+70,06-06-2023,Almere City FC,2 - 0,FC Emmen
+71,11-06-2023,FC Emmen,1 - 2,Almere City FC
+72,06-08-2022,Cambuur,0 - 2,Excelsior
+73,13-08-2022,Utrecht,0 - 0,Cambuur
+74,20-08-2022,Fortuna Sittard,1 - 4,Cambuur
+75,28-08-2022,Cambuur,0 - 1,AZ Alkmaar
+76,03-09-2022,Ajax,4 - 0,Cambuur
+77,11-09-2022,Cambuur,0 - 1,Groningen
+78,17-09-2022,Waalwijk,5 - 1,Cambuur
+79,01-10-2022,Cambuur,3 - 0,PSV Eindhoven
+80,09-10-2022,GO Ahead Eagles,0 - 0,Cambuur
+81,15-10-2022,Cambuur,0 - 3,Vitesse
+82,23-10-2022,Cambuur,0 - 1,Twente
+83,04-11-2022,Cambuur,0 - 1,NEC Nijmegen
+84,10-11-2022,Feyenoord,1 - 0,Cambuur
+85,13-11-2022,Heerenveen,2 - 1,Cambuur
+86,08-01-2023,Cambuur,0 - 3,FC Volendam
+87,15-01-2023,FC Emmen,0 - 0,Cambuur
+88,21-01-2023,Cambuur,0 - 3,Sparta Rotterdam
+89,26-01-2023,Groningen,0 - 1,Cambuur
+90,29-01-2023,Cambuur,1 - 2,Fortuna Sittard
+91,05-02-2023,Cambuur,0 - 5,Ajax
+92,11-02-2023,NEC Nijmegen,0 - 0,Cambuur
+93,19-02-2023,Cambuur,1 - 2,Heerenveen
+94,25-02-2023,AZ Alkmaar,2 - 1,Cambuur
+95,05-03-2023,Cambuur,4 - 1,GO Ahead Eagles
+96,12-03-2023,PSV Eindhoven,5 - 2,Cambuur
+97,19-03-2023,Excelsior,4 - 1,Cambuur
+98,01-04-2023,Cambuur,1 - 2,FC Emmen
+99,09-04-2023,Twente,4 - 0,Cambuur
+100,16-04-2023,Cambuur,0 - 3,Feyenoord
+101,21-04-2023,FC Volendam,2 - 0,Cambuur
+102,06-05-2023,Cambuur,0 - 3,Utrecht
+103,14-05-2023,Vitesse,2 - 0,Cambuur
+104,21-05-2023,Sparta Rotterdam,4 - 1,Cambuur
+105,28-05-2023,Cambuur,4 - 0,Waalwijk
+106,06-08-2022,Cambuur,0 - 2,Excelsior
+107,12-08-2022,Excelsior,3 - 1,Vitesse
+108,28-08-2022,Excelsior,1 - 6,PSV Eindhoven
+109,31-08-2022,Twente,4 - 0,Excelsior
+110,04-09-2022,Waalwijk,5 - 2,Excelsior
+111,10-09-2022,Excelsior,2 - 1,FC Emmen
+112,17-09-2022,Fortuna Sittard,1 - 0,Excelsior
+113,02-10-2022,Excelsior,0 - 1,Utrecht
+114,08-10-2022,NEC Nijmegen,1 - 1,Excelsior
+115,16-10-2022,Ajax,7 - 1,Excelsior
+116,23-10-2022,Excelsior,2 - 1,AZ Alkmaar
+117,29-10-2022,GO Ahead Eagles,3 - 1,Excelsior
+118,05-11-2022,Excelsior,0 - 1,Heerenveen
+119,13-11-2022,Feyenoord,5 - 1,Excelsior
+120,08-01-2023,Excelsior,1 - 0,Groningen
+121,14-01-2023,Sparta Rotterdam,1 - 0,Excelsior
+122,20-01-2023,Excelsior,2 - 0,FC Volendam
+123,25-01-2023,Utrecht,1 - 0,Excelsior
+124,29-01-2023,Excelsior,1 - 4,Ajax
+125,04-02-2023,Excelsior,0 - 0,Waalwijk
+126,10-02-2023,AZ Alkmaar,5 - 0,Excelsior
+127,19-02-2023,Excelsior,0 - 3,NEC Nijmegen
+128,25-02-2023,Groningen,3 - 0,Excelsior
+129,05-03-2023,Excelsior,1 - 4,Sparta Rotterdam
+130,11-03-2023,FC Emmen,2 - 0,Excelsior
+131,19-03-2023,Excelsior,4 - 1,Cambuur
+132,01-04-2023,Excelsior,0 - 0,Twente
+133,08-04-2023,PSV Eindhoven,4 - 0,Excelsior
+134,14-04-2023,Excelsior,2 - 1,GO Ahead Eagles
+135,22-04-2023,Vitesse,0 - 0,Excelsior
+136,07-05-2023,Excelsior,0 - 2,Feyenoord
+137,13-05-2023,Heerenveen,0 - 0,Excelsior
+138,21-05-2023,Excelsior,3 - 0,Fortuna Sittard
+139,28-05-2023,FC Volendam,3 - 2,Excelsior
+140,22-05-2023,FC Eindhoven,1 - 0,Almere City FC
+141,06-08-2022,PSV Eindhoven,4 - 1,FC Emmen
+142,13-08-2022,FC Emmen,1 - 1,Waalwijk
+143,20-08-2022,FC Emmen,3 - 2,Utrecht
+144,27-08-2022,Feyenoord,4 - 0,FC Emmen
+145,04-09-2022,FC Emmen,0 - 3,AZ Alkmaar
+146,10-09-2022,Excelsior,2 - 1,FC Emmen
+147,18-09-2022,GO Ahead Eagles,2 - 0,FC Emmen
+148,02-10-2022,FC Emmen,0 - 0,Heerenveen
+149,08-10-2022,Sparta Rotterdam,3 - 1,FC Emmen
+150,14-10-2022,FC Emmen,1 - 1,FC Volendam
+151,22-10-2022,Vitesse,2 - 1,FC Emmen
+152,30-10-2022,FC Emmen,0 - 0,Groningen
+153,05-11-2022,Fortuna Sittard,0 - 1,FC Emmen
+154,12-11-2022,FC Emmen,3 - 3,Ajax
+155,06-01-2023,Twente,2 - 0,FC Emmen
+156,15-01-2023,FC Emmen,0 - 0,Cambuur
+157,21-01-2023,NEC Nijmegen,3 - 1,FC Emmen
+158,24-01-2023,FC Emmen,1 - 0,PSV Eindhoven
+159,28-01-2023,Waalwijk,2 - 0,FC Emmen
+160,04-02-2023,FC Emmen,2 - 2,Vitesse
+161,11-02-2023,FC Emmen,0 - 1,Fortuna Sittard
+162,18-02-2023,Groningen,1 - 1,FC Emmen
+163,26-02-2023,FC Emmen,2 - 2,GO Ahead Eagles
+164,04-03-2023,FC Volendam,3 - 1,FC Emmen
+165,11-03-2023,FC Emmen,2 - 0,Excelsior
+166,18-03-2023,FC Emmen,0 - 2,Sparta Rotterdam
+167,01-04-2023,Cambuur,1 - 2,FC Emmen
+168,09-04-2023,FC Emmen,0 - 0,NEC Nijmegen
+169,16-04-2023,Ajax,3 - 1,FC Emmen
+170,22-04-2023,Heerenveen,2 - 3,FC Emmen
+171,07-05-2023,FC Emmen,0 - 3,Twente
+172,14-05-2023,AZ Alkmaar,5 - 1,FC Emmen
+173,21-05-2023,FC Emmen,1 - 3,Feyenoord
+174,28-05-2023,Utrecht,3 - 2,FC Emmen
+175,31-05-2023,NAC Breda,1 - 2,FC Emmen
+176,03-06-2023,FC Emmen,2 - 0,NAC Breda
+177,06-06-2023,Almere City FC,2 - 0,FC Emmen
+178,11-06-2023,FC Emmen,1 - 2,Almere City FC
+179,07-08-2022,Groningen,2 - 2,FC Volendam
+180,14-08-2022,FC Volendam,1 - 4,NEC Nijmegen
+181,28-08-2022,FC Volendam,1 - 0,Twente
+182,31-08-2022,PSV Eindhoven,7 - 1,FC Volendam
+183,03-09-2022,Sparta Rotterdam,4 - 0,FC Volendam
+184,09-09-2022,FC Volendam,2 - 3,GO Ahead Eagles
+185,17-09-2022,Vitesse,1 - 1,FC Volendam
+186,02-10-2022,Fortuna Sittard,2 - 0,FC Volendam
+187,08-10-2022,FC Volendam,2 - 4,Ajax
+188,14-10-2022,FC Emmen,1 - 1,FC Volendam
+189,23-10-2022,FC Volendam,1 - 3,Heerenveen
+190,30-10-2022,AZ Alkmaar,2 - 1,FC Volendam
+191,06-11-2022,FC Volendam,0 - 2,Feyenoord
+192,12-11-2022,FC Volendam,0 - 4,Utrecht
+193,08-01-2023,Cambuur,0 - 3,FC Volendam
+194,14-01-2023,FC Volendam,2 - 1,Waalwijk
+195,20-01-2023,Excelsior,2 - 0,FC Volendam
+196,26-01-2023,Ajax,1 - 1,FC Volendam
+197,29-01-2023,FC Volendam,3 - 2,Groningen
+198,04-02-2023,FC Volendam,1 - 1,AZ Alkmaar
+199,12-02-2023,Twente,3 - 0,FC Volendam
+200,18-02-2023,FC Volendam,2 - 0,Vitesse
+201,25-02-2023,NEC Nijmegen,3 - 0,FC Volendam
+202,04-03-2023,FC Volendam,3 - 1,FC Emmen
+203,12-03-2023,Feyenoord,2 - 1,FC Volendam
+204,17-03-2023,FC Volendam,2 - 1,Fortuna Sittard
+205,02-04-2023,Utrecht,0 - 0,FC Volendam
+206,08-04-2023,Heerenveen,2 - 1,FC Volendam
+207,16-04-2023,FC Volendam,2 - 3,PSV Eindhoven
+208,21-04-2023,FC Volendam,2 - 0,Cambuur
+209,05-05-2023,Waalwijk,4 - 1,FC Volendam
+210,13-05-2023,FC Volendam,2 - 1,Sparta Rotterdam
+211,21-05-2023,GO Ahead Eagles,3 - 0,FC Volendam
+212,28-05-2023,FC Volendam,3 - 2,Excelsior
+213,07-08-2022,Vitesse,2 - 5,Feyenoord
+214,13-08-2022,Feyenoord,0 - 0,Heerenveen
+215,21-08-2022,Waalwijk,0 - 1,Feyenoord
+216,27-08-2022,Feyenoord,4 - 0,FC Emmen
+217,03-09-2022,GO Ahead Eagles,3 - 4,Feyenoord
+218,11-09-2022,Feyenoord,3 - 0,Sparta Rotterdam
+219,18-09-2022,PSV Eindhoven,4 - 3,Feyenoord
+220,02-10-2022,NEC Nijmegen,1 - 1,Feyenoord
+221,09-10-2022,Feyenoord,2 - 0,Twente
+222,16-10-2022,AZ Alkmaar,1 - 3,Feyenoord
+223,22-10-2022,Feyenoord,1 - 1,Fortuna Sittard
+224,06-11-2022,FC Volendam,0 - 2,Feyenoord
+225,10-11-2022,Feyenoord,1 - 0,Cambuur
+226,13-11-2022,Feyenoord,5 - 1,Excelsior
+227,08-01-2023,Utrecht,1 - 1,Feyenoord
+228,15-01-2023,Groningen,0 - 3,Feyenoord
+229,22-01-2023,Feyenoord,1 - 1,Ajax
+230,25-01-2023,Feyenoord,2 - 0,NEC Nijmegen
+231,29-01-2023,Twente,1 - 1,Feyenoord
+232,05-02-2023,Feyenoord,2 - 2,PSV Eindhoven
+233,12-02-2023,Heerenveen,1 - 2,Feyenoord
+234,18-02-2023,Feyenoord,2 - 1,AZ Alkmaar
+235,26-02-2023,Fortuna Sittard,2 - 4,Feyenoord
+236,04-03-2023,Feyenoord,1 - 0,Groningen
+237,12-03-2023,Feyenoord,2 - 1,FC Volendam
+238,19-03-2023,Ajax,2 - 3,Feyenoord
+239,02-04-2023,Sparta Rotterdam,1 - 3,Feyenoord
+240,09-04-2023,Feyenoord,5 - 1,Waalwijk
+241,16-04-2023,Cambuur,0 - 3,Feyenoord
+242,23-04-2023,Feyenoord,3 - 1,Utrecht
+243,07-05-2023,Excelsior,0 - 2,Feyenoord
+244,14-05-2023,Feyenoord,3 - 0,GO Ahead Eagles
+245,21-05-2023,FC Emmen,1 - 3,Feyenoord
+246,28-05-2023,Feyenoord,0 - 1,Vitesse
+247,06-08-2022,Fortuna Sittard,2 - 3,Ajax
+248,14-08-2022,Twente,3 - 0,Fortuna Sittard
+249,20-08-2022,Fortuna Sittard,1 - 4,Cambuur
+250,27-08-2022,Heerenveen,2 - 1,Fortuna Sittard
+251,02-09-2022,Fortuna Sittard,3 - 4,Utrecht
+252,10-09-2022,NEC Nijmegen,1 - 1,Fortuna Sittard
+253,17-09-2022,Fortuna Sittard,1 - 0,Excelsior
+254,02-10-2022,Fortuna Sittard,2 - 0,FC Volendam
+255,09-10-2022,Vitesse,1 - 2,Fortuna Sittard
+256,15-10-2022,Fortuna Sittard,0 - 0,Waalwijk
+257,22-10-2022,Feyenoord,1 - 1,Fortuna Sittard
+258,29-10-2022,Sparta Rotterdam,3 - 1,Fortuna Sittard
+259,05-11-2022,Fortuna Sittard,0 - 1,FC Emmen
+260,13-11-2022,Groningen,2 - 3,Fortuna Sittard
+261,07-01-2023,Fortuna Sittard,0 - 2,GO Ahead Eagles
+262,15-01-2023,Fortuna Sittard,2 - 2,PSV Eindhoven
+263,22-01-2023,AZ Alkmaar,3 - 1,Fortuna Sittard
+264,25-01-2023,Fortuna Sittard,2 - 0,Heerenveen
+265,29-01-2023,Cambuur,1 - 2,Fortuna Sittard
+266,03-02-2023,Fortuna Sittard,0 - 0,Sparta Rotterdam
+267,11-02-2023,FC Emmen,0 - 1,Fortuna Sittard
+268,17-02-2023,Waalwijk,3 - 1,Fortuna Sittard
+269,26-02-2023,Fortuna Sittard,2 - 4,Feyenoord
+270,03-03-2023,Utrecht,1 - 2,Fortuna Sittard
+271,11-03-2023,Fortuna Sittard,0 - 3,Twente
+272,17-03-2023,FC Volendam,2 - 1,Fortuna Sittard
+273,02-04-2023,Fortuna Sittard,3 - 1,Groningen
+274,09-04-2023,Ajax,4 - 0,Fortuna Sittard
+275,16-04-2023,Fortuna Sittard,0 - 3,AZ Alkmaar
+276,23-04-2023,GO Ahead Eagles,2 - 0,Fortuna Sittard
+277,07-05-2023,Fortuna Sittard,2 - 0,Vitesse
+278,14-05-2023,PSV Eindhoven,2 - 1,Fortuna Sittard
+279,21-05-2023,Excelsior,3 - 0,Fortuna Sittard
+280,28-05-2023,Fortuna Sittard,1 - 1,NEC Nijmegen
+281,07-08-2022,AZ Alkmaar,2 - 0,GO Ahead Eagles
+282,13-08-2022,GO Ahead Eagles,2 - 5,PSV Eindhoven
+283,21-08-2022,Groningen,1 - 0,GO Ahead Eagles
+284,27-08-2022,GO Ahead Eagles,0 - 1,Sparta Rotterdam
+285,03-09-2022,GO Ahead Eagles,3 - 4,Feyenoord
+286,09-09-2022,FC Volendam,2 - 3,GO Ahead Eagles
+287,18-09-2022,GO Ahead Eagles,2 - 0,FC Emmen
+288,01-10-2022,Ajax,1 - 1,GO Ahead Eagles
+289,09-10-2022,GO Ahead Eagles,0 - 0,Cambuur
+290,15-10-2022,GO Ahead Eagles,1 - 1,Heerenveen
+291,23-10-2022,NEC Nijmegen,3 - 3,GO Ahead Eagles
+292,29-10-2022,GO Ahead Eagles,3 - 1,Excelsior
+293,06-11-2022,Twente,1 - 1,GO Ahead Eagles
+294,13-11-2022,GO Ahead Eagles,2 - 2,Vitesse
+295,07-01-2023,Fortuna Sittard,0 - 2,GO Ahead Eagles
+296,15-01-2023,GO Ahead Eagles,2 - 2,Utrecht
+297,25-01-2023,GO Ahead Eagles,1 - 4,AZ Alkmaar
+298,28-01-2023,PSV Eindhoven,2 - 0,GO Ahead Eagles
+299,01-02-2023,Waalwijk,3 - 1,GO Ahead Eagles
+300,05-02-2023,GO Ahead Eagles,1 - 0,NEC Nijmegen
+301,12-02-2023,Sparta Rotterdam,2 - 1,GO Ahead Eagles
+302,19-02-2023,GO Ahead Eagles,2 - 0,Twente
+303,26-02-2023,FC Emmen,2 - 2,GO Ahead Eagles
+304,05-03-2023,Cambuur,4 - 1,GO Ahead Eagles
+305,18-03-2023,Utrecht,1 - 2,GO Ahead Eagles
+306,02-04-2023,GO Ahead Eagles,0 - 0,Ajax
+307,08-04-2023,Vitesse,2 - 0,GO Ahead Eagles
+308,14-04-2023,Excelsior,2 - 1,GO Ahead Eagles
+309,19-04-2023,GO Ahead Eagles,3 - 2,Waalwijk
+310,23-04-2023,GO Ahead Eagles,2 - 0,Fortuna Sittard
+311,07-05-2023,GO Ahead Eagles,1 - 1,Groningen
+312,14-05-2023,Feyenoord,3 - 0,GO Ahead Eagles
+313,21-05-2023,GO Ahead Eagles,3 - 0,FC Volendam
+314,28-05-2023,Heerenveen,2 - 0,GO Ahead Eagles
+315,07-08-2022,Groningen,2 - 2,FC Volendam
+316,14-08-2022,Ajax,6 - 1,Groningen
+317,21-08-2022,Groningen,1 - 0,GO Ahead Eagles
+318,26-08-2022,NEC Nijmegen,1 - 1,Groningen
+319,04-09-2022,Groningen,0 - 1,Vitesse
+320,11-09-2022,Cambuur,0 - 1,Groningen
+321,17-09-2022,Sparta Rotterdam,2 - 1,Groningen
+322,01-10-2022,Groningen,1 - 4,AZ Alkmaar
+323,07-10-2022,Groningen,2 - 3,Waalwijk
+324,16-10-2022,Twente,3 - 0,Groningen
+325,23-10-2022,Groningen,4 - 2,PSV Eindhoven
+326,30-10-2022,FC Emmen,0 - 0,Groningen
+327,06-11-2022,Utrecht,2 - 1,Groningen
+328,13-11-2022,Groningen,2 - 3,Fortuna Sittard
+329,08-01-2023,Excelsior,1 - 0,Groningen
+330,15-01-2023,Groningen,0 - 3,Feyenoord
+331,22-01-2023,Heerenveen,3 - 1,Groningen
+332,26-01-2023,Groningen,0 - 1,Cambuur
+333,29-01-2023,FC Volendam,3 - 2,Groningen
+334,05-02-2023,Groningen,1 - 1,Twente
+335,11-02-2023,PSV Eindhoven,6 - 0,Groningen
+336,18-02-2023,Groningen,1 - 1,FC Emmen
+337,25-02-2023,Groningen,3 - 0,Excelsior
+338,04-03-2023,Feyenoord,1 - 0,Groningen
+339,11-03-2023,AZ Alkmaar,1 - 0,Groningen
+340,19-03-2023,Groningen,0 - 2,Heerenveen
+341,02-04-2023,Fortuna Sittard,3 - 1,Groningen
+342,07-04-2023,Groningen,1 - 2,Utrecht
+343,15-04-2023,Waalwijk,2 - 1,Groningen
+344,25-04-2023,Groningen,0 - 1,NEC Nijmegen
+345,07-05-2023,GO Ahead Eagles,1 - 1,Groningen
+346,16-05-2023,Groningen,2 - 3,Ajax
+347,21-05-2023,Vitesse,6 - 0,Groningen
+348,28-05-2023,Groningen,0 - 5,Sparta Rotterdam
+349,05-08-2022,Heerenveen,0 - 0,Sparta Rotterdam
+350,13-08-2022,Feyenoord,0 - 0,Heerenveen
+351,20-08-2022,Vitesse,0 - 4,Heerenveen
+352,27-08-2022,Heerenveen,2 - 1,Fortuna Sittard
+353,04-09-2022,Heerenveen,0 - 0,NEC Nijmegen
+354,10-09-2022,Ajax,5 - 0,Heerenveen
+355,18-09-2022,Heerenveen,2 - 1,Twente
+356,02-10-2022,FC Emmen,0 - 0,Heerenveen
+357,09-10-2022,Heerenveen,0 - 1,PSV Eindhoven
+358,15-10-2022,GO Ahead Eagles,1 - 1,Heerenveen
+359,23-10-2022,FC Volendam,1 - 3,Heerenveen
+360,29-10-2022,Heerenveen,1 - 2,Utrecht
+361,05-11-2022,Excelsior,0 - 1,Heerenveen
+362,13-11-2022,Heerenveen,2 - 1,Cambuur
+363,07-01-2023,Waalwijk,0 - 0,Heerenveen
+364,14-01-2023,Heerenveen,0 - 2,AZ Alkmaar
+365,22-01-2023,Heerenveen,3 - 1,Groningen
+366,25-01-2023,Fortuna Sittard,2 - 0,Heerenveen
+367,28-01-2023,Heerenveen,1 - 3,Vitesse
+368,04-02-2023,Utrecht,1 - 0,Heerenveen
+369,12-02-2023,Heerenveen,1 - 2,Feyenoord
+370,19-02-2023,Cambuur,1 - 2,Heerenveen
+371,25-02-2023,Heerenveen,1 - 4,Waalwijk
+372,04-03-2023,Twente,3 - 3,Heerenveen
+373,12-03-2023,Heerenveen,2 - 4,Ajax
+374,19-03-2023,Groningen,0 - 2,Heerenveen
+375,01-04-2023,AZ Alkmaar,1 - 1,Heerenveen
+376,08-04-2023,Heerenveen,2 - 1,FC Volendam
+377,15-04-2023,Sparta Rotterdam,4 - 0,Heerenveen
+378,22-04-2023,Heerenveen,2 - 3,FC Emmen
+379,06-05-2023,NEC Nijmegen,2 - 3,Heerenveen
+380,13-05-2023,Heerenveen,0 - 0,Excelsior
+381,21-05-2023,PSV Eindhoven,3 - 3,Heerenveen
+382,28-05-2023,Heerenveen,2 - 0,GO Ahead Eagles
+383,01-06-2023,Heerenveen,1 - 2,Twente
+384,04-06-2023,Twente,4 - 0,Heerenveen
+385,23-05-2023,NAC Breda,1 - 0,MVV
+386,27-05-2023,MVV,1 - 4,NAC Breda
+387,23-05-2023,NAC Breda,1 - 0,MVV
+388,27-05-2023,MVV,1 - 4,NAC Breda
+389,31-05-2023,NAC Breda,1 - 2,FC Emmen
+390,03-06-2023,FC Emmen,2 - 0,NAC Breda
+391,07-08-2022,NEC Nijmegen,0 - 1,Twente
+392,14-08-2022,FC Volendam,1 - 4,NEC Nijmegen
+393,26-08-2022,NEC Nijmegen,1 - 1,Groningen
+394,01-09-2022,AZ Alkmaar,1 - 1,NEC Nijmegen
+395,04-09-2022,Heerenveen,0 - 0,NEC Nijmegen
+396,10-09-2022,NEC Nijmegen,1 - 1,Fortuna Sittard
+397,16-09-2022,Utrecht,0 - 0,NEC Nijmegen
+398,02-10-2022,NEC Nijmegen,1 - 1,Feyenoord
+399,08-10-2022,NEC Nijmegen,1 - 1,Excelsior
+400,16-10-2022,Sparta Rotterdam,2 - 0,NEC Nijmegen
+401,23-10-2022,NEC Nijmegen,3 - 3,GO Ahead Eagles
+402,30-10-2022,PSV Eindhoven,3 - 0,NEC Nijmegen
+403,04-11-2022,Cambuur,0 - 1,NEC Nijmegen
+404,13-11-2022,NEC Nijmegen,6 - 1,Waalwijk
+405,08-01-2023,NEC Nijmegen,1 - 1,Ajax
+406,15-01-2023,Vitesse,0 - 0,NEC Nijmegen
+407,21-01-2023,NEC Nijmegen,3 - 1,FC Emmen
+408,25-01-2023,Feyenoord,2 - 0,NEC Nijmegen
+409,28-01-2023,NEC Nijmegen,1 - 1,Sparta Rotterdam
+410,05-02-2023,GO Ahead Eagles,1 - 0,NEC Nijmegen
+411,11-02-2023,NEC Nijmegen,0 - 0,Cambuur
+412,19-02-2023,Excelsior,0 - 3,NEC Nijmegen
+413,25-02-2023,NEC Nijmegen,3 - 0,FC Volendam
+414,05-03-2023,Ajax,1 - 0,NEC Nijmegen
+415,12-03-2023,NEC Nijmegen,2 - 2,Utrecht
+416,18-03-2023,Waalwijk,1 - 3,NEC Nijmegen
+417,01-04-2023,NEC Nijmegen,2 - 4,PSV Eindhoven
+418,09-04-2023,FC Emmen,0 - 0,NEC Nijmegen
+419,16-04-2023,NEC Nijmegen,1 - 4,Vitesse
+420,25-04-2023,Groningen,0 - 1,NEC Nijmegen
+421,06-05-2023,NEC Nijmegen,2 - 3,Heerenveen
+422,12-05-2023,Twente,4 - 0,NEC Nijmegen
+423,21-05-2023,NEC Nijmegen,0 - 3,AZ Alkmaar
+424,28-05-2023,Fortuna Sittard,1 - 1,NEC Nijmegen
+425,06-08-2022,PSV Eindhoven,4 - 1,FC Emmen
+426,13-08-2022,GO Ahead Eagles,2 - 5,PSV Eindhoven
+427,28-08-2022,Excelsior,1 - 6,PSV Eindhoven
+428,31-08-2022,PSV Eindhoven,7 - 1,FC Volendam
+429,03-09-2022,Twente,2 - 1,PSV Eindhoven
+430,11-09-2022,PSV Eindhoven,1 - 0,Waalwijk
+431,18-09-2022,PSV Eindhoven,4 - 3,Feyenoord
+432,01-10-2022,Cambuur,3 - 0,PSV Eindhoven
+433,09-10-2022,Heerenveen,0 - 1,PSV Eindhoven
+434,16-10-2022,PSV Eindhoven,6 - 1,Utrecht
+435,23-10-2022,Groningen,4 - 2,PSV Eindhoven
+436,30-10-2022,PSV Eindhoven,3 - 0,NEC Nijmegen
+437,06-11-2022,Ajax,1 - 2,PSV Eindhoven
+438,12-11-2022,PSV Eindhoven,0 - 1,AZ Alkmaar
+439,07-01-2023,PSV Eindhoven,0 - 0,Sparta Rotterdam
+440,15-01-2023,Fortuna Sittard,2 - 2,PSV Eindhoven
+441,21-01-2023,PSV Eindhoven,1 - 0,Vitesse
+442,24-01-2023,FC Emmen,1 - 0,PSV Eindhoven
+443,28-01-2023,PSV Eindhoven,2 - 0,GO Ahead Eagles
+444,05-02-2023,Feyenoord,2 - 2,PSV Eindhoven
+445,11-02-2023,PSV Eindhoven,6 - 0,Groningen
+446,19-02-2023,Utrecht,2 - 2,PSV Eindhoven
+447,26-02-2023,PSV Eindhoven,3 - 1,Twente
+448,05-03-2023,Waalwijk,0 - 1,PSV Eindhoven
+449,12-03-2023,PSV Eindhoven,5 - 2,Cambuur
+450,19-03-2023,Vitesse,1 - 1,PSV Eindhoven
+451,01-04-2023,NEC Nijmegen,2 - 4,PSV Eindhoven
+452,08-04-2023,PSV Eindhoven,4 - 0,Excelsior
+453,16-04-2023,FC Volendam,2 - 3,PSV Eindhoven
+454,23-04-2023,PSV Eindhoven,3 - 0,Ajax
+455,06-05-2023,Sparta Rotterdam,0 - 1,PSV Eindhoven
+456,14-05-2023,PSV Eindhoven,2 - 1,Fortuna Sittard
+457,21-05-2023,PSV Eindhoven,3 - 3,Heerenveen
+458,28-05-2023,AZ Alkmaar,1 - 2,PSV Eindhoven
+459,05-08-2022,Heerenveen,0 - 0,Sparta Rotterdam
+460,14-08-2022,Sparta Rotterdam,2 - 3,AZ Alkmaar
+461,21-08-2022,Sparta Rotterdam,0 - 1,Ajax
+462,27-08-2022,GO Ahead Eagles,0 - 1,Sparta Rotterdam
+463,03-09-2022,Sparta Rotterdam,4 - 0,FC Volendam
+464,11-09-2022,Feyenoord,3 - 0,Sparta Rotterdam
+465,17-09-2022,Sparta Rotterdam,2 - 1,Groningen
+466,02-10-2022,Waalwijk,2 - 2,Sparta Rotterdam
+467,08-10-2022,Sparta Rotterdam,3 - 1,FC Emmen
+468,16-10-2022,Sparta Rotterdam,2 - 0,NEC Nijmegen
+469,23-10-2022,Utrecht,3 - 1,Sparta Rotterdam
+470,29-10-2022,Sparta Rotterdam,3 - 1,Fortuna Sittard
+471,05-11-2022,Vitesse,0 - 4,Sparta Rotterdam
+472,11-11-2022,Sparta Rotterdam,1 - 1,Twente
+473,07-01-2023,PSV Eindhoven,0 - 0,Sparta Rotterdam
+474,14-01-2023,Sparta Rotterdam,1 - 0,Excelsior
+475,21-01-2023,Cambuur,0 - 3,Sparta Rotterdam
+476,24-01-2023,Sparta Rotterdam,0 - 0,Waalwijk
+477,28-01-2023,NEC Nijmegen,1 - 1,Sparta Rotterdam
+478,03-02-2023,Fortuna Sittard,0 - 0,Sparta Rotterdam
+479,12-02-2023,Sparta Rotterdam,2 - 1,GO Ahead Eagles
+480,19-02-2023,Ajax,4 - 0,Sparta Rotterdam
+481,24-02-2023,Sparta Rotterdam,0 - 3,Utrecht
+482,05-03-2023,Excelsior,1 - 4,Sparta Rotterdam
+483,11-03-2023,Sparta Rotterdam,3 - 1,Vitesse
+484,18-03-2023,FC Emmen,0 - 2,Sparta Rotterdam
+485,02-04-2023,Sparta Rotterdam,1 - 3,Feyenoord
+486,08-04-2023,AZ Alkmaar,0 - 1,Sparta Rotterdam
+487,15-04-2023,Sparta Rotterdam,4 - 0,Heerenveen
+488,23-04-2023,Twente,3 - 3,Sparta Rotterdam
+489,06-05-2023,Sparta Rotterdam,0 - 1,PSV Eindhoven
+490,13-05-2023,FC Volendam,2 - 1,Sparta Rotterdam
+491,21-05-2023,Sparta Rotterdam,4 - 1,Cambuur
+492,28-05-2023,Groningen,0 - 5,Sparta Rotterdam
+493,01-06-2023,Utrecht,1 - 2,Sparta Rotterdam
+494,08-06-2023,Sparta Rotterdam,1 - 1,Twente
+495,11-06-2023,Twente,1 - 0,Sparta Rotterdam
+496,07-08-2022,NEC Nijmegen,0 - 1,Twente
+497,14-08-2022,Twente,3 - 0,Fortuna Sittard
+498,28-08-2022,FC Volendam,1 - 0,Twente
+499,31-08-2022,Twente,4 - 0,Excelsior
+500,03-09-2022,Twente,2 - 1,PSV Eindhoven
+501,11-09-2022,AZ Alkmaar,1 - 1,Twente
+502,18-09-2022,Heerenveen,2 - 1,Twente
+503,01-10-2022,Twente,3 - 0,Vitesse
+504,09-10-2022,Feyenoord,2 - 0,Twente
+505,16-10-2022,Twente,3 - 0,Groningen
+506,23-10-2022,Cambuur,0 - 1,Twente
+507,30-10-2022,Twente,3 - 0,Waalwijk
+508,06-11-2022,Twente,1 - 1,GO Ahead Eagles
+509,11-11-2022,Sparta Rotterdam,1 - 1,Twente
+510,06-01-2023,Twente,2 - 0,FC Emmen
+511,14-01-2023,Ajax,0 - 0,Twente
+512,22-01-2023,Twente,2 - 0,Utrecht
+513,25-01-2023,Vitesse,2 - 2,Twente
+514,29-01-2023,Twente,1 - 1,Feyenoord
+515,05-02-2023,Groningen,1 - 1,Twente
+516,12-02-2023,Twente,3 - 0,FC Volendam
+517,19-02-2023,GO Ahead Eagles,2 - 0,Twente
+518,26-02-2023,PSV Eindhoven,3 - 1,Twente
+519,04-03-2023,Twente,3 - 3,Heerenveen
+520,11-03-2023,Fortuna Sittard,0 - 3,Twente
+521,19-03-2023,Twente,2 - 1,AZ Alkmaar
+522,01-04-2023,Excelsior,0 - 0,Twente
+523,09-04-2023,Twente,4 - 0,Cambuur
+524,16-04-2023,Utrecht,1 - 0,Twente
+525,23-04-2023,Twente,3 - 3,Sparta Rotterdam
+526,07-05-2023,FC Emmen,0 - 3,Twente
+527,12-05-2023,Twente,4 - 0,NEC Nijmegen
+528,21-05-2023,Waalwijk,0 - 5,Twente
+529,28-05-2023,Twente,3 - 1,Ajax
+530,01-06-2023,Heerenveen,1 - 2,Twente
+531,04-06-2023,Twente,4 - 0,Heerenveen
+532,08-06-2023,Sparta Rotterdam,1 - 1,Twente
+533,11-06-2023,Twente,1 - 0,Sparta Rotterdam
+534,06-08-2022,Waalwijk,2 - 2,Utrecht
+535,13-08-2022,Utrecht,0 - 0,Cambuur
+536,20-08-2022,FC Emmen,3 - 2,Utrecht
+537,28-08-2022,Utrecht,0 - 2,Ajax
+538,02-09-2022,Fortuna Sittard,3 - 4,Utrecht
+539,11-09-2022,Utrecht,1 - 0,Vitesse
+540,16-09-2022,Utrecht,0 - 0,NEC Nijmegen
+541,02-10-2022,Excelsior,0 - 1,Utrecht
+542,09-10-2022,Utrecht,1 - 2,AZ Alkmaar
+543,16-10-2022,PSV Eindhoven,6 - 1,Utrecht
+544,23-10-2022,Utrecht,3 - 1,Sparta Rotterdam
+545,29-10-2022,Heerenveen,1 - 2,Utrecht
+546,06-11-2022,Utrecht,2 - 1,Groningen
+547,12-11-2022,FC Volendam,0 - 4,Utrecht
+548,08-01-2023,Utrecht,1 - 1,Feyenoord
+549,15-01-2023,GO Ahead Eagles,2 - 2,Utrecht
+550,22-01-2023,Twente,2 - 0,Utrecht
+551,25-01-2023,Utrecht,1 - 0,Excelsior
+552,28-01-2023,AZ Alkmaar,5 - 5,Utrecht
+553,04-02-2023,Utrecht,1 - 0,Heerenveen
+554,12-02-2023,Vitesse,2 - 0,Utrecht
+555,19-02-2023,Utrecht,2 - 2,PSV Eindhoven
+556,24-02-2023,Sparta Rotterdam,0 - 3,Utrecht
+557,03-03-2023,Utrecht,1 - 2,Fortuna Sittard
+558,12-03-2023,NEC Nijmegen,2 - 2,Utrecht
+559,18-03-2023,Utrecht,1 - 2,GO Ahead Eagles
+560,02-04-2023,Utrecht,0 - 0,FC Volendam
+561,07-04-2023,Groningen,1 - 2,Utrecht
+562,16-04-2023,Utrecht,1 - 0,Twente
+563,23-04-2023,Feyenoord,3 - 1,Utrecht
+564,06-05-2023,Cambuur,0 - 3,Utrecht
+565,13-05-2023,Utrecht,2 - 0,Waalwijk
+566,21-05-2023,Ajax,3 - 1,Utrecht
+567,28-05-2023,Utrecht,3 - 2,FC Emmen
+568,01-06-2023,Utrecht,1 - 2,Sparta Rotterdam
+569,23-05-2023,VVV Venlo,3 - 2,Willem II
+570,30-05-2023,VVV Venlo,1 - 1,Almere City FC
+571,07-08-2022,Vitesse,2 - 5,Feyenoord
+572,12-08-2022,Excelsior,3 - 1,Vitesse
+573,20-08-2022,Vitesse,0 - 4,Heerenveen
+574,27-08-2022,Vitesse,2 - 2,Waalwijk
+575,04-09-2022,Groningen,0 - 1,Vitesse
+576,11-09-2022,Utrecht,1 - 0,Vitesse
+577,17-09-2022,Vitesse,1 - 1,FC Volendam
+578,01-10-2022,Twente,3 - 0,Vitesse
+579,09-10-2022,Vitesse,1 - 2,Fortuna Sittard
+580,15-10-2022,Cambuur,0 - 3,Vitesse
+581,22-10-2022,Vitesse,2 - 1,FC Emmen
+582,05-11-2022,Vitesse,0 - 4,Sparta Rotterdam
+583,09-11-2022,Ajax,2 - 2,Vitesse
+584,13-11-2022,GO Ahead Eagles,2 - 2,Vitesse
+585,07-01-2023,AZ Alkmaar,1 - 1,Vitesse
+586,15-01-2023,Vitesse,0 - 0,NEC Nijmegen
+587,21-01-2023,PSV Eindhoven,1 - 0,Vitesse
+588,25-01-2023,Vitesse,2 - 2,Twente
+589,28-01-2023,Heerenveen,1 - 3,Vitesse
+590,04-02-2023,FC Emmen,2 - 2,Vitesse
+591,12-02-2023,Vitesse,2 - 0,Utrecht
+592,18-02-2023,FC Volendam,2 - 0,Vitesse
+593,26-02-2023,Vitesse,1 - 2,Ajax
+594,03-03-2023,Vitesse,0 - 1,AZ Alkmaar
+595,11-03-2023,Sparta Rotterdam,3 - 1,Vitesse
+596,19-03-2023,Vitesse,1 - 1,PSV Eindhoven
+597,01-04-2023,Waalwijk,1 - 0,Vitesse
+598,08-04-2023,Vitesse,2 - 0,GO Ahead Eagles
+599,16-04-2023,NEC Nijmegen,1 - 4,Vitesse
+600,22-04-2023,Vitesse,0 - 0,Excelsior
+601,07-05-2023,Fortuna Sittard,2 - 0,Vitesse
+602,14-05-2023,Vitesse,2 - 0,Cambuur
+603,21-05-2023,Vitesse,6 - 0,Groningen
+604,28-05-2023,Feyenoord,0 - 1,Vitesse
+605,06-08-2022,Waalwijk,2 - 2,Utrecht
+606,13-08-2022,FC Emmen,1 - 1,Waalwijk
+607,21-08-2022,Waalwijk,0 - 1,Feyenoord
+608,27-08-2022,Vitesse,2 - 2,Waalwijk
+609,04-09-2022,Waalwijk,5 - 2,Excelsior
+610,11-09-2022,PSV Eindhoven,1 - 0,Waalwijk
+611,17-09-2022,Waalwijk,5 - 1,Cambuur
+612,02-10-2022,Waalwijk,2 - 2,Sparta Rotterdam
+613,07-10-2022,Groningen,2 - 3,Waalwijk
+614,15-10-2022,Fortuna Sittard,0 - 0,Waalwijk
+615,22-10-2022,Waalwijk,1 - 4,Ajax
+616,30-10-2022,Twente,3 - 0,Waalwijk
+617,06-11-2022,Waalwijk,3 - 1,AZ Alkmaar
+618,13-11-2022,NEC Nijmegen,6 - 1,Waalwijk
+619,07-01-2023,Waalwijk,0 - 0,Heerenveen
+620,14-01-2023,FC Volendam,2 - 1,Waalwijk
+621,24-01-2023,Sparta Rotterdam,0 - 0,Waalwijk
+622,28-01-2023,Waalwijk,2 - 0,FC Emmen
+623,01-02-2023,Waalwijk,3 - 1,GO Ahead Eagles
+624,04-02-2023,Excelsior,0 - 0,Waalwijk
+625,12-02-2023,Ajax,3 - 1,Waalwijk
+626,17-02-2023,Waalwijk,3 - 1,Fortuna Sittard
+627,25-02-2023,Heerenveen,1 - 4,Waalwijk
+628,05-03-2023,Waalwijk,0 - 1,PSV Eindhoven
+629,18-03-2023,Waalwijk,1 - 3,NEC Nijmegen
+630,01-04-2023,Waalwijk,1 - 0,Vitesse
+631,09-04-2023,Feyenoord,5 - 1,Waalwijk
+632,15-04-2023,Waalwijk,2 - 1,Groningen
+633,19-04-2023,GO Ahead Eagles,3 - 2,Waalwijk
+634,23-04-2023,AZ Alkmaar,3 - 0,Waalwijk
+635,05-05-2023,Waalwijk,4 - 1,FC Volendam
+636,13-05-2023,Utrecht,2 - 0,Waalwijk
+637,21-05-2023,Waalwijk,0 - 5,Twente
+638,28-05-2023,Cambuur,4 - 0,Waalwijk
+639,23-05-2023,VVV Venlo,3 - 2,Willem II

@@ -1,0 +1,387 @@
+,date,home_team,score,away_team
+0,17-07-2022,FC Copenhagen,0 - 1,AC Horsens
+1,25-07-2022,AC Horsens,1 - 0,Lyngby Boldklub
+2,31-07-2022,AaB,0 - 0,AC Horsens
+3,05-08-2022,Randers FC,1 - 0,AC Horsens
+4,12-08-2022,AC Horsens,3 - 3,Midtjylland
+5,22-08-2022,Odense BK,1 - 0,AC Horsens
+6,26-08-2022,AC Horsens,2 - 1,AGF Aarhus
+7,04-09-2022,AC Horsens,0 - 2,Brondby
+8,12-09-2022,Viborg,2 - 1,AC Horsens
+9,16-09-2022,AC Horsens,1 - 0,FC Nordsjaelland
+10,02-10-2022,Silkeborg IF,2 - 1,AC Horsens
+11,10-10-2022,AC Horsens,0 - 0,AaB
+12,16-10-2022,Midtjylland,2 - 1,AC Horsens
+13,23-10-2022,AC Horsens,3 - 2,Silkeborg IF
+14,28-10-2022,FC Nordsjaelland,2 - 0,AC Horsens
+15,04-11-2022,AC Horsens,5 - 1,Randers FC
+16,13-11-2022,AC Horsens,3 - 3,Odense BK
+17,19-02-2023,Brondby,5 - 2,AC Horsens
+18,26-02-2023,AC Horsens,0 - 3,Viborg
+19,03-03-2023,AGF Aarhus,2 - 0,AC Horsens
+20,12-03-2023,AC Horsens,1 - 4,FC Copenhagen
+21,19-03-2023,Lyngby Boldklub,1 - 1,AC Horsens
+22,02-04-2023,AC Horsens,0 - 4,AaB
+23,11-04-2023,Silkeborg IF,1 - 2,AC Horsens
+24,16-04-2023,Lyngby Boldklub,2 - 1,AC Horsens
+25,23-04-2023,AC Horsens,0 - 2,Midtjylland
+26,28-04-2023,AC Horsens,2 - 2,Odense BK
+27,07-05-2023,AaB,4 - 0,AC Horsens
+28,14-05-2023,Midtjylland,3 - 1,AC Horsens
+29,19-05-2023,AC Horsens,0 - 1,Silkeborg IF
+30,26-05-2023,Odense BK,2 - 1,AC Horsens
+31,03-06-2023,AC Horsens,0 - 0,Lyngby Boldklub
+32,17-07-2022,Brondby,1 - 0,AGF Aarhus
+33,24-07-2022,AGF Aarhus,3 - 1,Viborg
+34,31-07-2022,AGF Aarhus,0 - 0,Randers FC
+35,07-08-2022,Odense BK,1 - 2,AGF Aarhus
+36,15-08-2022,AGF Aarhus,1 - 0,Lyngby Boldklub
+37,20-08-2022,Midtjylland,0 - 2,AGF Aarhus
+38,26-08-2022,AC Horsens,2 - 1,AGF Aarhus
+39,05-09-2022,AGF Aarhus,2 - 3,FC Nordsjaelland
+40,11-09-2022,Silkeborg IF,1 - 0,AGF Aarhus
+41,17-09-2022,AGF Aarhus,3 - 1,AaB
+42,02-10-2022,FC Copenhagen,1 - 0,AGF Aarhus
+43,09-10-2022,AGF Aarhus,0 - 1,Midtjylland
+44,16-10-2022,FC Nordsjaelland,1 - 1,AGF Aarhus
+45,23-10-2022,AGF Aarhus,2 - 2,Brondby
+46,30-10-2022,Lyngby Boldklub,0 - 1,AGF Aarhus
+47,06-11-2022,Viborg,1 - 1,AGF Aarhus
+48,13-11-2022,AGF Aarhus,0 - 2,FC Copenhagen
+49,17-02-2023,AaB,0 - 1,AGF Aarhus
+50,26-02-2023,AGF Aarhus,1 - 1,Silkeborg IF
+51,03-03-2023,AGF Aarhus,2 - 0,AC Horsens
+52,13-03-2023,Randers FC,1 - 2,AGF Aarhus
+53,19-03-2023,AGF Aarhus,1 - 0,Odense BK
+54,03-04-2023,AGF Aarhus,1 - 1,Randers FC
+55,09-04-2023,Viborg,0 - 1,AGF Aarhus
+56,16-04-2023,Brondby,1 - 0,AGF Aarhus
+57,23-04-2023,AGF Aarhus,0 - 0,FC Copenhagen
+58,30-04-2023,FC Nordsjaelland,0 - 1,AGF Aarhus
+59,07-05-2023,AGF Aarhus,3 - 0,Viborg
+60,14-05-2023,AGF Aarhus,1 - 1,FC Nordsjaelland
+61,21-05-2023,FC Copenhagen,4 - 3,AGF Aarhus
+62,30-05-2023,Randers FC,1 - 3,AGF Aarhus
+63,04-06-2023,AGF Aarhus,3 - 3,Brondby
+64,17-07-2022,Viborg,2 - 1,AaB
+65,24-07-2022,AaB,1 - 3,FC Copenhagen
+66,31-07-2022,AaB,0 - 0,AC Horsens
+67,08-08-2022,Silkeborg IF,3 - 1,AaB
+68,14-08-2022,AaB,0 - 0,FC Nordsjaelland
+69,21-08-2022,AaB,2 - 1,Brondby
+70,28-08-2022,Randers FC,1 - 0,AaB
+71,04-09-2022,Midtjylland,0 - 2,AaB
+72,11-09-2022,AaB,1 - 1,Lyngby Boldklub
+73,17-09-2022,AGF Aarhus,3 - 1,AaB
+74,30-09-2022,AaB,1 - 1,Odense BK
+75,10-10-2022,AC Horsens,0 - 0,AaB
+76,14-10-2022,Lyngby Boldklub,0 - 2,AaB
+77,24-10-2022,AaB,1 - 3,Viborg
+78,30-10-2022,Brondby,3 - 2,AaB
+79,06-11-2022,AaB,1 - 2,Silkeborg IF
+80,13-11-2022,FC Nordsjaelland,5 - 1,AaB
+81,17-02-2023,AaB,0 - 1,AGF Aarhus
+82,26-02-2023,FC Copenhagen,1 - 0,AaB
+83,06-03-2023,AaB,0 - 0,Midtjylland
+84,10-03-2023,Odense BK,2 - 1,AaB
+85,19-03-2023,AaB,0 - 1,Randers FC
+86,02-04-2023,AC Horsens,0 - 4,AaB
+87,10-04-2023,AaB,2 - 3,Odense BK
+88,14-04-2023,Midtjylland,1 - 1,AaB
+89,21-04-2023,Silkeborg IF,2 - 2,AaB
+90,30-04-2023,AaB,1 - 0,Lyngby Boldklub
+91,07-05-2023,AaB,4 - 0,AC Horsens
+92,12-05-2023,Odense BK,1 - 1,AaB
+93,21-05-2023,AaB,0 - 2,Midtjylland
+94,29-05-2023,Lyngby Boldklub,2 - 1,AaB
+95,03-06-2023,AaB,0 - 1,Silkeborg IF
+96,17-07-2022,Brondby,1 - 0,AGF Aarhus
+97,24-07-2022,Brondby,1 - 3,FC Nordsjaelland
+98,31-07-2022,Silkeborg IF,2 - 0,Brondby
+99,07-08-2022,FC Copenhagen,4 - 1,Brondby
+100,14-08-2022,Brondby,2 - 0,Odense BK
+101,21-08-2022,AaB,2 - 1,Brondby
+102,29-08-2022,Brondby,0 - 2,Midtjylland
+103,04-09-2022,AC Horsens,0 - 2,Brondby
+104,11-09-2022,Brondby,2 - 2,Randers FC
+105,18-09-2022,Viborg,0 - 0,Brondby
+106,02-10-2022,Brondby,3 - 3,Lyngby Boldklub
+107,09-10-2022,Randers FC,2 - 3,Brondby
+108,16-10-2022,Brondby,1 - 1,FC Copenhagen
+109,23-10-2022,AGF Aarhus,2 - 2,Brondby
+110,30-10-2022,Brondby,3 - 2,AaB
+111,06-11-2022,Odense BK,1 - 1,Brondby
+112,13-11-2022,Brondby,0 - 2,Viborg
+113,19-02-2023,Brondby,5 - 2,AC Horsens
+114,27-02-2023,Midtjylland,0 - 1,Brondby
+115,05-03-2023,Lyngby Boldklub,1 - 0,Brondby
+116,12-03-2023,Brondby,2 - 1,Silkeborg IF
+117,19-03-2023,FC Nordsjaelland,2 - 1,Brondby
+118,02-04-2023,Brondby,0 - 3,Viborg
+119,10-04-2023,FC Nordsjaelland,2 - 1,Brondby
+120,16-04-2023,Brondby,1 - 0,AGF Aarhus
+121,23-04-2023,Brondby,0 - 4,Randers FC
+122,30-04-2023,FC Copenhagen,0 - 1,Brondby
+123,07-05-2023,Randers FC,1 - 3,Brondby
+124,14-05-2023,Brondby,1 - 3,FC Copenhagen
+125,21-05-2023,Viborg,1 - 1,Brondby
+126,29-05-2023,Brondby,5 - 1,FC Nordsjaelland
+127,04-06-2023,AGF Aarhus,3 - 3,Brondby
+128,17-07-2022,FC Copenhagen,0 - 1,AC Horsens
+129,24-07-2022,AaB,1 - 3,FC Copenhagen
+130,31-07-2022,Viborg,4 - 2,FC Copenhagen
+131,07-08-2022,FC Copenhagen,4 - 1,Brondby
+132,12-08-2022,FC Copenhagen,1 - 3,Randers FC
+133,19-08-2022,Lyngby Boldklub,0 - 3,FC Copenhagen
+134,28-08-2022,FC Nordsjaelland,3 - 1,FC Copenhagen
+135,02-09-2022,FC Copenhagen,1 - 0,Silkeborg IF
+136,10-09-2022,Odense BK,2 - 1,FC Copenhagen
+137,18-09-2022,Midtjylland,2 - 1,FC Copenhagen
+138,02-10-2022,FC Copenhagen,1 - 0,AGF Aarhus
+139,08-10-2022,FC Copenhagen,1 - 1,FC Nordsjaelland
+140,16-10-2022,Brondby,1 - 1,FC Copenhagen
+141,22-10-2022,FC Copenhagen,1 - 1,Midtjylland
+142,29-10-2022,Randers FC,0 - 2,FC Copenhagen
+143,06-11-2022,FC Copenhagen,3 - 0,Lyngby Boldklub
+144,13-11-2022,AGF Aarhus,0 - 2,FC Copenhagen
+145,19-02-2023,Silkeborg IF,0 - 3,FC Copenhagen
+146,26-02-2023,FC Copenhagen,1 - 0,AaB
+147,05-03-2023,FC Copenhagen,7 - 0,Odense BK
+148,12-03-2023,AC Horsens,1 - 4,FC Copenhagen
+149,19-03-2023,FC Copenhagen,2 - 1,Viborg
+150,02-04-2023,FC Copenhagen,2 - 1,FC Nordsjaelland
+151,10-04-2023,Randers FC,1 - 0,FC Copenhagen
+152,16-04-2023,FC Copenhagen,2 - 1,Viborg
+153,23-04-2023,AGF Aarhus,0 - 0,FC Copenhagen
+154,30-04-2023,FC Copenhagen,0 - 1,Brondby
+155,08-05-2023,FC Nordsjaelland,3 - 2,FC Copenhagen
+156,14-05-2023,Brondby,1 - 3,FC Copenhagen
+157,21-05-2023,FC Copenhagen,4 - 3,AGF Aarhus
+158,29-05-2023,Viborg,1 - 2,FC Copenhagen
+159,04-06-2023,FC Copenhagen,1 - 1,Randers FC
+160,18-07-2022,Odense BK,0 - 2,FC Nordsjaelland
+161,24-07-2022,Brondby,1 - 3,FC Nordsjaelland
+162,01-08-2022,FC Nordsjaelland,2 - 1,Lyngby Boldklub
+163,06-08-2022,FC Nordsjaelland,1 - 0,Viborg
+164,14-08-2022,AaB,0 - 0,FC Nordsjaelland
+165,21-08-2022,FC Nordsjaelland,0 - 2,Silkeborg IF
+166,28-08-2022,FC Nordsjaelland,3 - 1,FC Copenhagen
+167,05-09-2022,AGF Aarhus,2 - 3,FC Nordsjaelland
+168,11-09-2022,FC Nordsjaelland,1 - 1,Midtjylland
+169,16-09-2022,AC Horsens,1 - 0,FC Nordsjaelland
+170,03-10-2022,FC Nordsjaelland,3 - 1,Randers FC
+171,08-10-2022,FC Copenhagen,1 - 1,FC Nordsjaelland
+172,16-10-2022,FC Nordsjaelland,1 - 1,AGF Aarhus
+173,23-10-2022,Randers FC,0 - 2,FC Nordsjaelland
+174,28-10-2022,FC Nordsjaelland,2 - 0,AC Horsens
+175,07-11-2022,Midtjylland,0 - 0,FC Nordsjaelland
+176,13-11-2022,FC Nordsjaelland,5 - 1,AaB
+177,19-02-2023,Lyngby Boldklub,1 - 1,FC Nordsjaelland
+178,24-02-2023,FC Nordsjaelland,4 - 2,Odense BK
+179,05-03-2023,Silkeborg IF,2 - 1,FC Nordsjaelland
+180,12-03-2023,Viborg,1 - 1,FC Nordsjaelland
+181,19-03-2023,FC Nordsjaelland,2 - 1,Brondby
+182,02-04-2023,FC Copenhagen,2 - 1,FC Nordsjaelland
+183,10-04-2023,FC Nordsjaelland,2 - 1,Brondby
+184,17-04-2023,Randers FC,1 - 1,FC Nordsjaelland
+185,23-04-2023,Viborg,1 - 0,FC Nordsjaelland
+186,30-04-2023,FC Nordsjaelland,0 - 1,AGF Aarhus
+187,08-05-2023,FC Nordsjaelland,3 - 2,FC Copenhagen
+188,14-05-2023,AGF Aarhus,1 - 1,FC Nordsjaelland
+189,22-05-2023,FC Nordsjaelland,3 - 1,Randers FC
+190,29-05-2023,Brondby,5 - 1,FC Nordsjaelland
+191,04-06-2023,FC Nordsjaelland,0 - 0,Viborg
+192,17-07-2022,Lyngby Boldklub,2 - 2,Silkeborg IF
+193,25-07-2022,AC Horsens,1 - 0,Lyngby Boldklub
+194,01-08-2022,FC Nordsjaelland,2 - 1,Lyngby Boldklub
+195,05-08-2022,Lyngby Boldklub,3 - 3,Midtjylland
+196,15-08-2022,AGF Aarhus,1 - 0,Lyngby Boldklub
+197,19-08-2022,Lyngby Boldklub,0 - 3,FC Copenhagen
+198,28-08-2022,Viborg,2 - 1,Lyngby Boldklub
+199,04-09-2022,Lyngby Boldklub,0 - 2,Randers FC
+200,11-09-2022,AaB,1 - 1,Lyngby Boldklub
+201,18-09-2022,Lyngby Boldklub,0 - 2,Odense BK
+202,02-10-2022,Brondby,3 - 3,Lyngby Boldklub
+203,07-10-2022,Lyngby Boldklub,1 - 1,Viborg
+204,14-10-2022,Lyngby Boldklub,0 - 2,AaB
+205,21-10-2022,Odense BK,3 - 1,Lyngby Boldklub
+206,30-10-2022,Lyngby Boldklub,0 - 1,AGF Aarhus
+207,06-11-2022,FC Copenhagen,3 - 0,Lyngby Boldklub
+208,12-11-2022,Silkeborg IF,0 - 2,Lyngby Boldklub
+209,19-02-2023,Lyngby Boldklub,1 - 1,FC Nordsjaelland
+210,26-02-2023,Randers FC,1 - 0,Lyngby Boldklub
+211,05-03-2023,Lyngby Boldklub,1 - 0,Brondby
+212,12-03-2023,Midtjylland,1 - 3,Lyngby Boldklub
+213,19-03-2023,Lyngby Boldklub,1 - 1,AC Horsens
+214,02-04-2023,Lyngby Boldklub,1 - 1,Silkeborg IF
+215,10-04-2023,Midtjylland,1 - 0,Lyngby Boldklub
+216,16-04-2023,Lyngby Boldklub,2 - 1,AC Horsens
+217,24-04-2023,Odense BK,2 - 2,Lyngby Boldklub
+218,30-04-2023,AaB,1 - 0,Lyngby Boldklub
+219,07-05-2023,Lyngby Boldklub,2 - 1,Midtjylland
+220,14-05-2023,Silkeborg IF,1 - 0,Lyngby Boldklub
+221,21-05-2023,Lyngby Boldklub,0 - 4,Odense BK
+222,29-05-2023,Lyngby Boldklub,2 - 1,AaB
+223,03-06-2023,AC Horsens,0 - 0,Lyngby Boldklub
+224,15-07-2022,Midtjylland,1 - 1,Randers FC
+225,22-07-2022,Midtjylland,1 - 3,Silkeborg IF
+226,29-07-2022,Odense BK,1 - 5,Midtjylland
+227,05-08-2022,Lyngby Boldklub,3 - 3,Midtjylland
+228,12-08-2022,AC Horsens,3 - 3,Midtjylland
+229,20-08-2022,Midtjylland,0 - 2,AGF Aarhus
+230,29-08-2022,Brondby,0 - 2,Midtjylland
+231,04-09-2022,Midtjylland,0 - 2,AaB
+232,11-09-2022,FC Nordsjaelland,1 - 1,Midtjylland
+233,18-09-2022,Midtjylland,2 - 1,FC Copenhagen
+234,02-10-2022,Midtjylland,1 - 1,Viborg
+235,09-10-2022,AGF Aarhus,0 - 1,Midtjylland
+236,16-10-2022,Midtjylland,2 - 1,AC Horsens
+237,22-10-2022,FC Copenhagen,1 - 1,Midtjylland
+238,31-10-2022,Midtjylland,1 - 2,Odense BK
+239,07-11-2022,Midtjylland,0 - 0,FC Nordsjaelland
+240,13-11-2022,Randers FC,0 - 0,Midtjylland
+241,20-02-2023,Viborg,0 - 4,Midtjylland
+242,27-02-2023,Midtjylland,0 - 1,Brondby
+243,06-03-2023,AaB,0 - 0,Midtjylland
+244,12-03-2023,Midtjylland,1 - 3,Lyngby Boldklub
+245,19-03-2023,Silkeborg IF,3 - 3,Midtjylland
+246,31-03-2023,Odense BK,1 - 3,Midtjylland
+247,10-04-2023,Midtjylland,1 - 0,Lyngby Boldklub
+248,14-04-2023,Midtjylland,1 - 1,AaB
+249,23-04-2023,AC Horsens,0 - 2,Midtjylland
+250,01-05-2023,Midtjylland,3 - 0,Silkeborg IF
+251,07-05-2023,Lyngby Boldklub,2 - 1,Midtjylland
+252,14-05-2023,Midtjylland,3 - 1,AC Horsens
+253,21-05-2023,AaB,0 - 2,Midtjylland
+254,29-05-2023,Silkeborg IF,3 - 3,Midtjylland
+255,03-06-2023,Midtjylland,4 - 2,Odense BK
+256,09-06-2023,Viborg,0 - 1,Midtjylland
+257,18-07-2022,Odense BK,0 - 2,FC Nordsjaelland
+258,24-07-2022,Randers FC,2 - 2,Odense BK
+259,29-07-2022,Odense BK,1 - 5,Midtjylland
+260,07-08-2022,Odense BK,1 - 2,AGF Aarhus
+261,14-08-2022,Brondby,2 - 0,Odense BK
+262,22-08-2022,Odense BK,1 - 0,AC Horsens
+263,28-08-2022,Silkeborg IF,1 - 2,Odense BK
+264,04-09-2022,Odense BK,1 - 2,Viborg
+265,10-09-2022,Odense BK,2 - 1,FC Copenhagen
+266,18-09-2022,Lyngby Boldklub,0 - 2,Odense BK
+267,30-09-2022,AaB,1 - 1,Odense BK
+268,09-10-2022,Odense BK,1 - 1,Silkeborg IF
+269,16-10-2022,Viborg,0 - 0,Odense BK
+270,21-10-2022,Odense BK,3 - 1,Lyngby Boldklub
+271,31-10-2022,Midtjylland,1 - 2,Odense BK
+272,06-11-2022,Odense BK,1 - 1,Brondby
+273,13-11-2022,AC Horsens,3 - 3,Odense BK
+274,19-02-2023,Odense BK,0 - 0,Randers FC
+275,24-02-2023,FC Nordsjaelland,4 - 2,Odense BK
+276,05-03-2023,FC Copenhagen,7 - 0,Odense BK
+277,10-03-2023,Odense BK,2 - 1,AaB
+278,19-03-2023,AGF Aarhus,1 - 0,Odense BK
+279,31-03-2023,Odense BK,1 - 3,Midtjylland
+280,10-04-2023,AaB,2 - 3,Odense BK
+281,16-04-2023,Odense BK,2 - 0,Silkeborg IF
+282,24-04-2023,Odense BK,2 - 2,Lyngby Boldklub
+283,28-04-2023,AC Horsens,2 - 2,Odense BK
+284,07-05-2023,Silkeborg IF,0 - 1,Odense BK
+285,12-05-2023,Odense BK,1 - 1,AaB
+286,21-05-2023,Lyngby Boldklub,0 - 4,Odense BK
+287,26-05-2023,Odense BK,2 - 1,AC Horsens
+288,03-06-2023,Midtjylland,4 - 2,Odense BK
+289,15-07-2022,Midtjylland,1 - 1,Randers FC
+290,24-07-2022,Randers FC,2 - 2,Odense BK
+291,31-07-2022,AGF Aarhus,0 - 0,Randers FC
+292,05-08-2022,Randers FC,1 - 0,AC Horsens
+293,12-08-2022,FC Copenhagen,1 - 3,Randers FC
+294,21-08-2022,Randers FC,1 - 0,Viborg
+295,28-08-2022,Randers FC,1 - 0,AaB
+296,04-09-2022,Lyngby Boldklub,0 - 2,Randers FC
+297,11-09-2022,Brondby,2 - 2,Randers FC
+298,18-09-2022,Randers FC,3 - 2,Silkeborg IF
+299,03-10-2022,FC Nordsjaelland,3 - 1,Randers FC
+300,09-10-2022,Randers FC,2 - 3,Brondby
+301,17-10-2022,Silkeborg IF,3 - 3,Randers FC
+302,23-10-2022,Randers FC,0 - 2,FC Nordsjaelland
+303,29-10-2022,Randers FC,0 - 2,FC Copenhagen
+304,04-11-2022,AC Horsens,5 - 1,Randers FC
+305,13-11-2022,Randers FC,0 - 0,Midtjylland
+306,19-02-2023,Odense BK,0 - 0,Randers FC
+307,26-02-2023,Randers FC,1 - 0,Lyngby Boldklub
+308,05-03-2023,Viborg,2 - 2,Randers FC
+309,13-03-2023,Randers FC,1 - 2,AGF Aarhus
+310,19-03-2023,AaB,0 - 1,Randers FC
+311,03-04-2023,AGF Aarhus,1 - 1,Randers FC
+312,10-04-2023,Randers FC,1 - 0,FC Copenhagen
+313,17-04-2023,Randers FC,1 - 1,FC Nordsjaelland
+314,23-04-2023,Brondby,0 - 4,Randers FC
+315,30-04-2023,Viborg,3 - 1,Randers FC
+316,07-05-2023,Randers FC,1 - 3,Brondby
+317,15-05-2023,Randers FC,0 - 2,Viborg
+318,22-05-2023,FC Nordsjaelland,3 - 1,Randers FC
+319,30-05-2023,Randers FC,1 - 3,AGF Aarhus
+320,04-06-2023,FC Copenhagen,1 - 1,Randers FC
+321,17-07-2022,Lyngby Boldklub,2 - 2,Silkeborg IF
+322,22-07-2022,Midtjylland,1 - 3,Silkeborg IF
+323,31-07-2022,Silkeborg IF,2 - 0,Brondby
+324,08-08-2022,Silkeborg IF,3 - 1,AaB
+325,14-08-2022,Viborg,2 - 0,Silkeborg IF
+326,21-08-2022,FC Nordsjaelland,0 - 2,Silkeborg IF
+327,28-08-2022,Silkeborg IF,1 - 2,Odense BK
+328,02-09-2022,FC Copenhagen,1 - 0,Silkeborg IF
+329,11-09-2022,Silkeborg IF,1 - 0,AGF Aarhus
+330,18-09-2022,Randers FC,3 - 2,Silkeborg IF
+331,02-10-2022,Silkeborg IF,2 - 1,AC Horsens
+332,09-10-2022,Odense BK,1 - 1,Silkeborg IF
+333,17-10-2022,Silkeborg IF,3 - 3,Randers FC
+334,23-10-2022,AC Horsens,3 - 2,Silkeborg IF
+335,30-10-2022,Silkeborg IF,1 - 2,Viborg
+336,06-11-2022,AaB,1 - 2,Silkeborg IF
+337,12-11-2022,Silkeborg IF,0 - 2,Lyngby Boldklub
+338,19-02-2023,Silkeborg IF,0 - 3,FC Copenhagen
+339,26-02-2023,AGF Aarhus,1 - 1,Silkeborg IF
+340,05-03-2023,Silkeborg IF,2 - 1,FC Nordsjaelland
+341,12-03-2023,Brondby,2 - 1,Silkeborg IF
+342,19-03-2023,Silkeborg IF,3 - 3,Midtjylland
+343,02-04-2023,Lyngby Boldklub,1 - 1,Silkeborg IF
+344,11-04-2023,Silkeborg IF,1 - 2,AC Horsens
+345,16-04-2023,Odense BK,2 - 0,Silkeborg IF
+346,21-04-2023,Silkeborg IF,2 - 2,AaB
+347,01-05-2023,Midtjylland,3 - 0,Silkeborg IF
+348,07-05-2023,Silkeborg IF,0 - 1,Odense BK
+349,14-05-2023,Silkeborg IF,1 - 0,Lyngby Boldklub
+350,19-05-2023,AC Horsens,0 - 1,Silkeborg IF
+351,29-05-2023,Silkeborg IF,3 - 3,Midtjylland
+352,03-06-2023,AaB,0 - 1,Silkeborg IF
+353,17-07-2022,Viborg,2 - 1,AaB
+354,24-07-2022,AGF Aarhus,3 - 1,Viborg
+355,31-07-2022,Viborg,4 - 2,FC Copenhagen
+356,06-08-2022,FC Nordsjaelland,1 - 0,Viborg
+357,14-08-2022,Viborg,2 - 0,Silkeborg IF
+358,21-08-2022,Randers FC,1 - 0,Viborg
+359,28-08-2022,Viborg,2 - 1,Lyngby Boldklub
+360,04-09-2022,Odense BK,1 - 2,Viborg
+361,12-09-2022,Viborg,2 - 1,AC Horsens
+362,18-09-2022,Viborg,0 - 0,Brondby
+363,02-10-2022,Midtjylland,1 - 1,Viborg
+364,07-10-2022,Lyngby Boldklub,1 - 1,Viborg
+365,16-10-2022,Viborg,0 - 0,Odense BK
+366,24-10-2022,AaB,1 - 3,Viborg
+367,30-10-2022,Silkeborg IF,1 - 2,Viborg
+368,06-11-2022,Viborg,1 - 1,AGF Aarhus
+369,13-11-2022,Brondby,0 - 2,Viborg
+370,20-02-2023,Viborg,0 - 4,Midtjylland
+371,26-02-2023,AC Horsens,0 - 3,Viborg
+372,05-03-2023,Viborg,2 - 2,Randers FC
+373,12-03-2023,Viborg,1 - 1,FC Nordsjaelland
+374,19-03-2023,FC Copenhagen,2 - 1,Viborg
+375,02-04-2023,Brondby,0 - 3,Viborg
+376,09-04-2023,Viborg,0 - 1,AGF Aarhus
+377,16-04-2023,FC Copenhagen,2 - 1,Viborg
+378,23-04-2023,Viborg,1 - 0,FC Nordsjaelland
+379,30-04-2023,Viborg,3 - 1,Randers FC
+380,07-05-2023,AGF Aarhus,3 - 0,Viborg
+381,15-05-2023,Randers FC,0 - 2,Viborg
+382,21-05-2023,Viborg,1 - 1,Brondby
+383,29-05-2023,Viborg,1 - 2,FC Copenhagen
+384,04-06-2023,FC Nordsjaelland,0 - 0,Viborg
+385,09-06-2023,Viborg,0 - 1,Midtjylland

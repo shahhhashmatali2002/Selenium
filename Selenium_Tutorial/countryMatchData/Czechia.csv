@@ -1,0 +1,561 @@
+,date,home_team,score,away_team
+0,30-07-2022,Baník Ostrava,0 - 3,Sigma Olomouc
+1,06-08-2022,Bohemians 1905,3 - 3,Baník Ostrava
+2,13-08-2022,Baník Ostrava,3 - 1,Zlin
+3,20-08-2022,Baník Ostrava,1 - 2,Teplice
+4,27-08-2022,FK Jablonec,1 - 1,Baník Ostrava
+5,31-08-2022,Baník Ostrava,1 - 2,Zbrojovka Brno
+6,04-09-2022,Hradec Králové,0 - 0,Baník Ostrava
+7,11-09-2022,Baník Ostrava,3 - 0,Pardubice
+8,17-09-2022,Sparta Praha,1 - 1,Baník Ostrava
+9,01-10-2022,Baník Ostrava,1 - 2,České Budějovice
+10,09-10-2022,Slovan Liberec,0 - 0,Baník Ostrava
+11,16-10-2022,Baník Ostrava,3 - 1,Slovácko
+12,22-10-2022,Plzen,3 - 1,Baník Ostrava
+13,29-10-2022,Baník Ostrava,3 - 1,Mlada Boleslav
+14,06-11-2022,Slavia Praha,3 - 1,Baník Ostrava
+15,12-11-2022,Baník Ostrava,4 - 1,Bohemians 1905
+16,29-01-2023,Zlin,1 - 1,Baník Ostrava
+17,04-02-2023,Teplice,0 - 5,Baník Ostrava
+18,11-02-2023,Baník Ostrava,1 - 2,FK Jablonec
+19,18-02-2023,Zbrojovka Brno,2 - 1,Baník Ostrava
+20,26-02-2023,Baník Ostrava,0 - 2,Hradec Králové
+21,04-03-2023,Pardubice,1 - 1,Baník Ostrava
+22,11-03-2023,Baník Ostrava,0 - 3,Sparta Praha
+23,18-03-2023,České Budějovice,2 - 1,Baník Ostrava
+24,01-04-2023,Baník Ostrava,0 - 0,Slovan Liberec
+25,08-04-2023,Slovácko,0 - 1,Baník Ostrava
+26,16-04-2023,Baník Ostrava,2 - 1,Plzen
+27,22-04-2023,Mlada Boleslav,1 - 0,Baník Ostrava
+28,25-04-2023,Baník Ostrava,0 - 2,Slavia Praha
+29,30-04-2023,Sigma Olomouc,1 - 4,Baník Ostrava
+30,06-05-2023,Baník Ostrava,4 - 0,Zbrojovka Brno
+31,14-05-2023,FK Jablonec,1 - 1,Baník Ostrava
+32,21-05-2023,Baník Ostrava,2 - 1,Teplice
+33,24-05-2023,Zlin,2 - 1,Baník Ostrava
+34,28-05-2023,Baník Ostrava,2 - 4,Pardubice
+35,31-07-2022,FK Jablonec,0 - 3,Bohemians 1905
+36,06-08-2022,Bohemians 1905,3 - 3,Baník Ostrava
+37,13-08-2022,Teplice,0 - 1,Bohemians 1905
+38,22-08-2022,Bohemians 1905,1 - 2,Hradec Králové
+39,27-08-2022,Sparta Praha,1 - 1,Bohemians 1905
+40,30-08-2022,Bohemians 1905,1 - 2,České Budějovice
+41,04-09-2022,Zbrojovka Brno,1 - 2,Bohemians 1905
+42,11-09-2022,Bohemians 1905,0 - 2,Slovan Liberec
+43,18-09-2022,Pardubice,0 - 1,Bohemians 1905
+44,01-10-2022,Bohemians 1905,1 - 1,Plzen
+45,09-10-2022,Slovácko,2 - 4,Bohemians 1905
+46,15-10-2022,Bohemians 1905,1 - 1,Sigma Olomouc
+47,23-10-2022,Mlada Boleslav,4 - 3,Bohemians 1905
+48,30-10-2022,Bohemians 1905,1 - 4,Slavia Praha
+49,05-11-2022,Bohemians 1905,3 - 2,Zlin
+50,12-11-2022,Baník Ostrava,4 - 1,Bohemians 1905
+51,28-01-2023,Bohemians 1905,2 - 0,Teplice
+52,05-02-2023,Hradec Králové,0 - 2,Bohemians 1905
+53,12-02-2023,Bohemians 1905,2 - 6,Sparta Praha
+54,19-02-2023,České Budějovice,1 - 0,Bohemians 1905
+55,25-02-2023,Bohemians 1905,1 - 1,Zbrojovka Brno
+56,05-03-2023,Slovan Liberec,1 - 3,Bohemians 1905
+57,12-03-2023,Bohemians 1905,2 - 0,Pardubice
+58,19-03-2023,Plzen,1 - 2,Bohemians 1905
+59,02-04-2023,Bohemians 1905,1 - 0,Slovácko
+60,09-04-2023,Sigma Olomouc,2 - 2,Bohemians 1905
+61,16-04-2023,Bohemians 1905,4 - 0,Mlada Boleslav
+62,22-04-2023,Slavia Praha,3 - 0,Bohemians 1905
+63,26-04-2023,Zlin,4 - 1,Bohemians 1905
+64,30-04-2023,Bohemians 1905,4 - 1,FK Jablonec
+65,07-05-2023,Slavia Praha,6 - 0,Bohemians 1905
+66,14-05-2023,Bohemians 1905,0 - 0,Slovácko
+67,20-05-2023,Sparta Praha,2 - 1,Bohemians 1905
+68,23-05-2023,Plzen,0 - 2,Bohemians 1905
+69,27-05-2023,Bohemians 1905,0 - 1,Sigma Olomouc
+70,31-07-2022,FK Jablonec,0 - 3,Bohemians 1905
+71,07-08-2022,Mlada Boleslav,2 - 2,FK Jablonec
+72,14-08-2022,FK Jablonec,2 - 3,Slavia Praha
+73,21-08-2022,Zlin,2 - 2,FK Jablonec
+74,27-08-2022,FK Jablonec,1 - 1,Baník Ostrava
+75,30-08-2022,FK Jablonec,1 - 1,Sparta Praha
+76,03-09-2022,Teplice,3 - 2,FK Jablonec
+77,11-09-2022,FK Jablonec,3 - 0,Hradec Králové
+78,18-09-2022,Slovácko,0 - 2,FK Jablonec
+79,02-10-2022,FK Jablonec,3 - 1,Zbrojovka Brno
+80,08-10-2022,Pardubice,1 - 0,FK Jablonec
+81,16-10-2022,FK Jablonec,0 - 3,Plzen
+82,22-10-2022,Slovan Liberec,2 - 0,FK Jablonec
+83,29-10-2022,FK Jablonec,3 - 0,České Budějovice
+84,05-11-2022,Sigma Olomouc,3 - 0,FK Jablonec
+85,12-11-2022,FK Jablonec,1 - 2,Mlada Boleslav
+86,29-01-2023,Slavia Praha,5 - 1,FK Jablonec
+87,04-02-2023,FK Jablonec,2 - 2,Zlin
+88,11-02-2023,Baník Ostrava,1 - 2,FK Jablonec
+89,19-02-2023,Sparta Praha,3 - 0,FK Jablonec
+90,26-02-2023,FK Jablonec,4 - 1,Teplice
+91,04-03-2023,Hradec Králové,1 - 4,FK Jablonec
+92,19-03-2023,Zbrojovka Brno,1 - 2,FK Jablonec
+93,02-04-2023,FK Jablonec,1 - 0,Pardubice
+94,05-04-2023,FK Jablonec,1 - 1,Slovácko
+95,08-04-2023,Plzen,3 - 2,FK Jablonec
+96,15-04-2023,FK Jablonec,1 - 1,Slovan Liberec
+97,23-04-2023,České Budějovice,5 - 1,FK Jablonec
+98,26-04-2023,FK Jablonec,2 - 2,Sigma Olomouc
+99,30-04-2023,Bohemians 1905,4 - 1,FK Jablonec
+100,06-05-2023,Zlin,1 - 1,FK Jablonec
+101,14-05-2023,FK Jablonec,1 - 1,Baník Ostrava
+102,21-05-2023,FK Jablonec,1 - 0,Zbrojovka Brno
+103,24-05-2023,Pardubice,2 - 0,FK Jablonec
+104,28-05-2023,FK Jablonec,0 - 2,Teplice
+105,31-07-2022,Hradec Králové,1 - 0,Slavia Praha
+106,07-08-2022,Slovácko,1 - 0,Hradec Králové
+107,13-08-2022,Hradec Králové,1 - 2,Plzen
+108,22-08-2022,Bohemians 1905,1 - 2,Hradec Králové
+109,28-08-2022,Hradec Králové,1 - 0,Sigma Olomouc
+110,31-08-2022,Mlada Boleslav,1 - 2,Hradec Králové
+111,04-09-2022,Hradec Králové,0 - 0,Baník Ostrava
+112,11-09-2022,FK Jablonec,3 - 0,Hradec Králové
+113,18-09-2022,Hradec Králové,0 - 0,Zlin
+114,01-10-2022,Sparta Praha,2 - 1,Hradec Králové
+115,08-10-2022,Hradec Králové,4 - 1,Teplice
+116,15-10-2022,Hradec Králové,2 - 1,Zbrojovka Brno
+117,23-10-2022,České Budějovice,0 - 3,Hradec Králové
+118,29-10-2022,Hradec Králové,1 - 3,Pardubice
+119,06-11-2022,Slovan Liberec,2 - 0,Hradec Králové
+120,13-11-2022,Hradec Králové,1 - 2,Slovácko
+121,28-01-2023,Plzen,1 - 2,Hradec Králové
+122,05-02-2023,Hradec Králové,0 - 2,Bohemians 1905
+123,12-02-2023,Sigma Olomouc,2 - 2,Hradec Králové
+124,18-02-2023,Hradec Králové,0 - 1,Mlada Boleslav
+125,26-02-2023,Baník Ostrava,0 - 2,Hradec Králové
+126,04-03-2023,Hradec Králové,1 - 4,FK Jablonec
+127,11-03-2023,Zlin,2 - 2,Hradec Králové
+128,18-03-2023,Hradec Králové,0 - 2,Sparta Praha
+129,02-04-2023,Teplice,1 - 0,Hradec Králové
+130,08-04-2023,Zbrojovka Brno,1 - 2,Hradec Králové
+131,16-04-2023,Hradec Králové,2 - 1,České Budějovice
+132,22-04-2023,Pardubice,1 - 0,Hradec Králové
+133,26-04-2023,Hradec Králové,1 - 2,Slovan Liberec
+134,30-04-2023,Slavia Praha,1 - 1,Hradec Králové
+135,07-05-2023,Mlada Boleslav,0 - 0,Hradec Králové
+136,13-05-2023,Hradec Králové,2 - 0,Mlada Boleslav
+137,21-05-2023,Hradec Králové,0 - 4,Slovan Liberec
+138,26-05-2023,Slovan Liberec,2 - 3,Hradec Králové
+139,30-07-2022,Zlin,0 - 0,Mlada Boleslav
+140,07-08-2022,Mlada Boleslav,2 - 2,FK Jablonec
+141,13-08-2022,Zbrojovka Brno,3 - 1,Mlada Boleslav
+142,20-08-2022,Mlada Boleslav,1 - 3,Sparta Praha
+143,27-08-2022,Pardubice,0 - 3,Mlada Boleslav
+144,31-08-2022,Mlada Boleslav,1 - 2,Hradec Králové
+145,03-09-2022,České Budějovice,0 - 2,Mlada Boleslav
+146,11-09-2022,Mlada Boleslav,1 - 1,Slovácko
+147,17-09-2022,Slovan Liberec,1 - 3,Mlada Boleslav
+148,01-10-2022,Mlada Boleslav,1 - 1,Sigma Olomouc
+149,08-10-2022,Plzen,2 - 0,Mlada Boleslav
+150,16-10-2022,Slavia Praha,2 - 1,Mlada Boleslav
+151,23-10-2022,Mlada Boleslav,4 - 3,Bohemians 1905
+152,29-10-2022,Baník Ostrava,3 - 1,Mlada Boleslav
+153,06-11-2022,Mlada Boleslav,3 - 0,Teplice
+154,12-11-2022,FK Jablonec,1 - 2,Mlada Boleslav
+155,29-01-2023,Mlada Boleslav,0 - 0,Zbrojovka Brno
+156,05-02-2023,Sparta Praha,4 - 1,Mlada Boleslav
+157,12-02-2023,Mlada Boleslav,0 - 1,Pardubice
+158,18-02-2023,Hradec Králové,0 - 1,Mlada Boleslav
+159,25-02-2023,Mlada Boleslav,2 - 2,České Budějovice
+160,05-03-2023,Slovácko,2 - 1,Mlada Boleslav
+161,12-03-2023,Mlada Boleslav,4 - 0,Slovan Liberec
+162,18-03-2023,Sigma Olomouc,2 - 0,Mlada Boleslav
+163,01-04-2023,Mlada Boleslav,0 - 0,Plzen
+164,09-04-2023,Mlada Boleslav,1 - 1,Slavia Praha
+165,16-04-2023,Bohemians 1905,4 - 0,Mlada Boleslav
+166,22-04-2023,Mlada Boleslav,1 - 0,Baník Ostrava
+167,25-04-2023,Teplice,1 - 1,Mlada Boleslav
+168,30-04-2023,Mlada Boleslav,1 - 1,Zlin
+169,07-05-2023,Mlada Boleslav,0 - 0,Hradec Králové
+170,13-05-2023,Hradec Králové,2 - 0,Mlada Boleslav
+171,31-07-2022,Pardubice,0 - 2,České Budějovice
+172,06-08-2022,Plzen,2 - 1,Pardubice
+173,14-08-2022,Pardubice,2 - 1,Slovan Liberec
+174,21-08-2022,Slavia Praha,7 - 0,Pardubice
+175,27-08-2022,Pardubice,0 - 3,Mlada Boleslav
+176,30-08-2022,Zlin,2 - 1,Pardubice
+177,04-09-2022,Pardubice,0 - 2,Sigma Olomouc
+178,11-09-2022,Baník Ostrava,3 - 0,Pardubice
+179,18-09-2022,Pardubice,0 - 1,Bohemians 1905
+180,02-10-2022,Teplice,5 - 1,Pardubice
+181,08-10-2022,Pardubice,1 - 0,FK Jablonec
+182,15-10-2022,Sparta Praha,5 - 2,Pardubice
+183,22-10-2022,Pardubice,1 - 3,Zbrojovka Brno
+184,29-10-2022,Hradec Králové,1 - 3,Pardubice
+185,06-11-2022,Slovácko,1 - 0,Pardubice
+186,13-11-2022,Pardubice,1 - 1,Plzen
+187,29-01-2023,Slovan Liberec,1 - 1,Pardubice
+188,04-02-2023,Pardubice,0 - 2,Slavia Praha
+189,12-02-2023,Mlada Boleslav,0 - 1,Pardubice
+190,19-02-2023,Pardubice,2 - 1,Zlin
+191,26-02-2023,Sigma Olomouc,2 - 2,Pardubice
+192,04-03-2023,Pardubice,1 - 1,Baník Ostrava
+193,12-03-2023,Bohemians 1905,2 - 0,Pardubice
+194,19-03-2023,Pardubice,3 - 1,Teplice
+195,02-04-2023,FK Jablonec,1 - 0,Pardubice
+196,09-04-2023,Pardubice,0 - 2,Sparta Praha
+197,16-04-2023,Zbrojovka Brno,2 - 1,Pardubice
+198,22-04-2023,Pardubice,1 - 0,Hradec Králové
+199,25-04-2023,Pardubice,3 - 1,Slovácko
+200,30-04-2023,České Budějovice,3 - 1,Pardubice
+201,06-05-2023,Teplice,1 - 0,Pardubice
+202,14-05-2023,Zbrojovka Brno,0 - 2,Pardubice
+203,21-05-2023,Pardubice,1 - 2,Zlin
+204,24-05-2023,Pardubice,2 - 0,FK Jablonec
+205,28-05-2023,Baník Ostrava,2 - 4,Pardubice
+206,01-06-2023,Příbram,0 - 2,Pardubice
+207,04-06-2023,Pardubice,0 - 0,Příbram
+208,30-07-2022,Teplice,2 - 2,Plzen
+209,06-08-2022,Plzen,2 - 1,Pardubice
+210,13-08-2022,Hradec Králové,1 - 2,Plzen
+211,27-08-2022,České Budějovice,0 - 1,Plzen
+212,31-08-2022,Plzen,3 - 0,Slovácko
+213,03-09-2022,Slovan Liberec,0 - 1,Plzen
+214,10-09-2022,Sigma Olomouc,2 - 3,Plzen
+215,18-09-2022,Plzen,3 - 0,Slavia Praha
+216,01-10-2022,Bohemians 1905,1 - 1,Plzen
+217,08-10-2022,Plzen,2 - 0,Mlada Boleslav
+218,16-10-2022,FK Jablonec,0 - 3,Plzen
+219,22-10-2022,Plzen,3 - 1,Baník Ostrava
+220,29-10-2022,Zlin,0 - 3,Plzen
+221,05-11-2022,Plzen,0 - 1,Sparta Praha
+222,09-11-2022,Plzen,4 - 0,Zbrojovka Brno
+223,13-11-2022,Pardubice,1 - 1,Plzen
+224,28-01-2023,Plzen,1 - 2,Hradec Králové
+225,05-02-2023,Zbrojovka Brno,1 - 3,Plzen
+226,12-02-2023,Plzen,2 - 1,České Budějovice
+227,19-02-2023,Slovácko,2 - 0,Plzen
+228,25-02-2023,Plzen,2 - 1,Slovan Liberec
+229,04-03-2023,Plzen,1 - 1,Sigma Olomouc
+230,11-03-2023,Slavia Praha,2 - 1,Plzen
+231,19-03-2023,Plzen,1 - 2,Bohemians 1905
+232,01-04-2023,Mlada Boleslav,0 - 0,Plzen
+233,08-04-2023,Plzen,3 - 2,FK Jablonec
+234,16-04-2023,Baník Ostrava,2 - 1,Plzen
+235,23-04-2023,Plzen,4 - 0,Zlin
+236,26-04-2023,Sparta Praha,2 - 1,Plzen
+237,30-04-2023,Plzen,1 - 1,Teplice
+238,06-05-2023,Plzen,2 - 2,Slovácko
+239,13-05-2023,Plzen,1 - 3,Sigma Olomouc
+240,20-05-2023,Slavia Praha,2 - 1,Plzen
+241,23-05-2023,Plzen,0 - 2,Bohemians 1905
+242,27-05-2023,Sparta Praha,0 - 1,Plzen
+243,01-06-2023,Příbram,0 - 2,Pardubice
+244,04-06-2023,Pardubice,0 - 0,Příbram
+245,30-07-2022,Baník Ostrava,0 - 3,Sigma Olomouc
+246,06-08-2022,Sigma Olomouc,0 - 2,Zbrojovka Brno
+247,14-08-2022,Sparta Praha,2 - 0,Sigma Olomouc
+248,21-08-2022,Sigma Olomouc,1 - 2,Slovácko
+249,28-08-2022,Hradec Králové,1 - 0,Sigma Olomouc
+250,31-08-2022,Sigma Olomouc,1 - 1,Slovan Liberec
+251,04-09-2022,Pardubice,0 - 2,Sigma Olomouc
+252,10-09-2022,Sigma Olomouc,2 - 3,Plzen
+253,17-09-2022,České Budějovice,0 - 3,Sigma Olomouc
+254,01-10-2022,Mlada Boleslav,1 - 1,Sigma Olomouc
+255,09-10-2022,Sigma Olomouc,2 - 0,Slavia Praha
+256,15-10-2022,Bohemians 1905,1 - 1,Sigma Olomouc
+257,22-10-2022,Sigma Olomouc,2 - 1,Zlin
+258,30-10-2022,Teplice,2 - 1,Sigma Olomouc
+259,05-11-2022,Sigma Olomouc,3 - 0,FK Jablonec
+260,13-11-2022,Zbrojovka Brno,2 - 3,Sigma Olomouc
+261,28-01-2023,Sigma Olomouc,1 - 1,Sparta Praha
+262,04-02-2023,Slovácko,0 - 0,Sigma Olomouc
+263,12-02-2023,Sigma Olomouc,2 - 2,Hradec Králové
+264,18-02-2023,Slovan Liberec,2 - 2,Sigma Olomouc
+265,26-02-2023,Sigma Olomouc,2 - 2,Pardubice
+266,04-03-2023,Plzen,1 - 1,Sigma Olomouc
+267,11-03-2023,Sigma Olomouc,3 - 0,České Budějovice
+268,18-03-2023,Sigma Olomouc,2 - 0,Mlada Boleslav
+269,01-04-2023,Slavia Praha,4 - 0,Sigma Olomouc
+270,09-04-2023,Sigma Olomouc,2 - 2,Bohemians 1905
+271,15-04-2023,Zlin,0 - 1,Sigma Olomouc
+272,22-04-2023,Sigma Olomouc,1 - 2,Teplice
+273,26-04-2023,FK Jablonec,2 - 2,Sigma Olomouc
+274,30-04-2023,Sigma Olomouc,1 - 4,Baník Ostrava
+275,07-05-2023,Sigma Olomouc,0 - 1,Sparta Praha
+276,13-05-2023,Plzen,1 - 3,Sigma Olomouc
+277,20-05-2023,Slovácko,2 - 2,Sigma Olomouc
+278,23-05-2023,Sigma Olomouc,2 - 3,Slavia Praha
+279,27-05-2023,Bohemians 1905,0 - 1,Sigma Olomouc
+280,31-07-2022,Hradec Králové,1 - 0,Slavia Praha
+281,07-08-2022,Slavia Praha,4 - 1,Zlin
+282,14-08-2022,FK Jablonec,2 - 3,Slavia Praha
+283,21-08-2022,Slavia Praha,7 - 0,Pardubice
+284,28-08-2022,Zbrojovka Brno,0 - 4,Slavia Praha
+285,31-08-2022,Slavia Praha,6 - 0,Teplice
+286,04-09-2022,Slovácko,1 - 1,Slavia Praha
+287,11-09-2022,Slavia Praha,6 - 1,České Budějovice
+288,18-09-2022,Plzen,3 - 0,Slavia Praha
+289,02-10-2022,Slavia Praha,3 - 0,Slovan Liberec
+290,09-10-2022,Sigma Olomouc,2 - 0,Slavia Praha
+291,16-10-2022,Slavia Praha,2 - 1,Mlada Boleslav
+292,23-10-2022,Slavia Praha,4 - 0,Sparta Praha
+293,30-10-2022,Bohemians 1905,1 - 4,Slavia Praha
+294,06-11-2022,Slavia Praha,3 - 1,Baník Ostrava
+295,13-11-2022,Zlin,0 - 4,Slavia Praha
+296,29-01-2023,Slavia Praha,5 - 1,FK Jablonec
+297,04-02-2023,Pardubice,0 - 2,Slavia Praha
+298,11-02-2023,Slavia Praha,2 - 0,Zbrojovka Brno
+299,18-02-2023,Teplice,1 - 1,Slavia Praha
+300,26-02-2023,Slavia Praha,2 - 0,Slovácko
+301,05-03-2023,České Budějovice,1 - 0,Slavia Praha
+302,11-03-2023,Slavia Praha,2 - 1,Plzen
+303,18-03-2023,Slovan Liberec,2 - 2,Slavia Praha
+304,01-04-2023,Slavia Praha,4 - 0,Sigma Olomouc
+305,09-04-2023,Mlada Boleslav,1 - 1,Slavia Praha
+306,15-04-2023,Sparta Praha,3 - 3,Slavia Praha
+307,22-04-2023,Slavia Praha,3 - 0,Bohemians 1905
+308,25-04-2023,Baník Ostrava,0 - 2,Slavia Praha
+309,30-04-2023,Slavia Praha,1 - 1,Hradec Králové
+310,07-05-2023,Slavia Praha,6 - 0,Bohemians 1905
+311,13-05-2023,Sparta Praha,3 - 2,Slavia Praha
+312,20-05-2023,Slavia Praha,2 - 1,Plzen
+313,23-05-2023,Sigma Olomouc,2 - 3,Slavia Praha
+314,27-05-2023,Slavia Praha,4 - 0,Slovácko
+315,31-07-2022,Sparta Praha,1 - 2,Slovan Liberec
+316,06-08-2022,Slovan Liberec,5 - 1,Teplice
+317,14-08-2022,Pardubice,2 - 1,Slovan Liberec
+318,21-08-2022,Slovan Liberec,1 - 1,České Budějovice
+319,28-08-2022,Slovácko,1 - 2,Slovan Liberec
+320,31-08-2022,Sigma Olomouc,1 - 1,Slovan Liberec
+321,03-09-2022,Slovan Liberec,0 - 1,Plzen
+322,11-09-2022,Bohemians 1905,0 - 2,Slovan Liberec
+323,17-09-2022,Slovan Liberec,1 - 3,Mlada Boleslav
+324,02-10-2022,Slavia Praha,3 - 0,Slovan Liberec
+325,09-10-2022,Slovan Liberec,0 - 0,Baník Ostrava
+326,16-10-2022,Zlin,2 - 1,Slovan Liberec
+327,22-10-2022,Slovan Liberec,2 - 0,FK Jablonec
+328,30-10-2022,Zbrojovka Brno,3 - 0,Slovan Liberec
+329,06-11-2022,Slovan Liberec,2 - 0,Hradec Králové
+330,12-11-2022,Teplice,2 - 1,Slovan Liberec
+331,29-01-2023,Slovan Liberec,1 - 1,Pardubice
+332,05-02-2023,České Budějovice,0 - 2,Slovan Liberec
+333,11-02-2023,Slovan Liberec,0 - 1,Slovácko
+334,18-02-2023,Slovan Liberec,2 - 2,Sigma Olomouc
+335,25-02-2023,Plzen,2 - 1,Slovan Liberec
+336,05-03-2023,Slovan Liberec,1 - 3,Bohemians 1905
+337,12-03-2023,Mlada Boleslav,4 - 0,Slovan Liberec
+338,18-03-2023,Slovan Liberec,2 - 2,Slavia Praha
+339,01-04-2023,Baník Ostrava,0 - 0,Slovan Liberec
+340,08-04-2023,Slovan Liberec,2 - 1,Zlin
+341,15-04-2023,FK Jablonec,1 - 1,Slovan Liberec
+342,23-04-2023,Slovan Liberec,3 - 1,Zbrojovka Brno
+343,26-04-2023,Hradec Králové,1 - 2,Slovan Liberec
+344,30-04-2023,Slovan Liberec,1 - 3,Sparta Praha
+345,07-05-2023,České Budějovice,3 - 2,Slovan Liberec
+346,13-05-2023,Slovan Liberec,4 - 0,České Budějovice
+347,21-05-2023,Hradec Králové,0 - 4,Slovan Liberec
+348,26-05-2023,Slovan Liberec,2 - 3,Hradec Králové
+349,30-07-2022,Zbrojovka Brno,2 - 2,Slovácko
+350,07-08-2022,Slovácko,1 - 0,Hradec Králové
+351,14-08-2022,České Budějovice,2 - 2,Slovácko
+352,21-08-2022,Sigma Olomouc,1 - 2,Slovácko
+353,28-08-2022,Slovácko,1 - 2,Slovan Liberec
+354,31-08-2022,Plzen,3 - 0,Slovácko
+355,04-09-2022,Slovácko,1 - 1,Slavia Praha
+356,11-09-2022,Mlada Boleslav,1 - 1,Slovácko
+357,18-09-2022,Slovácko,0 - 2,FK Jablonec
+358,02-10-2022,Zlin,0 - 2,Slovácko
+359,09-10-2022,Slovácko,2 - 4,Bohemians 1905
+360,16-10-2022,Baník Ostrava,3 - 1,Slovácko
+361,23-10-2022,Slovácko,2 - 1,Teplice
+362,06-11-2022,Slovácko,1 - 0,Pardubice
+363,09-11-2022,Sparta Praha,4 - 0,Slovácko
+364,13-11-2022,Hradec Králové,1 - 2,Slovácko
+365,28-01-2023,Slovácko,1 - 0,České Budějovice
+366,04-02-2023,Slovácko,0 - 0,Sigma Olomouc
+367,11-02-2023,Slovan Liberec,0 - 1,Slovácko
+368,19-02-2023,Slovácko,2 - 0,Plzen
+369,26-02-2023,Slavia Praha,2 - 0,Slovácko
+370,05-03-2023,Slovácko,2 - 1,Mlada Boleslav
+371,19-03-2023,Slovácko,3 - 0,Zlin
+372,02-04-2023,Bohemians 1905,1 - 0,Slovácko
+373,05-04-2023,FK Jablonec,1 - 1,Slovácko
+374,08-04-2023,Slovácko,0 - 1,Baník Ostrava
+375,15-04-2023,Teplice,1 - 3,Slovácko
+376,22-04-2023,Slovácko,1 - 1,Sparta Praha
+377,25-04-2023,Pardubice,3 - 1,Slovácko
+378,30-04-2023,Slovácko,1 - 0,Zbrojovka Brno
+379,06-05-2023,Plzen,2 - 2,Slovácko
+380,14-05-2023,Bohemians 1905,0 - 0,Slovácko
+381,20-05-2023,Slovácko,2 - 2,Sigma Olomouc
+382,23-05-2023,Slovácko,0 - 0,Sparta Praha
+383,27-05-2023,Slavia Praha,4 - 0,Slovácko
+384,31-07-2022,Sparta Praha,1 - 2,Slovan Liberec
+385,07-08-2022,České Budějovice,0 - 2,Sparta Praha
+386,14-08-2022,Sparta Praha,2 - 0,Sigma Olomouc
+387,20-08-2022,Mlada Boleslav,1 - 3,Sparta Praha
+388,27-08-2022,Sparta Praha,1 - 1,Bohemians 1905
+389,30-08-2022,FK Jablonec,1 - 1,Sparta Praha
+390,03-09-2022,Sparta Praha,0 - 0,Zlin
+391,10-09-2022,Teplice,2 - 2,Sparta Praha
+392,17-09-2022,Sparta Praha,1 - 1,Baník Ostrava
+393,01-10-2022,Sparta Praha,2 - 1,Hradec Králové
+394,08-10-2022,Zbrojovka Brno,0 - 4,Sparta Praha
+395,15-10-2022,Sparta Praha,5 - 2,Pardubice
+396,23-10-2022,Slavia Praha,4 - 0,Sparta Praha
+397,05-11-2022,Plzen,0 - 1,Sparta Praha
+398,09-11-2022,Sparta Praha,4 - 0,Slovácko
+399,12-11-2022,Sparta Praha,1 - 0,České Budějovice
+400,28-01-2023,Sigma Olomouc,1 - 1,Sparta Praha
+401,05-02-2023,Sparta Praha,4 - 1,Mlada Boleslav
+402,12-02-2023,Bohemians 1905,2 - 6,Sparta Praha
+403,19-02-2023,Sparta Praha,3 - 0,FK Jablonec
+404,25-02-2023,Zlin,2 - 3,Sparta Praha
+405,04-03-2023,Sparta Praha,4 - 1,Teplice
+406,11-03-2023,Baník Ostrava,0 - 3,Sparta Praha
+407,18-03-2023,Hradec Králové,0 - 2,Sparta Praha
+408,02-04-2023,Sparta Praha,3 - 1,Zbrojovka Brno
+409,09-04-2023,Pardubice,0 - 2,Sparta Praha
+410,15-04-2023,Sparta Praha,3 - 3,Slavia Praha
+411,22-04-2023,Slovácko,1 - 1,Sparta Praha
+412,26-04-2023,Sparta Praha,2 - 1,Plzen
+413,30-04-2023,Slovan Liberec,1 - 3,Sparta Praha
+414,07-05-2023,Sigma Olomouc,0 - 1,Sparta Praha
+415,13-05-2023,Sparta Praha,3 - 2,Slavia Praha
+416,20-05-2023,Sparta Praha,2 - 1,Bohemians 1905
+417,23-05-2023,Slovácko,0 - 0,Sparta Praha
+418,27-05-2023,Sparta Praha,0 - 1,Plzen
+419,30-07-2022,Teplice,2 - 2,Plzen
+420,06-08-2022,Slovan Liberec,5 - 1,Teplice
+421,13-08-2022,Teplice,0 - 1,Bohemians 1905
+422,20-08-2022,Baník Ostrava,1 - 2,Teplice
+423,27-08-2022,Teplice,0 - 0,Zlin
+424,31-08-2022,Slavia Praha,6 - 0,Teplice
+425,03-09-2022,Teplice,3 - 2,FK Jablonec
+426,10-09-2022,Teplice,2 - 2,Sparta Praha
+427,17-09-2022,Zbrojovka Brno,2 - 2,Teplice
+428,02-10-2022,Teplice,5 - 1,Pardubice
+429,08-10-2022,Hradec Králové,4 - 1,Teplice
+430,15-10-2022,Teplice,0 - 2,České Budějovice
+431,23-10-2022,Slovácko,2 - 1,Teplice
+432,30-10-2022,Teplice,2 - 1,Sigma Olomouc
+433,06-11-2022,Mlada Boleslav,3 - 0,Teplice
+434,12-11-2022,Teplice,2 - 1,Slovan Liberec
+435,28-01-2023,Bohemians 1905,2 - 0,Teplice
+436,04-02-2023,Teplice,0 - 5,Baník Ostrava
+437,11-02-2023,Zlin,2 - 1,Teplice
+438,18-02-2023,Teplice,1 - 1,Slavia Praha
+439,26-02-2023,FK Jablonec,4 - 1,Teplice
+440,04-03-2023,Sparta Praha,4 - 1,Teplice
+441,12-03-2023,Teplice,1 - 1,Zbrojovka Brno
+442,19-03-2023,Pardubice,3 - 1,Teplice
+443,02-04-2023,Teplice,1 - 0,Hradec Králové
+444,09-04-2023,České Budějovice,0 - 3,Teplice
+445,15-04-2023,Teplice,1 - 3,Slovácko
+446,22-04-2023,Sigma Olomouc,1 - 2,Teplice
+447,25-04-2023,Teplice,1 - 1,Mlada Boleslav
+448,30-04-2023,Plzen,1 - 1,Teplice
+449,06-05-2023,Teplice,1 - 0,Pardubice
+450,14-05-2023,Teplice,2 - 1,Zlin
+451,21-05-2023,Baník Ostrava,2 - 1,Teplice
+452,24-05-2023,Teplice,1 - 1,Zbrojovka Brno
+453,28-05-2023,FK Jablonec,0 - 2,Teplice
+454,01-06-2023,Zlin,1 - 0,Vyškov
+455,04-06-2023,Vyškov,0 - 0,Zlin
+456,30-07-2022,Zbrojovka Brno,2 - 2,Slovácko
+457,06-08-2022,Sigma Olomouc,0 - 2,Zbrojovka Brno
+458,13-08-2022,Zbrojovka Brno,3 - 1,Mlada Boleslav
+459,28-08-2022,Zbrojovka Brno,0 - 4,Slavia Praha
+460,31-08-2022,Baník Ostrava,1 - 2,Zbrojovka Brno
+461,04-09-2022,Zbrojovka Brno,1 - 2,Bohemians 1905
+462,10-09-2022,Zlin,2 - 3,Zbrojovka Brno
+463,17-09-2022,Zbrojovka Brno,2 - 2,Teplice
+464,02-10-2022,FK Jablonec,3 - 1,Zbrojovka Brno
+465,08-10-2022,Zbrojovka Brno,0 - 4,Sparta Praha
+466,15-10-2022,Hradec Králové,2 - 1,Zbrojovka Brno
+467,22-10-2022,Pardubice,1 - 3,Zbrojovka Brno
+468,30-10-2022,Zbrojovka Brno,3 - 0,Slovan Liberec
+469,05-11-2022,České Budějovice,3 - 2,Zbrojovka Brno
+470,09-11-2022,Plzen,4 - 0,Zbrojovka Brno
+471,13-11-2022,Zbrojovka Brno,2 - 3,Sigma Olomouc
+472,29-01-2023,Mlada Boleslav,0 - 0,Zbrojovka Brno
+473,05-02-2023,Zbrojovka Brno,1 - 3,Plzen
+474,11-02-2023,Slavia Praha,2 - 0,Zbrojovka Brno
+475,18-02-2023,Zbrojovka Brno,2 - 1,Baník Ostrava
+476,25-02-2023,Bohemians 1905,1 - 1,Zbrojovka Brno
+477,04-03-2023,Zbrojovka Brno,1 - 1,Zlin
+478,12-03-2023,Teplice,1 - 1,Zbrojovka Brno
+479,19-03-2023,Zbrojovka Brno,1 - 2,FK Jablonec
+480,02-04-2023,Sparta Praha,3 - 1,Zbrojovka Brno
+481,08-04-2023,Zbrojovka Brno,1 - 2,Hradec Králové
+482,16-04-2023,Zbrojovka Brno,2 - 1,Pardubice
+483,23-04-2023,Slovan Liberec,3 - 1,Zbrojovka Brno
+484,26-04-2023,Zbrojovka Brno,1 - 1,České Budějovice
+485,30-04-2023,Slovácko,1 - 0,Zbrojovka Brno
+486,06-05-2023,Baník Ostrava,4 - 0,Zbrojovka Brno
+487,14-05-2023,Zbrojovka Brno,0 - 2,Pardubice
+488,21-05-2023,FK Jablonec,1 - 0,Zbrojovka Brno
+489,24-05-2023,Teplice,1 - 1,Zbrojovka Brno
+490,28-05-2023,Zbrojovka Brno,0 - 0,Zlin
+491,30-07-2022,Zlin,0 - 0,Mlada Boleslav
+492,07-08-2022,Slavia Praha,4 - 1,Zlin
+493,13-08-2022,Baník Ostrava,3 - 1,Zlin
+494,21-08-2022,Zlin,2 - 2,FK Jablonec
+495,27-08-2022,Teplice,0 - 0,Zlin
+496,30-08-2022,Zlin,2 - 1,Pardubice
+497,03-09-2022,Sparta Praha,0 - 0,Zlin
+498,10-09-2022,Zlin,2 - 3,Zbrojovka Brno
+499,18-09-2022,Hradec Králové,0 - 0,Zlin
+500,02-10-2022,Zlin,0 - 2,Slovácko
+501,09-10-2022,České Budějovice,2 - 2,Zlin
+502,16-10-2022,Zlin,2 - 1,Slovan Liberec
+503,22-10-2022,Sigma Olomouc,2 - 1,Zlin
+504,29-10-2022,Zlin,0 - 3,Plzen
+505,05-11-2022,Bohemians 1905,3 - 2,Zlin
+506,13-11-2022,Zlin,0 - 4,Slavia Praha
+507,29-01-2023,Zlin,1 - 1,Baník Ostrava
+508,04-02-2023,FK Jablonec,2 - 2,Zlin
+509,11-02-2023,Zlin,2 - 1,Teplice
+510,19-02-2023,Pardubice,2 - 1,Zlin
+511,25-02-2023,Zlin,2 - 3,Sparta Praha
+512,04-03-2023,Zbrojovka Brno,1 - 1,Zlin
+513,11-03-2023,Zlin,2 - 2,Hradec Králové
+514,19-03-2023,Slovácko,3 - 0,Zlin
+515,01-04-2023,Zlin,5 - 1,České Budějovice
+516,08-04-2023,Slovan Liberec,2 - 1,Zlin
+517,15-04-2023,Zlin,0 - 1,Sigma Olomouc
+518,23-04-2023,Plzen,4 - 0,Zlin
+519,26-04-2023,Zlin,4 - 1,Bohemians 1905
+520,30-04-2023,Mlada Boleslav,1 - 1,Zlin
+521,06-05-2023,Zlin,1 - 1,FK Jablonec
+522,14-05-2023,Teplice,2 - 1,Zlin
+523,21-05-2023,Pardubice,1 - 2,Zlin
+524,24-05-2023,Zlin,2 - 1,Baník Ostrava
+525,28-05-2023,Zbrojovka Brno,0 - 0,Zlin
+526,01-06-2023,Zlin,1 - 0,Vyškov
+527,04-06-2023,Vyškov,0 - 0,Zlin
+528,31-07-2022,Pardubice,0 - 2,České Budějovice
+529,07-08-2022,České Budějovice,0 - 2,Sparta Praha
+530,14-08-2022,České Budějovice,2 - 2,Slovácko
+531,21-08-2022,Slovan Liberec,1 - 1,České Budějovice
+532,27-08-2022,České Budějovice,0 - 1,Plzen
+533,30-08-2022,Bohemians 1905,1 - 2,České Budějovice
+534,03-09-2022,České Budějovice,0 - 2,Mlada Boleslav
+535,11-09-2022,Slavia Praha,6 - 1,České Budějovice
+536,17-09-2022,České Budějovice,0 - 3,Sigma Olomouc
+537,01-10-2022,Baník Ostrava,1 - 2,České Budějovice
+538,09-10-2022,České Budějovice,2 - 2,Zlin
+539,15-10-2022,Teplice,0 - 2,České Budějovice
+540,23-10-2022,České Budějovice,0 - 3,Hradec Králové
+541,29-10-2022,FK Jablonec,3 - 0,České Budějovice
+542,05-11-2022,České Budějovice,3 - 2,Zbrojovka Brno
+543,12-11-2022,Sparta Praha,1 - 0,České Budějovice
+544,28-01-2023,Slovácko,1 - 0,České Budějovice
+545,05-02-2023,České Budějovice,0 - 2,Slovan Liberec
+546,12-02-2023,Plzen,2 - 1,České Budějovice
+547,19-02-2023,České Budějovice,1 - 0,Bohemians 1905
+548,25-02-2023,Mlada Boleslav,2 - 2,České Budějovice
+549,05-03-2023,České Budějovice,1 - 0,Slavia Praha
+550,11-03-2023,Sigma Olomouc,3 - 0,České Budějovice
+551,18-03-2023,České Budějovice,2 - 1,Baník Ostrava
+552,01-04-2023,Zlin,5 - 1,České Budějovice
+553,09-04-2023,České Budějovice,0 - 3,Teplice
+554,16-04-2023,Hradec Králové,2 - 1,České Budějovice
+555,23-04-2023,České Budějovice,5 - 1,FK Jablonec
+556,26-04-2023,Zbrojovka Brno,1 - 1,České Budějovice
+557,30-04-2023,České Budějovice,3 - 1,Pardubice
+558,07-05-2023,České Budějovice,3 - 2,Slovan Liberec
+559,13-05-2023,Slovan Liberec,4 - 0,České Budějovice

@@ -1,0 +1,489 @@
+,date,home_team,score,away_team
+0,16-07-2022,CSKA Moscow,2 - 0,Ural
+1,23-07-2022,CSKA Moscow,3 - 0,FK SOCHI
+2,31-07-2022,Nizhny Novgorod,2 - 2,CSKA Moscow
+3,06-08-2022,CSKA Moscow,4 - 1,Fakel Voronezh
+4,13-08-2022,Zenit St Petersburg,2 - 1,CSKA Moscow
+5,21-08-2022,CSKA Moscow,4 - 2,Terek Grozny
+6,28-08-2022,Rostov,0 - 0,CSKA Moscow
+7,04-09-2022,Krylya Samara,0 - 1,CSKA Moscow
+8,10-09-2022,CSKA Moscow,4 - 1,Krasnodar
+9,17-09-2022,Torpedo Moskva,1 - 0,CSKA Moscow
+10,01-10-2022,FC Khimki,1 - 2,CSKA Moscow
+11,08-10-2022,CSKA Moscow,1 - 1,Dinamo Moscow
+12,16-10-2022,CSKA Moscow,2 - 2,Spartak M
+13,23-10-2022,Gazovik Orenburg,2 - 2,CSKA Moscow
+14,29-10-2022,Lokomotiv M,0 - 1,CSKA Moscow
+15,05-11-2022,CSKA Moscow,0 - 1,Nizhny Novgorod
+16,13-11-2022,Dinamo Moscow,2 - 1,CSKA Moscow
+17,05-03-2023,FK SOCHI,2 - 0,CSKA Moscow
+18,12-03-2023,CSKA Moscow,4 - 0,Krylya Samara
+19,19-03-2023,CSKA Moscow,1 - 0,Zenit St Petersburg
+20,02-04-2023,Fakel Voronezh,0 - 2,CSKA Moscow
+21,09-04-2023,CSKA Moscow,3 - 0,FC Khimki
+22,15-04-2023,Ural,1 - 2,CSKA Moscow
+23,23-04-2023,CSKA Moscow,1 - 1,Lokomotiv M
+24,29-04-2023,Terek Grozny,1 - 3,CSKA Moscow
+25,07-05-2023,CSKA Moscow,2 - 1,Gazovik Orenburg
+26,13-05-2023,CSKA Moscow,3 - 0,Torpedo Moskva
+27,21-05-2023,Spartak M,2 - 1,CSKA Moscow
+28,27-05-2023,Krasnodar,0 - 0,CSKA Moscow
+29,03-06-2023,CSKA Moscow,4 - 1,Rostov
+30,17-07-2022,Dinamo Moscow,1 - 1,Rostov
+31,24-07-2022,Dinamo Moscow,4 - 0,Torpedo Moskva
+32,30-07-2022,Fakel Voronezh,3 - 3,Dinamo Moscow
+33,07-08-2022,Krylya Samara,0 - 2,Dinamo Moscow
+34,13-08-2022,Dinamo Moscow,0 - 0,Krasnodar
+35,20-08-2022,Dinamo Moscow,1 - 0,Spartak M
+36,27-08-2022,Nizhny Novgorod,2 - 2,Dinamo Moscow
+37,03-09-2022,Dinamo Moscow,2 - 1,Ural
+38,09-09-2022,FK SOCHI,2 - 1,Dinamo Moscow
+39,17-09-2022,Dinamo Moscow,0 - 2,Zenit St Petersburg
+40,02-10-2022,Terek Grozny,2 - 1,Dinamo Moscow
+41,08-10-2022,CSKA Moscow,1 - 1,Dinamo Moscow
+42,15-10-2022,Dinamo Moscow,3 - 2,Gazovik Orenburg
+43,22-10-2022,Lokomotiv M,1 - 3,Dinamo Moscow
+44,29-10-2022,Dinamo Moscow,6 - 1,FC Khimki
+45,06-11-2022,Rostov,2 - 1,Dinamo Moscow
+46,13-11-2022,Dinamo Moscow,2 - 1,CSKA Moscow
+47,05-03-2023,Dinamo Moscow,1 - 0,Krylya Samara
+48,11-03-2023,Krasnodar,3 - 1,Dinamo Moscow
+49,18-03-2023,Ural,0 - 1,Dinamo Moscow
+50,01-04-2023,Dinamo Moscow,0 - 2,FK SOCHI
+51,08-04-2023,Spartak M,3 - 3,Dinamo Moscow
+52,15-04-2023,Dinamo Moscow,3 - 1,Nizhny Novgorod
+53,22-04-2023,Zenit St Petersburg,3 - 1,Dinamo Moscow
+54,28-04-2023,Dinamo Moscow,0 - 2,Fakel Voronezh
+55,06-05-2023,FC Khimki,0 - 1,Dinamo Moscow
+56,14-05-2023,Dinamo Moscow,0 - 3,Terek Grozny
+57,20-05-2023,Torpedo Moskva,0 - 3,Dinamo Moscow
+58,28-05-2023,Dinamo Moscow,2 - 4,Lokomotiv M
+59,03-06-2023,Gazovik Orenburg,3 - 0,Dinamo Moscow
+60,07-06-2023,Enisey,0 - 1,Fakel Voronezh
+61,10-06-2023,Fakel Voronezh,2 - 0,Enisey
+62,15-07-2022,FC Khimki,1 - 1,Zenit St Petersburg
+63,24-07-2022,FC Khimki,3 - 0,Nizhny Novgorod
+64,31-07-2022,Rostov,1 - 0,FC Khimki
+65,07-08-2022,Torpedo Moskva,1 - 3,FC Khimki
+66,14-08-2022,FC Khimki,1 - 3,Terek Grozny
+67,20-08-2022,FC Khimki,0 - 3,Lokomotiv M
+68,26-08-2022,FK SOCHI,4 - 1,FC Khimki
+69,03-09-2022,Gazovik Orenburg,3 - 1,FC Khimki
+70,10-09-2022,FC Khimki,0 - 0,Krylya Samara
+71,18-09-2022,Krasnodar,3 - 1,FC Khimki
+72,01-10-2022,FC Khimki,1 - 2,CSKA Moscow
+73,07-10-2022,Ural,2 - 1,FC Khimki
+74,15-10-2022,FC Khimki,0 - 0,Fakel Voronezh
+75,23-10-2022,Spartak M,5 - 0,FC Khimki
+76,29-10-2022,Dinamo Moscow,6 - 1,FC Khimki
+77,04-11-2022,FC Khimki,2 - 0,Gazovik Orenburg
+78,13-11-2022,FC Khimki,0 - 2,FK SOCHI
+79,03-03-2023,Fakel Voronezh,1 - 1,FC Khimki
+80,12-03-2023,Zenit St Petersburg,3 - 2,FC Khimki
+81,19-03-2023,FC Khimki,0 - 1,Rostov
+82,02-04-2023,FC Khimki,0 - 6,Krasnodar
+83,09-04-2023,CSKA Moscow,3 - 0,FC Khimki
+84,15-04-2023,Krylya Samara,0 - 0,FC Khimki
+85,22-04-2023,FC Khimki,4 - 2,Torpedo Moskva
+86,30-04-2023,Lokomotiv M,5 - 1,FC Khimki
+87,06-05-2023,FC Khimki,0 - 1,Dinamo Moscow
+88,13-05-2023,FC Khimki,1 - 1,Spartak M
+89,20-05-2023,Terek Grozny,3 - 0,FC Khimki
+90,27-05-2023,FC Khimki,0 - 3,Ural
+91,03-06-2023,Nizhny Novgorod,2 - 0,FC Khimki
+92,17-07-2022,Torpedo Moskva,1 - 3,FK SOCHI
+93,23-07-2022,CSKA Moscow,3 - 0,FK SOCHI
+94,30-07-2022,FK SOCHI,2 - 1,Terek Grozny
+95,07-08-2022,FK SOCHI,2 - 1,Nizhny Novgorod
+96,14-08-2022,Spartak M,3 - 0,FK SOCHI
+97,20-08-2022,Rostov,2 - 2,FK SOCHI
+98,26-08-2022,FK SOCHI,4 - 1,FC Khimki
+99,03-09-2022,Krasnodar,2 - 1,FK SOCHI
+100,09-09-2022,FK SOCHI,2 - 1,Dinamo Moscow
+101,18-09-2022,FK SOCHI,1 - 1,Fakel Voronezh
+102,01-10-2022,Gazovik Orenburg,4 - 1,FK SOCHI
+103,08-10-2022,FK SOCHI,4 - 0,Lokomotiv M
+104,16-10-2022,Krylya Samara,2 - 0,FK SOCHI
+105,24-10-2022,Zenit St Petersburg,7 - 0,FK SOCHI
+106,30-10-2022,FK SOCHI,2 - 2,Ural
+107,05-11-2022,FK SOCHI,1 - 1,Spartak M
+108,13-11-2022,FC Khimki,0 - 2,FK SOCHI
+109,05-03-2023,FK SOCHI,2 - 0,CSKA Moscow
+110,10-03-2023,FK SOCHI,0 - 4,Gazovik Orenburg
+111,18-03-2023,Fakel Voronezh,3 - 0,FK SOCHI
+112,01-04-2023,Dinamo Moscow,0 - 2,FK SOCHI
+113,09-04-2023,FK SOCHI,1 - 2,Krylya Samara
+114,15-04-2023,FK SOCHI,0 - 2,Krasnodar
+115,23-04-2023,Terek Grozny,1 - 0,FK SOCHI
+116,30-04-2023,FK SOCHI,3 - 1,Torpedo Moskva
+117,08-05-2023,Lokomotiv M,3 - 0,FK SOCHI
+118,14-05-2023,FK SOCHI,1 - 0,Rostov
+119,22-05-2023,Nizhny Novgorod,4 - 0,FK SOCHI
+120,27-05-2023,FK SOCHI,1 - 1,Zenit St Petersburg
+121,03-06-2023,Ural,1 - 0,FK SOCHI
+122,17-07-2022,Krasnodar,2 - 2,Fakel Voronezh
+123,24-07-2022,Terek Grozny,2 - 1,Fakel Voronezh
+124,30-07-2022,Fakel Voronezh,3 - 3,Dinamo Moscow
+125,06-08-2022,CSKA Moscow,4 - 1,Fakel Voronezh
+126,12-08-2022,Fakel Voronezh,0 - 0,Ural
+127,19-08-2022,Krylya Samara,1 - 1,Fakel Voronezh
+128,27-08-2022,Fakel Voronezh,1 - 4,Spartak M
+129,03-09-2022,Nizhny Novgorod,3 - 1,Fakel Voronezh
+130,11-09-2022,Fakel Voronezh,2 - 0,Lokomotiv M
+131,18-09-2022,FK SOCHI,1 - 1,Fakel Voronezh
+132,02-10-2022,Fakel Voronezh,2 - 2,Torpedo Moskva
+133,08-10-2022,Fakel Voronezh,1 - 1,Zenit St Petersburg
+134,15-10-2022,FC Khimki,0 - 0,Fakel Voronezh
+135,22-10-2022,Fakel Voronezh,1 - 1,Rostov
+136,28-10-2022,Gazovik Orenburg,4 - 1,Fakel Voronezh
+137,05-11-2022,Fakel Voronezh,3 - 3,Krasnodar
+138,12-11-2022,Ural,2 - 0,Fakel Voronezh
+139,03-03-2023,Fakel Voronezh,1 - 1,FC Khimki
+140,11-03-2023,Spartak M,3 - 2,Fakel Voronezh
+141,18-03-2023,Fakel Voronezh,3 - 0,FK SOCHI
+142,02-04-2023,Fakel Voronezh,0 - 2,CSKA Moscow
+143,08-04-2023,Torpedo Moskva,2 - 0,Fakel Voronezh
+144,16-04-2023,Fakel Voronezh,1 - 1,Terek Grozny
+145,22-04-2023,Fakel Voronezh,1 - 3,Gazovik Orenburg
+146,28-04-2023,Dinamo Moscow,0 - 2,Fakel Voronezh
+147,06-05-2023,Rostov,0 - 2,Fakel Voronezh
+148,14-05-2023,Fakel Voronezh,1 - 0,Nizhny Novgorod
+149,20-05-2023,Lokomotiv M,1 - 0,Fakel Voronezh
+150,28-05-2023,Fakel Voronezh,2 - 1,Krylya Samara
+151,03-06-2023,Zenit St Petersburg,1 - 0,Fakel Voronezh
+152,07-06-2023,Enisey,0 - 1,Fakel Voronezh
+153,10-06-2023,Fakel Voronezh,2 - 0,Enisey
+154,16-07-2022,Gazovik Orenburg,2 - 4,Krylya Samara
+155,23-07-2022,Gazovik Orenburg,3 - 0,Ural
+156,31-07-2022,Spartak M,4 - 1,Gazovik Orenburg
+157,07-08-2022,Rostov,2 - 1,Gazovik Orenburg
+158,14-08-2022,Gazovik Orenburg,1 - 0,Torpedo Moskva
+159,21-08-2022,Krasnodar,2 - 0,Gazovik Orenburg
+160,28-08-2022,Lokomotiv M,5 - 1,Gazovik Orenburg
+161,03-09-2022,Gazovik Orenburg,3 - 1,FC Khimki
+162,11-09-2022,Zenit St Petersburg,8 - 0,Gazovik Orenburg
+163,18-09-2022,Nizhny Novgorod,0 - 2,Gazovik Orenburg
+164,01-10-2022,Gazovik Orenburg,4 - 1,FK SOCHI
+165,09-10-2022,Gazovik Orenburg,2 - 1,Terek Grozny
+166,15-10-2022,Dinamo Moscow,3 - 2,Gazovik Orenburg
+167,23-10-2022,Gazovik Orenburg,2 - 2,CSKA Moscow
+168,28-10-2022,Gazovik Orenburg,4 - 1,Fakel Voronezh
+169,04-11-2022,FC Khimki,2 - 0,Gazovik Orenburg
+170,13-11-2022,Gazovik Orenburg,5 - 1,Krasnodar
+171,04-03-2023,Terek Grozny,3 - 1,Gazovik Orenburg
+172,10-03-2023,FK SOCHI,0 - 4,Gazovik Orenburg
+173,18-03-2023,Gazovik Orenburg,2 - 0,Spartak M
+174,02-04-2023,Krylya Samara,1 - 1,Gazovik Orenburg
+175,10-04-2023,Gazovik Orenburg,2 - 2,Rostov
+176,16-04-2023,Gazovik Orenburg,1 - 4,Lokomotiv M
+177,22-04-2023,Fakel Voronezh,1 - 3,Gazovik Orenburg
+178,30-04-2023,Gazovik Orenburg,1 - 0,Nizhny Novgorod
+179,07-05-2023,CSKA Moscow,2 - 1,Gazovik Orenburg
+180,13-05-2023,Ural,2 - 1,Gazovik Orenburg
+181,20-05-2023,Gazovik Orenburg,2 - 2,Zenit St Petersburg
+182,27-05-2023,Torpedo Moskva,1 - 3,Gazovik Orenburg
+183,03-06-2023,Gazovik Orenburg,3 - 0,Dinamo Moscow
+184,17-07-2022,Krasnodar,2 - 2,Fakel Voronezh
+185,23-07-2022,Krasnodar,1 - 4,Spartak M
+186,29-07-2022,Ural,1 - 3,Krasnodar
+187,06-08-2022,Krasnodar,3 - 0,Lokomotiv M
+188,13-08-2022,Dinamo Moscow,0 - 0,Krasnodar
+189,21-08-2022,Krasnodar,2 - 0,Gazovik Orenburg
+190,28-08-2022,Torpedo Moskva,1 - 4,Krasnodar
+191,03-09-2022,Krasnodar,2 - 1,FK SOCHI
+192,10-09-2022,CSKA Moscow,4 - 1,Krasnodar
+193,18-09-2022,Krasnodar,3 - 1,FC Khimki
+194,03-10-2022,Krylya Samara,0 - 0,Krasnodar
+195,09-10-2022,Rostov,3 - 2,Krasnodar
+196,15-10-2022,Krasnodar,2 - 3,Terek Grozny
+197,22-10-2022,Nizhny Novgorod,0 - 2,Krasnodar
+198,30-10-2022,Krasnodar,0 - 1,Zenit St Petersburg
+199,05-11-2022,Fakel Voronezh,3 - 3,Krasnodar
+200,13-11-2022,Gazovik Orenburg,5 - 1,Krasnodar
+201,05-03-2023,Krasnodar,2 - 2,Torpedo Moskva
+202,11-03-2023,Krasnodar,3 - 1,Dinamo Moscow
+203,18-03-2023,Lokomotiv M,3 - 2,Krasnodar
+204,02-04-2023,FC Khimki,0 - 6,Krasnodar
+205,09-04-2023,Krasnodar,3 - 1,Nizhny Novgorod
+206,15-04-2023,FK SOCHI,0 - 2,Krasnodar
+207,24-04-2023,Spartak M,4 - 3,Krasnodar
+208,29-04-2023,Krasnodar,1 - 1,Ural
+209,07-05-2023,Krasnodar,2 - 1,Krylya Samara
+210,13-05-2023,Zenit St Petersburg,2 - 2,Krasnodar
+211,21-05-2023,Krasnodar,3 - 0,Rostov
+212,27-05-2023,Krasnodar,0 - 0,CSKA Moscow
+213,03-06-2023,Terek Grozny,2 - 2,Krasnodar
+214,16-07-2022,Gazovik Orenburg,2 - 4,Krylya Samara
+215,22-07-2022,Zenit St Petersburg,3 - 0,Krylya Samara
+216,31-07-2022,Krylya Samara,1 - 1,Torpedo Moskva
+217,07-08-2022,Krylya Samara,0 - 2,Dinamo Moscow
+218,13-08-2022,Lokomotiv M,1 - 1,Krylya Samara
+219,19-08-2022,Krylya Samara,1 - 1,Fakel Voronezh
+220,27-08-2022,Terek Grozny,1 - 2,Krylya Samara
+221,04-09-2022,Krylya Samara,0 - 1,CSKA Moscow
+222,10-09-2022,FC Khimki,0 - 0,Krylya Samara
+223,17-09-2022,Rostov,2 - 1,Krylya Samara
+224,03-10-2022,Krylya Samara,0 - 0,Krasnodar
+225,09-10-2022,Spartak M,5 - 2,Krylya Samara
+226,16-10-2022,Krylya Samara,2 - 0,FK SOCHI
+227,24-10-2022,Ural,2 - 1,Krylya Samara
+228,30-10-2022,Krylya Samara,2 - 1,Nizhny Novgorod
+229,06-11-2022,Torpedo Moskva,0 - 2,Krylya Samara
+230,12-11-2022,Krylya Samara,1 - 3,Rostov
+231,05-03-2023,Dinamo Moscow,1 - 0,Krylya Samara
+232,12-03-2023,CSKA Moscow,4 - 0,Krylya Samara
+233,19-03-2023,Krylya Samara,0 - 1,Terek Grozny
+234,02-04-2023,Krylya Samara,1 - 1,Gazovik Orenburg
+235,09-04-2023,FK SOCHI,1 - 2,Krylya Samara
+236,15-04-2023,Krylya Samara,0 - 0,FC Khimki
+237,23-04-2023,Nizhny Novgorod,2 - 1,Krylya Samara
+238,29-04-2023,Krylya Samara,1 - 5,Zenit St Petersburg
+239,07-05-2023,Krasnodar,2 - 1,Krylya Samara
+240,14-05-2023,Krylya Samara,1 - 1,Lokomotiv M
+241,21-05-2023,Krylya Samara,3 - 0,Ural
+242,28-05-2023,Fakel Voronezh,2 - 1,Krylya Samara
+243,03-06-2023,Krylya Samara,1 - 0,Spartak M
+244,17-07-2022,Lokomotiv M,1 - 1,Nizhny Novgorod
+245,24-07-2022,Lokomotiv M,2 - 2,Rostov
+246,30-07-2022,Zenit St Petersburg,5 - 0,Lokomotiv M
+247,06-08-2022,Krasnodar,3 - 0,Lokomotiv M
+248,13-08-2022,Lokomotiv M,1 - 1,Krylya Samara
+249,20-08-2022,FC Khimki,0 - 3,Lokomotiv M
+250,28-08-2022,Lokomotiv M,5 - 1,Gazovik Orenburg
+251,04-09-2022,Lokomotiv M,1 - 2,Terek Grozny
+252,11-09-2022,Fakel Voronezh,2 - 0,Lokomotiv M
+253,18-09-2022,Spartak M,1 - 0,Lokomotiv M
+254,01-10-2022,Lokomotiv M,2 - 4,Ural
+255,08-10-2022,FK SOCHI,4 - 0,Lokomotiv M
+256,15-10-2022,Torpedo Moskva,0 - 1,Lokomotiv M
+257,22-10-2022,Lokomotiv M,1 - 3,Dinamo Moscow
+258,29-10-2022,Lokomotiv M,0 - 1,CSKA Moscow
+259,06-11-2022,Ural,2 - 2,Lokomotiv M
+260,12-11-2022,Lokomotiv M,1 - 2,Spartak M
+261,04-03-2023,Rostov,1 - 3,Lokomotiv M
+262,11-03-2023,Terek Grozny,0 - 1,Lokomotiv M
+263,18-03-2023,Lokomotiv M,3 - 2,Krasnodar
+264,01-04-2023,Nizhny Novgorod,0 - 4,Lokomotiv M
+265,09-04-2023,Lokomotiv M,1 - 2,Zenit St Petersburg
+266,16-04-2023,Gazovik Orenburg,1 - 4,Lokomotiv M
+267,23-04-2023,CSKA Moscow,1 - 1,Lokomotiv M
+268,30-04-2023,Lokomotiv M,5 - 1,FC Khimki
+269,08-05-2023,Lokomotiv M,3 - 0,FK SOCHI
+270,14-05-2023,Krylya Samara,1 - 1,Lokomotiv M
+271,20-05-2023,Lokomotiv M,1 - 0,Fakel Voronezh
+272,28-05-2023,Dinamo Moscow,2 - 4,Lokomotiv M
+273,03-06-2023,Lokomotiv M,3 - 1,Torpedo Moskva
+274,17-07-2022,Lokomotiv M,1 - 1,Nizhny Novgorod
+275,24-07-2022,FC Khimki,3 - 0,Nizhny Novgorod
+276,31-07-2022,Nizhny Novgorod,2 - 2,CSKA Moscow
+277,07-08-2022,FK SOCHI,2 - 1,Nizhny Novgorod
+278,14-08-2022,Nizhny Novgorod,3 - 4,Rostov
+279,20-08-2022,Ural,0 - 1,Nizhny Novgorod
+280,27-08-2022,Nizhny Novgorod,2 - 2,Dinamo Moscow
+281,03-09-2022,Nizhny Novgorod,3 - 1,Fakel Voronezh
+282,10-09-2022,Terek Grozny,1 - 3,Nizhny Novgorod
+283,18-09-2022,Nizhny Novgorod,0 - 2,Gazovik Orenburg
+284,02-10-2022,Nizhny Novgorod,1 - 2,Spartak M
+285,09-10-2022,Torpedo Moskva,0 - 0,Nizhny Novgorod
+286,16-10-2022,Nizhny Novgorod,0 - 3,Zenit St Petersburg
+287,22-10-2022,Nizhny Novgorod,0 - 2,Krasnodar
+288,30-10-2022,Krylya Samara,2 - 1,Nizhny Novgorod
+289,05-11-2022,CSKA Moscow,0 - 1,Nizhny Novgorod
+290,11-11-2022,Nizhny Novgorod,3 - 2,Terek Grozny
+291,04-03-2023,Zenit St Petersburg,3 - 0,Nizhny Novgorod
+292,12-03-2023,Rostov,2 - 1,Nizhny Novgorod
+293,19-03-2023,Nizhny Novgorod,1 - 1,Torpedo Moskva
+294,01-04-2023,Nizhny Novgorod,0 - 4,Lokomotiv M
+295,09-04-2023,Krasnodar,3 - 1,Nizhny Novgorod
+296,15-04-2023,Dinamo Moscow,3 - 1,Nizhny Novgorod
+297,23-04-2023,Nizhny Novgorod,2 - 1,Krylya Samara
+298,30-04-2023,Gazovik Orenburg,1 - 0,Nizhny Novgorod
+299,07-05-2023,Nizhny Novgorod,0 - 0,Ural
+300,14-05-2023,Fakel Voronezh,1 - 0,Nizhny Novgorod
+301,22-05-2023,Nizhny Novgorod,4 - 0,FK SOCHI
+302,28-05-2023,Spartak M,0 - 0,Nizhny Novgorod
+303,03-06-2023,Nizhny Novgorod,2 - 0,FC Khimki
+304,07-06-2023,Rodina Moskva,0 - 3,Nizhny Novgorod
+305,10-06-2023,Nizhny Novgorod,0 - 2,Rodina Moskva
+306,07-06-2023,Rodina Moskva,0 - 3,Nizhny Novgorod
+307,10-06-2023,Nizhny Novgorod,0 - 2,Rodina Moskva
+308,17-07-2022,Dinamo Moscow,1 - 1,Rostov
+309,24-07-2022,Lokomotiv M,2 - 2,Rostov
+310,31-07-2022,Rostov,1 - 0,FC Khimki
+311,07-08-2022,Rostov,2 - 1,Gazovik Orenburg
+312,14-08-2022,Nizhny Novgorod,3 - 4,Rostov
+313,20-08-2022,Rostov,2 - 2,FK SOCHI
+314,28-08-2022,Rostov,0 - 0,CSKA Moscow
+315,05-09-2022,Torpedo Moskva,0 - 1,Rostov
+316,11-09-2022,Rostov,4 - 2,Spartak M
+317,17-09-2022,Rostov,2 - 1,Krylya Samara
+318,02-10-2022,Zenit St Petersburg,3 - 1,Rostov
+319,09-10-2022,Rostov,3 - 2,Krasnodar
+320,14-10-2022,Rostov,1 - 2,Ural
+321,22-10-2022,Fakel Voronezh,1 - 1,Rostov
+322,29-10-2022,Terek Grozny,1 - 2,Rostov
+323,06-11-2022,Rostov,2 - 1,Dinamo Moscow
+324,12-11-2022,Krylya Samara,1 - 3,Rostov
+325,04-03-2023,Rostov,1 - 3,Lokomotiv M
+326,12-03-2023,Rostov,2 - 1,Nizhny Novgorod
+327,19-03-2023,FC Khimki,0 - 1,Rostov
+328,02-04-2023,Rostov,2 - 1,Torpedo Moskva
+329,10-04-2023,Gazovik Orenburg,2 - 2,Rostov
+330,16-04-2023,Rostov,0 - 0,Zenit St Petersburg
+331,23-04-2023,Ural,1 - 3,Rostov
+332,29-04-2023,Spartak M,1 - 1,Rostov
+333,06-05-2023,Rostov,0 - 2,Fakel Voronezh
+334,14-05-2023,FK SOCHI,1 - 0,Rostov
+335,21-05-2023,Krasnodar,3 - 0,Rostov
+336,28-05-2023,Rostov,3 - 2,Terek Grozny
+337,03-06-2023,CSKA Moscow,4 - 1,Rostov
+338,16-07-2022,Terek Grozny,1 - 1,Spartak M
+339,23-07-2022,Krasnodar,1 - 4,Spartak M
+340,31-07-2022,Spartak M,4 - 1,Gazovik Orenburg
+341,06-08-2022,Ural,0 - 2,Spartak M
+342,14-08-2022,Spartak M,3 - 0,FK SOCHI
+343,20-08-2022,Dinamo Moscow,1 - 0,Spartak M
+344,27-08-2022,Fakel Voronezh,1 - 4,Spartak M
+345,04-09-2022,Spartak M,1 - 2,Zenit St Petersburg
+346,11-09-2022,Rostov,4 - 2,Spartak M
+347,18-09-2022,Spartak M,1 - 0,Lokomotiv M
+348,02-10-2022,Nizhny Novgorod,1 - 2,Spartak M
+349,09-10-2022,Spartak M,5 - 2,Krylya Samara
+350,16-10-2022,CSKA Moscow,2 - 2,Spartak M
+351,23-10-2022,Spartak M,5 - 0,FC Khimki
+352,30-10-2022,Spartak M,1 - 0,Torpedo Moskva
+353,05-11-2022,FK SOCHI,1 - 1,Spartak M
+354,12-11-2022,Lokomotiv M,1 - 2,Spartak M
+355,04-03-2023,Spartak M,2 - 2,Ural
+356,11-03-2023,Spartak M,3 - 2,Fakel Voronezh
+357,18-03-2023,Gazovik Orenburg,2 - 0,Spartak M
+358,01-04-2023,Spartak M,0 - 0,Terek Grozny
+359,08-04-2023,Spartak M,3 - 3,Dinamo Moscow
+360,15-04-2023,Torpedo Moskva,1 - 2,Spartak M
+361,24-04-2023,Spartak M,4 - 3,Krasnodar
+362,29-04-2023,Spartak M,1 - 1,Rostov
+363,07-05-2023,Zenit St Petersburg,3 - 2,Spartak M
+364,13-05-2023,FC Khimki,1 - 1,Spartak M
+365,21-05-2023,Spartak M,2 - 1,CSKA Moscow
+366,28-05-2023,Spartak M,0 - 0,Nizhny Novgorod
+367,03-06-2023,Krylya Samara,1 - 0,Spartak M
+368,16-07-2022,Terek Grozny,1 - 1,Spartak M
+369,24-07-2022,Terek Grozny,2 - 1,Fakel Voronezh
+370,30-07-2022,FK SOCHI,2 - 1,Terek Grozny
+371,06-08-2022,Terek Grozny,0 - 0,Zenit St Petersburg
+372,14-08-2022,FC Khimki,1 - 3,Terek Grozny
+373,21-08-2022,CSKA Moscow,4 - 2,Terek Grozny
+374,27-08-2022,Terek Grozny,1 - 2,Krylya Samara
+375,04-09-2022,Lokomotiv M,1 - 2,Terek Grozny
+376,10-09-2022,Terek Grozny,1 - 3,Nizhny Novgorod
+377,17-09-2022,Ural,1 - 2,Terek Grozny
+378,02-10-2022,Terek Grozny,2 - 1,Dinamo Moscow
+379,09-10-2022,Gazovik Orenburg,2 - 1,Terek Grozny
+380,15-10-2022,Krasnodar,2 - 3,Terek Grozny
+381,23-10-2022,Terek Grozny,1 - 0,Torpedo Moskva
+382,29-10-2022,Terek Grozny,1 - 2,Rostov
+383,05-11-2022,Zenit St Petersburg,1 - 2,Terek Grozny
+384,11-11-2022,Nizhny Novgorod,3 - 2,Terek Grozny
+385,04-03-2023,Terek Grozny,3 - 1,Gazovik Orenburg
+386,11-03-2023,Terek Grozny,0 - 1,Lokomotiv M
+387,19-03-2023,Krylya Samara,0 - 1,Terek Grozny
+388,01-04-2023,Spartak M,0 - 0,Terek Grozny
+389,08-04-2023,Terek Grozny,2 - 0,Ural
+390,16-04-2023,Fakel Voronezh,1 - 1,Terek Grozny
+391,23-04-2023,Terek Grozny,1 - 0,FK SOCHI
+392,29-04-2023,Terek Grozny,1 - 3,CSKA Moscow
+393,06-05-2023,Torpedo Moskva,1 - 5,Terek Grozny
+394,14-05-2023,Dinamo Moscow,0 - 3,Terek Grozny
+395,20-05-2023,Terek Grozny,3 - 0,FC Khimki
+396,28-05-2023,Rostov,3 - 2,Terek Grozny
+397,03-06-2023,Terek Grozny,2 - 2,Krasnodar
+398,17-07-2022,Torpedo Moskva,1 - 3,FK SOCHI
+399,24-07-2022,Dinamo Moscow,4 - 0,Torpedo Moskva
+400,31-07-2022,Krylya Samara,1 - 1,Torpedo Moskva
+401,07-08-2022,Torpedo Moskva,1 - 3,FC Khimki
+402,14-08-2022,Gazovik Orenburg,1 - 0,Torpedo Moskva
+403,21-08-2022,Zenit St Petersburg,2 - 0,Torpedo Moskva
+404,28-08-2022,Torpedo Moskva,1 - 4,Krasnodar
+405,05-09-2022,Torpedo Moskva,0 - 1,Rostov
+406,11-09-2022,Ural,2 - 0,Torpedo Moskva
+407,17-09-2022,Torpedo Moskva,1 - 0,CSKA Moscow
+408,02-10-2022,Fakel Voronezh,2 - 2,Torpedo Moskva
+409,09-10-2022,Torpedo Moskva,0 - 0,Nizhny Novgorod
+410,15-10-2022,Torpedo Moskva,0 - 1,Lokomotiv M
+411,23-10-2022,Terek Grozny,1 - 0,Torpedo Moskva
+412,30-10-2022,Spartak M,1 - 0,Torpedo Moskva
+413,06-11-2022,Torpedo Moskva,0 - 2,Krylya Samara
+414,12-11-2022,Torpedo Moskva,0 - 2,Zenit St Petersburg
+415,05-03-2023,Krasnodar,2 - 2,Torpedo Moskva
+416,11-03-2023,Torpedo Moskva,0 - 1,Ural
+417,19-03-2023,Nizhny Novgorod,1 - 1,Torpedo Moskva
+418,02-04-2023,Rostov,2 - 1,Torpedo Moskva
+419,08-04-2023,Torpedo Moskva,2 - 0,Fakel Voronezh
+420,15-04-2023,Torpedo Moskva,1 - 2,Spartak M
+421,22-04-2023,FC Khimki,4 - 2,Torpedo Moskva
+422,30-04-2023,FK SOCHI,3 - 1,Torpedo Moskva
+423,06-05-2023,Torpedo Moskva,1 - 5,Terek Grozny
+424,13-05-2023,CSKA Moscow,3 - 0,Torpedo Moskva
+425,20-05-2023,Torpedo Moskva,0 - 3,Dinamo Moscow
+426,27-05-2023,Torpedo Moskva,1 - 3,Gazovik Orenburg
+427,03-06-2023,Lokomotiv M,3 - 1,Torpedo Moskva
+428,16-07-2022,CSKA Moscow,2 - 0,Ural
+429,23-07-2022,Gazovik Orenburg,3 - 0,Ural
+430,29-07-2022,Ural,1 - 3,Krasnodar
+431,06-08-2022,Ural,0 - 2,Spartak M
+432,12-08-2022,Fakel Voronezh,0 - 0,Ural
+433,20-08-2022,Ural,0 - 1,Nizhny Novgorod
+434,28-08-2022,Ural,0 - 4,Zenit St Petersburg
+435,03-09-2022,Dinamo Moscow,2 - 1,Ural
+436,11-09-2022,Ural,2 - 0,Torpedo Moskva
+437,17-09-2022,Ural,1 - 2,Terek Grozny
+438,01-10-2022,Lokomotiv M,2 - 4,Ural
+439,07-10-2022,Ural,2 - 1,FC Khimki
+440,14-10-2022,Rostov,1 - 2,Ural
+441,24-10-2022,Ural,2 - 1,Krylya Samara
+442,30-10-2022,FK SOCHI,2 - 2,Ural
+443,06-11-2022,Ural,2 - 2,Lokomotiv M
+444,12-11-2022,Ural,2 - 0,Fakel Voronezh
+445,04-03-2023,Spartak M,2 - 2,Ural
+446,11-03-2023,Torpedo Moskva,0 - 1,Ural
+447,18-03-2023,Ural,0 - 1,Dinamo Moscow
+448,01-04-2023,Zenit St Petersburg,2 - 0,Ural
+449,08-04-2023,Terek Grozny,2 - 0,Ural
+450,15-04-2023,Ural,1 - 2,CSKA Moscow
+451,23-04-2023,Ural,1 - 3,Rostov
+452,29-04-2023,Krasnodar,1 - 1,Ural
+453,07-05-2023,Nizhny Novgorod,0 - 0,Ural
+454,13-05-2023,Ural,2 - 1,Gazovik Orenburg
+455,21-05-2023,Krylya Samara,3 - 0,Ural
+456,27-05-2023,FC Khimki,0 - 3,Ural
+457,03-06-2023,Ural,1 - 0,FK SOCHI
+458,15-07-2022,FC Khimki,1 - 1,Zenit St Petersburg
+459,22-07-2022,Zenit St Petersburg,3 - 0,Krylya Samara
+460,30-07-2022,Zenit St Petersburg,5 - 0,Lokomotiv M
+461,06-08-2022,Terek Grozny,0 - 0,Zenit St Petersburg
+462,13-08-2022,Zenit St Petersburg,2 - 1,CSKA Moscow
+463,21-08-2022,Zenit St Petersburg,2 - 0,Torpedo Moskva
+464,28-08-2022,Ural,0 - 4,Zenit St Petersburg
+465,04-09-2022,Spartak M,1 - 2,Zenit St Petersburg
+466,11-09-2022,Zenit St Petersburg,8 - 0,Gazovik Orenburg
+467,17-09-2022,Dinamo Moscow,0 - 2,Zenit St Petersburg
+468,02-10-2022,Zenit St Petersburg,3 - 1,Rostov
+469,08-10-2022,Fakel Voronezh,1 - 1,Zenit St Petersburg
+470,16-10-2022,Nizhny Novgorod,0 - 3,Zenit St Petersburg
+471,24-10-2022,Zenit St Petersburg,7 - 0,FK SOCHI
+472,30-10-2022,Krasnodar,0 - 1,Zenit St Petersburg
+473,05-11-2022,Zenit St Petersburg,1 - 2,Terek Grozny
+474,12-11-2022,Torpedo Moskva,0 - 2,Zenit St Petersburg
+475,04-03-2023,Zenit St Petersburg,3 - 0,Nizhny Novgorod
+476,12-03-2023,Zenit St Petersburg,3 - 2,FC Khimki
+477,19-03-2023,CSKA Moscow,1 - 0,Zenit St Petersburg
+478,01-04-2023,Zenit St Petersburg,2 - 0,Ural
+479,09-04-2023,Lokomotiv M,1 - 2,Zenit St Petersburg
+480,16-04-2023,Rostov,0 - 0,Zenit St Petersburg
+481,22-04-2023,Zenit St Petersburg,3 - 1,Dinamo Moscow
+482,29-04-2023,Krylya Samara,1 - 5,Zenit St Petersburg
+483,07-05-2023,Zenit St Petersburg,3 - 2,Spartak M
+484,13-05-2023,Zenit St Petersburg,2 - 2,Krasnodar
+485,20-05-2023,Gazovik Orenburg,2 - 2,Zenit St Petersburg
+486,27-05-2023,FK SOCHI,1 - 1,Zenit St Petersburg
+487,03-06-2023,Zenit St Petersburg,1 - 0,Fakel Voronezh

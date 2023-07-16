@@ -1,0 +1,389 @@
+,date,home_team,score,away_team
+0,23-07-2022,LASK Linz,3 - 1,Austria Klagenfurt
+1,31-07-2022,Austria Klagenfurt,0 - 1,Rapid Vienna
+2,07-08-2022,Swarovski Watt,2 - 2,Austria Klagenfurt
+3,13-08-2022,Austria Klagenfurt,1 - 0,SV Ried
+4,20-08-2022,FC Salzburg,2 - 0,Austria Klagenfurt
+5,28-08-2022,Austria Klagenfurt,3 - 3,FK Austria Vienna
+6,04-09-2022,Wolfsberger AC,3 - 4,Austria Klagenfurt
+7,11-09-2022,Austria Klagenfurt,0 - 2,SK Sturm Graz
+8,17-09-2022,SCR Altach,1 - 4,Austria Klagenfurt
+9,02-10-2022,Hartberg,2 - 3,Austria Klagenfurt
+10,08-10-2022,Austria Klagenfurt,2 - 1,Austria Lustenau
+11,15-10-2022,Austria Klagenfurt,1 - 3,LASK Linz
+12,22-10-2022,Rapid Vienna,0 - 1,Austria Klagenfurt
+13,29-10-2022,Austria Klagenfurt,2 - 3,Swarovski Watt
+14,05-11-2022,SV Ried,2 - 2,Austria Klagenfurt
+15,13-11-2022,Austria Klagenfurt,0 - 1,FC Salzburg
+16,12-02-2023,FK Austria Vienna,3 - 1,Austria Klagenfurt
+17,18-02-2023,Austria Klagenfurt,0 - 3,Wolfsberger AC
+18,25-02-2023,SK Sturm Graz,1 - 2,Austria Klagenfurt
+19,05-03-2023,Austria Klagenfurt,3 - 0,SCR Altach
+20,12-03-2023,Austria Klagenfurt,1 - 0,Hartberg
+21,19-03-2023,Austria Lustenau,4 - 2,Austria Klagenfurt
+22,02-04-2023,Austria Klagenfurt,0 - 3,FC Salzburg
+23,09-04-2023,Rapid Vienna,3 - 1,Austria Klagenfurt
+24,16-04-2023,Austria Klagenfurt,0 - 2,SK Sturm Graz
+25,23-04-2023,FK Austria Vienna,1 - 2,Austria Klagenfurt
+26,30-04-2023,LASK Linz,4 - 0,Austria Klagenfurt
+27,07-05-2023,Austria Klagenfurt,1 - 1,LASK Linz
+28,14-05-2023,SK Sturm Graz,4 - 1,Austria Klagenfurt
+29,21-05-2023,Austria Klagenfurt,1 - 1,FK Austria Vienna
+30,28-05-2023,FC Salzburg,3 - 2,Austria Klagenfurt
+31,03-06-2023,Austria Klagenfurt,2 - 1,Rapid Vienna
+32,24-07-2022,Austria Lustenau,2 - 1,Swarovski Watt
+33,30-07-2022,SV Ried,1 - 0,Austria Lustenau
+34,07-08-2022,Rapid Vienna,1 - 1,Austria Lustenau
+35,14-08-2022,Austria Lustenau,4 - 1,Hartberg
+36,20-08-2022,SCR Altach,1 - 2,Austria Lustenau
+37,27-08-2022,Austria Lustenau,0 - 6,FC Salzburg
+38,03-09-2022,FK Austria Vienna,2 - 2,Austria Lustenau
+39,11-09-2022,Austria Lustenau,1 - 1,LASK Linz
+40,18-09-2022,SK Sturm Graz,2 - 0,Austria Lustenau
+41,01-10-2022,Austria Lustenau,1 - 3,Wolfsberger AC
+42,08-10-2022,Austria Klagenfurt,2 - 1,Austria Lustenau
+43,15-10-2022,Swarovski Watt,3 - 2,Austria Lustenau
+44,23-10-2022,Austria Lustenau,0 - 0,SV Ried
+45,29-10-2022,Austria Lustenau,3 - 3,Rapid Vienna
+46,05-11-2022,Hartberg,1 - 1,Austria Lustenau
+47,12-11-2022,Austria Lustenau,3 - 0,SCR Altach
+48,11-02-2023,FC Salzburg,4 - 0,Austria Lustenau
+49,19-02-2023,Austria Lustenau,1 - 0,FK Austria Vienna
+50,24-02-2023,LASK Linz,1 - 0,Austria Lustenau
+51,04-03-2023,Austria Lustenau,0 - 2,SK Sturm Graz
+52,12-03-2023,Wolfsberger AC,0 - 1,Austria Lustenau
+53,19-03-2023,Austria Lustenau,4 - 2,Austria Klagenfurt
+54,31-03-2023,Hartberg,0 - 1,Austria Lustenau
+55,08-04-2023,Austria Lustenau,1 - 0,SCR Altach
+56,15-04-2023,Austria Lustenau,1 - 3,Wolfsberger AC
+57,22-04-2023,Swarovski Watt,0 - 2,Austria Lustenau
+58,29-04-2023,SV Ried,4 - 4,Austria Lustenau
+59,06-05-2023,Austria Lustenau,2 - 2,SV Ried
+60,13-05-2023,Wolfsberger AC,2 - 2,Austria Lustenau
+61,20-05-2023,Austria Lustenau,2 - 4,Swarovski Watt
+62,27-05-2023,SCR Altach,1 - 1,Austria Lustenau
+63,02-06-2023,Austria Lustenau,5 - 1,Hartberg
+64,08-06-2023,Austria Lustenau,1 - 1,FK Austria Vienna
+65,11-06-2023,FK Austria Vienna,5 - 0,Austria Lustenau
+66,22-07-2022,FC Salzburg,3 - 0,FK Austria Vienna
+67,30-07-2022,SK Sturm Graz,2 - 1,FC Salzburg
+68,06-08-2022,Hartberg,0 - 2,FC Salzburg
+69,14-08-2022,FC Salzburg,2 - 1,Wolfsberger AC
+70,20-08-2022,FC Salzburg,2 - 0,Austria Klagenfurt
+71,27-08-2022,Austria Lustenau,0 - 6,FC Salzburg
+72,03-09-2022,FC Salzburg,2 - 0,Swarovski Watt
+73,10-09-2022,SV Ried,0 - 3,FC Salzburg
+74,18-09-2022,FC Salzburg,1 - 1,Rapid Vienna
+75,01-10-2022,FC Salzburg,1 - 1,LASK Linz
+76,08-10-2022,SCR Altach,2 - 3,FC Salzburg
+77,16-10-2022,FK Austria Vienna,1 - 3,FC Salzburg
+78,22-10-2022,FC Salzburg,0 - 0,SK Sturm Graz
+79,29-10-2022,FC Salzburg,1 - 0,Hartberg
+80,05-11-2022,Wolfsberger AC,1 - 2,FC Salzburg
+81,13-11-2022,Austria Klagenfurt,0 - 1,FC Salzburg
+82,11-02-2023,FC Salzburg,4 - 0,Austria Lustenau
+83,19-02-2023,Swarovski Watt,1 - 3,FC Salzburg
+84,26-02-2023,FC Salzburg,2 - 0,SV Ried
+85,05-03-2023,Rapid Vienna,2 - 4,FC Salzburg
+86,12-03-2023,LASK Linz,0 - 2,FC Salzburg
+87,19-03-2023,FC Salzburg,1 - 1,SCR Altach
+88,02-04-2023,Austria Klagenfurt,0 - 3,FC Salzburg
+89,09-04-2023,FC Salzburg,3 - 3,FK Austria Vienna
+90,16-04-2023,FC Salzburg,0 - 0,LASK Linz
+91,23-04-2023,SK Sturm Graz,0 - 2,FC Salzburg
+92,26-04-2023,Rapid Vienna,1 - 1,FC Salzburg
+93,07-05-2023,FC Salzburg,2 - 1,Rapid Vienna
+94,14-05-2023,LASK Linz,0 - 1,FC Salzburg
+95,21-05-2023,FC Salzburg,2 - 1,SK Sturm Graz
+96,28-05-2023,FC Salzburg,3 - 2,Austria Klagenfurt
+97,03-06-2023,FK Austria Vienna,1 - 1,FC Salzburg
+98,22-07-2022,FC Salzburg,3 - 0,FK Austria Vienna
+99,31-07-2022,FK Austria Vienna,1 - 1,LASK Linz
+100,07-08-2022,SCR Altach,3 - 2,FK Austria Vienna
+101,13-08-2022,FK Austria Vienna,2 - 1,Swarovski Watt
+102,21-08-2022,Wolfsberger AC,1 - 2,FK Austria Vienna
+103,28-08-2022,Austria Klagenfurt,3 - 3,FK Austria Vienna
+104,03-09-2022,FK Austria Vienna,2 - 2,Austria Lustenau
+105,11-09-2022,Hartberg,0 - 3,FK Austria Vienna
+106,18-09-2022,FK Austria Vienna,3 - 0,SV Ried
+107,02-10-2022,FK Austria Vienna,0 - 3,SK Sturm Graz
+108,09-10-2022,Rapid Vienna,1 - 2,FK Austria Vienna
+109,16-10-2022,FK Austria Vienna,1 - 3,FC Salzburg
+110,23-10-2022,LASK Linz,2 - 2,FK Austria Vienna
+111,30-10-2022,FK Austria Vienna,2 - 1,SCR Altach
+112,06-11-2022,Swarovski Watt,0 - 0,FK Austria Vienna
+113,13-11-2022,FK Austria Vienna,0 - 1,Wolfsberger AC
+114,12-02-2023,FK Austria Vienna,3 - 1,Austria Klagenfurt
+115,19-02-2023,Austria Lustenau,1 - 0,FK Austria Vienna
+116,25-02-2023,FK Austria Vienna,3 - 0,Hartberg
+117,04-03-2023,SV Ried,1 - 3,FK Austria Vienna
+118,12-03-2023,SK Sturm Graz,3 - 1,FK Austria Vienna
+119,19-03-2023,FK Austria Vienna,2 - 0,Rapid Vienna
+120,02-04-2023,FK Austria Vienna,2 - 2,LASK Linz
+121,09-04-2023,FC Salzburg,3 - 3,FK Austria Vienna
+122,16-04-2023,Rapid Vienna,3 - 3,FK Austria Vienna
+123,23-04-2023,FK Austria Vienna,1 - 2,Austria Klagenfurt
+124,26-04-2023,SK Sturm Graz,3 - 2,FK Austria Vienna
+125,07-05-2023,FK Austria Vienna,1 - 2,SK Sturm Graz
+126,14-05-2023,FK Austria Vienna,3 - 1,Rapid Vienna
+127,21-05-2023,Austria Klagenfurt,1 - 1,FK Austria Vienna
+128,28-05-2023,LASK Linz,3 - 1,FK Austria Vienna
+129,03-06-2023,FK Austria Vienna,1 - 1,FC Salzburg
+130,08-06-2023,Austria Lustenau,1 - 1,FK Austria Vienna
+131,11-06-2023,FK Austria Vienna,5 - 0,Austria Lustenau
+132,24-07-2022,Hartberg,2 - 1,SCR Altach
+133,31-07-2022,Swarovski Watt,2 - 1,Hartberg
+134,06-08-2022,Hartberg,0 - 2,FC Salzburg
+135,14-08-2022,Austria Lustenau,4 - 1,Hartberg
+136,27-08-2022,Hartberg,2 - 0,SV Ried
+137,03-09-2022,SK Sturm Graz,0 - 0,Hartberg
+138,11-09-2022,Hartberg,0 - 3,FK Austria Vienna
+139,17-09-2022,Wolfsberger AC,3 - 1,Hartberg
+140,02-10-2022,Hartberg,2 - 3,Austria Klagenfurt
+141,08-10-2022,LASK Linz,0 - 3,Hartberg
+142,16-10-2022,SCR Altach,1 - 0,Hartberg
+143,22-10-2022,Hartberg,1 - 5,Swarovski Watt
+144,26-10-2022,Rapid Vienna,5 - 1,Hartberg
+145,29-10-2022,FC Salzburg,1 - 0,Hartberg
+146,05-11-2022,Hartberg,1 - 1,Austria Lustenau
+147,12-11-2022,Hartberg,1 - 2,Rapid Vienna
+148,12-02-2023,SV Ried,0 - 1,Hartberg
+149,18-02-2023,Hartberg,1 - 2,SK Sturm Graz
+150,25-02-2023,FK Austria Vienna,3 - 0,Hartberg
+151,04-03-2023,Hartberg,2 - 1,Wolfsberger AC
+152,12-03-2023,Austria Klagenfurt,1 - 0,Hartberg
+153,19-03-2023,Hartberg,2 - 2,LASK Linz
+154,31-03-2023,Hartberg,0 - 1,Austria Lustenau
+155,08-04-2023,SV Ried,1 - 3,Hartberg
+156,15-04-2023,Hartberg,2 - 2,SCR Altach
+157,21-04-2023,Wolfsberger AC,2 - 2,Hartberg
+158,29-04-2023,Swarovski Watt,1 - 1,Hartberg
+159,06-05-2023,Hartberg,5 - 0,Swarovski Watt
+160,13-05-2023,SCR Altach,0 - 1,Hartberg
+161,20-05-2023,Hartberg,0 - 2,Wolfsberger AC
+162,27-05-2023,Hartberg,2 - 0,SV Ried
+163,02-06-2023,Austria Lustenau,5 - 1,Hartberg
+164,23-07-2022,LASK Linz,3 - 1,Austria Klagenfurt
+165,31-07-2022,FK Austria Vienna,1 - 1,LASK Linz
+166,06-08-2022,Wolfsberger AC,1 - 5,LASK Linz
+167,14-08-2022,LASK Linz,2 - 1,Rapid Vienna
+168,20-08-2022,SK Sturm Graz,0 - 1,LASK Linz
+169,27-08-2022,LASK Linz,4 - 1,SCR Altach
+170,04-09-2022,LASK Linz,1 - 1,SV Ried
+171,11-09-2022,Austria Lustenau,1 - 1,LASK Linz
+172,17-09-2022,LASK Linz,1 - 4,Swarovski Watt
+173,01-10-2022,FC Salzburg,1 - 1,LASK Linz
+174,08-10-2022,LASK Linz,0 - 3,Hartberg
+175,15-10-2022,Austria Klagenfurt,1 - 3,LASK Linz
+176,23-10-2022,LASK Linz,2 - 2,FK Austria Vienna
+177,30-10-2022,LASK Linz,4 - 1,Wolfsberger AC
+178,06-11-2022,Rapid Vienna,1 - 0,LASK Linz
+179,13-11-2022,LASK Linz,1 - 1,SK Sturm Graz
+180,12-02-2023,SCR Altach,0 - 1,LASK Linz
+181,18-02-2023,SV Ried,1 - 1,LASK Linz
+182,24-02-2023,LASK Linz,1 - 0,Austria Lustenau
+183,05-03-2023,Swarovski Watt,2 - 3,LASK Linz
+184,12-03-2023,LASK Linz,0 - 2,FC Salzburg
+185,19-03-2023,Hartberg,2 - 2,LASK Linz
+186,02-04-2023,FK Austria Vienna,2 - 2,LASK Linz
+187,09-04-2023,LASK Linz,2 - 1,SK Sturm Graz
+188,16-04-2023,FC Salzburg,0 - 0,LASK Linz
+189,23-04-2023,LASK Linz,3 - 1,Rapid Vienna
+190,30-04-2023,LASK Linz,4 - 0,Austria Klagenfurt
+191,07-05-2023,Austria Klagenfurt,1 - 1,LASK Linz
+192,14-05-2023,LASK Linz,0 - 1,FC Salzburg
+193,21-05-2023,Rapid Vienna,1 - 1,LASK Linz
+194,28-05-2023,LASK Linz,3 - 1,FK Austria Vienna
+195,03-06-2023,SK Sturm Graz,2 - 0,LASK Linz
+196,24-07-2022,Rapid Vienna,1 - 0,SV Ried
+197,31-07-2022,Austria Klagenfurt,0 - 1,Rapid Vienna
+198,07-08-2022,Rapid Vienna,1 - 1,Austria Lustenau
+199,14-08-2022,LASK Linz,2 - 1,Rapid Vienna
+200,28-08-2022,Rapid Vienna,1 - 2,SK Sturm Graz
+201,04-09-2022,SCR Altach,0 - 1,Rapid Vienna
+202,10-09-2022,Rapid Vienna,1 - 3,Wolfsberger AC
+203,18-09-2022,FC Salzburg,1 - 1,Rapid Vienna
+204,01-10-2022,Swarovski Watt,0 - 5,Rapid Vienna
+205,09-10-2022,Rapid Vienna,1 - 2,FK Austria Vienna
+206,15-10-2022,SV Ried,1 - 0,Rapid Vienna
+207,22-10-2022,Rapid Vienna,0 - 1,Austria Klagenfurt
+208,26-10-2022,Rapid Vienna,5 - 1,Hartberg
+209,29-10-2022,Austria Lustenau,3 - 3,Rapid Vienna
+210,06-11-2022,Rapid Vienna,1 - 0,LASK Linz
+211,12-11-2022,Hartberg,1 - 2,Rapid Vienna
+212,10-02-2023,SK Sturm Graz,1 - 0,Rapid Vienna
+213,19-02-2023,Rapid Vienna,3 - 0,SCR Altach
+214,26-02-2023,Wolfsberger AC,1 - 2,Rapid Vienna
+215,05-03-2023,Rapid Vienna,2 - 4,FC Salzburg
+216,12-03-2023,Rapid Vienna,2 - 0,Swarovski Watt
+217,19-03-2023,FK Austria Vienna,2 - 0,Rapid Vienna
+218,02-04-2023,SK Sturm Graz,3 - 1,Rapid Vienna
+219,09-04-2023,Rapid Vienna,3 - 1,Austria Klagenfurt
+220,16-04-2023,Rapid Vienna,3 - 3,FK Austria Vienna
+221,23-04-2023,LASK Linz,3 - 1,Rapid Vienna
+222,26-04-2023,Rapid Vienna,1 - 1,FC Salzburg
+223,07-05-2023,FC Salzburg,2 - 1,Rapid Vienna
+224,14-05-2023,FK Austria Vienna,3 - 1,Rapid Vienna
+225,21-05-2023,Rapid Vienna,1 - 1,LASK Linz
+226,28-05-2023,Rapid Vienna,3 - 2,SK Sturm Graz
+227,03-06-2023,Austria Klagenfurt,2 - 1,Rapid Vienna
+228,24-07-2022,Hartberg,2 - 1,SCR Altach
+229,30-07-2022,SCR Altach,2 - 2,Wolfsberger AC
+230,07-08-2022,SCR Altach,3 - 2,FK Austria Vienna
+231,13-08-2022,SK Sturm Graz,4 - 0,SCR Altach
+232,20-08-2022,SCR Altach,1 - 2,Austria Lustenau
+233,27-08-2022,LASK Linz,4 - 1,SCR Altach
+234,04-09-2022,SCR Altach,0 - 1,Rapid Vienna
+235,10-09-2022,Swarovski Watt,0 - 0,SCR Altach
+236,17-09-2022,SCR Altach,1 - 4,Austria Klagenfurt
+237,02-10-2022,SV Ried,2 - 3,SCR Altach
+238,08-10-2022,SCR Altach,2 - 3,FC Salzburg
+239,16-10-2022,SCR Altach,1 - 0,Hartberg
+240,23-10-2022,Wolfsberger AC,2 - 3,SCR Altach
+241,30-10-2022,FK Austria Vienna,2 - 1,SCR Altach
+242,06-11-2022,SCR Altach,1 - 1,SK Sturm Graz
+243,12-11-2022,Austria Lustenau,3 - 0,SCR Altach
+244,12-02-2023,SCR Altach,0 - 1,LASK Linz
+245,19-02-2023,Rapid Vienna,3 - 0,SCR Altach
+246,26-02-2023,SCR Altach,0 - 0,Swarovski Watt
+247,05-03-2023,Austria Klagenfurt,3 - 0,SCR Altach
+248,12-03-2023,SCR Altach,1 - 2,SV Ried
+249,19-03-2023,FC Salzburg,1 - 1,SCR Altach
+250,01-04-2023,SCR Altach,1 - 0,Swarovski Watt
+251,08-04-2023,Austria Lustenau,1 - 0,SCR Altach
+252,15-04-2023,Hartberg,2 - 2,SCR Altach
+253,22-04-2023,SCR Altach,1 - 1,SV Ried
+254,28-04-2023,SCR Altach,0 - 2,Wolfsberger AC
+255,05-05-2023,Wolfsberger AC,0 - 0,SCR Altach
+256,13-05-2023,SCR Altach,0 - 1,Hartberg
+257,19-05-2023,SV Ried,0 - 1,SCR Altach
+258,27-05-2023,SCR Altach,1 - 1,Austria Lustenau
+259,02-06-2023,Swarovski Watt,1 - 1,SCR Altach
+260,23-07-2022,Wolfsberger AC,1 - 1,SK Sturm Graz
+261,30-07-2022,SK Sturm Graz,2 - 1,FC Salzburg
+262,06-08-2022,SV Ried,1 - 1,SK Sturm Graz
+263,13-08-2022,SK Sturm Graz,4 - 0,SCR Altach
+264,20-08-2022,SK Sturm Graz,0 - 1,LASK Linz
+265,28-08-2022,Rapid Vienna,1 - 2,SK Sturm Graz
+266,03-09-2022,SK Sturm Graz,0 - 0,Hartberg
+267,11-09-2022,Austria Klagenfurt,0 - 2,SK Sturm Graz
+268,18-09-2022,SK Sturm Graz,2 - 0,Austria Lustenau
+269,02-10-2022,FK Austria Vienna,0 - 3,SK Sturm Graz
+270,09-10-2022,SK Sturm Graz,2 - 1,Swarovski Watt
+271,16-10-2022,SK Sturm Graz,3 - 2,Wolfsberger AC
+272,22-10-2022,FC Salzburg,0 - 0,SK Sturm Graz
+273,30-10-2022,SK Sturm Graz,2 - 1,SV Ried
+274,06-11-2022,SCR Altach,1 - 1,SK Sturm Graz
+275,13-11-2022,LASK Linz,1 - 1,SK Sturm Graz
+276,10-02-2023,SK Sturm Graz,1 - 0,Rapid Vienna
+277,18-02-2023,Hartberg,1 - 2,SK Sturm Graz
+278,25-02-2023,SK Sturm Graz,1 - 2,Austria Klagenfurt
+279,04-03-2023,Austria Lustenau,0 - 2,SK Sturm Graz
+280,12-03-2023,SK Sturm Graz,3 - 1,FK Austria Vienna
+281,19-03-2023,Swarovski Watt,0 - 2,SK Sturm Graz
+282,02-04-2023,SK Sturm Graz,3 - 1,Rapid Vienna
+283,09-04-2023,LASK Linz,2 - 1,SK Sturm Graz
+284,16-04-2023,Austria Klagenfurt,0 - 2,SK Sturm Graz
+285,23-04-2023,SK Sturm Graz,0 - 2,FC Salzburg
+286,26-04-2023,SK Sturm Graz,3 - 2,FK Austria Vienna
+287,07-05-2023,FK Austria Vienna,1 - 2,SK Sturm Graz
+288,14-05-2023,SK Sturm Graz,4 - 1,Austria Klagenfurt
+289,21-05-2023,FC Salzburg,2 - 1,SK Sturm Graz
+290,28-05-2023,Rapid Vienna,3 - 2,SK Sturm Graz
+291,03-06-2023,SK Sturm Graz,2 - 0,LASK Linz
+292,24-07-2022,Rapid Vienna,1 - 0,SV Ried
+293,30-07-2022,SV Ried,1 - 0,Austria Lustenau
+294,06-08-2022,SV Ried,1 - 1,SK Sturm Graz
+295,13-08-2022,Austria Klagenfurt,1 - 0,SV Ried
+296,21-08-2022,SV Ried,1 - 2,Swarovski Watt
+297,27-08-2022,Hartberg,2 - 0,SV Ried
+298,04-09-2022,LASK Linz,1 - 1,SV Ried
+299,10-09-2022,SV Ried,0 - 3,FC Salzburg
+300,18-09-2022,FK Austria Vienna,3 - 0,SV Ried
+301,02-10-2022,SV Ried,2 - 3,SCR Altach
+302,09-10-2022,Wolfsberger AC,1 - 2,SV Ried
+303,15-10-2022,SV Ried,1 - 0,Rapid Vienna
+304,23-10-2022,Austria Lustenau,0 - 0,SV Ried
+305,30-10-2022,SK Sturm Graz,2 - 1,SV Ried
+306,05-11-2022,SV Ried,2 - 2,Austria Klagenfurt
+307,12-11-2022,Swarovski Watt,2 - 0,SV Ried
+308,12-02-2023,SV Ried,0 - 1,Hartberg
+309,18-02-2023,SV Ried,1 - 1,LASK Linz
+310,26-02-2023,FC Salzburg,2 - 0,SV Ried
+311,04-03-2023,SV Ried,1 - 3,FK Austria Vienna
+312,12-03-2023,SCR Altach,1 - 2,SV Ried
+313,19-03-2023,SV Ried,0 - 0,Wolfsberger AC
+314,01-04-2023,Wolfsberger AC,1 - 0,SV Ried
+315,08-04-2023,SV Ried,1 - 3,Hartberg
+316,14-04-2023,SV Ried,1 - 1,Swarovski Watt
+317,22-04-2023,SCR Altach,1 - 1,SV Ried
+318,29-04-2023,SV Ried,4 - 4,Austria Lustenau
+319,06-05-2023,Austria Lustenau,2 - 2,SV Ried
+320,12-05-2023,Swarovski Watt,1 - 1,SV Ried
+321,19-05-2023,SV Ried,0 - 1,SCR Altach
+322,27-05-2023,Hartberg,2 - 0,SV Ried
+323,02-06-2023,SV Ried,1 - 2,Wolfsberger AC
+324,24-07-2022,Austria Lustenau,2 - 1,Swarovski Watt
+325,31-07-2022,Swarovski Watt,2 - 1,Hartberg
+326,07-08-2022,Swarovski Watt,2 - 2,Austria Klagenfurt
+327,13-08-2022,FK Austria Vienna,2 - 1,Swarovski Watt
+328,21-08-2022,SV Ried,1 - 2,Swarovski Watt
+329,28-08-2022,Swarovski Watt,1 - 3,Wolfsberger AC
+330,03-09-2022,FC Salzburg,2 - 0,Swarovski Watt
+331,10-09-2022,Swarovski Watt,0 - 0,SCR Altach
+332,17-09-2022,LASK Linz,1 - 4,Swarovski Watt
+333,01-10-2022,Swarovski Watt,0 - 5,Rapid Vienna
+334,09-10-2022,SK Sturm Graz,2 - 1,Swarovski Watt
+335,15-10-2022,Swarovski Watt,3 - 2,Austria Lustenau
+336,22-10-2022,Hartberg,1 - 5,Swarovski Watt
+337,29-10-2022,Austria Klagenfurt,2 - 3,Swarovski Watt
+338,06-11-2022,Swarovski Watt,0 - 0,FK Austria Vienna
+339,12-11-2022,Swarovski Watt,2 - 0,SV Ried
+340,11-02-2023,Wolfsberger AC,1 - 2,Swarovski Watt
+341,19-02-2023,Swarovski Watt,1 - 3,FC Salzburg
+342,26-02-2023,SCR Altach,0 - 0,Swarovski Watt
+343,05-03-2023,Swarovski Watt,2 - 3,LASK Linz
+344,12-03-2023,Rapid Vienna,2 - 0,Swarovski Watt
+345,19-03-2023,Swarovski Watt,0 - 2,SK Sturm Graz
+346,01-04-2023,SCR Altach,1 - 0,Swarovski Watt
+347,07-04-2023,Swarovski Watt,4 - 0,Wolfsberger AC
+348,14-04-2023,SV Ried,1 - 1,Swarovski Watt
+349,22-04-2023,Swarovski Watt,0 - 2,Austria Lustenau
+350,29-04-2023,Swarovski Watt,1 - 1,Hartberg
+351,06-05-2023,Hartberg,5 - 0,Swarovski Watt
+352,12-05-2023,Swarovski Watt,1 - 1,SV Ried
+353,20-05-2023,Austria Lustenau,2 - 4,Swarovski Watt
+354,27-05-2023,Wolfsberger AC,2 - 0,Swarovski Watt
+355,02-06-2023,Swarovski Watt,1 - 1,SCR Altach
+356,23-07-2022,Wolfsberger AC,1 - 1,SK Sturm Graz
+357,30-07-2022,SCR Altach,2 - 2,Wolfsberger AC
+358,06-08-2022,Wolfsberger AC,1 - 5,LASK Linz
+359,14-08-2022,FC Salzburg,2 - 1,Wolfsberger AC
+360,21-08-2022,Wolfsberger AC,1 - 2,FK Austria Vienna
+361,28-08-2022,Swarovski Watt,1 - 3,Wolfsberger AC
+362,04-09-2022,Wolfsberger AC,3 - 4,Austria Klagenfurt
+363,10-09-2022,Rapid Vienna,1 - 3,Wolfsberger AC
+364,17-09-2022,Wolfsberger AC,3 - 1,Hartberg
+365,01-10-2022,Austria Lustenau,1 - 3,Wolfsberger AC
+366,09-10-2022,Wolfsberger AC,1 - 2,SV Ried
+367,16-10-2022,SK Sturm Graz,3 - 2,Wolfsberger AC
+368,23-10-2022,Wolfsberger AC,2 - 3,SCR Altach
+369,30-10-2022,LASK Linz,4 - 1,Wolfsberger AC
+370,05-11-2022,Wolfsberger AC,1 - 2,FC Salzburg
+371,13-11-2022,FK Austria Vienna,0 - 1,Wolfsberger AC
+372,11-02-2023,Wolfsberger AC,1 - 2,Swarovski Watt
+373,18-02-2023,Austria Klagenfurt,0 - 3,Wolfsberger AC
+374,26-02-2023,Wolfsberger AC,1 - 2,Rapid Vienna
+375,04-03-2023,Hartberg,2 - 1,Wolfsberger AC
+376,12-03-2023,Wolfsberger AC,0 - 1,Austria Lustenau
+377,19-03-2023,SV Ried,0 - 0,Wolfsberger AC
+378,01-04-2023,Wolfsberger AC,1 - 0,SV Ried
+379,07-04-2023,Swarovski Watt,4 - 0,Wolfsberger AC
+380,15-04-2023,Austria Lustenau,1 - 3,Wolfsberger AC
+381,21-04-2023,Wolfsberger AC,2 - 2,Hartberg
+382,28-04-2023,SCR Altach,0 - 2,Wolfsberger AC
+383,05-05-2023,Wolfsberger AC,0 - 0,SCR Altach
+384,13-05-2023,Wolfsberger AC,2 - 2,Austria Lustenau
+385,20-05-2023,Hartberg,0 - 2,Wolfsberger AC
+386,27-05-2023,Wolfsberger AC,2 - 0,Swarovski Watt
+387,02-06-2023,SV Ried,1 - 2,Wolfsberger AC

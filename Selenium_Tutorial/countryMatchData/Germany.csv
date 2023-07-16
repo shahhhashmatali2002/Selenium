@@ -1,0 +1,617 @@
+,date,home_team,score,away_team
+0,06-08-2022,Augsburg,0 - 4,Freiburg
+1,13-08-2022,Leverkusen,1 - 2,Augsburg
+2,20-08-2022,Augsburg,1 - 2,Mainz
+3,27-08-2022,Hoffenheim,1 - 0,Augsburg
+4,04-09-2022,Augsburg,0 - 2,Hertha
+5,09-09-2022,Werder Bremen,0 - 1,Augsburg
+6,17-09-2022,Augsburg,1 - 0,Bayern Munich
+7,02-10-2022,Schalke 04,2 - 3,Augsburg
+8,08-10-2022,Augsburg,1 - 1,Wolfsburg
+9,16-10-2022,FC Koln,3 - 2,Augsburg
+10,22-10-2022,Augsburg,3 - 3,RB Leipzig
+11,29-10-2022,Stuttgart,2 - 1,Augsburg
+12,05-11-2022,Augsburg,1 - 2,Ein Frankfurt
+13,09-11-2022,Union Berlin,2 - 2,Augsburg
+14,12-11-2022,Augsburg,0 - 1,Bochum
+15,22-01-2023,Dortmund,4 - 3,Augsburg
+16,25-01-2023,Augsburg,1 - 0,M''gladbach
+17,28-01-2023,Freiburg,3 - 1,Augsburg
+18,03-02-2023,Augsburg,1 - 0,Leverkusen
+19,11-02-2023,Mainz,3 - 1,Augsburg
+20,17-02-2023,Augsburg,1 - 0,Hoffenheim
+21,25-02-2023,Hertha,2 - 0,Augsburg
+22,04-03-2023,Augsburg,2 - 1,Werder Bremen
+23,11-03-2023,Bayern Munich,5 - 3,Augsburg
+24,18-03-2023,Augsburg,1 - 1,Schalke 04
+25,01-04-2023,Wolfsburg,2 - 2,Augsburg
+26,08-04-2023,Augsburg,1 - 3,FC Koln
+27,15-04-2023,RB Leipzig,3 - 2,Augsburg
+28,21-04-2023,Augsburg,1 - 1,Stuttgart
+29,29-04-2023,Ein Frankfurt,1 - 1,Augsburg
+30,06-05-2023,Augsburg,1 - 0,Union Berlin
+31,13-05-2023,Bochum,3 - 2,Augsburg
+32,21-05-2023,Augsburg,0 - 3,Dortmund
+33,27-05-2023,M''gladbach,2 - 0,Augsburg
+34,05-08-2022,Ein Frankfurt,1 - 6,Bayern Munich
+35,14-08-2022,Bayern Munich,2 - 0,Wolfsburg
+36,21-08-2022,Bochum,0 - 7,Bayern Munich
+37,27-08-2022,Bayern Munich,1 - 1,M''gladbach
+38,03-09-2022,Union Berlin,1 - 1,Bayern Munich
+39,10-09-2022,Bayern Munich,2 - 2,Stuttgart
+40,17-09-2022,Augsburg,1 - 0,Bayern Munich
+41,30-09-2022,Bayern Munich,4 - 0,Leverkusen
+42,08-10-2022,Dortmund,2 - 2,Bayern Munich
+43,16-10-2022,Bayern Munich,5 - 0,Freiburg
+44,22-10-2022,Hoffenheim,0 - 2,Bayern Munich
+45,29-10-2022,Bayern Munich,6 - 2,Mainz
+46,05-11-2022,Hertha,2 - 3,Bayern Munich
+47,08-11-2022,Bayern Munich,6 - 1,Werder Bremen
+48,12-11-2022,Schalke 04,0 - 2,Bayern Munich
+49,20-01-2023,RB Leipzig,1 - 1,Bayern Munich
+50,24-01-2023,Bayern Munich,1 - 1,FC Koln
+51,28-01-2023,Bayern Munich,1 - 1,Ein Frankfurt
+52,05-02-2023,Wolfsburg,2 - 4,Bayern Munich
+53,11-02-2023,Bayern Munich,3 - 0,Bochum
+54,18-02-2023,M''gladbach,3 - 2,Bayern Munich
+55,26-02-2023,Bayern Munich,3 - 0,Union Berlin
+56,04-03-2023,Stuttgart,1 - 2,Bayern Munich
+57,11-03-2023,Bayern Munich,5 - 3,Augsburg
+58,19-03-2023,Leverkusen,2 - 1,Bayern Munich
+59,01-04-2023,Bayern Munich,4 - 2,Dortmund
+60,08-04-2023,Freiburg,0 - 1,Bayern Munich
+61,15-04-2023,Bayern Munich,1 - 1,Hoffenheim
+62,22-04-2023,Mainz,3 - 1,Bayern Munich
+63,30-04-2023,Bayern Munich,2 - 0,Hertha
+64,06-05-2023,Werder Bremen,1 - 2,Bayern Munich
+65,13-05-2023,Bayern Munich,6 - 0,Schalke 04
+66,20-05-2023,Bayern Munich,1 - 3,RB Leipzig
+67,27-05-2023,FC Koln,1 - 2,Bayern Munich
+68,06-08-2022,Bochum,1 - 2,Mainz
+69,13-08-2022,Hoffenheim,3 - 2,Bochum
+70,21-08-2022,Bochum,0 - 7,Bayern Munich
+71,26-08-2022,Freiburg,1 - 0,Bochum
+72,03-09-2022,Bochum,0 - 2,Werder Bremen
+73,10-09-2022,Schalke 04,3 - 1,Bochum
+74,18-09-2022,Bochum,1 - 1,FC Koln
+75,01-10-2022,RB Leipzig,4 - 0,Bochum
+76,08-10-2022,Bochum,3 - 0,Ein Frankfurt
+77,15-10-2022,Stuttgart,4 - 1,Bochum
+78,23-10-2022,Bochum,2 - 1,Union Berlin
+79,29-10-2022,Wolfsburg,4 - 0,Bochum
+80,05-11-2022,Dortmund,3 - 0,Bochum
+81,08-11-2022,Bochum,2 - 1,M''gladbach
+82,12-11-2022,Augsburg,0 - 1,Bochum
+83,21-01-2023,Bochum,3 - 1,Hertha
+84,25-01-2023,Leverkusen,2 - 0,Bochum
+85,28-01-2023,Mainz,5 - 2,Bochum
+86,04-02-2023,Bochum,5 - 2,Hoffenheim
+87,11-02-2023,Bayern Munich,3 - 0,Bochum
+88,18-02-2023,Bochum,0 - 2,Freiburg
+89,25-02-2023,Werder Bremen,3 - 0,Bochum
+90,04-03-2023,Bochum,0 - 2,Schalke 04
+91,10-03-2023,FC Koln,0 - 2,Bochum
+92,18-03-2023,Bochum,1 - 0,RB Leipzig
+93,31-03-2023,Ein Frankfurt,1 - 1,Bochum
+94,09-04-2023,Bochum,2 - 3,Stuttgart
+95,16-04-2023,Union Berlin,1 - 1,Bochum
+96,22-04-2023,Bochum,1 - 5,Wolfsburg
+97,28-04-2023,Bochum,1 - 1,Dortmund
+98,06-05-2023,M''gladbach,2 - 0,Bochum
+99,13-05-2023,Bochum,3 - 2,Augsburg
+100,20-05-2023,Hertha,1 - 1,Bochum
+101,27-05-2023,Bochum,3 - 0,Leverkusen
+102,06-08-2022,Dortmund,1 - 0,Leverkusen
+103,12-08-2022,Freiburg,1 - 3,Dortmund
+104,20-08-2022,Dortmund,2 - 3,Werder Bremen
+105,27-08-2022,Hertha,0 - 1,Dortmund
+106,02-09-2022,Dortmund,1 - 0,Hoffenheim
+107,10-09-2022,RB Leipzig,3 - 0,Dortmund
+108,17-09-2022,Dortmund,1 - 0,Schalke 04
+109,01-10-2022,FC Koln,3 - 2,Dortmund
+110,08-10-2022,Dortmund,2 - 2,Bayern Munich
+111,16-10-2022,Union Berlin,2 - 0,Dortmund
+112,22-10-2022,Dortmund,5 - 0,Stuttgart
+113,29-10-2022,Ein Frankfurt,1 - 2,Dortmund
+114,05-11-2022,Dortmund,3 - 0,Bochum
+115,08-11-2022,Wolfsburg,2 - 0,Dortmund
+116,11-11-2022,M''gladbach,4 - 2,Dortmund
+117,22-01-2023,Dortmund,4 - 3,Augsburg
+118,25-01-2023,Mainz,1 - 2,Dortmund
+119,29-01-2023,Leverkusen,0 - 2,Dortmund
+120,04-02-2023,Dortmund,5 - 1,Freiburg
+121,11-02-2023,Werder Bremen,0 - 2,Dortmund
+122,19-02-2023,Dortmund,4 - 1,Hertha
+123,25-02-2023,Hoffenheim,0 - 1,Dortmund
+124,03-03-2023,Dortmund,2 - 1,RB Leipzig
+125,11-03-2023,Schalke 04,2 - 2,Dortmund
+126,18-03-2023,Dortmund,6 - 1,FC Koln
+127,01-04-2023,Bayern Munich,4 - 2,Dortmund
+128,08-04-2023,Dortmund,2 - 1,Union Berlin
+129,15-04-2023,Stuttgart,3 - 3,Dortmund
+130,22-04-2023,Dortmund,4 - 0,Ein Frankfurt
+131,28-04-2023,Bochum,1 - 1,Dortmund
+132,07-05-2023,Dortmund,6 - 0,Wolfsburg
+133,13-05-2023,Dortmund,5 - 2,M''gladbach
+134,21-05-2023,Augsburg,0 - 3,Dortmund
+135,27-05-2023,Dortmund,2 - 2,Mainz
+136,05-08-2022,Ein Frankfurt,1 - 6,Bayern Munich
+137,13-08-2022,Hertha,1 - 1,Ein Frankfurt
+138,21-08-2022,Ein Frankfurt,1 - 1,FC Koln
+139,28-08-2022,Werder Bremen,3 - 4,Ein Frankfurt
+140,03-09-2022,Ein Frankfurt,4 - 0,RB Leipzig
+141,10-09-2022,Ein Frankfurt,0 - 1,Wolfsburg
+142,17-09-2022,Stuttgart,1 - 3,Ein Frankfurt
+143,01-10-2022,Ein Frankfurt,2 - 0,Union Berlin
+144,08-10-2022,Bochum,3 - 0,Ein Frankfurt
+145,15-10-2022,Ein Frankfurt,5 - 1,Leverkusen
+146,22-10-2022,M''gladbach,1 - 3,Ein Frankfurt
+147,29-10-2022,Ein Frankfurt,1 - 2,Dortmund
+148,05-11-2022,Augsburg,1 - 2,Ein Frankfurt
+149,09-11-2022,Ein Frankfurt,4 - 2,Hoffenheim
+150,13-11-2022,Mainz,1 - 1,Ein Frankfurt
+151,21-01-2023,Ein Frankfurt,3 - 0,Schalke 04
+152,25-01-2023,Freiburg,1 - 1,Ein Frankfurt
+153,28-01-2023,Bayern Munich,1 - 1,Ein Frankfurt
+154,04-02-2023,Ein Frankfurt,3 - 0,Hertha
+155,12-02-2023,FC Koln,3 - 0,Ein Frankfurt
+156,18-02-2023,Ein Frankfurt,2 - 0,Werder Bremen
+157,25-02-2023,RB Leipzig,2 - 1,Ein Frankfurt
+158,05-03-2023,Wolfsburg,2 - 2,Ein Frankfurt
+159,11-03-2023,Ein Frankfurt,1 - 1,Stuttgart
+160,19-03-2023,Union Berlin,2 - 0,Ein Frankfurt
+161,31-03-2023,Ein Frankfurt,1 - 1,Bochum
+162,08-04-2023,Leverkusen,3 - 1,Ein Frankfurt
+163,15-04-2023,Ein Frankfurt,1 - 1,M''gladbach
+164,22-04-2023,Dortmund,4 - 0,Ein Frankfurt
+165,29-04-2023,Ein Frankfurt,1 - 1,Augsburg
+166,06-05-2023,Hoffenheim,3 - 1,Ein Frankfurt
+167,13-05-2023,Ein Frankfurt,3 - 0,Mainz
+168,20-05-2023,Schalke 04,2 - 2,Ein Frankfurt
+169,27-05-2023,Ein Frankfurt,2 - 1,Freiburg
+170,07-08-2022,FC Koln,3 - 1,Schalke 04
+171,13-08-2022,RB Leipzig,2 - 2,FC Koln
+172,21-08-2022,Ein Frankfurt,1 - 1,FC Koln
+173,28-08-2022,FC Koln,0 - 0,Stuttgart
+174,03-09-2022,Wolfsburg,2 - 4,FC Koln
+175,11-09-2022,FC Koln,0 - 1,Union Berlin
+176,18-09-2022,Bochum,1 - 1,FC Koln
+177,01-10-2022,FC Koln,3 - 2,Dortmund
+178,09-10-2022,M''gladbach,5 - 2,FC Koln
+179,16-10-2022,FC Koln,3 - 2,Augsburg
+180,21-10-2022,Mainz,5 - 0,FC Koln
+181,30-10-2022,FC Koln,1 - 1,Hoffenheim
+182,06-11-2022,Freiburg,2 - 0,FC Koln
+183,09-11-2022,FC Koln,1 - 2,Leverkusen
+184,12-11-2022,Hertha,2 - 0,FC Koln
+185,21-01-2023,FC Koln,7 - 1,Werder Bremen
+186,24-01-2023,Bayern Munich,1 - 1,FC Koln
+187,29-01-2023,Schalke 04,0 - 0,FC Koln
+188,04-02-2023,FC Koln,0 - 0,RB Leipzig
+189,12-02-2023,FC Koln,3 - 0,Ein Frankfurt
+190,18-02-2023,Stuttgart,3 - 0,FC Koln
+191,25-02-2023,FC Koln,0 - 2,Wolfsburg
+192,04-03-2023,Union Berlin,0 - 0,FC Koln
+193,10-03-2023,FC Koln,0 - 2,Bochum
+194,18-03-2023,Dortmund,6 - 1,FC Koln
+195,02-04-2023,FC Koln,0 - 0,M''gladbach
+196,08-04-2023,Augsburg,1 - 3,FC Koln
+197,15-04-2023,FC Koln,1 - 1,Mainz
+198,22-04-2023,Hoffenheim,1 - 3,FC Koln
+199,29-04-2023,FC Koln,0 - 1,Freiburg
+200,05-05-2023,Leverkusen,1 - 2,FC Koln
+201,12-05-2023,FC Koln,5 - 2,Hertha
+202,20-05-2023,Werder Bremen,1 - 1,FC Koln
+203,27-05-2023,FC Koln,1 - 2,Bayern Munich
+204,06-08-2022,Augsburg,0 - 4,Freiburg
+205,12-08-2022,Freiburg,1 - 3,Dortmund
+206,20-08-2022,Stuttgart,0 - 1,Freiburg
+207,26-08-2022,Freiburg,1 - 0,Bochum
+208,03-09-2022,Leverkusen,2 - 3,Freiburg
+209,11-09-2022,Freiburg,0 - 0,M''gladbach
+210,18-09-2022,Hoffenheim,0 - 0,Freiburg
+211,01-10-2022,Freiburg,2 - 1,Mainz
+212,09-10-2022,Hertha,2 - 2,Freiburg
+213,16-10-2022,Bayern Munich,5 - 0,Freiburg
+214,22-10-2022,Freiburg,2 - 0,Werder Bremen
+215,30-10-2022,Schalke 04,0 - 2,Freiburg
+216,06-11-2022,Freiburg,2 - 0,FC Koln
+217,09-11-2022,RB Leipzig,3 - 1,Freiburg
+218,13-11-2022,Freiburg,4 - 1,Union Berlin
+219,21-01-2023,Wolfsburg,6 - 0,Freiburg
+220,25-01-2023,Freiburg,1 - 1,Ein Frankfurt
+221,28-01-2023,Freiburg,3 - 1,Augsburg
+222,04-02-2023,Dortmund,5 - 1,Freiburg
+223,11-02-2023,Freiburg,2 - 1,Stuttgart
+224,18-02-2023,Bochum,0 - 2,Freiburg
+225,26-02-2023,Freiburg,1 - 1,Leverkusen
+226,04-03-2023,M''gladbach,0 - 0,Freiburg
+227,12-03-2023,Freiburg,2 - 1,Hoffenheim
+228,19-03-2023,Mainz,1 - 1,Freiburg
+229,01-04-2023,Freiburg,1 - 1,Hertha
+230,08-04-2023,Freiburg,0 - 1,Bayern Munich
+231,16-04-2023,Werder Bremen,1 - 2,Freiburg
+232,23-04-2023,Freiburg,4 - 0,Schalke 04
+233,29-04-2023,FC Koln,0 - 1,Freiburg
+234,06-05-2023,Freiburg,0 - 1,RB Leipzig
+235,13-05-2023,Union Berlin,4 - 2,Freiburg
+236,19-05-2023,Freiburg,2 - 0,Wolfsburg
+237,27-05-2023,Ein Frankfurt,2 - 1,Freiburg
+238,01-06-2023,Stuttgart,3 - 0,Hamburg
+239,05-06-2023,Hamburg,1 - 3,Stuttgart
+240,06-08-2022,Union Berlin,3 - 1,Hertha
+241,13-08-2022,Hertha,1 - 1,Ein Frankfurt
+242,19-08-2022,M''gladbach,1 - 0,Hertha
+243,27-08-2022,Hertha,0 - 1,Dortmund
+244,04-09-2022,Augsburg,0 - 2,Hertha
+245,10-09-2022,Hertha,2 - 2,Leverkusen
+246,16-09-2022,Mainz,1 - 1,Hertha
+247,02-10-2022,Hertha,1 - 1,Hoffenheim
+248,09-10-2022,Hertha,2 - 2,Freiburg
+249,15-10-2022,RB Leipzig,3 - 2,Hertha
+250,23-10-2022,Hertha,2 - 1,Schalke 04
+251,28-10-2022,Werder Bremen,1 - 0,Hertha
+252,05-11-2022,Hertha,2 - 3,Bayern Munich
+253,08-11-2022,Stuttgart,2 - 1,Hertha
+254,12-11-2022,Hertha,2 - 0,FC Koln
+255,21-01-2023,Bochum,3 - 1,Hertha
+256,24-01-2023,Hertha,0 - 5,Wolfsburg
+257,28-01-2023,Hertha,0 - 2,Union Berlin
+258,04-02-2023,Ein Frankfurt,3 - 0,Hertha
+259,12-02-2023,Hertha,4 - 1,M''gladbach
+260,19-02-2023,Dortmund,4 - 1,Hertha
+261,25-02-2023,Hertha,2 - 0,Augsburg
+262,05-03-2023,Leverkusen,4 - 1,Hertha
+263,11-03-2023,Hertha,1 - 1,Mainz
+264,18-03-2023,Hoffenheim,3 - 1,Hertha
+265,01-04-2023,Freiburg,1 - 1,Hertha
+266,08-04-2023,Hertha,0 - 1,RB Leipzig
+267,14-04-2023,Schalke 04,5 - 2,Hertha
+268,22-04-2023,Hertha,2 - 4,Werder Bremen
+269,30-04-2023,Bayern Munich,2 - 0,Hertha
+270,06-05-2023,Hertha,2 - 1,Stuttgart
+271,12-05-2023,FC Koln,5 - 2,Hertha
+272,20-05-2023,Hertha,1 - 1,Bochum
+273,27-05-2023,Wolfsburg,1 - 2,Hertha
+274,06-08-2022,M''gladbach,3 - 1,Hoffenheim
+275,13-08-2022,Hoffenheim,3 - 2,Bochum
+276,20-08-2022,Leverkusen,0 - 3,Hoffenheim
+277,27-08-2022,Hoffenheim,1 - 0,Augsburg
+278,02-09-2022,Dortmund,1 - 0,Hoffenheim
+279,10-09-2022,Hoffenheim,4 - 1,Mainz
+280,18-09-2022,Hoffenheim,0 - 0,Freiburg
+281,02-10-2022,Hertha,1 - 1,Hoffenheim
+282,07-10-2022,Hoffenheim,1 - 2,Werder Bremen
+283,14-10-2022,Schalke 04,0 - 3,Hoffenheim
+284,22-10-2022,Hoffenheim,0 - 2,Bayern Munich
+285,30-10-2022,FC Koln,1 - 1,Hoffenheim
+286,05-11-2022,Hoffenheim,1 - 3,RB Leipzig
+287,09-11-2022,Ein Frankfurt,4 - 2,Hoffenheim
+288,12-11-2022,Hoffenheim,1 - 2,Wolfsburg
+289,21-01-2023,Union Berlin,3 - 1,Hoffenheim
+290,24-01-2023,Hoffenheim,2 - 2,Stuttgart
+291,28-01-2023,Hoffenheim,1 - 4,M''gladbach
+292,04-02-2023,Bochum,5 - 2,Hoffenheim
+293,11-02-2023,Hoffenheim,1 - 3,Leverkusen
+294,17-02-2023,Augsburg,1 - 0,Hoffenheim
+295,25-02-2023,Hoffenheim,0 - 1,Dortmund
+296,04-03-2023,Mainz,1 - 0,Hoffenheim
+297,12-03-2023,Freiburg,2 - 1,Hoffenheim
+298,18-03-2023,Hoffenheim,3 - 1,Hertha
+299,02-04-2023,Werder Bremen,1 - 2,Hoffenheim
+300,09-04-2023,Hoffenheim,2 - 0,Schalke 04
+301,15-04-2023,Bayern Munich,1 - 1,Hoffenheim
+302,22-04-2023,Hoffenheim,1 - 3,FC Koln
+303,29-04-2023,RB Leipzig,1 - 0,Hoffenheim
+304,06-05-2023,Hoffenheim,3 - 1,Ein Frankfurt
+305,13-05-2023,Wolfsburg,2 - 1,Hoffenheim
+306,20-05-2023,Hoffenheim,4 - 2,Union Berlin
+307,27-05-2023,Stuttgart,1 - 1,Hoffenheim
+308,06-08-2022,Dortmund,1 - 0,Leverkusen
+309,13-08-2022,Leverkusen,1 - 2,Augsburg
+310,20-08-2022,Leverkusen,0 - 3,Hoffenheim
+311,27-08-2022,Mainz,0 - 3,Leverkusen
+312,03-09-2022,Leverkusen,2 - 3,Freiburg
+313,10-09-2022,Hertha,2 - 2,Leverkusen
+314,17-09-2022,Leverkusen,1 - 1,Werder Bremen
+315,30-09-2022,Bayern Munich,4 - 0,Leverkusen
+316,08-10-2022,Leverkusen,4 - 0,Schalke 04
+317,15-10-2022,Ein Frankfurt,5 - 1,Leverkusen
+318,22-10-2022,Leverkusen,2 - 2,Wolfsburg
+319,29-10-2022,RB Leipzig,2 - 0,Leverkusen
+320,06-11-2022,Leverkusen,5 - 0,Union Berlin
+321,09-11-2022,FC Koln,1 - 2,Leverkusen
+322,12-11-2022,Leverkusen,2 - 0,Stuttgart
+323,22-01-2023,M''gladbach,2 - 3,Leverkusen
+324,25-01-2023,Leverkusen,2 - 0,Bochum
+325,29-01-2023,Leverkusen,0 - 2,Dortmund
+326,03-02-2023,Augsburg,1 - 0,Leverkusen
+327,11-02-2023,Hoffenheim,1 - 3,Leverkusen
+328,19-02-2023,Leverkusen,2 - 3,Mainz
+329,26-02-2023,Freiburg,1 - 1,Leverkusen
+330,05-03-2023,Leverkusen,4 - 1,Hertha
+331,12-03-2023,Werder Bremen,2 - 3,Leverkusen
+332,19-03-2023,Leverkusen,2 - 1,Bayern Munich
+333,01-04-2023,Schalke 04,0 - 3,Leverkusen
+334,08-04-2023,Leverkusen,3 - 1,Ein Frankfurt
+335,16-04-2023,Wolfsburg,0 - 0,Leverkusen
+336,23-04-2023,Leverkusen,2 - 0,RB Leipzig
+337,29-04-2023,Union Berlin,0 - 0,Leverkusen
+338,05-05-2023,Leverkusen,1 - 2,FC Koln
+339,14-05-2023,Stuttgart,1 - 1,Leverkusen
+340,21-05-2023,Leverkusen,2 - 2,M''gladbach
+341,27-05-2023,Bochum,3 - 0,Leverkusen
+342,06-08-2022,M''gladbach,3 - 1,Hoffenheim
+343,13-08-2022,Schalke 04,2 - 2,M''gladbach
+344,19-08-2022,M''gladbach,1 - 0,Hertha
+345,27-08-2022,Bayern Munich,1 - 1,M''gladbach
+346,04-09-2022,M''gladbach,0 - 1,Mainz
+347,11-09-2022,Freiburg,0 - 0,M''gladbach
+348,17-09-2022,M''gladbach,3 - 0,RB Leipzig
+349,01-10-2022,Werder Bremen,5 - 1,M''gladbach
+350,09-10-2022,M''gladbach,5 - 2,FC Koln
+351,15-10-2022,Wolfsburg,2 - 2,M''gladbach
+352,22-10-2022,M''gladbach,1 - 3,Ein Frankfurt
+353,30-10-2022,Union Berlin,2 - 1,M''gladbach
+354,04-11-2022,M''gladbach,3 - 1,Stuttgart
+355,08-11-2022,Bochum,2 - 1,M''gladbach
+356,11-11-2022,M''gladbach,4 - 2,Dortmund
+357,22-01-2023,M''gladbach,2 - 3,Leverkusen
+358,25-01-2023,Augsburg,1 - 0,M''gladbach
+359,28-01-2023,Hoffenheim,1 - 4,M''gladbach
+360,04-02-2023,M''gladbach,0 - 0,Schalke 04
+361,12-02-2023,Hertha,4 - 1,M''gladbach
+362,18-02-2023,M''gladbach,3 - 2,Bayern Munich
+363,24-02-2023,Mainz,4 - 0,M''gladbach
+364,04-03-2023,M''gladbach,0 - 0,Freiburg
+365,11-03-2023,RB Leipzig,3 - 0,M''gladbach
+366,17-03-2023,M''gladbach,2 - 2,Werder Bremen
+367,02-04-2023,FC Koln,0 - 0,M''gladbach
+368,09-04-2023,M''gladbach,2 - 0,Wolfsburg
+369,15-04-2023,Ein Frankfurt,1 - 1,M''gladbach
+370,23-04-2023,M''gladbach,0 - 1,Union Berlin
+371,29-04-2023,Stuttgart,2 - 1,M''gladbach
+372,06-05-2023,M''gladbach,2 - 0,Bochum
+373,13-05-2023,Dortmund,5 - 2,M''gladbach
+374,21-05-2023,Leverkusen,2 - 2,M''gladbach
+375,27-05-2023,M''gladbach,2 - 0,Augsburg
+376,06-08-2022,Bochum,1 - 2,Mainz
+377,14-08-2022,Mainz,0 - 0,Union Berlin
+378,20-08-2022,Augsburg,1 - 2,Mainz
+379,27-08-2022,Mainz,0 - 3,Leverkusen
+380,04-09-2022,M''gladbach,0 - 1,Mainz
+381,10-09-2022,Hoffenheim,4 - 1,Mainz
+382,16-09-2022,Mainz,1 - 1,Hertha
+383,01-10-2022,Freiburg,2 - 1,Mainz
+384,08-10-2022,Mainz,1 - 1,RB Leipzig
+385,15-10-2022,Werder Bremen,0 - 2,Mainz
+386,21-10-2022,Mainz,5 - 0,FC Koln
+387,29-10-2022,Bayern Munich,6 - 2,Mainz
+388,05-11-2022,Mainz,0 - 3,Wolfsburg
+389,09-11-2022,Schalke 04,1 - 0,Mainz
+390,13-11-2022,Mainz,1 - 1,Ein Frankfurt
+391,21-01-2023,Stuttgart,1 - 1,Mainz
+392,25-01-2023,Mainz,1 - 2,Dortmund
+393,28-01-2023,Mainz,5 - 2,Bochum
+394,04-02-2023,Union Berlin,2 - 1,Mainz
+395,11-02-2023,Mainz,3 - 1,Augsburg
+396,19-02-2023,Leverkusen,2 - 3,Mainz
+397,24-02-2023,Mainz,4 - 0,M''gladbach
+398,04-03-2023,Mainz,1 - 0,Hoffenheim
+399,11-03-2023,Hertha,1 - 1,Mainz
+400,19-03-2023,Mainz,1 - 1,Freiburg
+401,01-04-2023,RB Leipzig,0 - 3,Mainz
+402,08-04-2023,Mainz,2 - 2,Werder Bremen
+403,15-04-2023,FC Koln,1 - 1,Mainz
+404,22-04-2023,Mainz,3 - 1,Bayern Munich
+405,30-04-2023,Wolfsburg,3 - 0,Mainz
+406,05-05-2023,Mainz,2 - 3,Schalke 04
+407,13-05-2023,Ein Frankfurt,3 - 0,Mainz
+408,21-05-2023,Mainz,1 - 4,Stuttgart
+409,27-05-2023,Dortmund,2 - 2,Mainz
+410,07-08-2022,Stuttgart,1 - 1,RB Leipzig
+411,13-08-2022,RB Leipzig,2 - 2,FC Koln
+412,20-08-2022,Union Berlin,2 - 1,RB Leipzig
+413,27-08-2022,RB Leipzig,2 - 0,Wolfsburg
+414,03-09-2022,Ein Frankfurt,4 - 0,RB Leipzig
+415,10-09-2022,RB Leipzig,3 - 0,Dortmund
+416,17-09-2022,M''gladbach,3 - 0,RB Leipzig
+417,01-10-2022,RB Leipzig,4 - 0,Bochum
+418,08-10-2022,Mainz,1 - 1,RB Leipzig
+419,15-10-2022,RB Leipzig,3 - 2,Hertha
+420,22-10-2022,Augsburg,3 - 3,RB Leipzig
+421,29-10-2022,RB Leipzig,2 - 0,Leverkusen
+422,05-11-2022,Hoffenheim,1 - 3,RB Leipzig
+423,09-11-2022,RB Leipzig,3 - 1,Freiburg
+424,12-11-2022,Werder Bremen,1 - 2,RB Leipzig
+425,20-01-2023,RB Leipzig,1 - 1,Bayern Munich
+426,24-01-2023,Schalke 04,1 - 6,RB Leipzig
+427,27-01-2023,RB Leipzig,2 - 1,Stuttgart
+428,04-02-2023,FC Koln,0 - 0,RB Leipzig
+429,11-02-2023,RB Leipzig,1 - 2,Union Berlin
+430,18-02-2023,Wolfsburg,0 - 3,RB Leipzig
+431,25-02-2023,RB Leipzig,2 - 1,Ein Frankfurt
+432,03-03-2023,Dortmund,2 - 1,RB Leipzig
+433,11-03-2023,RB Leipzig,3 - 0,M''gladbach
+434,18-03-2023,Bochum,1 - 0,RB Leipzig
+435,01-04-2023,RB Leipzig,0 - 3,Mainz
+436,08-04-2023,Hertha,0 - 1,RB Leipzig
+437,15-04-2023,RB Leipzig,3 - 2,Augsburg
+438,23-04-2023,Leverkusen,2 - 0,RB Leipzig
+439,29-04-2023,RB Leipzig,1 - 0,Hoffenheim
+440,06-05-2023,Freiburg,0 - 1,RB Leipzig
+441,14-05-2023,RB Leipzig,2 - 1,Werder Bremen
+442,20-05-2023,Bayern Munich,1 - 3,RB Leipzig
+443,27-05-2023,RB Leipzig,4 - 2,Schalke 04
+444,07-08-2022,FC Koln,3 - 1,Schalke 04
+445,13-08-2022,Schalke 04,2 - 2,M''gladbach
+446,20-08-2022,Wolfsburg,0 - 0,Schalke 04
+447,27-08-2022,Schalke 04,1 - 6,Union Berlin
+448,03-09-2022,Stuttgart,1 - 1,Schalke 04
+449,10-09-2022,Schalke 04,3 - 1,Bochum
+450,17-09-2022,Dortmund,1 - 0,Schalke 04
+451,02-10-2022,Schalke 04,2 - 3,Augsburg
+452,08-10-2022,Leverkusen,4 - 0,Schalke 04
+453,14-10-2022,Schalke 04,0 - 3,Hoffenheim
+454,23-10-2022,Hertha,2 - 1,Schalke 04
+455,30-10-2022,Schalke 04,0 - 2,Freiburg
+456,05-11-2022,Werder Bremen,2 - 1,Schalke 04
+457,09-11-2022,Schalke 04,1 - 0,Mainz
+458,12-11-2022,Schalke 04,0 - 2,Bayern Munich
+459,21-01-2023,Ein Frankfurt,3 - 0,Schalke 04
+460,24-01-2023,Schalke 04,1 - 6,RB Leipzig
+461,29-01-2023,Schalke 04,0 - 0,FC Koln
+462,04-02-2023,M''gladbach,0 - 0,Schalke 04
+463,10-02-2023,Schalke 04,0 - 0,Wolfsburg
+464,19-02-2023,Union Berlin,0 - 0,Schalke 04
+465,25-02-2023,Schalke 04,2 - 1,Stuttgart
+466,04-03-2023,Bochum,0 - 2,Schalke 04
+467,11-03-2023,Schalke 04,2 - 2,Dortmund
+468,18-03-2023,Augsburg,1 - 1,Schalke 04
+469,01-04-2023,Schalke 04,0 - 3,Leverkusen
+470,09-04-2023,Hoffenheim,2 - 0,Schalke 04
+471,14-04-2023,Schalke 04,5 - 2,Hertha
+472,23-04-2023,Freiburg,4 - 0,Schalke 04
+473,29-04-2023,Schalke 04,2 - 1,Werder Bremen
+474,05-05-2023,Mainz,2 - 3,Schalke 04
+475,13-05-2023,Bayern Munich,6 - 0,Schalke 04
+476,20-05-2023,Schalke 04,2 - 2,Ein Frankfurt
+477,27-05-2023,RB Leipzig,4 - 2,Schalke 04
+478,07-08-2022,Stuttgart,1 - 1,RB Leipzig
+479,13-08-2022,Werder Bremen,2 - 2,Stuttgart
+480,20-08-2022,Stuttgart,0 - 1,Freiburg
+481,28-08-2022,FC Koln,0 - 0,Stuttgart
+482,03-09-2022,Stuttgart,1 - 1,Schalke 04
+483,10-09-2022,Bayern Munich,2 - 2,Stuttgart
+484,17-09-2022,Stuttgart,1 - 3,Ein Frankfurt
+485,01-10-2022,Wolfsburg,3 - 2,Stuttgart
+486,09-10-2022,Stuttgart,0 - 1,Union Berlin
+487,15-10-2022,Stuttgart,4 - 1,Bochum
+488,22-10-2022,Dortmund,5 - 0,Stuttgart
+489,29-10-2022,Stuttgart,2 - 1,Augsburg
+490,04-11-2022,M''gladbach,3 - 1,Stuttgart
+491,08-11-2022,Stuttgart,2 - 1,Hertha
+492,12-11-2022,Leverkusen,2 - 0,Stuttgart
+493,21-01-2023,Stuttgart,1 - 1,Mainz
+494,24-01-2023,Hoffenheim,2 - 2,Stuttgart
+495,27-01-2023,RB Leipzig,2 - 1,Stuttgart
+496,05-02-2023,Stuttgart,0 - 2,Werder Bremen
+497,11-02-2023,Freiburg,2 - 1,Stuttgart
+498,18-02-2023,Stuttgart,3 - 0,FC Koln
+499,25-02-2023,Schalke 04,2 - 1,Stuttgart
+500,04-03-2023,Stuttgart,1 - 2,Bayern Munich
+501,11-03-2023,Ein Frankfurt,1 - 1,Stuttgart
+502,18-03-2023,Stuttgart,0 - 1,Wolfsburg
+503,01-04-2023,Union Berlin,3 - 0,Stuttgart
+504,09-04-2023,Bochum,2 - 3,Stuttgart
+505,15-04-2023,Stuttgart,3 - 3,Dortmund
+506,21-04-2023,Augsburg,1 - 1,Stuttgart
+507,29-04-2023,Stuttgart,2 - 1,M''gladbach
+508,06-05-2023,Hertha,2 - 1,Stuttgart
+509,14-05-2023,Stuttgart,1 - 1,Leverkusen
+510,21-05-2023,Mainz,1 - 4,Stuttgart
+511,27-05-2023,Stuttgart,1 - 1,Hoffenheim
+512,01-06-2023,Stuttgart,3 - 0,Hamburg
+513,05-06-2023,Hamburg,1 - 3,Stuttgart
+514,06-08-2022,Union Berlin,3 - 1,Hertha
+515,14-08-2022,Mainz,0 - 0,Union Berlin
+516,20-08-2022,Union Berlin,2 - 1,RB Leipzig
+517,27-08-2022,Schalke 04,1 - 6,Union Berlin
+518,03-09-2022,Union Berlin,1 - 1,Bayern Munich
+519,11-09-2022,FC Koln,0 - 1,Union Berlin
+520,18-09-2022,Union Berlin,2 - 0,Wolfsburg
+521,01-10-2022,Ein Frankfurt,2 - 0,Union Berlin
+522,09-10-2022,Stuttgart,0 - 1,Union Berlin
+523,16-10-2022,Union Berlin,2 - 0,Dortmund
+524,23-10-2022,Bochum,2 - 1,Union Berlin
+525,30-10-2022,Union Berlin,2 - 1,M''gladbach
+526,06-11-2022,Leverkusen,5 - 0,Union Berlin
+527,09-11-2022,Union Berlin,2 - 2,Augsburg
+528,13-11-2022,Freiburg,4 - 1,Union Berlin
+529,21-01-2023,Union Berlin,3 - 1,Hoffenheim
+530,25-01-2023,Werder Bremen,1 - 2,Union Berlin
+531,28-01-2023,Hertha,0 - 2,Union Berlin
+532,04-02-2023,Union Berlin,2 - 1,Mainz
+533,11-02-2023,RB Leipzig,1 - 2,Union Berlin
+534,19-02-2023,Union Berlin,0 - 0,Schalke 04
+535,26-02-2023,Bayern Munich,3 - 0,Union Berlin
+536,04-03-2023,Union Berlin,0 - 0,FC Koln
+537,12-03-2023,Wolfsburg,1 - 1,Union Berlin
+538,19-03-2023,Union Berlin,2 - 0,Ein Frankfurt
+539,01-04-2023,Union Berlin,3 - 0,Stuttgart
+540,08-04-2023,Dortmund,2 - 1,Union Berlin
+541,16-04-2023,Union Berlin,1 - 1,Bochum
+542,23-04-2023,M''gladbach,0 - 1,Union Berlin
+543,29-04-2023,Union Berlin,0 - 0,Leverkusen
+544,06-05-2023,Augsburg,1 - 0,Union Berlin
+545,13-05-2023,Union Berlin,4 - 2,Freiburg
+546,20-05-2023,Hoffenheim,4 - 2,Union Berlin
+547,27-05-2023,Union Berlin,1 - 0,Werder Bremen
+548,06-08-2022,Wolfsburg,2 - 2,Werder Bremen
+549,13-08-2022,Werder Bremen,2 - 2,Stuttgart
+550,20-08-2022,Dortmund,2 - 3,Werder Bremen
+551,28-08-2022,Werder Bremen,3 - 4,Ein Frankfurt
+552,03-09-2022,Bochum,0 - 2,Werder Bremen
+553,09-09-2022,Werder Bremen,0 - 1,Augsburg
+554,17-09-2022,Leverkusen,1 - 1,Werder Bremen
+555,01-10-2022,Werder Bremen,5 - 1,M''gladbach
+556,07-10-2022,Hoffenheim,1 - 2,Werder Bremen
+557,15-10-2022,Werder Bremen,0 - 2,Mainz
+558,22-10-2022,Freiburg,2 - 0,Werder Bremen
+559,28-10-2022,Werder Bremen,1 - 0,Hertha
+560,05-11-2022,Werder Bremen,2 - 1,Schalke 04
+561,08-11-2022,Bayern Munich,6 - 1,Werder Bremen
+562,12-11-2022,Werder Bremen,1 - 2,RB Leipzig
+563,21-01-2023,FC Koln,7 - 1,Werder Bremen
+564,25-01-2023,Werder Bremen,1 - 2,Union Berlin
+565,28-01-2023,Werder Bremen,2 - 1,Wolfsburg
+566,05-02-2023,Stuttgart,0 - 2,Werder Bremen
+567,11-02-2023,Werder Bremen,0 - 2,Dortmund
+568,18-02-2023,Ein Frankfurt,2 - 0,Werder Bremen
+569,25-02-2023,Werder Bremen,3 - 0,Bochum
+570,04-03-2023,Augsburg,2 - 1,Werder Bremen
+571,12-03-2023,Werder Bremen,2 - 3,Leverkusen
+572,17-03-2023,M''gladbach,2 - 2,Werder Bremen
+573,02-04-2023,Werder Bremen,1 - 2,Hoffenheim
+574,08-04-2023,Mainz,2 - 2,Werder Bremen
+575,16-04-2023,Werder Bremen,1 - 2,Freiburg
+576,22-04-2023,Hertha,2 - 4,Werder Bremen
+577,29-04-2023,Schalke 04,2 - 1,Werder Bremen
+578,06-05-2023,Werder Bremen,1 - 2,Bayern Munich
+579,14-05-2023,RB Leipzig,2 - 1,Werder Bremen
+580,20-05-2023,Werder Bremen,1 - 1,FC Koln
+581,27-05-2023,Union Berlin,1 - 0,Werder Bremen
+582,06-08-2022,Wolfsburg,2 - 2,Werder Bremen
+583,14-08-2022,Bayern Munich,2 - 0,Wolfsburg
+584,20-08-2022,Wolfsburg,0 - 0,Schalke 04
+585,27-08-2022,RB Leipzig,2 - 0,Wolfsburg
+586,03-09-2022,Wolfsburg,2 - 4,FC Koln
+587,10-09-2022,Ein Frankfurt,0 - 1,Wolfsburg
+588,18-09-2022,Union Berlin,2 - 0,Wolfsburg
+589,01-10-2022,Wolfsburg,3 - 2,Stuttgart
+590,08-10-2022,Augsburg,1 - 1,Wolfsburg
+591,15-10-2022,Wolfsburg,2 - 2,M''gladbach
+592,22-10-2022,Leverkusen,2 - 2,Wolfsburg
+593,29-10-2022,Wolfsburg,4 - 0,Bochum
+594,05-11-2022,Mainz,0 - 3,Wolfsburg
+595,08-11-2022,Wolfsburg,2 - 0,Dortmund
+596,12-11-2022,Hoffenheim,1 - 2,Wolfsburg
+597,21-01-2023,Wolfsburg,6 - 0,Freiburg
+598,24-01-2023,Hertha,0 - 5,Wolfsburg
+599,28-01-2023,Werder Bremen,2 - 1,Wolfsburg
+600,05-02-2023,Wolfsburg,2 - 4,Bayern Munich
+601,10-02-2023,Schalke 04,0 - 0,Wolfsburg
+602,18-02-2023,Wolfsburg,0 - 3,RB Leipzig
+603,25-02-2023,FC Koln,0 - 2,Wolfsburg
+604,05-03-2023,Wolfsburg,2 - 2,Ein Frankfurt
+605,12-03-2023,Wolfsburg,1 - 1,Union Berlin
+606,18-03-2023,Stuttgart,0 - 1,Wolfsburg
+607,01-04-2023,Wolfsburg,2 - 2,Augsburg
+608,09-04-2023,M''gladbach,2 - 0,Wolfsburg
+609,16-04-2023,Wolfsburg,0 - 0,Leverkusen
+610,22-04-2023,Bochum,1 - 5,Wolfsburg
+611,30-04-2023,Wolfsburg,3 - 0,Mainz
+612,07-05-2023,Dortmund,6 - 0,Wolfsburg
+613,13-05-2023,Wolfsburg,2 - 1,Hoffenheim
+614,19-05-2023,Freiburg,2 - 0,Wolfsburg
+615,27-05-2023,Wolfsburg,1 - 2,Hertha

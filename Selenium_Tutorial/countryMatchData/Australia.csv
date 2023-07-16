@@ -1,0 +1,327 @@
+,date,home_team,score,away_team
+0,09-10-2022,Wellington Phoenix,1 - 1,Adelaide United
+1,16-10-2022,Macarthur,2 - 0,Adelaide United
+2,23-10-2022,Sydney FC,2 - 2,Adelaide United
+3,30-10-2022,Adelaide United,2 - 1,Perth Glory
+4,06-11-2022,Western United FC,2 - 4,Adelaide United
+5,11-11-2022,Adelaide United,3 - 0,Melbourne Victory
+6,09-12-2022,Brisbane Roar,1 - 1,Adelaide United
+7,17-12-2022,Wellington Phoenix,3 - 1,Adelaide United
+8,27-12-2022,Adelaide United,0 - 1,Newcastle Jets
+9,02-01-2023,Adelaide United,2 - 0,Perth Glory
+10,07-01-2023,Central Coast Mariners,4 - 0,Adelaide United
+11,14-01-2023,Adelaide United,1 - 1,Melbourne Victory
+12,20-01-2023,Adelaide United,1 - 0,Macarthur
+13,29-01-2023,Melbourne City,3 - 3,Adelaide United
+14,04-02-2023,Adelaide United,2 - 1,Brisbane Roar
+15,11-02-2023,Western United FC,2 - 3,Adelaide United
+16,19-02-2023,Adelaide United,4 - 4,Western Sydney Wanderers
+17,26-02-2023,Melbourne Victory,1 - 1,Adelaide United
+18,03-03-2023,Adelaide United,4 - 2,Melbourne City
+19,11-03-2023,Newcastle Jets,2 - 4,Adelaide United
+20,17-03-2023,Adelaide United,5 - 1,Wellington Phoenix
+21,31-03-2023,Western Sydney Wanderers,2 - 3,Adelaide United
+22,07-04-2023,Adelaide United,1 - 1,Sydney FC
+23,16-04-2023,Adelaide United,0 - 1,Western United FC
+24,23-04-2023,Perth Glory,4 - 4,Adelaide United
+25,28-04-2023,Adelaide United,1 - 4,Central Coast Mariners
+26,05-05-2023,Adelaide United,2 - 0,Wellington Phoenix
+27,13-05-2023,Adelaide United,1 - 2,Central Coast Mariners
+28,20-05-2023,Central Coast Mariners,2 - 0,Adelaide United
+29,08-10-2022,Brisbane Roar,0 - 0,Macarthur
+30,14-10-2022,Brisbane Roar,0 - 2,Melbourne City
+31,22-10-2022,Western Sydney Wanderers,1 - 1,Brisbane Roar
+32,29-10-2022,Brisbane Roar,0 - 0,Melbourne Victory
+33,06-11-2022,Brisbane Roar,3 - 1,Sydney FC
+34,09-12-2022,Brisbane Roar,1 - 1,Adelaide United
+35,16-12-2022,Newcastle Jets,0 - 1,Brisbane Roar
+36,23-12-2022,Brisbane Roar,1 - 1,Western Sydney Wanderers
+37,30-12-2022,Western United FC,1 - 1,Brisbane Roar
+38,06-01-2023,Melbourne Victory,0 - 1,Brisbane Roar
+39,10-01-2023,Perth Glory,2 - 1,Brisbane Roar
+40,14-01-2023,Brisbane Roar,0 - 1,Wellington Phoenix
+41,21-01-2023,Brisbane Roar,0 - 0,Melbourne City
+42,27-01-2023,Newcastle Jets,4 - 0,Brisbane Roar
+43,04-02-2023,Adelaide United,2 - 1,Brisbane Roar
+44,10-02-2023,Brisbane Roar,1 - 2,Central Coast Mariners
+45,18-02-2023,Sydney FC,1 - 1,Brisbane Roar
+46,26-02-2023,Brisbane Roar,2 - 1,Perth Glory
+47,05-03-2023,Macarthur,3 - 2,Brisbane Roar
+48,12-03-2023,Melbourne City,2 - 1,Brisbane Roar
+49,18-03-2023,Brisbane Roar,1 - 0,Western United FC
+50,01-04-2023,Central Coast Mariners,4 - 1,Brisbane Roar
+51,08-04-2023,Brisbane Roar,3 - 0,Newcastle Jets
+52,16-04-2023,Wellington Phoenix,2 - 2,Brisbane Roar
+53,24-04-2023,Brisbane Roar,0 - 2,Sydney FC
+54,29-04-2023,Melbourne Victory,0 - 1,Brisbane Roar
+55,16-10-2022,Wellington Phoenix,2 - 2,Central Coast Mariners
+56,23-10-2022,Central Coast Mariners,1 - 2,Perth Glory
+57,29-10-2022,Central Coast Mariners,4 - 2,Western United FC
+58,05-11-2022,Western Sydney Wanderers,0 - 3,Central Coast Mariners
+59,13-11-2022,Central Coast Mariners,2 - 3,Macarthur
+60,11-12-2022,Central Coast Mariners,1 - 2,Newcastle Jets
+61,17-12-2022,Central Coast Mariners,2 - 1,Sydney FC
+62,21-12-2022,Central Coast Mariners,3 - 0,Newcastle Jets
+63,27-12-2022,Melbourne City,1 - 0,Central Coast Mariners
+64,31-12-2022,Central Coast Mariners,2 - 1,Melbourne Victory
+65,07-01-2023,Central Coast Mariners,4 - 0,Adelaide United
+66,13-01-2023,Macarthur,1 - 2,Central Coast Mariners
+67,22-01-2023,Wellington Phoenix,2 - 1,Central Coast Mariners
+68,28-01-2023,Central Coast Mariners,2 - 2,Western Sydney Wanderers
+69,04-02-2023,Sydney FC,3 - 2,Central Coast Mariners
+70,10-02-2023,Brisbane Roar,1 - 2,Central Coast Mariners
+71,18-02-2023,Perth Glory,2 - 2,Central Coast Mariners
+72,24-02-2023,Central Coast Mariners,1 - 1,Wellington Phoenix
+73,04-03-2023,Western Sydney Wanderers,2 - 0,Central Coast Mariners
+74,11-03-2023,Central Coast Mariners,4 - 1,Macarthur
+75,19-03-2023,Melbourne Victory,2 - 0,Central Coast Mariners
+76,01-04-2023,Central Coast Mariners,4 - 1,Brisbane Roar
+77,07-04-2023,Western United FC,0 - 3,Central Coast Mariners
+78,15-04-2023,Central Coast Mariners,1 - 1,Melbourne City
+79,22-04-2023,Newcastle Jets,1 - 3,Central Coast Mariners
+80,28-04-2023,Adelaide United,1 - 4,Central Coast Mariners
+81,13-05-2023,Adelaide United,1 - 2,Central Coast Mariners
+82,20-05-2023,Central Coast Mariners,2 - 0,Adelaide United
+83,03-06-2023,Melbourne City,1 - 6,Central Coast Mariners
+84,08-10-2022,Brisbane Roar,0 - 0,Macarthur
+85,16-10-2022,Macarthur,2 - 0,Adelaide United
+86,21-10-2022,Western United FC,1 - 1,Macarthur
+87,29-10-2022,Macarthur,2 - 3,Sydney FC
+88,06-11-2022,Wellington Phoenix,4 - 1,Macarthur
+89,13-11-2022,Central Coast Mariners,2 - 3,Macarthur
+90,11-12-2022,Macarthur,0 - 1,Melbourne Victory
+91,18-12-2022,Macarthur,1 - 0,Perth Glory
+92,24-12-2022,Sydney FC,0 - 3,Macarthur
+93,01-01-2023,Western Sydney Wanderers,4 - 0,Macarthur
+94,08-01-2023,Macarthur,2 - 0,Newcastle Jets
+95,13-01-2023,Macarthur,1 - 2,Central Coast Mariners
+96,20-01-2023,Adelaide United,1 - 0,Macarthur
+97,28-01-2023,Macarthur,2 - 2,Western United FC
+98,04-02-2023,Melbourne City,6 - 1,Macarthur
+99,12-02-2023,Macarthur,2 - 1,Wellington Phoenix
+100,18-02-2023,Macarthur,0 - 1,Newcastle Jets
+101,25-02-2023,Western Sydney Wanderers,4 - 0,Macarthur
+102,05-03-2023,Macarthur,3 - 2,Brisbane Roar
+103,11-03-2023,Central Coast Mariners,4 - 1,Macarthur
+104,19-03-2023,Macarthur,1 - 1,Melbourne City
+105,01-04-2023,Perth Glory,2 - 1,Macarthur
+106,08-04-2023,Macarthur,2 - 2,Western Sydney Wanderers
+107,14-04-2023,Newcastle Jets,2 - 1,Macarthur
+108,23-04-2023,Melbourne Victory,2 - 1,Macarthur
+109,29-04-2023,Macarthur,0 - 1,Wellington Phoenix
+110,07-10-2022,Melbourne City,2 - 1,Western United FC
+111,14-10-2022,Brisbane Roar,0 - 2,Melbourne City
+112,22-10-2022,Melbourne Victory,0 - 2,Melbourne City
+113,30-10-2022,Melbourne City,2 - 2,Wellington Phoenix
+114,05-11-2022,Melbourne City,4 - 0,Perth Glory
+115,12-11-2022,Newcastle Jets,1 - 2,Melbourne City
+116,10-12-2022,Sydney FC,2 - 1,Melbourne City
+117,27-12-2022,Melbourne City,1 - 0,Central Coast Mariners
+118,02-01-2023,Wellington Phoenix,1 - 3,Melbourne City
+119,07-01-2023,Melbourne City,4 - 0,Western United FC
+120,15-01-2023,Western Sydney Wanderers,1 - 1,Melbourne City
+121,21-01-2023,Brisbane Roar,0 - 0,Melbourne City
+122,29-01-2023,Melbourne City,3 - 3,Adelaide United
+123,04-02-2023,Melbourne City,6 - 1,Macarthur
+124,11-02-2023,Perth Glory,2 - 4,Melbourne City
+125,18-02-2023,Melbourne Victory,3 - 2,Melbourne City
+126,25-02-2023,Melbourne City,3 - 2,Sydney FC
+127,03-03-2023,Adelaide United,4 - 2,Melbourne City
+128,12-03-2023,Melbourne City,2 - 1,Brisbane Roar
+129,19-03-2023,Macarthur,1 - 1,Melbourne City
+130,02-04-2023,Melbourne City,1 - 1,Newcastle Jets
+131,05-04-2023,Melbourne City,2 - 1,Melbourne Victory
+132,10-04-2023,Melbourne City,4 - 1,Wellington Phoenix
+133,15-04-2023,Central Coast Mariners,1 - 1,Melbourne City
+134,22-04-2023,Western United FC,1 - 3,Melbourne City
+135,28-04-2023,Melbourne City,3 - 2,Western Sydney Wanderers
+136,12-05-2023,Sydney FC,1 - 1,Melbourne City
+137,19-05-2023,Melbourne City,4 - 0,Sydney FC
+138,03-06-2023,Melbourne City,1 - 6,Central Coast Mariners
+139,08-10-2022,Sydney FC,2 - 3,Melbourne Victory
+140,15-10-2022,Melbourne Victory,0 - 1,Western Sydney Wanderers
+141,22-10-2022,Melbourne Victory,0 - 2,Melbourne City
+142,29-10-2022,Brisbane Roar,0 - 0,Melbourne Victory
+143,04-11-2022,Melbourne Victory,4 - 0,Newcastle Jets
+144,11-11-2022,Adelaide United,3 - 0,Melbourne Victory
+145,11-12-2022,Macarthur,0 - 1,Melbourne Victory
+146,26-12-2022,Western United FC,1 - 0,Melbourne Victory
+147,31-12-2022,Central Coast Mariners,2 - 1,Melbourne Victory
+148,06-01-2023,Melbourne Victory,0 - 1,Brisbane Roar
+149,14-01-2023,Adelaide United,1 - 1,Melbourne Victory
+150,21-01-2023,Perth Glory,3 - 1,Melbourne Victory
+151,26-01-2023,Melbourne Victory,1 - 2,Sydney FC
+152,03-02-2023,Melbourne Victory,3 - 1,Wellington Phoenix
+153,12-02-2023,Newcastle Jets,2 - 1,Melbourne Victory
+154,18-02-2023,Melbourne Victory,3 - 2,Melbourne City
+155,26-02-2023,Melbourne Victory,1 - 1,Adelaide United
+156,04-03-2023,Sydney FC,1 - 0,Melbourne Victory
+157,13-03-2023,Melbourne Victory,1 - 2,Western United FC
+158,19-03-2023,Melbourne Victory,2 - 0,Central Coast Mariners
+159,01-04-2023,Wellington Phoenix,1 - 2,Melbourne Victory
+160,05-04-2023,Melbourne City,2 - 1,Melbourne Victory
+161,09-04-2023,Melbourne Victory,0 - 0,Perth Glory
+162,15-04-2023,Western Sydney Wanderers,2 - 1,Melbourne Victory
+163,23-04-2023,Melbourne Victory,2 - 1,Macarthur
+164,29-04-2023,Melbourne Victory,0 - 1,Brisbane Roar
+165,15-10-2022,Newcastle Jets,2 - 1,Perth Glory
+166,22-10-2022,Newcastle Jets,3 - 1,Wellington Phoenix
+167,28-10-2022,Western Sydney Wanderers,2 - 0,Newcastle Jets
+168,04-11-2022,Melbourne Victory,4 - 0,Newcastle Jets
+169,12-11-2022,Newcastle Jets,1 - 2,Melbourne City
+170,11-12-2022,Central Coast Mariners,1 - 2,Newcastle Jets
+171,16-12-2022,Newcastle Jets,0 - 1,Brisbane Roar
+172,21-12-2022,Central Coast Mariners,3 - 0,Newcastle Jets
+173,27-12-2022,Adelaide United,0 - 1,Newcastle Jets
+174,01-01-2023,Newcastle Jets,0 - 2,Sydney FC
+175,08-01-2023,Macarthur,2 - 0,Newcastle Jets
+176,15-01-2023,Western United FC,1 - 1,Newcastle Jets
+177,22-01-2023,Newcastle Jets,1 - 1,Western Sydney Wanderers
+178,27-01-2023,Newcastle Jets,4 - 0,Brisbane Roar
+179,04-02-2023,Perth Glory,2 - 2,Newcastle Jets
+180,12-02-2023,Newcastle Jets,2 - 1,Melbourne Victory
+181,18-02-2023,Macarthur,0 - 1,Newcastle Jets
+182,25-02-2023,Newcastle Jets,1 - 3,Western United FC
+183,04-03-2023,Wellington Phoenix,2 - 1,Newcastle Jets
+184,11-03-2023,Newcastle Jets,2 - 4,Adelaide United
+185,18-03-2023,Newcastle Jets,2 - 2,Perth Glory
+186,02-04-2023,Melbourne City,1 - 1,Newcastle Jets
+187,08-04-2023,Brisbane Roar,3 - 0,Newcastle Jets
+188,14-04-2023,Newcastle Jets,2 - 1,Macarthur
+189,22-04-2023,Newcastle Jets,1 - 3,Central Coast Mariners
+190,29-04-2023,Sydney FC,2 - 0,Newcastle Jets
+191,09-10-2022,Western Sydney Wanderers,1 - 0,Perth Glory
+192,15-10-2022,Newcastle Jets,2 - 1,Perth Glory
+193,23-10-2022,Central Coast Mariners,1 - 2,Perth Glory
+194,30-10-2022,Adelaide United,2 - 1,Perth Glory
+195,05-11-2022,Melbourne City,4 - 0,Perth Glory
+196,10-12-2022,Perth Glory,2 - 1,Western United FC
+197,18-12-2022,Macarthur,1 - 0,Perth Glory
+198,23-12-2022,Perth Glory,1 - 1,Wellington Phoenix
+199,02-01-2023,Adelaide United,2 - 0,Perth Glory
+200,06-01-2023,Perth Glory,1 - 0,Western Sydney Wanderers
+201,10-01-2023,Perth Glory,2 - 1,Brisbane Roar
+202,14-01-2023,Perth Glory,2 - 2,Sydney FC
+203,21-01-2023,Perth Glory,3 - 1,Melbourne Victory
+204,28-01-2023,Wellington Phoenix,2 - 2,Perth Glory
+205,04-02-2023,Perth Glory,2 - 2,Newcastle Jets
+206,11-02-2023,Perth Glory,2 - 4,Melbourne City
+207,18-02-2023,Perth Glory,2 - 2,Central Coast Mariners
+208,26-02-2023,Brisbane Roar,2 - 1,Perth Glory
+209,04-03-2023,Western United FC,2 - 1,Perth Glory
+210,10-03-2023,Perth Glory,1 - 0,Western Sydney Wanderers
+211,18-03-2023,Newcastle Jets,2 - 2,Perth Glory
+212,01-04-2023,Perth Glory,2 - 1,Macarthur
+213,09-04-2023,Melbourne Victory,0 - 0,Perth Glory
+214,16-04-2023,Sydney FC,4 - 1,Perth Glory
+215,23-04-2023,Perth Glory,4 - 4,Adelaide United
+216,29-04-2023,Perth Glory,1 - 2,Western United FC
+217,08-10-2022,Sydney FC,2 - 3,Melbourne Victory
+218,16-10-2022,Western United FC,1 - 3,Sydney FC
+219,23-10-2022,Sydney FC,2 - 2,Adelaide United
+220,29-10-2022,Macarthur,2 - 3,Sydney FC
+221,06-11-2022,Brisbane Roar,3 - 1,Sydney FC
+222,12-11-2022,Sydney FC,0 - 1,Western Sydney Wanderers
+223,10-12-2022,Sydney FC,2 - 1,Melbourne City
+224,17-12-2022,Central Coast Mariners,2 - 1,Sydney FC
+225,24-12-2022,Sydney FC,0 - 3,Macarthur
+226,01-01-2023,Newcastle Jets,0 - 2,Sydney FC
+227,07-01-2023,Sydney FC,0 - 1,Wellington Phoenix
+228,14-01-2023,Perth Glory,2 - 2,Sydney FC
+229,21-01-2023,Western United FC,1 - 0,Sydney FC
+230,26-01-2023,Melbourne Victory,1 - 2,Sydney FC
+231,04-02-2023,Sydney FC,3 - 2,Central Coast Mariners
+232,11-02-2023,Western Sydney Wanderers,0 - 1,Sydney FC
+233,18-02-2023,Sydney FC,1 - 1,Brisbane Roar
+234,25-02-2023,Melbourne City,3 - 2,Sydney FC
+235,04-03-2023,Sydney FC,1 - 0,Melbourne Victory
+236,12-03-2023,Wellington Phoenix,1 - 0,Sydney FC
+237,18-03-2023,Sydney FC,0 - 4,Western Sydney Wanderers
+238,01-04-2023,Sydney FC,3 - 3,Western United FC
+239,07-04-2023,Adelaide United,1 - 1,Sydney FC
+240,16-04-2023,Sydney FC,4 - 1,Perth Glory
+241,24-04-2023,Brisbane Roar,0 - 2,Sydney FC
+242,29-04-2023,Sydney FC,2 - 0,Newcastle Jets
+243,06-05-2023,Western Sydney Wanderers,1 - 2,Sydney FC
+244,12-05-2023,Sydney FC,1 - 1,Melbourne City
+245,19-05-2023,Melbourne City,4 - 0,Sydney FC
+246,09-10-2022,Wellington Phoenix,1 - 1,Adelaide United
+247,16-10-2022,Wellington Phoenix,2 - 2,Central Coast Mariners
+248,22-10-2022,Newcastle Jets,3 - 1,Wellington Phoenix
+249,30-10-2022,Melbourne City,2 - 2,Wellington Phoenix
+250,06-11-2022,Wellington Phoenix,4 - 1,Macarthur
+251,13-11-2022,Wellington Phoenix,2 - 3,Western United FC
+252,10-12-2022,Wellington Phoenix,1 - 1,Western Sydney Wanderers
+253,17-12-2022,Wellington Phoenix,3 - 1,Adelaide United
+254,23-12-2022,Perth Glory,1 - 1,Wellington Phoenix
+255,02-01-2023,Wellington Phoenix,1 - 3,Melbourne City
+256,07-01-2023,Sydney FC,0 - 1,Wellington Phoenix
+257,14-01-2023,Brisbane Roar,0 - 1,Wellington Phoenix
+258,22-01-2023,Wellington Phoenix,2 - 1,Central Coast Mariners
+259,28-01-2023,Wellington Phoenix,2 - 2,Perth Glory
+260,03-02-2023,Melbourne Victory,3 - 1,Wellington Phoenix
+261,12-02-2023,Macarthur,2 - 1,Wellington Phoenix
+262,17-02-2023,Western United FC,0 - 3,Wellington Phoenix
+263,24-02-2023,Central Coast Mariners,1 - 1,Wellington Phoenix
+264,04-03-2023,Wellington Phoenix,2 - 1,Newcastle Jets
+265,12-03-2023,Wellington Phoenix,1 - 0,Sydney FC
+266,17-03-2023,Adelaide United,5 - 1,Wellington Phoenix
+267,01-04-2023,Wellington Phoenix,1 - 2,Melbourne Victory
+268,10-04-2023,Melbourne City,4 - 1,Wellington Phoenix
+269,16-04-2023,Wellington Phoenix,2 - 2,Brisbane Roar
+270,21-04-2023,Western Sydney Wanderers,4 - 0,Wellington Phoenix
+271,29-04-2023,Macarthur,0 - 1,Wellington Phoenix
+272,05-05-2023,Adelaide United,2 - 0,Wellington Phoenix
+273,09-10-2022,Western Sydney Wanderers,1 - 0,Perth Glory
+274,15-10-2022,Melbourne Victory,0 - 1,Western Sydney Wanderers
+275,22-10-2022,Western Sydney Wanderers,1 - 1,Brisbane Roar
+276,28-10-2022,Western Sydney Wanderers,2 - 0,Newcastle Jets
+277,05-11-2022,Western Sydney Wanderers,0 - 3,Central Coast Mariners
+278,12-11-2022,Sydney FC,0 - 1,Western Sydney Wanderers
+279,10-12-2022,Wellington Phoenix,1 - 1,Western Sydney Wanderers
+280,18-12-2022,Western United FC,1 - 0,Western Sydney Wanderers
+281,23-12-2022,Brisbane Roar,1 - 1,Western Sydney Wanderers
+282,01-01-2023,Western Sydney Wanderers,4 - 0,Macarthur
+283,06-01-2023,Perth Glory,1 - 0,Western Sydney Wanderers
+284,15-01-2023,Western Sydney Wanderers,1 - 1,Melbourne City
+285,22-01-2023,Newcastle Jets,1 - 1,Western Sydney Wanderers
+286,28-01-2023,Central Coast Mariners,2 - 2,Western Sydney Wanderers
+287,05-02-2023,Western Sydney Wanderers,1 - 0,Western United FC
+288,11-02-2023,Western Sydney Wanderers,0 - 1,Sydney FC
+289,19-02-2023,Adelaide United,4 - 4,Western Sydney Wanderers
+290,25-02-2023,Western Sydney Wanderers,4 - 0,Macarthur
+291,04-03-2023,Western Sydney Wanderers,2 - 0,Central Coast Mariners
+292,10-03-2023,Perth Glory,1 - 0,Western Sydney Wanderers
+293,18-03-2023,Sydney FC,0 - 4,Western Sydney Wanderers
+294,31-03-2023,Western Sydney Wanderers,2 - 3,Adelaide United
+295,08-04-2023,Macarthur,2 - 2,Western Sydney Wanderers
+296,15-04-2023,Western Sydney Wanderers,2 - 1,Melbourne Victory
+297,21-04-2023,Western Sydney Wanderers,4 - 0,Wellington Phoenix
+298,28-04-2023,Melbourne City,3 - 2,Western Sydney Wanderers
+299,06-05-2023,Western Sydney Wanderers,1 - 2,Sydney FC
+300,07-10-2022,Melbourne City,2 - 1,Western United FC
+301,16-10-2022,Western United FC,1 - 3,Sydney FC
+302,21-10-2022,Western United FC,1 - 1,Macarthur
+303,29-10-2022,Central Coast Mariners,4 - 2,Western United FC
+304,06-11-2022,Western United FC,2 - 4,Adelaide United
+305,13-11-2022,Wellington Phoenix,2 - 3,Western United FC
+306,10-12-2022,Perth Glory,2 - 1,Western United FC
+307,18-12-2022,Western United FC,1 - 0,Western Sydney Wanderers
+308,26-12-2022,Western United FC,1 - 0,Melbourne Victory
+309,30-12-2022,Western United FC,1 - 1,Brisbane Roar
+310,07-01-2023,Melbourne City,4 - 0,Western United FC
+311,15-01-2023,Western United FC,1 - 1,Newcastle Jets
+312,21-01-2023,Western United FC,1 - 0,Sydney FC
+313,28-01-2023,Macarthur,2 - 2,Western United FC
+314,05-02-2023,Western Sydney Wanderers,1 - 0,Western United FC
+315,11-02-2023,Western United FC,2 - 3,Adelaide United
+316,17-02-2023,Western United FC,0 - 3,Wellington Phoenix
+317,25-02-2023,Newcastle Jets,1 - 3,Western United FC
+318,04-03-2023,Western United FC,2 - 1,Perth Glory
+319,13-03-2023,Melbourne Victory,1 - 2,Western United FC
+320,18-03-2023,Brisbane Roar,1 - 0,Western United FC
+321,01-04-2023,Sydney FC,3 - 3,Western United FC
+322,07-04-2023,Western United FC,0 - 3,Central Coast Mariners
+323,16-04-2023,Adelaide United,0 - 1,Western United FC
+324,22-04-2023,Western United FC,1 - 3,Melbourne City
+325,29-04-2023,Perth Glory,1 - 2,Western United FC

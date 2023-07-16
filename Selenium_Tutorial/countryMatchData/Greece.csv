@@ -1,0 +1,481 @@
+,date,home_team,score,away_team
+0,20-08-2022,Lamia,0 - 3,AEK
+1,27-08-2022,AEK,0 - 1,Volos New Football Club
+2,04-09-2022,AEK,2 - 0,Giannina
+3,11-09-2022,Panathinaikos,2 - 1,AEK
+4,17-09-2022,Panetolikos,0 - 2,AEK
+5,03-10-2022,AEK,4 - 1,Ionikos
+6,09-10-2022,Aris Thessalon.,0 - 2,AEK
+7,16-10-2022,AEK,1 - 0,Atromitos
+8,24-10-2022,Levadeiakos,0 - 2,AEK
+9,30-10-2022,AEK,2 - 0,PAOK
+10,06-11-2022,Asteras Tripolis,1 - 1,AEK
+11,09-11-2022,AEK,3 - 0,OFI
+12,13-11-2022,Olympiakos,0 - 0,AEK
+13,21-12-2022,AEK,3 - 0,Lamia
+14,28-12-2022,Volos New Football Club,0 - 4,AEK
+15,03-01-2023,Giannina,2 - 1,AEK
+16,08-01-2023,AEK,1 - 0,Panathinaikos
+17,15-01-2023,AEK,4 - 1,Panetolikos
+18,22-01-2023,Ionikos,1 - 2,AEK
+19,29-01-2023,AEK,3 - 0,Aris Thessalon.
+20,13-02-2023,AEK,3 - 0,Levadeiakos
+21,19-02-2023,PAOK,2 - 0,AEK
+22,25-02-2023,AEK,2 - 0,Asteras Tripolis
+23,05-03-2023,OFI,0 - 3,AEK
+24,08-03-2023,Atromitos,0 - 1,AEK
+25,12-03-2023,AEK,1 - 3,Olympiakos
+26,19-03-2023,AEK,0 - 0,Panathinaikos
+27,02-04-2023,PAOK,0 - 1,AEK
+28,05-04-2023,Volos New Football Club,0 - 1,AEK
+29,09-04-2023,AEK,3 - 1,Aris Thessalon.
+30,23-04-2023,Olympiakos,1 - 3,AEK
+31,26-04-2023,AEK,4 - 0,PAOK
+32,30-04-2023,Panathinaikos,0 - 0,AEK
+33,03-05-2023,AEK,0 - 0,Olympiakos
+34,08-05-2023,Aris Thessalon.,1 - 2,AEK
+35,14-05-2023,AEK,4 - 0,Volos New Football Club
+36,21-08-2022,Aris Thessalon.,3 - 0,Levadeiakos
+37,28-08-2022,Panetolikos,3 - 1,Aris Thessalon.
+38,04-09-2022,Aris Thessalon.,0 - 0,PAOK
+39,11-09-2022,Asteras Tripolis,0 - 2,Aris Thessalon.
+40,18-09-2022,Aris Thessalon.,2 - 1,Olympiakos
+41,02-10-2022,Volos New Football Club,2 - 0,Aris Thessalon.
+42,09-10-2022,Aris Thessalon.,0 - 2,AEK
+43,15-10-2022,Aris Thessalon.,2 - 1,Ionikos
+44,23-10-2022,Panathinaikos,1 - 0,Aris Thessalon.
+45,30-10-2022,Aris Thessalon.,1 - 1,OFI
+46,05-11-2022,Atromitos,0 - 0,Aris Thessalon.
+47,08-11-2022,Aris Thessalon.,5 - 0,Lamia
+48,13-11-2022,Giannina,0 - 4,Aris Thessalon.
+49,21-12-2022,Levadeiakos,1 - 1,Aris Thessalon.
+50,29-12-2022,Aris Thessalon.,1 - 0,Panetolikos
+51,04-01-2023,PAOK,1 - 0,Aris Thessalon.
+52,08-01-2023,Aris Thessalon.,3 - 0,Asteras Tripolis
+53,15-01-2023,Olympiakos,1 - 0,Aris Thessalon.
+54,21-01-2023,Aris Thessalon.,3 - 0,Volos New Football Club
+55,29-01-2023,AEK,3 - 0,Aris Thessalon.
+56,04-02-2023,Ionikos,1 - 0,Aris Thessalon.
+57,12-02-2023,Aris Thessalon.,1 - 2,Panathinaikos
+58,20-02-2023,OFI,0 - 3,Aris Thessalon.
+59,26-02-2023,Aris Thessalon.,2 - 1,Atromitos
+60,05-03-2023,Lamia,2 - 1,Aris Thessalon.
+61,12-03-2023,Aris Thessalon.,3 - 1,Giannina
+62,19-03-2023,Aris Thessalon.,1 - 2,PAOK
+63,02-04-2023,Olympiakos,2 - 2,Aris Thessalon.
+64,05-04-2023,Aris Thessalon.,0 - 1,Panathinaikos
+65,09-04-2023,AEK,3 - 1,Aris Thessalon.
+66,23-04-2023,Volos New Football Club,0 - 3,Aris Thessalon.
+67,26-04-2023,Aris Thessalon.,2 - 1,Olympiakos
+68,30-04-2023,PAOK,3 - 2,Aris Thessalon.
+69,03-05-2023,Aris Thessalon.,4 - 2,Volos New Football Club
+70,08-05-2023,Aris Thessalon.,1 - 2,AEK
+71,14-05-2023,Panathinaikos,1 - 1,Aris Thessalon.
+72,19-08-2022,Volos New Football Club,3 - 3,Asteras Tripolis
+73,29-08-2022,Asteras Tripolis,0 - 0,Olympiakos
+74,03-09-2022,Lamia,0 - 0,Asteras Tripolis
+75,11-09-2022,Asteras Tripolis,0 - 2,Aris Thessalon.
+76,18-09-2022,Levadeiakos,1 - 1,Asteras Tripolis
+77,02-10-2022,Asteras Tripolis,2 - 0,OFI
+78,09-10-2022,Panathinaikos,1 - 0,Asteras Tripolis
+79,16-10-2022,Asteras Tripolis,0 - 0,Panetolikos
+80,23-10-2022,PAOK,2 - 2,Asteras Tripolis
+81,31-10-2022,Giannina,2 - 1,Asteras Tripolis
+82,06-11-2022,Asteras Tripolis,1 - 1,AEK
+83,09-11-2022,Atromitos,2 - 0,Asteras Tripolis
+84,14-11-2022,Asteras Tripolis,1 - 0,Ionikos
+85,21-12-2022,Asteras Tripolis,0 - 0,Volos New Football Club
+86,28-12-2022,Olympiakos,5 - 0,Asteras Tripolis
+87,04-01-2023,Asteras Tripolis,3 - 0,Lamia
+88,08-01-2023,Aris Thessalon.,3 - 0,Asteras Tripolis
+89,15-01-2023,Asteras Tripolis,0 - 0,Levadeiakos
+90,21-01-2023,OFI,1 - 0,Asteras Tripolis
+91,30-01-2023,Asteras Tripolis,1 - 0,Panathinaikos
+92,05-02-2023,Panetolikos,0 - 0,Asteras Tripolis
+93,13-02-2023,Asteras Tripolis,2 - 2,PAOK
+94,18-02-2023,Asteras Tripolis,1 - 1,Giannina
+95,25-02-2023,AEK,2 - 0,Asteras Tripolis
+96,04-03-2023,Asteras Tripolis,1 - 1,Atromitos
+97,12-03-2023,Ionikos,1 - 0,Asteras Tripolis
+98,18-03-2023,Asteras Tripolis,2 - 1,Panetolikos
+99,01-04-2023,Ionikos,1 - 0,Asteras Tripolis
+100,08-04-2023,Asteras Tripolis,0 - 1,Levadeiakos
+101,22-04-2023,OFI,1 - 1,Asteras Tripolis
+102,29-04-2023,Asteras Tripolis,0 - 0,Lamia
+103,06-05-2023,Giannina,1 - 0,Asteras Tripolis
+104,13-05-2023,Asteras Tripolis,1 - 1,Atromitos
+105,20-08-2022,Atromitos,3 - 1,OFI
+106,28-08-2022,PAOK,2 - 1,Atromitos
+107,04-09-2022,Atromitos,1 - 1,Panetolikos
+108,10-09-2022,Ionikos,1 - 4,Atromitos
+109,17-09-2022,Atromitos,0 - 0,Lamia
+110,02-10-2022,Olympiakos,2 - 0,Atromitos
+111,10-10-2022,Atromitos,2 - 1,Giannina
+112,16-10-2022,AEK,1 - 0,Atromitos
+113,22-10-2022,Atromitos,0 - 2,Volos New Football Club
+114,30-10-2022,Levadeiakos,2 - 1,Atromitos
+115,05-11-2022,Atromitos,0 - 0,Aris Thessalon.
+116,09-11-2022,Atromitos,2 - 0,Asteras Tripolis
+117,13-11-2022,Panathinaikos,2 - 0,Atromitos
+118,22-12-2022,OFI,0 - 1,Atromitos
+119,28-12-2022,Atromitos,1 - 1,PAOK
+120,04-01-2023,Panetolikos,2 - 0,Atromitos
+121,08-01-2023,Atromitos,2 - 0,Ionikos
+122,14-01-2023,Lamia,1 - 1,Atromitos
+123,22-01-2023,Atromitos,1 - 1,Olympiakos
+124,28-01-2023,Giannina,1 - 1,Atromitos
+125,12-02-2023,Volos New Football Club,2 - 1,Atromitos
+126,20-02-2023,Atromitos,1 - 0,Levadeiakos
+127,26-02-2023,Aris Thessalon.,2 - 1,Atromitos
+128,04-03-2023,Asteras Tripolis,1 - 1,Atromitos
+129,08-03-2023,Atromitos,0 - 1,AEK
+130,12-03-2023,Atromitos,0 - 2,Panathinaikos
+131,18-03-2023,Atromitos,2 - 0,Ionikos
+132,01-04-2023,Levadeiakos,1 - 1,Atromitos
+133,08-04-2023,Atromitos,1 - 1,Giannina
+134,22-04-2023,Lamia,1 - 0,Atromitos
+135,29-04-2023,Atromitos,2 - 3,OFI
+136,06-05-2023,Atromitos,2 - 0,Panetolikos
+137,13-05-2023,Asteras Tripolis,1 - 1,Atromitos
+138,21-08-2022,Olympiakos,2 - 0,Giannina
+139,27-08-2022,Giannina,1 - 1,Lamia
+140,04-09-2022,AEK,2 - 0,Giannina
+141,10-09-2022,Giannina,2 - 1,Levadeiakos
+142,17-09-2022,Panathinaikos,3 - 0,Giannina
+143,03-10-2022,Giannina,1 - 4,Panetolikos
+144,10-10-2022,Atromitos,2 - 1,Giannina
+145,16-10-2022,Giannina,2 - 2,OFI
+146,23-10-2022,Ionikos,2 - 2,Giannina
+147,31-10-2022,Giannina,2 - 1,Asteras Tripolis
+148,05-11-2022,PAOK,2 - 0,Giannina
+149,10-11-2022,Volos New Football Club,2 - 1,Giannina
+150,13-11-2022,Giannina,0 - 4,Aris Thessalon.
+151,21-12-2022,Giannina,2 - 2,Olympiakos
+152,29-12-2022,Lamia,1 - 1,Giannina
+153,03-01-2023,Giannina,2 - 1,AEK
+154,07-01-2023,Levadeiakos,1 - 3,Giannina
+155,15-01-2023,Giannina,0 - 1,Panathinaikos
+156,20-01-2023,Panetolikos,1 - 1,Giannina
+157,28-01-2023,Giannina,1 - 1,Atromitos
+158,04-02-2023,OFI,0 - 0,Giannina
+159,11-02-2023,Giannina,0 - 0,Ionikos
+160,18-02-2023,Asteras Tripolis,1 - 1,Giannina
+161,25-02-2023,Giannina,0 - 0,PAOK
+162,05-03-2023,Giannina,0 - 1,Volos New Football Club
+163,12-03-2023,Aris Thessalon.,3 - 1,Giannina
+164,18-03-2023,Lamia,2 - 0,Giannina
+165,01-04-2023,Giannina,0 - 1,OFI
+166,08-04-2023,Atromitos,1 - 1,Giannina
+167,22-04-2023,Giannina,3 - 2,Panetolikos
+168,29-04-2023,Ionikos,0 - 1,Giannina
+169,06-05-2023,Giannina,1 - 0,Asteras Tripolis
+170,13-05-2023,Levadeiakos,3 - 3,Giannina
+171,21-08-2022,Panathinaikos,1 - 0,Ionikos
+172,26-08-2022,Ionikos,0 - 0,Levadeiakos
+173,03-09-2022,Olympiakos,3 - 1,Ionikos
+174,10-09-2022,Ionikos,1 - 4,Atromitos
+175,18-09-2022,Volos New Football Club,2 - 0,Ionikos
+176,03-10-2022,AEK,4 - 1,Ionikos
+177,08-10-2022,Ionikos,1 - 1,Lamia
+178,15-10-2022,Aris Thessalon.,2 - 1,Ionikos
+179,23-10-2022,Ionikos,2 - 2,Giannina
+180,29-10-2022,Ionikos,1 - 1,Panetolikos
+181,05-11-2022,OFI,0 - 2,Ionikos
+182,10-11-2022,Ionikos,0 - 3,PAOK
+183,14-11-2022,Asteras Tripolis,1 - 0,Ionikos
+184,21-12-2022,Ionikos,1 - 1,Panathinaikos
+185,28-12-2022,Levadeiakos,1 - 0,Ionikos
+186,03-01-2023,Ionikos,0 - 2,Olympiakos
+187,08-01-2023,Atromitos,2 - 0,Ionikos
+188,16-01-2023,Ionikos,0 - 1,Volos New Football Club
+189,22-01-2023,Ionikos,1 - 2,AEK
+190,30-01-2023,Lamia,0 - 2,Ionikos
+191,04-02-2023,Ionikos,1 - 0,Aris Thessalon.
+192,11-02-2023,Giannina,0 - 0,Ionikos
+193,19-02-2023,Panetolikos,1 - 0,Ionikos
+194,26-02-2023,Ionikos,0 - 2,OFI
+195,05-03-2023,PAOK,6 - 0,Ionikos
+196,12-03-2023,Ionikos,1 - 0,Asteras Tripolis
+197,18-03-2023,Atromitos,2 - 0,Ionikos
+198,01-04-2023,Ionikos,1 - 0,Asteras Tripolis
+199,08-04-2023,Panetolikos,0 - 1,Ionikos
+200,22-04-2023,Levadeiakos,2 - 2,Ionikos
+201,29-04-2023,Ionikos,0 - 1,Giannina
+202,06-05-2023,OFI,2 - 2,Ionikos
+203,13-05-2023,Ionikos,2 - 2,Lamia
+204,20-08-2022,Lamia,0 - 3,AEK
+205,27-08-2022,Giannina,1 - 1,Lamia
+206,03-09-2022,Lamia,0 - 0,Asteras Tripolis
+207,12-09-2022,PAOK,1 - 0,Lamia
+208,17-09-2022,Atromitos,0 - 0,Lamia
+209,01-10-2022,Lamia,1 - 0,Levadeiakos
+210,08-10-2022,Ionikos,1 - 1,Lamia
+211,16-10-2022,Lamia,0 - 2,Panathinaikos
+212,24-10-2022,OFI,0 - 0,Lamia
+213,30-10-2022,Olympiakos,2 - 0,Lamia
+214,05-11-2022,Lamia,2 - 2,Volos New Football Club
+215,08-11-2022,Aris Thessalon.,5 - 0,Lamia
+216,13-11-2022,Lamia,1 - 3,Panetolikos
+217,21-12-2022,AEK,3 - 0,Lamia
+218,29-12-2022,Lamia,1 - 1,Giannina
+219,04-01-2023,Asteras Tripolis,3 - 0,Lamia
+220,07-01-2023,Lamia,0 - 3,PAOK
+221,14-01-2023,Lamia,1 - 1,Atromitos
+222,22-01-2023,Levadeiakos,0 - 0,Lamia
+223,30-01-2023,Lamia,0 - 2,Ionikos
+224,05-02-2023,Panathinaikos,2 - 0,Lamia
+225,13-02-2023,Lamia,1 - 4,OFI
+226,19-02-2023,Lamia,0 - 3,Olympiakos
+227,24-02-2023,Volos New Football Club,1 - 1,Lamia
+228,05-03-2023,Lamia,2 - 1,Aris Thessalon.
+229,12-03-2023,Panetolikos,1 - 1,Lamia
+230,18-03-2023,Lamia,2 - 0,Giannina
+231,01-04-2023,Panetolikos,1 - 3,Lamia
+232,08-04-2023,OFI,4 - 1,Lamia
+233,22-04-2023,Lamia,1 - 0,Atromitos
+234,29-04-2023,Asteras Tripolis,0 - 0,Lamia
+235,06-05-2023,Lamia,1 - 1,Levadeiakos
+236,13-05-2023,Ionikos,2 - 2,Lamia
+237,21-08-2022,Aris Thessalon.,3 - 0,Levadeiakos
+238,26-08-2022,Ionikos,0 - 0,Levadeiakos
+239,03-09-2022,Panathinaikos,1 - 0,Levadeiakos
+240,10-09-2022,Giannina,2 - 1,Levadeiakos
+241,18-09-2022,Levadeiakos,1 - 1,Asteras Tripolis
+242,01-10-2022,Lamia,1 - 0,Levadeiakos
+243,09-10-2022,Levadeiakos,1 - 1,PAOK
+244,15-10-2022,Volos New Football Club,2 - 1,Levadeiakos
+245,24-10-2022,Levadeiakos,0 - 2,AEK
+246,30-10-2022,Levadeiakos,2 - 1,Atromitos
+247,06-11-2022,Panetolikos,0 - 0,Levadeiakos
+248,09-11-2022,Levadeiakos,0 - 1,Olympiakos
+249,14-11-2022,OFI,2 - 1,Levadeiakos
+250,21-12-2022,Levadeiakos,1 - 1,Aris Thessalon.
+251,28-12-2022,Levadeiakos,1 - 0,Ionikos
+252,03-01-2023,Levadeiakos,0 - 1,Panathinaikos
+253,07-01-2023,Levadeiakos,1 - 3,Giannina
+254,15-01-2023,Asteras Tripolis,0 - 0,Levadeiakos
+255,22-01-2023,Levadeiakos,0 - 0,Lamia
+256,30-01-2023,PAOK,3 - 2,Levadeiakos
+257,06-02-2023,Levadeiakos,0 - 3,Volos New Football Club
+258,13-02-2023,AEK,3 - 0,Levadeiakos
+259,20-02-2023,Atromitos,1 - 0,Levadeiakos
+260,26-02-2023,Levadeiakos,0 - 0,Panetolikos
+261,05-03-2023,Olympiakos,6 - 0,Levadeiakos
+262,12-03-2023,Levadeiakos,2 - 0,OFI
+263,18-03-2023,OFI,1 - 1,Levadeiakos
+264,01-04-2023,Levadeiakos,1 - 1,Atromitos
+265,08-04-2023,Asteras Tripolis,0 - 1,Levadeiakos
+266,22-04-2023,Levadeiakos,2 - 2,Ionikos
+267,29-04-2023,Panetolikos,2 - 2,Levadeiakos
+268,06-05-2023,Lamia,1 - 1,Levadeiakos
+269,13-05-2023,Levadeiakos,3 - 3,Giannina
+270,20-08-2022,Atromitos,3 - 1,OFI
+271,28-08-2022,OFI,0 - 2,Panathinaikos
+272,04-09-2022,Volos New Football Club,0 - 1,OFI
+273,10-09-2022,OFI,1 - 2,Panetolikos
+274,18-09-2022,OFI,1 - 1,PAOK
+275,02-10-2022,Asteras Tripolis,2 - 0,OFI
+276,09-10-2022,OFI,1 - 2,Olympiakos
+277,16-10-2022,Giannina,2 - 2,OFI
+278,24-10-2022,OFI,0 - 0,Lamia
+279,30-10-2022,Aris Thessalon.,1 - 1,OFI
+280,05-11-2022,OFI,0 - 2,Ionikos
+281,09-11-2022,AEK,3 - 0,OFI
+282,14-11-2022,OFI,2 - 1,Levadeiakos
+283,22-12-2022,OFI,0 - 1,Atromitos
+284,28-12-2022,Panathinaikos,1 - 1,OFI
+285,03-01-2023,OFI,0 - 0,Volos New Football Club
+286,09-01-2023,Panetolikos,0 - 4,OFI
+287,14-01-2023,PAOK,0 - 0,OFI
+288,21-01-2023,OFI,1 - 0,Asteras Tripolis
+289,29-01-2023,Olympiakos,2 - 1,OFI
+290,04-02-2023,OFI,0 - 0,Giannina
+291,13-02-2023,Lamia,1 - 4,OFI
+292,20-02-2023,OFI,0 - 3,Aris Thessalon.
+293,26-02-2023,Ionikos,0 - 2,OFI
+294,05-03-2023,OFI,0 - 3,AEK
+295,12-03-2023,Levadeiakos,2 - 0,OFI
+296,18-03-2023,OFI,1 - 1,Levadeiakos
+297,01-04-2023,Giannina,0 - 1,OFI
+298,08-04-2023,OFI,4 - 1,Lamia
+299,22-04-2023,OFI,1 - 1,Asteras Tripolis
+300,29-04-2023,Atromitos,2 - 3,OFI
+301,06-05-2023,OFI,2 - 2,Ionikos
+302,13-05-2023,Panetolikos,0 - 2,OFI
+303,21-08-2022,Olympiakos,2 - 0,Giannina
+304,29-08-2022,Asteras Tripolis,0 - 0,Olympiakos
+305,03-09-2022,Olympiakos,3 - 1,Ionikos
+306,11-09-2022,Olympiakos,1 - 1,Volos New Football Club
+307,18-09-2022,Aris Thessalon.,2 - 1,Olympiakos
+308,02-10-2022,Olympiakos,2 - 0,Atromitos
+309,09-10-2022,OFI,1 - 2,Olympiakos
+310,17-10-2022,Olympiakos,1 - 2,PAOK
+311,22-10-2022,Panetolikos,0 - 2,Olympiakos
+312,30-10-2022,Olympiakos,2 - 0,Lamia
+313,06-11-2022,Panathinaikos,1 - 1,Olympiakos
+314,09-11-2022,Levadeiakos,0 - 1,Olympiakos
+315,13-11-2022,Olympiakos,0 - 0,AEK
+316,21-12-2022,Giannina,2 - 2,Olympiakos
+317,28-12-2022,Olympiakos,5 - 0,Asteras Tripolis
+318,03-01-2023,Ionikos,0 - 2,Olympiakos
+319,08-01-2023,Volos New Football Club,0 - 4,Olympiakos
+320,15-01-2023,Olympiakos,1 - 0,Aris Thessalon.
+321,22-01-2023,Atromitos,1 - 1,Olympiakos
+322,29-01-2023,Olympiakos,2 - 1,OFI
+323,05-02-2023,PAOK,0 - 0,Olympiakos
+324,13-02-2023,Olympiakos,6 - 1,Panetolikos
+325,19-02-2023,Lamia,0 - 3,Olympiakos
+326,25-02-2023,Olympiakos,0 - 0,Panathinaikos
+327,05-03-2023,Olympiakos,6 - 0,Levadeiakos
+328,12-03-2023,AEK,1 - 3,Olympiakos
+329,19-03-2023,Volos New Football Club,0 - 3,Olympiakos
+330,02-04-2023,Olympiakos,2 - 2,Aris Thessalon.
+331,05-04-2023,Olympiakos,3 - 1,PAOK
+332,09-04-2023,Panathinaikos,2 - 0,Olympiakos
+333,23-04-2023,Olympiakos,1 - 3,AEK
+334,26-04-2023,Aris Thessalon.,2 - 1,Olympiakos
+335,30-04-2023,Olympiakos,5 - 0,Volos New Football Club
+336,03-05-2023,AEK,0 - 0,Olympiakos
+337,08-05-2023,Olympiakos,1 - 0,Panathinaikos
+338,14-05-2023,PAOK,0 - 1,Olympiakos
+339,20-08-2022,PAOK,1 - 0,Panetolikos
+340,28-08-2022,PAOK,2 - 1,Atromitos
+341,04-09-2022,Aris Thessalon.,0 - 0,PAOK
+342,12-09-2022,PAOK,1 - 0,Lamia
+343,18-09-2022,OFI,1 - 1,PAOK
+344,02-10-2022,PAOK,1 - 2,Panathinaikos
+345,09-10-2022,Levadeiakos,1 - 1,PAOK
+346,17-10-2022,Olympiakos,1 - 2,PAOK
+347,23-10-2022,PAOK,2 - 2,Asteras Tripolis
+348,30-10-2022,AEK,2 - 0,PAOK
+349,05-11-2022,PAOK,2 - 0,Giannina
+350,10-11-2022,Ionikos,0 - 3,PAOK
+351,13-11-2022,PAOK,3 - 0,Volos New Football Club
+352,22-12-2022,Panetolikos,0 - 2,PAOK
+353,28-12-2022,Atromitos,1 - 1,PAOK
+354,04-01-2023,PAOK,1 - 0,Aris Thessalon.
+355,07-01-2023,Lamia,0 - 3,PAOK
+356,14-01-2023,PAOK,0 - 0,OFI
+357,22-01-2023,Panathinaikos,0 - 3,PAOK
+358,30-01-2023,PAOK,3 - 2,Levadeiakos
+359,05-02-2023,PAOK,0 - 0,Olympiakos
+360,13-02-2023,Asteras Tripolis,2 - 2,PAOK
+361,19-02-2023,PAOK,2 - 0,AEK
+362,25-02-2023,Giannina,0 - 0,PAOK
+363,05-03-2023,PAOK,6 - 0,Ionikos
+364,12-03-2023,Volos New Football Club,0 - 1,PAOK
+365,19-03-2023,Aris Thessalon.,1 - 2,PAOK
+366,02-04-2023,PAOK,0 - 1,AEK
+367,05-04-2023,Olympiakos,3 - 1,PAOK
+368,09-04-2023,PAOK,4 - 2,Volos New Football Club
+369,23-04-2023,PAOK,1 - 2,Panathinaikos
+370,26-04-2023,AEK,4 - 0,PAOK
+371,30-04-2023,PAOK,3 - 2,Aris Thessalon.
+372,03-05-2023,Panathinaikos,1 - 1,PAOK
+373,08-05-2023,Volos New Football Club,0 - 2,PAOK
+374,14-05-2023,PAOK,0 - 1,Olympiakos
+375,21-08-2022,Panathinaikos,1 - 0,Ionikos
+376,28-08-2022,OFI,0 - 2,Panathinaikos
+377,03-09-2022,Panathinaikos,1 - 0,Levadeiakos
+378,11-09-2022,Panathinaikos,2 - 1,AEK
+379,17-09-2022,Panathinaikos,3 - 0,Giannina
+380,02-10-2022,PAOK,1 - 2,Panathinaikos
+381,09-10-2022,Panathinaikos,1 - 0,Asteras Tripolis
+382,16-10-2022,Lamia,0 - 2,Panathinaikos
+383,23-10-2022,Panathinaikos,1 - 0,Aris Thessalon.
+384,29-10-2022,Volos New Football Club,1 - 5,Panathinaikos
+385,06-11-2022,Panathinaikos,1 - 1,Olympiakos
+386,09-11-2022,Panetolikos,0 - 1,Panathinaikos
+387,13-11-2022,Panathinaikos,2 - 0,Atromitos
+388,21-12-2022,Ionikos,1 - 1,Panathinaikos
+389,28-12-2022,Panathinaikos,1 - 1,OFI
+390,03-01-2023,Levadeiakos,0 - 1,Panathinaikos
+391,08-01-2023,AEK,1 - 0,Panathinaikos
+392,15-01-2023,Giannina,0 - 1,Panathinaikos
+393,22-01-2023,Panathinaikos,0 - 3,PAOK
+394,30-01-2023,Asteras Tripolis,1 - 0,Panathinaikos
+395,05-02-2023,Panathinaikos,2 - 0,Lamia
+396,12-02-2023,Aris Thessalon.,1 - 2,Panathinaikos
+397,18-02-2023,Panathinaikos,2 - 0,Volos New Football Club
+398,25-02-2023,Olympiakos,0 - 0,Panathinaikos
+399,06-03-2023,Panathinaikos,2 - 0,Panetolikos
+400,12-03-2023,Atromitos,0 - 2,Panathinaikos
+401,19-03-2023,AEK,0 - 0,Panathinaikos
+402,02-04-2023,Panathinaikos,0 - 0,Volos New Football Club
+403,05-04-2023,Aris Thessalon.,0 - 1,Panathinaikos
+404,09-04-2023,Panathinaikos,2 - 0,Olympiakos
+405,23-04-2023,PAOK,1 - 2,Panathinaikos
+406,26-04-2023,Volos New Football Club,0 - 2,Panathinaikos
+407,30-04-2023,Panathinaikos,0 - 0,AEK
+408,03-05-2023,Panathinaikos,1 - 1,PAOK
+409,08-05-2023,Olympiakos,1 - 0,Panathinaikos
+410,14-05-2023,Panathinaikos,1 - 1,Aris Thessalon.
+411,20-08-2022,PAOK,1 - 0,Panetolikos
+412,28-08-2022,Panetolikos,3 - 1,Aris Thessalon.
+413,04-09-2022,Atromitos,1 - 1,Panetolikos
+414,10-09-2022,OFI,1 - 2,Panetolikos
+415,17-09-2022,Panetolikos,0 - 2,AEK
+416,03-10-2022,Giannina,1 - 4,Panetolikos
+417,08-10-2022,Panetolikos,2 - 3,Volos New Football Club
+418,16-10-2022,Asteras Tripolis,0 - 0,Panetolikos
+419,22-10-2022,Panetolikos,0 - 2,Olympiakos
+420,29-10-2022,Ionikos,1 - 1,Panetolikos
+421,06-11-2022,Panetolikos,0 - 0,Levadeiakos
+422,09-11-2022,Panetolikos,0 - 1,Panathinaikos
+423,13-11-2022,Lamia,1 - 3,Panetolikos
+424,22-12-2022,Panetolikos,0 - 2,PAOK
+425,29-12-2022,Aris Thessalon.,1 - 0,Panetolikos
+426,04-01-2023,Panetolikos,2 - 0,Atromitos
+427,09-01-2023,Panetolikos,0 - 4,OFI
+428,15-01-2023,AEK,4 - 1,Panetolikos
+429,20-01-2023,Panetolikos,1 - 1,Giannina
+430,28-01-2023,Volos New Football Club,2 - 3,Panetolikos
+431,05-02-2023,Panetolikos,0 - 0,Asteras Tripolis
+432,13-02-2023,Olympiakos,6 - 1,Panetolikos
+433,19-02-2023,Panetolikos,1 - 0,Ionikos
+434,26-02-2023,Levadeiakos,0 - 0,Panetolikos
+435,06-03-2023,Panathinaikos,2 - 0,Panetolikos
+436,12-03-2023,Panetolikos,1 - 1,Lamia
+437,18-03-2023,Asteras Tripolis,2 - 1,Panetolikos
+438,01-04-2023,Panetolikos,1 - 3,Lamia
+439,08-04-2023,Panetolikos,0 - 1,Ionikos
+440,22-04-2023,Giannina,3 - 2,Panetolikos
+441,29-04-2023,Panetolikos,2 - 2,Levadeiakos
+442,06-05-2023,Atromitos,2 - 0,Panetolikos
+443,13-05-2023,Panetolikos,0 - 2,OFI
+444,19-08-2022,Volos New Football Club,3 - 3,Asteras Tripolis
+445,27-08-2022,AEK,0 - 1,Volos New Football Club
+446,04-09-2022,Volos New Football Club,0 - 1,OFI
+447,11-09-2022,Olympiakos,1 - 1,Volos New Football Club
+448,18-09-2022,Volos New Football Club,2 - 0,Ionikos
+449,02-10-2022,Volos New Football Club,2 - 0,Aris Thessalon.
+450,08-10-2022,Panetolikos,2 - 3,Volos New Football Club
+451,15-10-2022,Volos New Football Club,2 - 1,Levadeiakos
+452,22-10-2022,Atromitos,0 - 2,Volos New Football Club
+453,29-10-2022,Volos New Football Club,1 - 5,Panathinaikos
+454,05-11-2022,Lamia,2 - 2,Volos New Football Club
+455,10-11-2022,Volos New Football Club,2 - 1,Giannina
+456,13-11-2022,PAOK,3 - 0,Volos New Football Club
+457,21-12-2022,Asteras Tripolis,0 - 0,Volos New Football Club
+458,28-12-2022,Volos New Football Club,0 - 4,AEK
+459,03-01-2023,OFI,0 - 0,Volos New Football Club
+460,08-01-2023,Volos New Football Club,0 - 4,Olympiakos
+461,16-01-2023,Ionikos,0 - 1,Volos New Football Club
+462,21-01-2023,Aris Thessalon.,3 - 0,Volos New Football Club
+463,28-01-2023,Volos New Football Club,2 - 3,Panetolikos
+464,06-02-2023,Levadeiakos,0 - 3,Volos New Football Club
+465,12-02-2023,Volos New Football Club,2 - 1,Atromitos
+466,18-02-2023,Panathinaikos,2 - 0,Volos New Football Club
+467,24-02-2023,Volos New Football Club,1 - 1,Lamia
+468,05-03-2023,Giannina,0 - 1,Volos New Football Club
+469,12-03-2023,Volos New Football Club,0 - 1,PAOK
+470,19-03-2023,Volos New Football Club,0 - 3,Olympiakos
+471,02-04-2023,Panathinaikos,0 - 0,Volos New Football Club
+472,05-04-2023,Volos New Football Club,0 - 1,AEK
+473,09-04-2023,PAOK,4 - 2,Volos New Football Club
+474,23-04-2023,Volos New Football Club,0 - 3,Aris Thessalon.
+475,26-04-2023,Volos New Football Club,0 - 2,Panathinaikos
+476,30-04-2023,Olympiakos,5 - 0,Volos New Football Club
+477,03-05-2023,Aris Thessalon.,4 - 2,Volos New Football Club
+478,08-05-2023,Volos New Football Club,0 - 2,PAOK
+479,14-05-2023,AEK,4 - 0,Volos New Football Club

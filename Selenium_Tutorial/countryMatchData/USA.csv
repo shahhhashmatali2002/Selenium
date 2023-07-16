@@ -1,0 +1,673 @@
+,date,home_team,score,away_team
+0,26-02-2023,Atlanta United FC,2 - 1,San Jose Earthquakes
+1,05-03-2023,Atlanta United FC,1 - 1,Toronto FC
+2,11-03-2023,Charlotte,0 - 3,Atlanta United FC
+3,18-03-2023,Atlanta United FC,5 - 1,Portland Timbers
+4,25-03-2023,Columbus Crew,6 - 1,Atlanta United FC
+5,01-04-2023,Atlanta United FC,1 - 0,New York Red Bulls
+6,08-04-2023,New York City FC,1 - 1,Atlanta United FC
+7,15-04-2023,Toronto FC,2 - 2,Atlanta United FC
+8,23-04-2023,Atlanta United FC,2 - 1,Chicago Fire
+9,29-04-2023,Nashville SC (MLS),3 - 1,Atlanta United FC
+10,06-05-2023,Club Internacional de Fútbol Miami,2 - 1,Atlanta United FC
+11,13-05-2023,Atlanta United FC,1 - 3,Charlotte
+12,17-05-2023,Atlanta United FC,4 - 0,Colorado Rapids
+13,21-05-2023,Chicago Fire,3 - 3,Atlanta United FC
+14,27-05-2023,Orlando City SC,1 - 1,Atlanta United FC
+15,31-05-2023,Atlanta United FC,3 - 3,New England Revolution
+16,08-06-2023,Los Angeles FC,0 - 0,Atlanta United FC
+17,10-06-2023,Atlanta United FC,3 - 1,DC United
+18,21-06-2023,Atlanta United FC,2 - 2,New York City FC
+19,24-06-2023,New York Red Bulls,4 - 0,Atlanta United FC
+20,02-07-2023,Atlanta United FC,2 - 0,Philadelphia Union
+21,08-07-2023,Montreal Impact,0 - 1,Atlanta United FC
+22,12-07-2023,New England Revolution,2 - 1,Atlanta United FC
+23,15-07-2023,Atlanta United FC,? - ?,Orlando City SC
+24,26-02-2023,Austin,2 - 3,St. Louis City
+25,05-03-2023,Austin,1 - 0,Montreal Impact
+26,12-03-2023,Real Salt Lake,1 - 2,Austin
+27,19-03-2023,Houston Dynamo,2 - 0,Austin
+28,26-03-2023,Austin,1 - 1,Colorado Rapids
+29,08-04-2023,Los Angeles FC,3 - 0,Austin
+30,16-04-2023,Austin,0 - 0,Vancouver Whitecaps
+31,23-04-2023,LA Galaxy,2 - 0,Austin
+32,30-04-2023,Austin,2 - 2,San Jose Earthquakes
+33,07-05-2023,Portland Timbers,2 - 2,Austin
+34,14-05-2023,Austin,0 - 1,FC Dallas
+35,18-05-2023,Seattle Sounders FC,1 - 2,Austin
+36,21-05-2023,Austin,1 - 0,Toronto FC
+37,28-05-2023,Houston Dynamo,2 - 1,Austin
+38,01-06-2023,Austin,2 - 1,Minnesota Utd
+39,04-06-2023,Austin,1 - 2,Real Salt Lake
+40,11-06-2023,Sporting Kansas City,4 - 1,Austin
+41,22-06-2023,Austin,3 - 0,FC Dallas
+42,25-06-2023,Austin,3 - 0,Houston Dynamo
+43,01-07-2023,Club Internacional de Fútbol Miami,1 - 1,Austin
+44,09-07-2023,Minnesota Utd,1 - 4,Austin
+45,13-07-2023,Vancouver Whitecaps,2 - 1,Austin
+46,16-07-2023,Austin,? - ?,Sporting Kansas City
+47,26-02-2023,Charlotte,0 - 1,New England Revolution
+48,05-03-2023,St. Louis City,3 - 1,Charlotte
+49,11-03-2023,Charlotte,0 - 3,Atlanta United FC
+50,18-03-2023,Orlando City SC,1 - 2,Charlotte
+51,25-03-2023,Charlotte,1 - 1,New York Red Bulls
+52,01-04-2023,Toronto FC,2 - 2,Charlotte
+53,09-04-2023,Real Salt Lake,3 - 1,Charlotte
+54,15-04-2023,Charlotte,2 - 2,Colorado Rapids
+55,22-04-2023,Charlotte,1 - 0,Columbus Crew
+56,29-04-2023,DC United,3 - 0,Charlotte
+57,06-05-2023,Charlotte,3 - 2,New York City FC
+58,13-05-2023,Atlanta United FC,1 - 3,Charlotte
+59,17-05-2023,Charlotte,2 - 1,Chicago Fire
+60,20-05-2023,Charlotte,1 - 2,Nashville SC (MLS)
+61,28-05-2023,LA Galaxy,0 - 1,Charlotte
+62,31-05-2023,Philadelphia Union,1 - 0,Charlotte
+63,03-06-2023,Columbus Crew,4 - 2,Charlotte
+64,10-06-2023,Charlotte,3 - 3,Seattle Sounders FC
+65,21-06-2023,New York Red Bulls,2 - 2,Charlotte
+66,24-06-2023,Charlotte,0 - 0,Montreal Impact
+67,05-07-2023,New York City FC,1 - 1,Charlotte
+68,08-07-2023,Charlotte,2 - 2,FC Cincinnati
+69,15-07-2023,Montreal Impact,? - ?,Charlotte
+70,05-03-2023,Chicago Fire,1 - 1,New York City FC
+71,12-03-2023,Philadelphia Union,1 - 0,Chicago Fire
+72,19-03-2023,Chicago Fire,3 - 3,FC Cincinnati
+73,25-03-2023,Club Internacional de Fútbol Miami,2 - 3,Chicago Fire
+74,02-04-2023,Chicago Fire,0 - 0,DC United
+75,09-04-2023,Chicago Fire,2 - 1,Minnesota Utd
+76,16-04-2023,Chicago Fire,2 - 2,Philadelphia Union
+77,23-04-2023,Atlanta United FC,2 - 1,Chicago Fire
+78,30-04-2023,Chicago Fire,1 - 1,New York Red Bulls
+79,07-05-2023,Nashville SC (MLS),3 - 0,Chicago Fire
+80,13-05-2023,Chicago Fire,1 - 0,St. Louis City
+81,17-05-2023,Charlotte,2 - 1,Chicago Fire
+82,21-05-2023,Chicago Fire,3 - 3,Atlanta United FC
+83,27-05-2023,New England Revolution,3 - 3,Chicago Fire
+84,31-05-2023,Toronto FC,0 - 0,Chicago Fire
+85,03-06-2023,FC Cincinnati,1 - 0,Chicago Fire
+86,11-06-2023,Chicago Fire,1 - 2,Columbus Crew
+87,22-06-2023,Portland Timbers,1 - 2,Chicago Fire
+88,25-06-2023,Sporting Kansas City,0 - 1,Chicago Fire
+89,01-07-2023,Orlando City SC,3 - 1,Chicago Fire
+90,09-07-2023,Chicago Fire,1 - 0,Nashville SC (MLS)
+91,13-07-2023,Chicago Fire,3 - 0,Montreal Impact
+92,16-07-2023,Chicago Fire,? - ?,Toronto FC
+93,26-02-2023,Club Internacional de Fútbol Miami,2 - 0,Montreal Impact
+94,05-03-2023,Club Internacional de Fútbol Miami,2 - 0,Philadelphia Union
+95,12-03-2023,New York City FC,1 - 0,Club Internacional de Fútbol Miami
+96,18-03-2023,Toronto FC,2 - 0,Club Internacional de Fútbol Miami
+97,25-03-2023,Club Internacional de Fútbol Miami,2 - 3,Chicago Fire
+98,01-04-2023,FC Cincinnati,1 - 0,Club Internacional de Fútbol Miami
+99,08-04-2023,Club Internacional de Fútbol Miami,0 - 1,FC Dallas
+100,23-04-2023,Houston Dynamo,1 - 0,Club Internacional de Fútbol Miami
+101,29-04-2023,Columbus Crew,1 - 2,Club Internacional de Fútbol Miami
+102,06-05-2023,Club Internacional de Fútbol Miami,2 - 1,Atlanta United FC
+103,13-05-2023,Club Internacional de Fútbol Miami,2 - 1,New England Revolution
+104,18-05-2023,Nashville SC (MLS),2 - 1,Club Internacional de Fútbol Miami
+105,20-05-2023,Club Internacional de Fútbol Miami,1 - 3,Orlando City SC
+106,27-05-2023,Montreal Impact,1 - 0,Club Internacional de Fútbol Miami
+107,31-05-2023,Club Internacional de Fútbol Miami,0 - 1,New York Red Bulls
+108,03-06-2023,Club Internacional de Fútbol Miami,1 - 2,DC United
+109,10-06-2023,New England Revolution,3 - 1,Club Internacional de Fútbol Miami
+110,24-06-2023,Philadelphia Union,4 - 1,Club Internacional de Fútbol Miami
+111,01-07-2023,Club Internacional de Fútbol Miami,1 - 1,Austin
+112,04-07-2023,Club Internacional de Fútbol Miami,2 - 2,Columbus Crew
+113,08-07-2023,DC United,2 - 2,Club Internacional de Fútbol Miami
+114,16-07-2023,St. Louis City,? - ?,Club Internacional de Fútbol Miami
+115,27-02-2023,Seattle Sounders FC,4 - 0,Colorado Rapids
+116,05-03-2023,Colorado Rapids,0 - 0,Sporting Kansas City
+117,12-03-2023,San Jose Earthquakes,1 - 0,Colorado Rapids
+118,19-03-2023,Colorado Rapids,1 - 2,Minnesota Utd
+119,26-03-2023,Austin,1 - 1,Colorado Rapids
+120,02-04-2023,Colorado Rapids,0 - 0,Los Angeles FC
+121,09-04-2023,Sporting Kansas City,0 - 1,Colorado Rapids
+122,15-04-2023,Charlotte,2 - 2,Colorado Rapids
+123,23-04-2023,Colorado Rapids,1 - 1,St. Louis City
+124,30-04-2023,Vancouver Whitecaps,0 - 0,Colorado Rapids
+125,07-05-2023,LA Galaxy,1 - 3,Colorado Rapids
+126,14-05-2023,Colorado Rapids,1 - 2,Philadelphia Union
+127,17-05-2023,Atlanta United FC,4 - 0,Colorado Rapids
+128,21-05-2023,Colorado Rapids,2 - 3,Real Salt Lake
+129,28-05-2023,Colorado Rapids,0 - 1,FC Cincinnati
+130,31-05-2023,Columbus Crew,3 - 2,Colorado Rapids
+131,04-06-2023,Colorado Rapids,0 - 0,San Jose Earthquakes
+132,10-06-2023,Orlando City SC,2 - 0,Colorado Rapids
+133,25-06-2023,Colorado Rapids,0 - 0,LA Galaxy
+134,02-07-2023,St. Louis City,2 - 0,Colorado Rapids
+135,09-07-2023,Colorado Rapids,2 - 1,FC Dallas
+136,13-07-2023,Colorado Rapids,0 - 0,Portland Timbers
+137,16-07-2023,Colorado Rapids,? - ?,Houston Dynamo
+138,26-02-2023,Philadelphia Union,4 - 1,Columbus Crew
+139,05-03-2023,Columbus Crew,2 - 0,DC United
+140,12-03-2023,Toronto FC,1 - 1,Columbus Crew
+141,18-03-2023,New York Red Bulls,2 - 1,Columbus Crew
+142,25-03-2023,Columbus Crew,6 - 1,Atlanta United FC
+143,01-04-2023,Columbus Crew,4 - 0,Real Salt Lake
+144,08-04-2023,DC United,0 - 2,Columbus Crew
+145,15-04-2023,Columbus Crew,1 - 1,New England Revolution
+146,22-04-2023,Charlotte,1 - 0,Columbus Crew
+147,29-04-2023,Columbus Crew,1 - 2,Club Internacional de Fútbol Miami
+148,13-05-2023,Columbus Crew,2 - 2,Orlando City SC
+149,17-05-2023,Columbus Crew,2 - 0,LA Galaxy
+150,20-05-2023,FC Cincinnati,3 - 2,Columbus Crew
+151,29-05-2023,Nashville SC (MLS),3 - 1,Columbus Crew
+152,31-05-2023,Columbus Crew,3 - 2,Colorado Rapids
+153,03-06-2023,Columbus Crew,4 - 2,Charlotte
+154,11-06-2023,Chicago Fire,1 - 2,Columbus Crew
+155,17-06-2023,New York City FC,1 - 1,Columbus Crew
+156,24-06-2023,Columbus Crew,2 - 0,Nashville SC (MLS)
+157,01-07-2023,Columbus Crew,2 - 1,New York Red Bulls
+158,04-07-2023,Club Internacional de Fútbol Miami,2 - 2,Columbus Crew
+159,08-07-2023,Columbus Crew,1 - 1,New York City FC
+160,16-07-2023,Portland Timbers,? - ?,Columbus Crew
+161,26-02-2023,DC United,3 - 2,Toronto FC
+162,05-03-2023,Columbus Crew,2 - 0,DC United
+163,12-03-2023,DC United,1 - 1,Orlando City SC
+164,18-03-2023,New York City FC,3 - 2,DC United
+165,25-03-2023,DC United,1 - 2,New England Revolution
+166,02-04-2023,Chicago Fire,0 - 0,DC United
+167,08-04-2023,DC United,0 - 2,Columbus Crew
+168,15-04-2023,Montreal Impact,0 - 1,DC United
+169,22-04-2023,Orlando City SC,1 - 3,DC United
+170,29-04-2023,DC United,3 - 0,Charlotte
+171,06-05-2023,FC Cincinnati,2 - 1,DC United
+172,13-05-2023,DC United,1 - 1,Nashville SC (MLS)
+173,17-05-2023,Philadelphia Union,0 - 0,DC United
+174,20-05-2023,DC United,3 - 0,LA Galaxy
+175,27-05-2023,Toronto FC,2 - 1,DC United
+176,31-05-2023,DC United,2 - 2,Montreal Impact
+177,03-06-2023,Club Internacional de Fútbol Miami,1 - 2,DC United
+178,10-06-2023,Atlanta United FC,3 - 1,DC United
+179,17-06-2023,DC United,1 - 2,Real Salt Lake
+180,24-06-2023,DC United,3 - 0,FC Cincinnati
+181,02-07-2023,Nashville SC (MLS),2 - 0,DC United
+182,05-07-2023,FC Dallas,0 - 1,DC United
+183,08-07-2023,DC United,2 - 2,Club Internacional de Fútbol Miami
+184,15-07-2023,New England Revolution,? - ?,DC United
+185,26-02-2023,FC Cincinnati,2 - 1,Houston Dynamo
+186,05-03-2023,Orlando City SC,0 - 0,FC Cincinnati
+187,12-03-2023,FC Cincinnati,1 - 0,Seattle Sounders FC
+188,19-03-2023,Chicago Fire,3 - 3,FC Cincinnati
+189,26-03-2023,Nashville SC (MLS),0 - 1,FC Cincinnati
+190,01-04-2023,FC Cincinnati,1 - 0,Club Internacional de Fútbol Miami
+191,08-04-2023,FC Cincinnati,1 - 0,Philadelphia Union
+192,16-04-2023,St. Louis City,5 - 1,FC Cincinnati
+193,22-04-2023,FC Cincinnati,2 - 1,Portland Timbers
+194,29-04-2023,New England Revolution,1 - 1,FC Cincinnati
+195,06-05-2023,FC Cincinnati,2 - 1,DC United
+196,17-05-2023,FC Cincinnati,3 - 0,Montreal Impact
+197,20-05-2023,FC Cincinnati,3 - 2,Columbus Crew
+198,28-05-2023,Colorado Rapids,0 - 1,FC Cincinnati
+199,31-05-2023,New York City FC,1 - 3,FC Cincinnati
+200,03-06-2023,FC Cincinnati,1 - 0,Chicago Fire
+201,11-06-2023,Vancouver Whitecaps,1 - 1,FC Cincinnati
+202,21-06-2023,FC Cincinnati,3 - 0,Toronto FC
+203,24-06-2023,DC United,3 - 0,FC Cincinnati
+204,01-07-2023,FC Cincinnati,2 - 2,New England Revolution
+205,08-07-2023,Charlotte,2 - 2,FC Cincinnati
+206,12-07-2023,New York Red Bulls,1 - 2,FC Cincinnati
+207,15-07-2023,FC Cincinnati,? - ?,Nashville SC (MLS)
+208,26-02-2023,FC Dallas,0 - 1,Minnesota Utd
+209,05-03-2023,FC Dallas,3 - 1,LA Galaxy
+210,11-03-2023,Vancouver Whitecaps,1 - 1,FC Dallas
+211,19-03-2023,FC Dallas,2 - 1,Sporting Kansas City
+212,26-03-2023,Los Angeles FC,2 - 1,FC Dallas
+213,02-04-2023,FC Dallas,1 - 1,Portland Timbers
+214,08-04-2023,Club Internacional de Fútbol Miami,0 - 1,FC Dallas
+215,16-04-2023,FC Dallas,2 - 1,Real Salt Lake
+216,22-04-2023,New York City FC,3 - 1,FC Dallas
+217,01-05-2023,Minnesota Utd,0 - 0,FC Dallas
+218,07-05-2023,FC Dallas,0 - 0,St. Louis City
+219,14-05-2023,Austin,0 - 1,FC Dallas
+220,18-05-2023,FC Dallas,2 - 1,Vancouver Whitecaps
+221,21-05-2023,FC Dallas,1 - 1,Houston Dynamo
+222,28-05-2023,San Jose Earthquakes,1 - 1,FC Dallas
+223,01-06-2023,Sporting Kansas City,2 - 1,FC Dallas
+224,04-06-2023,FC Dallas,1 - 2,Nashville SC (MLS)
+225,12-06-2023,Portland Timbers,1 - 0,FC Dallas
+226,22-06-2023,Austin,3 - 0,FC Dallas
+227,02-07-2023,FC Dallas,2 - 0,Los Angeles FC
+228,05-07-2023,FC Dallas,0 - 1,DC United
+229,09-07-2023,Colorado Rapids,2 - 1,FC Dallas
+230,16-07-2023,Seattle Sounders FC,? - ?,FC Dallas
+231,26-02-2023,FC Cincinnati,2 - 1,Houston Dynamo
+232,05-03-2023,New England Revolution,3 - 0,Houston Dynamo
+233,19-03-2023,Houston Dynamo,2 - 0,Austin
+234,26-03-2023,Houston Dynamo,1 - 0,New York City FC
+235,02-04-2023,San Jose Earthquakes,2 - 1,Houston Dynamo
+236,09-04-2023,Houston Dynamo,3 - 0,LA Galaxy
+237,15-04-2023,New York Red Bulls,1 - 1,Houston Dynamo
+238,23-04-2023,Houston Dynamo,1 - 0,Club Internacional de Fútbol Miami
+239,07-05-2023,Houston Dynamo,0 - 0,Real Salt Lake
+240,14-05-2023,Houston Dynamo,0 - 1,Seattle Sounders FC
+241,18-05-2023,Minnesota Utd,1 - 0,Houston Dynamo
+242,21-05-2023,FC Dallas,1 - 1,Houston Dynamo
+243,28-05-2023,Houston Dynamo,2 - 1,Austin
+244,01-06-2023,Vancouver Whitecaps,6 - 2,Houston Dynamo
+245,04-06-2023,St. Louis City,3 - 0,Houston Dynamo
+246,11-06-2023,Houston Dynamo,4 - 0,Los Angeles FC
+247,15-06-2023,Los Angeles FC,0 - 1,Houston Dynamo
+248,22-06-2023,Houston Dynamo,4 - 1,San Jose Earthquakes
+249,25-06-2023,Austin,3 - 0,Houston Dynamo
+250,02-07-2023,Seattle Sounders FC,1 - 0,Houston Dynamo
+251,09-07-2023,Houston Dynamo,2 - 2,Sporting Kansas City
+252,13-07-2023,Houston Dynamo,0 - 3,Minnesota Utd
+253,16-07-2023,Colorado Rapids,? - ?,Houston Dynamo
+254,05-03-2023,FC Dallas,3 - 1,LA Galaxy
+255,12-03-2023,Sporting Kansas City,0 - 0,LA Galaxy
+256,19-03-2023,LA Galaxy,1 - 1,Vancouver Whitecaps
+257,25-03-2023,Portland Timbers,0 - 0,LA Galaxy
+258,01-04-2023,LA Galaxy,1 - 2,Seattle Sounders FC
+259,09-04-2023,Houston Dynamo,3 - 0,LA Galaxy
+260,16-04-2023,LA Galaxy,2 - 3,Los Angeles FC
+261,23-04-2023,LA Galaxy,2 - 0,Austin
+262,29-04-2023,Orlando City SC,2 - 0,LA Galaxy
+263,07-05-2023,LA Galaxy,1 - 3,Colorado Rapids
+264,15-05-2023,LA Galaxy,2 - 1,San Jose Earthquakes
+265,17-05-2023,Columbus Crew,2 - 0,LA Galaxy
+266,20-05-2023,DC United,3 - 0,LA Galaxy
+267,28-05-2023,LA Galaxy,0 - 1,Charlotte
+268,01-06-2023,Real Salt Lake,2 - 3,LA Galaxy
+269,11-06-2023,St. Louis City,1 - 1,LA Galaxy
+270,22-06-2023,LA Galaxy,2 - 2,Sporting Kansas City
+271,25-06-2023,Colorado Rapids,0 - 0,LA Galaxy
+272,02-07-2023,San Jose Earthquakes,2 - 2,LA Galaxy
+273,05-07-2023,LA Galaxy,2 - 1,Los Angeles FC
+274,09-07-2023,LA Galaxy,3 - 1,Philadelphia Union
+275,16-07-2023,Vancouver Whitecaps,? - ?,LA Galaxy
+276,04-03-2023,Los Angeles FC,3 - 2,Portland Timbers
+277,13-03-2023,Los Angeles FC,4 - 0,New England Revolution
+278,18-03-2023,Seattle Sounders FC,0 - 0,Los Angeles FC
+279,26-03-2023,Los Angeles FC,2 - 1,FC Dallas
+280,02-04-2023,Colorado Rapids,0 - 0,Los Angeles FC
+281,08-04-2023,Los Angeles FC,3 - 0,Austin
+282,16-04-2023,LA Galaxy,2 - 3,Los Angeles FC
+283,23-04-2023,Nashville SC (MLS),1 - 1,Los Angeles FC
+284,06-05-2023,San Jose Earthquakes,2 - 1,Los Angeles FC
+285,14-05-2023,Real Salt Lake,0 - 3,Los Angeles FC
+286,18-05-2023,Los Angeles FC,1 - 1,Sporting Kansas City
+287,21-05-2023,Los Angeles FC,2 - 1,San Jose Earthquakes
+288,08-06-2023,Los Angeles FC,0 - 0,Atlanta United FC
+289,11-06-2023,Houston Dynamo,4 - 0,Los Angeles FC
+290,15-06-2023,Los Angeles FC,0 - 1,Houston Dynamo
+291,18-06-2023,Sporting Kansas City,1 - 2,Los Angeles FC
+292,22-06-2023,Los Angeles FC,1 - 0,Seattle Sounders FC
+293,25-06-2023,Los Angeles FC,2 - 3,Vancouver Whitecaps
+294,02-07-2023,FC Dallas,2 - 0,Los Angeles FC
+295,05-07-2023,LA Galaxy,2 - 1,Los Angeles FC
+296,09-07-2023,Los Angeles FC,1 - 1,San Jose Earthquakes
+297,13-07-2023,Los Angeles FC,3 - 0,St. Louis City
+298,16-07-2023,Minnesota Utd,? - ?,Los Angeles FC
+299,26-02-2023,FC Dallas,0 - 1,Minnesota Utd
+300,12-03-2023,Minnesota Utd,1 - 1,New York Red Bulls
+301,19-03-2023,Colorado Rapids,1 - 2,Minnesota Utd
+302,26-03-2023,Minnesota Utd,1 - 1,Vancouver Whitecaps
+303,02-04-2023,St. Louis City,0 - 1,Minnesota Utd
+304,09-04-2023,Chicago Fire,2 - 1,Minnesota Utd
+305,16-04-2023,Minnesota Utd,1 - 2,Orlando City SC
+306,23-04-2023,Seattle Sounders FC,1 - 0,Minnesota Utd
+307,01-05-2023,Minnesota Utd,0 - 0,FC Dallas
+308,07-05-2023,Vancouver Whitecaps,3 - 2,Minnesota Utd
+309,14-05-2023,Sporting Kansas City,3 - 0,Minnesota Utd
+310,18-05-2023,Minnesota Utd,1 - 0,Houston Dynamo
+311,21-05-2023,Portland Timbers,0 - 1,Minnesota Utd
+312,28-05-2023,Minnesota Utd,1 - 1,Real Salt Lake
+313,01-06-2023,Austin,2 - 1,Minnesota Utd
+314,04-06-2023,Minnesota Utd,1 - 1,Toronto FC
+315,10-06-2023,Montreal Impact,4 - 0,Minnesota Utd
+316,25-06-2023,Real Salt Lake,2 - 2,Minnesota Utd
+317,02-07-2023,Minnesota Utd,4 - 1,Portland Timbers
+318,09-07-2023,Minnesota Utd,1 - 4,Austin
+319,13-07-2023,Houston Dynamo,0 - 3,Minnesota Utd
+320,16-07-2023,Minnesota Utd,? - ?,Los Angeles FC
+321,26-02-2023,Club Internacional de Fútbol Miami,2 - 0,Montreal Impact
+322,05-03-2023,Austin,1 - 0,Montreal Impact
+323,12-03-2023,Nashville SC (MLS),2 - 0,Montreal Impact
+324,18-03-2023,Montreal Impact,3 - 2,Philadelphia Union
+325,02-04-2023,Vancouver Whitecaps,5 - 0,Montreal Impact
+326,08-04-2023,New England Revolution,4 - 0,Montreal Impact
+327,15-04-2023,Montreal Impact,0 - 1,DC United
+328,22-04-2023,Montreal Impact,2 - 0,New York Red Bulls
+329,30-04-2023,Sporting Kansas City,0 - 2,Montreal Impact
+330,06-05-2023,Montreal Impact,2 - 0,Orlando City SC
+331,13-05-2023,Montreal Impact,2 - 0,Toronto FC
+332,17-05-2023,FC Cincinnati,3 - 0,Montreal Impact
+333,20-05-2023,New York Red Bulls,2 - 1,Montreal Impact
+334,27-05-2023,Montreal Impact,1 - 0,Club Internacional de Fútbol Miami
+335,31-05-2023,DC United,2 - 2,Montreal Impact
+336,03-06-2023,Philadelphia Union,3 - 0,Montreal Impact
+337,10-06-2023,Montreal Impact,4 - 0,Minnesota Utd
+338,21-06-2023,Montreal Impact,1 - 0,Nashville SC (MLS)
+339,24-06-2023,Charlotte,0 - 0,Montreal Impact
+340,01-07-2023,Montreal Impact,0 - 1,New York City FC
+341,08-07-2023,Montreal Impact,0 - 1,Atlanta United FC
+342,13-07-2023,Chicago Fire,3 - 0,Montreal Impact
+343,15-07-2023,Montreal Impact,? - ?,Charlotte
+344,25-02-2023,Nashville SC (MLS),2 - 0,New York City FC
+345,05-03-2023,New York Red Bulls,0 - 0,Nashville SC (MLS)
+346,12-03-2023,Nashville SC (MLS),2 - 0,Montreal Impact
+347,18-03-2023,New England Revolution,1 - 0,Nashville SC (MLS)
+348,26-03-2023,Nashville SC (MLS),0 - 1,FC Cincinnati
+349,01-04-2023,Orlando City SC,0 - 2,Nashville SC (MLS)
+350,09-04-2023,Nashville SC (MLS),0 - 0,Toronto FC
+351,15-04-2023,New York City FC,2 - 1,Nashville SC (MLS)
+352,23-04-2023,Nashville SC (MLS),1 - 1,Los Angeles FC
+353,29-04-2023,Nashville SC (MLS),3 - 1,Atlanta United FC
+354,07-05-2023,Nashville SC (MLS),3 - 0,Chicago Fire
+355,13-05-2023,DC United,1 - 1,Nashville SC (MLS)
+356,18-05-2023,Nashville SC (MLS),2 - 1,Club Internacional de Fútbol Miami
+357,20-05-2023,Charlotte,1 - 2,Nashville SC (MLS)
+358,29-05-2023,Nashville SC (MLS),3 - 1,Columbus Crew
+359,04-06-2023,FC Dallas,1 - 2,Nashville SC (MLS)
+360,10-06-2023,Toronto FC,1 - 1,Nashville SC (MLS)
+361,18-06-2023,Nashville SC (MLS),3 - 1,St. Louis City
+362,21-06-2023,Montreal Impact,1 - 0,Nashville SC (MLS)
+363,24-06-2023,Columbus Crew,2 - 0,Nashville SC (MLS)
+364,02-07-2023,Nashville SC (MLS),2 - 0,DC United
+365,09-07-2023,Chicago Fire,1 - 0,Nashville SC (MLS)
+366,13-07-2023,Nashville SC (MLS),0 - 2,Philadelphia Union
+367,15-07-2023,FC Cincinnati,? - ?,Nashville SC (MLS)
+368,26-02-2023,Charlotte,0 - 1,New England Revolution
+369,05-03-2023,New England Revolution,3 - 0,Houston Dynamo
+370,13-03-2023,Los Angeles FC,4 - 0,New England Revolution
+371,18-03-2023,New England Revolution,1 - 0,Nashville SC (MLS)
+372,25-03-2023,DC United,1 - 2,New England Revolution
+373,01-04-2023,New England Revolution,1 - 1,New York City FC
+374,08-04-2023,New England Revolution,4 - 0,Montreal Impact
+375,15-04-2023,Columbus Crew,1 - 1,New England Revolution
+376,22-04-2023,New England Revolution,2 - 1,Sporting Kansas City
+377,29-04-2023,New England Revolution,1 - 1,FC Cincinnati
+378,06-05-2023,Toronto FC,0 - 2,New England Revolution
+379,13-05-2023,Club Internacional de Fútbol Miami,2 - 1,New England Revolution
+380,20-05-2023,Philadelphia Union,3 - 0,New England Revolution
+381,27-05-2023,New England Revolution,3 - 3,Chicago Fire
+382,31-05-2023,Atlanta United FC,3 - 3,New England Revolution
+383,03-06-2023,New York City FC,0 - 0,New England Revolution
+384,10-06-2023,New England Revolution,3 - 1,Club Internacional de Fútbol Miami
+385,17-06-2023,New England Revolution,3 - 1,Orlando City SC
+386,24-06-2023,New England Revolution,2 - 1,Toronto FC
+387,01-07-2023,FC Cincinnati,2 - 2,New England Revolution
+388,08-07-2023,New York Red Bulls,2 - 1,New England Revolution
+389,12-07-2023,New England Revolution,2 - 1,Atlanta United FC
+390,15-07-2023,New England Revolution,? - ?,DC United
+391,25-02-2023,Nashville SC (MLS),2 - 0,New York City FC
+392,05-03-2023,Chicago Fire,1 - 1,New York City FC
+393,12-03-2023,New York City FC,1 - 0,Club Internacional de Fútbol Miami
+394,18-03-2023,New York City FC,3 - 2,DC United
+395,26-03-2023,Houston Dynamo,1 - 0,New York City FC
+396,01-04-2023,New England Revolution,1 - 1,New York City FC
+397,08-04-2023,New York City FC,1 - 1,Atlanta United FC
+398,15-04-2023,New York City FC,2 - 1,Nashville SC (MLS)
+399,22-04-2023,New York City FC,3 - 1,FC Dallas
+400,29-04-2023,Toronto FC,1 - 0,New York City FC
+401,06-05-2023,Charlotte,3 - 2,New York City FC
+402,13-05-2023,New York Red Bulls,1 - 0,New York City FC
+403,17-05-2023,Orlando City SC,1 - 1,New York City FC
+404,27-05-2023,New York City FC,1 - 3,Philadelphia Union
+405,31-05-2023,New York City FC,1 - 3,FC Cincinnati
+406,03-06-2023,New York City FC,0 - 0,New England Revolution
+407,11-06-2023,Real Salt Lake,0 - 0,New York City FC
+408,17-06-2023,New York City FC,1 - 1,Columbus Crew
+409,21-06-2023,Atlanta United FC,2 - 2,New York City FC
+410,25-06-2023,Portland Timbers,1 - 1,New York City FC
+411,01-07-2023,Montreal Impact,0 - 1,New York City FC
+412,05-07-2023,New York City FC,1 - 1,Charlotte
+413,08-07-2023,Columbus Crew,1 - 1,New York City FC
+414,15-07-2023,Philadelphia Union,? - ?,New York City FC
+415,26-02-2023,Orlando City SC,1 - 0,New York Red Bulls
+416,05-03-2023,New York Red Bulls,0 - 0,Nashville SC (MLS)
+417,12-03-2023,Minnesota Utd,1 - 1,New York Red Bulls
+418,18-03-2023,New York Red Bulls,2 - 1,Columbus Crew
+419,25-03-2023,Charlotte,1 - 1,New York Red Bulls
+420,01-04-2023,Atlanta United FC,1 - 0,New York Red Bulls
+421,08-04-2023,New York Red Bulls,1 - 1,San Jose Earthquakes
+422,15-04-2023,New York Red Bulls,1 - 1,Houston Dynamo
+423,22-04-2023,Montreal Impact,2 - 0,New York Red Bulls
+424,30-04-2023,Chicago Fire,1 - 1,New York Red Bulls
+425,06-05-2023,New York Red Bulls,0 - 1,Philadelphia Union
+426,13-05-2023,New York Red Bulls,1 - 0,New York City FC
+427,17-05-2023,Toronto FC,0 - 0,New York Red Bulls
+428,20-05-2023,New York Red Bulls,2 - 1,Montreal Impact
+429,28-05-2023,Seattle Sounders FC,1 - 0,New York Red Bulls
+430,31-05-2023,Club Internacional de Fútbol Miami,0 - 1,New York Red Bulls
+431,03-06-2023,New York Red Bulls,0 - 3,Orlando City SC
+432,21-06-2023,New York Red Bulls,2 - 2,Charlotte
+433,24-06-2023,New York Red Bulls,4 - 0,Atlanta United FC
+434,01-07-2023,Columbus Crew,2 - 1,New York Red Bulls
+435,08-07-2023,New York Red Bulls,2 - 1,New England Revolution
+436,12-07-2023,New York Red Bulls,1 - 2,FC Cincinnati
+437,16-07-2023,Real Salt Lake,? - ?,New York Red Bulls
+438,26-02-2023,Orlando City SC,1 - 0,New York Red Bulls
+439,05-03-2023,Orlando City SC,0 - 0,FC Cincinnati
+440,12-03-2023,DC United,1 - 1,Orlando City SC
+441,18-03-2023,Orlando City SC,1 - 2,Charlotte
+442,25-03-2023,Philadelphia Union,1 - 2,Orlando City SC
+443,01-04-2023,Orlando City SC,0 - 2,Nashville SC (MLS)
+444,16-04-2023,Minnesota Utd,1 - 2,Orlando City SC
+445,22-04-2023,Orlando City SC,1 - 3,DC United
+446,29-04-2023,Orlando City SC,2 - 0,LA Galaxy
+447,06-05-2023,Montreal Impact,2 - 0,Orlando City SC
+448,13-05-2023,Columbus Crew,2 - 2,Orlando City SC
+449,17-05-2023,Orlando City SC,1 - 1,New York City FC
+450,20-05-2023,Club Internacional de Fútbol Miami,1 - 3,Orlando City SC
+451,27-05-2023,Orlando City SC,1 - 1,Atlanta United FC
+452,03-06-2023,New York Red Bulls,0 - 3,Orlando City SC
+453,10-06-2023,Orlando City SC,2 - 0,Colorado Rapids
+454,17-06-2023,New England Revolution,3 - 1,Orlando City SC
+455,21-06-2023,Orlando City SC,2 - 2,Philadelphia Union
+456,25-06-2023,Seattle Sounders FC,0 - 0,Orlando City SC
+457,01-07-2023,Orlando City SC,3 - 1,Chicago Fire
+458,04-07-2023,Orlando City SC,4 - 0,Toronto FC
+459,09-07-2023,Real Salt Lake,4 - 0,Orlando City SC
+460,15-07-2023,Atlanta United FC,? - ?,Orlando City SC
+461,26-02-2023,Philadelphia Union,4 - 1,Columbus Crew
+462,05-03-2023,Club Internacional de Fútbol Miami,2 - 0,Philadelphia Union
+463,12-03-2023,Philadelphia Union,1 - 0,Chicago Fire
+464,18-03-2023,Montreal Impact,3 - 2,Philadelphia Union
+465,25-03-2023,Philadelphia Union,1 - 2,Orlando City SC
+466,01-04-2023,Philadelphia Union,0 - 0,Sporting Kansas City
+467,08-04-2023,FC Cincinnati,1 - 0,Philadelphia Union
+468,16-04-2023,Chicago Fire,2 - 2,Philadelphia Union
+469,22-04-2023,Philadelphia Union,4 - 2,Toronto FC
+470,06-05-2023,New York Red Bulls,0 - 1,Philadelphia Union
+471,14-05-2023,Colorado Rapids,1 - 2,Philadelphia Union
+472,17-05-2023,Philadelphia Union,0 - 0,DC United
+473,20-05-2023,Philadelphia Union,3 - 0,New England Revolution
+474,27-05-2023,New York City FC,1 - 3,Philadelphia Union
+475,31-05-2023,Philadelphia Union,1 - 0,Charlotte
+476,03-06-2023,Philadelphia Union,3 - 0,Montreal Impact
+477,11-06-2023,San Jose Earthquakes,2 - 1,Philadelphia Union
+478,21-06-2023,Orlando City SC,2 - 2,Philadelphia Union
+479,24-06-2023,Philadelphia Union,4 - 1,Club Internacional de Fútbol Miami
+480,02-07-2023,Atlanta United FC,2 - 0,Philadelphia Union
+481,09-07-2023,LA Galaxy,3 - 1,Philadelphia Union
+482,13-07-2023,Nashville SC (MLS),0 - 2,Philadelphia Union
+483,15-07-2023,Philadelphia Union,? - ?,New York City FC
+484,28-02-2023,Portland Timbers,1 - 0,Sporting Kansas City
+485,04-03-2023,Los Angeles FC,3 - 2,Portland Timbers
+486,12-03-2023,Portland Timbers,1 - 2,St. Louis City
+487,18-03-2023,Atlanta United FC,5 - 1,Portland Timbers
+488,25-03-2023,Portland Timbers,0 - 0,LA Galaxy
+489,02-04-2023,FC Dallas,1 - 1,Portland Timbers
+490,09-04-2023,Vancouver Whitecaps,1 - 0,Portland Timbers
+491,16-04-2023,Portland Timbers,4 - 1,Seattle Sounders FC
+492,22-04-2023,FC Cincinnati,2 - 1,Portland Timbers
+493,30-04-2023,St. Louis City,1 - 2,Portland Timbers
+494,07-05-2023,Portland Timbers,2 - 2,Austin
+495,14-05-2023,Portland Timbers,3 - 1,Vancouver Whitecaps
+496,18-05-2023,Real Salt Lake,0 - 0,Portland Timbers
+497,21-05-2023,Portland Timbers,0 - 1,Minnesota Utd
+498,28-05-2023,Sporting Kansas City,4 - 1,Portland Timbers
+499,03-06-2023,Seattle Sounders FC,0 - 0,Portland Timbers
+500,12-06-2023,Portland Timbers,1 - 0,FC Dallas
+501,18-06-2023,San Jose Earthquakes,0 - 0,Portland Timbers
+502,22-06-2023,Portland Timbers,1 - 2,Chicago Fire
+503,25-06-2023,Portland Timbers,1 - 1,New York City FC
+504,02-07-2023,Minnesota Utd,4 - 1,Portland Timbers
+505,13-07-2023,Colorado Rapids,0 - 0,Portland Timbers
+506,16-07-2023,Portland Timbers,? - ?,Columbus Crew
+507,26-02-2023,Vancouver Whitecaps,1 - 2,Real Salt Lake
+508,05-03-2023,Seattle Sounders FC,2 - 0,Real Salt Lake
+509,12-03-2023,Real Salt Lake,1 - 2,Austin
+510,26-03-2023,Real Salt Lake,0 - 4,St. Louis City
+511,01-04-2023,Columbus Crew,4 - 0,Real Salt Lake
+512,09-04-2023,Real Salt Lake,3 - 1,Charlotte
+513,16-04-2023,FC Dallas,2 - 1,Real Salt Lake
+514,23-04-2023,Real Salt Lake,3 - 1,San Jose Earthquakes
+515,30-04-2023,Real Salt Lake,0 - 0,Seattle Sounders FC
+516,07-05-2023,Houston Dynamo,0 - 0,Real Salt Lake
+517,14-05-2023,Real Salt Lake,0 - 3,Los Angeles FC
+518,18-05-2023,Real Salt Lake,0 - 0,Portland Timbers
+519,21-05-2023,Colorado Rapids,2 - 3,Real Salt Lake
+520,28-05-2023,Minnesota Utd,1 - 1,Real Salt Lake
+521,01-06-2023,Real Salt Lake,2 - 3,LA Galaxy
+522,04-06-2023,Austin,1 - 2,Real Salt Lake
+523,11-06-2023,Real Salt Lake,0 - 0,New York City FC
+524,17-06-2023,DC United,1 - 2,Real Salt Lake
+525,22-06-2023,St. Louis City,1 - 3,Real Salt Lake
+526,25-06-2023,Real Salt Lake,2 - 2,Minnesota Utd
+527,01-07-2023,Toronto FC,0 - 1,Real Salt Lake
+528,09-07-2023,Real Salt Lake,4 - 0,Orlando City SC
+529,13-07-2023,Sporting Kansas City,2 - 2,Real Salt Lake
+530,16-07-2023,Real Salt Lake,? - ?,New York Red Bulls
+531,26-02-2023,Atlanta United FC,2 - 1,San Jose Earthquakes
+532,05-03-2023,San Jose Earthquakes,2 - 1,Vancouver Whitecaps
+533,12-03-2023,San Jose Earthquakes,1 - 0,Colorado Rapids
+534,19-03-2023,St. Louis City,3 - 0,San Jose Earthquakes
+535,26-03-2023,San Jose Earthquakes,0 - 0,Toronto FC
+536,02-04-2023,San Jose Earthquakes,2 - 1,Houston Dynamo
+537,08-04-2023,New York Red Bulls,1 - 1,San Jose Earthquakes
+538,16-04-2023,San Jose Earthquakes,3 - 0,Sporting Kansas City
+539,23-04-2023,Real Salt Lake,3 - 1,San Jose Earthquakes
+540,30-04-2023,Austin,2 - 2,San Jose Earthquakes
+541,06-05-2023,San Jose Earthquakes,2 - 1,Los Angeles FC
+542,15-05-2023,LA Galaxy,2 - 1,San Jose Earthquakes
+543,21-05-2023,Los Angeles FC,2 - 1,San Jose Earthquakes
+544,28-05-2023,San Jose Earthquakes,1 - 1,FC Dallas
+545,01-06-2023,Seattle Sounders FC,0 - 1,San Jose Earthquakes
+546,04-06-2023,Colorado Rapids,0 - 0,San Jose Earthquakes
+547,11-06-2023,San Jose Earthquakes,2 - 1,Philadelphia Union
+548,18-06-2023,San Jose Earthquakes,0 - 0,Portland Timbers
+549,22-06-2023,Houston Dynamo,4 - 1,San Jose Earthquakes
+550,25-06-2023,San Jose Earthquakes,1 - 2,St. Louis City
+551,02-07-2023,San Jose Earthquakes,2 - 2,LA Galaxy
+552,09-07-2023,Los Angeles FC,1 - 1,San Jose Earthquakes
+553,13-07-2023,San Jose Earthquakes,2 - 0,Seattle Sounders FC
+554,27-02-2023,Seattle Sounders FC,4 - 0,Colorado Rapids
+555,05-03-2023,Seattle Sounders FC,2 - 0,Real Salt Lake
+556,12-03-2023,FC Cincinnati,1 - 0,Seattle Sounders FC
+557,18-03-2023,Seattle Sounders FC,0 - 0,Los Angeles FC
+558,26-03-2023,Sporting Kansas City,1 - 4,Seattle Sounders FC
+559,01-04-2023,LA Galaxy,1 - 2,Seattle Sounders FC
+560,09-04-2023,Seattle Sounders FC,3 - 0,St. Louis City
+561,16-04-2023,Portland Timbers,4 - 1,Seattle Sounders FC
+562,23-04-2023,Seattle Sounders FC,1 - 0,Minnesota Utd
+563,30-04-2023,Real Salt Lake,0 - 0,Seattle Sounders FC
+564,07-05-2023,Seattle Sounders FC,1 - 2,Sporting Kansas City
+565,14-05-2023,Houston Dynamo,0 - 1,Seattle Sounders FC
+566,18-05-2023,Seattle Sounders FC,1 - 2,Austin
+567,21-05-2023,Vancouver Whitecaps,2 - 0,Seattle Sounders FC
+568,28-05-2023,Seattle Sounders FC,1 - 0,New York Red Bulls
+569,01-06-2023,Seattle Sounders FC,0 - 1,San Jose Earthquakes
+570,03-06-2023,Seattle Sounders FC,0 - 0,Portland Timbers
+571,10-06-2023,Charlotte,3 - 3,Seattle Sounders FC
+572,22-06-2023,Los Angeles FC,1 - 0,Seattle Sounders FC
+573,25-06-2023,Seattle Sounders FC,0 - 0,Orlando City SC
+574,02-07-2023,Seattle Sounders FC,1 - 0,Houston Dynamo
+575,09-07-2023,Vancouver Whitecaps,2 - 3,Seattle Sounders FC
+576,13-07-2023,San Jose Earthquakes,2 - 0,Seattle Sounders FC
+577,16-07-2023,Seattle Sounders FC,? - ?,FC Dallas
+578,28-02-2023,Portland Timbers,1 - 0,Sporting Kansas City
+579,05-03-2023,Colorado Rapids,0 - 0,Sporting Kansas City
+580,12-03-2023,Sporting Kansas City,0 - 0,LA Galaxy
+581,19-03-2023,FC Dallas,2 - 1,Sporting Kansas City
+582,26-03-2023,Sporting Kansas City,1 - 4,Seattle Sounders FC
+583,01-04-2023,Philadelphia Union,0 - 0,Sporting Kansas City
+584,09-04-2023,Sporting Kansas City,0 - 1,Colorado Rapids
+585,16-04-2023,San Jose Earthquakes,3 - 0,Sporting Kansas City
+586,22-04-2023,New England Revolution,2 - 1,Sporting Kansas City
+587,30-04-2023,Sporting Kansas City,0 - 2,Montreal Impact
+588,07-05-2023,Seattle Sounders FC,1 - 2,Sporting Kansas City
+589,14-05-2023,Sporting Kansas City,3 - 0,Minnesota Utd
+590,18-05-2023,Los Angeles FC,1 - 1,Sporting Kansas City
+591,21-05-2023,St. Louis City,4 - 0,Sporting Kansas City
+592,28-05-2023,Sporting Kansas City,4 - 1,Portland Timbers
+593,01-06-2023,Sporting Kansas City,2 - 1,FC Dallas
+594,04-06-2023,Vancouver Whitecaps,1 - 1,Sporting Kansas City
+595,11-06-2023,Sporting Kansas City,4 - 1,Austin
+596,18-06-2023,Sporting Kansas City,1 - 2,Los Angeles FC
+597,22-06-2023,LA Galaxy,2 - 2,Sporting Kansas City
+598,25-06-2023,Sporting Kansas City,0 - 1,Chicago Fire
+599,02-07-2023,Sporting Kansas City,3 - 0,Vancouver Whitecaps
+600,09-07-2023,Houston Dynamo,2 - 2,Sporting Kansas City
+601,13-07-2023,Sporting Kansas City,2 - 2,Real Salt Lake
+602,16-07-2023,Austin,? - ?,Sporting Kansas City
+603,26-02-2023,Austin,2 - 3,St. Louis City
+604,05-03-2023,St. Louis City,3 - 1,Charlotte
+605,12-03-2023,Portland Timbers,1 - 2,St. Louis City
+606,19-03-2023,St. Louis City,3 - 0,San Jose Earthquakes
+607,26-03-2023,Real Salt Lake,0 - 4,St. Louis City
+608,02-04-2023,St. Louis City,0 - 1,Minnesota Utd
+609,09-04-2023,Seattle Sounders FC,3 - 0,St. Louis City
+610,16-04-2023,St. Louis City,5 - 1,FC Cincinnati
+611,23-04-2023,Colorado Rapids,1 - 1,St. Louis City
+612,30-04-2023,St. Louis City,1 - 2,Portland Timbers
+613,07-05-2023,FC Dallas,0 - 0,St. Louis City
+614,13-05-2023,Chicago Fire,1 - 0,St. Louis City
+615,21-05-2023,St. Louis City,4 - 0,Sporting Kansas City
+616,28-05-2023,St. Louis City,3 - 1,Vancouver Whitecaps
+617,04-06-2023,St. Louis City,3 - 0,Houston Dynamo
+618,11-06-2023,St. Louis City,1 - 1,LA Galaxy
+619,18-06-2023,Nashville SC (MLS),3 - 1,St. Louis City
+620,22-06-2023,St. Louis City,1 - 3,Real Salt Lake
+621,25-06-2023,San Jose Earthquakes,1 - 2,St. Louis City
+622,02-07-2023,St. Louis City,2 - 0,Colorado Rapids
+623,08-07-2023,Toronto FC,0 - 1,St. Louis City
+624,13-07-2023,Los Angeles FC,3 - 0,St. Louis City
+625,16-07-2023,St. Louis City,? - ?,Club Internacional de Fútbol Miami
+626,26-02-2023,DC United,3 - 2,Toronto FC
+627,05-03-2023,Atlanta United FC,1 - 1,Toronto FC
+628,12-03-2023,Toronto FC,1 - 1,Columbus Crew
+629,18-03-2023,Toronto FC,2 - 0,Club Internacional de Fútbol Miami
+630,26-03-2023,San Jose Earthquakes,0 - 0,Toronto FC
+631,01-04-2023,Toronto FC,2 - 2,Charlotte
+632,09-04-2023,Nashville SC (MLS),0 - 0,Toronto FC
+633,15-04-2023,Toronto FC,2 - 2,Atlanta United FC
+634,22-04-2023,Philadelphia Union,4 - 2,Toronto FC
+635,29-04-2023,Toronto FC,1 - 0,New York City FC
+636,06-05-2023,Toronto FC,0 - 2,New England Revolution
+637,13-05-2023,Montreal Impact,2 - 0,Toronto FC
+638,17-05-2023,Toronto FC,0 - 0,New York Red Bulls
+639,21-05-2023,Austin,1 - 0,Toronto FC
+640,27-05-2023,Toronto FC,2 - 1,DC United
+641,31-05-2023,Toronto FC,0 - 0,Chicago Fire
+642,04-06-2023,Minnesota Utd,1 - 1,Toronto FC
+643,10-06-2023,Toronto FC,1 - 1,Nashville SC (MLS)
+644,21-06-2023,FC Cincinnati,3 - 0,Toronto FC
+645,24-06-2023,New England Revolution,2 - 1,Toronto FC
+646,01-07-2023,Toronto FC,0 - 1,Real Salt Lake
+647,04-07-2023,Orlando City SC,4 - 0,Toronto FC
+648,08-07-2023,Toronto FC,0 - 1,St. Louis City
+649,16-07-2023,Chicago Fire,? - ?,Toronto FC
+650,26-02-2023,Vancouver Whitecaps,1 - 2,Real Salt Lake
+651,05-03-2023,San Jose Earthquakes,2 - 1,Vancouver Whitecaps
+652,11-03-2023,Vancouver Whitecaps,1 - 1,FC Dallas
+653,19-03-2023,LA Galaxy,1 - 1,Vancouver Whitecaps
+654,26-03-2023,Minnesota Utd,1 - 1,Vancouver Whitecaps
+655,02-04-2023,Vancouver Whitecaps,5 - 0,Montreal Impact
+656,09-04-2023,Vancouver Whitecaps,1 - 0,Portland Timbers
+657,16-04-2023,Austin,0 - 0,Vancouver Whitecaps
+658,30-04-2023,Vancouver Whitecaps,0 - 0,Colorado Rapids
+659,07-05-2023,Vancouver Whitecaps,3 - 2,Minnesota Utd
+660,14-05-2023,Portland Timbers,3 - 1,Vancouver Whitecaps
+661,18-05-2023,FC Dallas,2 - 1,Vancouver Whitecaps
+662,21-05-2023,Vancouver Whitecaps,2 - 0,Seattle Sounders FC
+663,28-05-2023,St. Louis City,3 - 1,Vancouver Whitecaps
+664,01-06-2023,Vancouver Whitecaps,6 - 2,Houston Dynamo
+665,04-06-2023,Vancouver Whitecaps,1 - 1,Sporting Kansas City
+666,11-06-2023,Vancouver Whitecaps,1 - 1,FC Cincinnati
+667,25-06-2023,Los Angeles FC,2 - 3,Vancouver Whitecaps
+668,02-07-2023,Sporting Kansas City,3 - 0,Vancouver Whitecaps
+669,09-07-2023,Vancouver Whitecaps,2 - 3,Seattle Sounders FC
+670,13-07-2023,Vancouver Whitecaps,2 - 1,Austin
+671,16-07-2023,Vancouver Whitecaps,? - ?,LA Galaxy

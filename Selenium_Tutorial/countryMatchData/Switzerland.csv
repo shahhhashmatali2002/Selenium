@@ -1,0 +1,365 @@
+,date,home_team,score,away_team
+0,16-07-2022,FC Winterthur,1 - 1,Basel
+1,24-07-2022,Basel,1 - 1,Servette FC
+2,07-08-2022,Basel,0 - 0,Young Boys
+3,14-08-2022,Basel,0 - 2,FC Lugano
+4,28-08-2022,FC Zurich,2 - 4,Basel
+5,03-09-2022,FC Sion,2 - 1,Basel
+6,11-09-2022,Basel,5 - 1,Grasshoppers
+7,01-10-2022,Basel,3 - 2,St Gallen
+8,09-10-2022,FC Lugano,1 - 0,Basel
+9,16-10-2022,Servette FC,0 - 0,Basel
+10,20-10-2022,Basel,0 - 0,FC Zurich
+11,23-10-2022,Basel,3 - 1,FC Winterthur
+12,30-10-2022,Young Boys,3 - 1,Basel
+13,06-11-2022,Basel,0 - 0,FC Sion
+14,09-11-2022,Lucerne,0 - 2,Basel
+15,12-11-2022,Grasshoppers,1 - 0,Basel
+16,22-01-2023,St Gallen,1 - 1,Basel
+17,28-01-2023,Basel,2 - 3,Lucerne
+18,04-02-2023,Grasshoppers,1 - 0,Basel
+19,11-02-2023,Basel,3 - 1,FC Sion
+20,19-02-2023,Basel,2 - 2,Servette FC
+21,26-02-2023,FC Lugano,2 - 2,Basel
+22,04-03-2023,Lucerne,0 - 1,Basel
+23,12-03-2023,Basel,1 - 1,St Gallen
+24,19-03-2023,Young Boys,3 - 0,Basel
+25,01-04-2023,Basel,2 - 0,FC Winterthur
+26,08-04-2023,FC Zurich,1 - 1,Basel
+27,16-04-2023,Basel,1 - 1,Young Boys
+28,23-04-2023,Basel,0 - 2,Lucerne
+29,27-04-2023,FC Sion,1 - 2,Basel
+30,30-04-2023,FC Winterthur,1 - 4,Basel
+31,07-05-2023,Basel,0 - 2,FC Zurich
+32,14-05-2023,St Gallen,6 - 1,Basel
+33,21-05-2023,Basel,1 - 1,FC Lugano
+34,25-05-2023,Servette FC,3 - 3,Basel
+35,29-05-2023,Basel,3 - 1,Grasshoppers
+36,17-07-2022,FC Lugano,2 - 3,FC Sion
+37,24-07-2022,Grasshoppers,2 - 1,FC Lugano
+38,31-07-2022,FC Winterthur,1 - 4,FC Lugano
+39,07-08-2022,FC Lugano,1 - 2,Lucerne
+40,14-08-2022,Basel,0 - 2,FC Lugano
+41,28-08-2022,FC Lugano,2 - 3,St Gallen
+42,03-09-2022,FC Zurich,1 - 2,FC Lugano
+43,11-09-2022,Young Boys,3 - 0,FC Lugano
+44,02-10-2022,FC Lugano,1 - 0,Servette FC
+45,09-10-2022,FC Lugano,1 - 0,Basel
+46,16-10-2022,St Gallen,1 - 1,FC Lugano
+47,19-10-2022,FC Lugano,1 - 4,Young Boys
+48,22-10-2022,Lucerne,3 - 1,FC Lugano
+49,29-10-2022,Servette FC,2 - 2,FC Lugano
+50,06-11-2022,FC Lugano,2 - 0,FC Zurich
+51,13-11-2022,FC Lugano,3 - 1,FC Winterthur
+52,22-01-2023,FC Sion,2 - 3,FC Lugano
+53,28-01-2023,FC Lugano,1 - 1,Grasshoppers
+54,05-02-2023,FC Winterthur,1 - 0,FC Lugano
+55,12-02-2023,FC Lugano,1 - 1,Lucerne
+56,18-02-2023,Young Boys,1 - 1,FC Lugano
+57,26-02-2023,FC Lugano,2 - 2,Basel
+58,05-03-2023,FC Sion,1 - 1,FC Lugano
+59,11-03-2023,FC Lugano,2 - 0,FC Zurich
+60,19-03-2023,FC Lugano,1 - 1,Servette FC
+61,02-04-2023,Grasshoppers,2 - 1,FC Lugano
+62,10-04-2023,FC Lugano,1 - 1,St Gallen
+63,15-04-2023,Servette FC,0 - 0,FC Lugano
+64,23-04-2023,FC Lugano,2 - 0,FC Sion
+65,26-04-2023,St Gallen,1 - 2,FC Lugano
+66,29-04-2023,FC Lugano,5 - 1,Grasshoppers
+67,07-05-2023,Lucerne,2 - 2,FC Lugano
+68,14-05-2023,FC Lugano,2 - 1,FC Winterthur
+69,21-05-2023,Basel,1 - 1,FC Lugano
+70,25-05-2023,FC Lugano,2 - 0,Young Boys
+71,29-05-2023,FC Zurich,2 - 3,FC Lugano
+72,17-07-2022,FC Lugano,2 - 3,FC Sion
+73,24-07-2022,FC Sion,0 - 3,Young Boys
+74,30-07-2022,FC Sion,0 - 0,Servette FC
+75,07-08-2022,FC Zurich,0 - 3,FC Sion
+76,13-08-2022,FC Sion,2 - 2,Grasshoppers
+77,27-08-2022,Lucerne,2 - 0,FC Sion
+78,03-09-2022,FC Sion,2 - 1,Basel
+79,10-09-2022,St Gallen,1 - 2,FC Sion
+80,02-10-2022,FC Sion,1 - 3,FC Winterthur
+81,08-10-2022,Grasshoppers,4 - 4,FC Sion
+82,15-10-2022,FC Sion,2 - 0,Lucerne
+83,18-10-2022,FC Winterthur,1 - 0,FC Sion
+84,22-10-2022,Young Boys,1 - 1,FC Sion
+85,30-10-2022,FC Sion,0 - 1,FC Zurich
+86,06-11-2022,Basel,0 - 0,FC Sion
+87,12-11-2022,FC Sion,2 - 7,St Gallen
+88,22-01-2023,FC Sion,2 - 3,FC Lugano
+89,29-01-2023,Servette FC,2 - 2,FC Sion
+90,05-02-2023,FC Sion,0 - 1,FC Zurich
+91,11-02-2023,Basel,3 - 1,FC Sion
+92,18-02-2023,FC Winterthur,1 - 1,FC Sion
+93,25-02-2023,FC Sion,0 - 4,St Gallen
+94,05-03-2023,FC Sion,1 - 1,FC Lugano
+95,11-03-2023,Young Boys,4 - 0,FC Sion
+96,18-03-2023,FC Sion,1 - 2,Grasshoppers
+97,02-04-2023,Lucerne,1 - 2,FC Sion
+98,08-04-2023,FC Sion,2 - 2,Servette FC
+99,16-04-2023,Grasshoppers,1 - 3,FC Sion
+100,23-04-2023,FC Lugano,2 - 0,FC Sion
+101,27-04-2023,FC Sion,1 - 2,Basel
+102,30-04-2023,FC Zurich,2 - 2,FC Sion
+103,06-05-2023,FC Sion,0 - 1,FC Winterthur
+104,13-05-2023,Servette FC,5 - 0,FC Sion
+105,21-05-2023,FC Sion,0 - 2,Young Boys
+106,25-05-2023,FC Sion,1 - 2,Lucerne
+107,29-05-2023,St Gallen,4 - 0,FC Sion
+108,03-06-2023,FC Sion,0 - 2,Stade Lausanne-Ouchy
+109,06-06-2023,Stade Lausanne-Ouchy,4 - 2,FC Sion
+110,16-07-2022,FC Winterthur,1 - 1,Basel
+111,23-07-2022,St Gallen,2 - 0,FC Winterthur
+112,31-07-2022,FC Winterthur,1 - 4,FC Lugano
+113,06-08-2022,Servette FC,1 - 0,FC Winterthur
+114,14-08-2022,FC Winterthur,1 - 1,FC Zurich
+115,28-08-2022,FC Winterthur,1 - 5,Young Boys
+116,04-09-2022,Grasshoppers,3 - 0,FC Winterthur
+117,10-09-2022,FC Winterthur,0 - 6,Lucerne
+118,02-10-2022,FC Sion,1 - 3,FC Winterthur
+119,09-10-2022,FC Zurich,0 - 0,FC Winterthur
+120,15-10-2022,FC Winterthur,1 - 0,Grasshoppers
+121,18-10-2022,FC Winterthur,1 - 0,FC Sion
+122,23-10-2022,Basel,3 - 1,FC Winterthur
+123,30-10-2022,FC Winterthur,1 - 0,St Gallen
+124,05-11-2022,Lucerne,1 - 1,FC Winterthur
+125,13-11-2022,FC Lugano,3 - 1,FC Winterthur
+126,29-01-2023,Young Boys,5 - 1,FC Winterthur
+127,05-02-2023,FC Winterthur,1 - 0,FC Lugano
+128,12-02-2023,FC Zurich,1 - 1,FC Winterthur
+129,15-02-2023,FC Winterthur,1 - 2,Servette FC
+130,18-02-2023,FC Winterthur,1 - 1,FC Sion
+131,26-02-2023,Servette FC,1 - 1,FC Winterthur
+132,04-03-2023,FC Winterthur,1 - 1,Young Boys
+133,12-03-2023,Grasshoppers,2 - 1,FC Winterthur
+134,19-03-2023,FC Winterthur,1 - 0,St Gallen
+135,01-04-2023,Basel,2 - 0,FC Winterthur
+136,10-04-2023,FC Winterthur,1 - 2,Lucerne
+137,16-04-2023,St Gallen,2 - 3,FC Winterthur
+138,22-04-2023,FC Winterthur,1 - 2,Grasshoppers
+139,27-04-2023,Lucerne,3 - 1,FC Winterthur
+140,30-04-2023,FC Winterthur,1 - 4,Basel
+141,06-05-2023,FC Sion,0 - 1,FC Winterthur
+142,14-05-2023,FC Lugano,2 - 1,FC Winterthur
+143,20-05-2023,FC Winterthur,0 - 1,Servette FC
+144,25-05-2023,FC Winterthur,0 - 2,FC Zurich
+145,29-05-2023,Young Boys,2 - 1,FC Winterthur
+146,16-07-2022,Young Boys,4 - 0,FC Zurich
+147,23-07-2022,FC Zurich,0 - 0,Lucerne
+148,30-07-2022,St Gallen,2 - 0,FC Zurich
+149,07-08-2022,FC Zurich,0 - 3,FC Sion
+150,14-08-2022,FC Winterthur,1 - 1,FC Zurich
+151,28-08-2022,FC Zurich,2 - 4,Basel
+152,03-09-2022,FC Zurich,1 - 2,FC Lugano
+153,11-09-2022,Servette FC,3 - 2,FC Zurich
+154,01-10-2022,Grasshoppers,1 - 1,FC Zurich
+155,09-10-2022,FC Zurich,0 - 0,FC Winterthur
+156,16-10-2022,FC Zurich,0 - 0,Young Boys
+157,20-10-2022,Basel,0 - 0,FC Zurich
+158,23-10-2022,FC Zurich,1 - 4,Grasshoppers
+159,30-10-2022,FC Sion,0 - 1,FC Zurich
+160,06-11-2022,FC Lugano,2 - 0,FC Zurich
+161,13-11-2022,FC Zurich,4 - 1,Servette FC
+162,21-01-2023,Lucerne,2 - 2,FC Zurich
+163,29-01-2023,FC Zurich,1 - 0,St Gallen
+164,05-02-2023,FC Sion,0 - 1,FC Zurich
+165,12-02-2023,FC Zurich,1 - 1,FC Winterthur
+166,19-02-2023,Grasshoppers,1 - 2,FC Zurich
+167,25-02-2023,FC Zurich,2 - 2,Young Boys
+168,05-03-2023,FC Zurich,1 - 1,Servette FC
+169,11-03-2023,FC Lugano,2 - 0,FC Zurich
+170,18-03-2023,FC Zurich,2 - 1,Lucerne
+171,02-04-2023,St Gallen,2 - 2,FC Zurich
+172,08-04-2023,FC Zurich,1 - 1,Basel
+173,15-04-2023,Lucerne,4 - 1,FC Zurich
+174,23-04-2023,FC Zurich,1 - 0,St Gallen
+175,26-04-2023,Servette FC,4 - 0,FC Zurich
+176,30-04-2023,FC Zurich,2 - 2,FC Sion
+177,07-05-2023,Basel,0 - 2,FC Zurich
+178,14-05-2023,Young Boys,1 - 1,FC Zurich
+179,21-05-2023,FC Zurich,2 - 1,Grasshoppers
+180,25-05-2023,FC Winterthur,0 - 2,FC Zurich
+181,29-05-2023,FC Zurich,2 - 3,FC Lugano
+182,24-07-2022,Grasshoppers,2 - 1,FC Lugano
+183,31-07-2022,Young Boys,1 - 1,Grasshoppers
+184,06-08-2022,Grasshoppers,3 - 2,St Gallen
+185,10-08-2022,Lucerne,1 - 1,Grasshoppers
+186,13-08-2022,FC Sion,2 - 2,Grasshoppers
+187,27-08-2022,Servette FC,3 - 1,Grasshoppers
+188,04-09-2022,Grasshoppers,3 - 0,FC Winterthur
+189,11-09-2022,Basel,5 - 1,Grasshoppers
+190,01-10-2022,Grasshoppers,1 - 1,FC Zurich
+191,08-10-2022,Grasshoppers,4 - 4,FC Sion
+192,15-10-2022,FC Winterthur,1 - 0,Grasshoppers
+193,20-10-2022,Grasshoppers,2 - 3,Servette FC
+194,23-10-2022,FC Zurich,1 - 4,Grasshoppers
+195,29-10-2022,Grasshoppers,1 - 3,Lucerne
+196,05-11-2022,St Gallen,2 - 1,Grasshoppers
+197,12-11-2022,Grasshoppers,1 - 0,Basel
+198,21-01-2023,Grasshoppers,1 - 2,Young Boys
+199,28-01-2023,FC Lugano,1 - 1,Grasshoppers
+200,04-02-2023,Grasshoppers,1 - 0,Basel
+201,11-02-2023,Servette FC,2 - 1,Grasshoppers
+202,19-02-2023,Grasshoppers,1 - 2,FC Zurich
+203,26-02-2023,Lucerne,1 - 0,Grasshoppers
+204,05-03-2023,St Gallen,1 - 1,Grasshoppers
+205,12-03-2023,Grasshoppers,2 - 1,FC Winterthur
+206,18-03-2023,FC Sion,1 - 2,Grasshoppers
+207,02-04-2023,Grasshoppers,2 - 1,FC Lugano
+208,10-04-2023,Young Boys,2 - 0,Grasshoppers
+209,16-04-2023,Grasshoppers,1 - 3,FC Sion
+210,22-04-2023,FC Winterthur,1 - 2,Grasshoppers
+211,25-04-2023,Grasshoppers,4 - 1,Young Boys
+212,29-04-2023,FC Lugano,5 - 1,Grasshoppers
+213,07-05-2023,Grasshoppers,2 - 3,Servette FC
+214,13-05-2023,Grasshoppers,2 - 0,Lucerne
+215,21-05-2023,FC Zurich,2 - 1,Grasshoppers
+216,25-05-2023,Grasshoppers,2 - 2,St Gallen
+217,29-05-2023,Basel,3 - 1,Grasshoppers
+218,23-07-2022,FC Zurich,0 - 0,Lucerne
+219,07-08-2022,FC Lugano,1 - 2,Lucerne
+220,10-08-2022,Lucerne,1 - 1,Grasshoppers
+221,13-08-2022,St Gallen,4 - 1,Lucerne
+222,27-08-2022,Lucerne,2 - 0,FC Sion
+223,04-09-2022,Lucerne,0 - 2,Servette FC
+224,10-09-2022,FC Winterthur,0 - 6,Lucerne
+225,02-10-2022,Lucerne,1 - 2,Young Boys
+226,09-10-2022,Servette FC,1 - 1,Lucerne
+227,15-10-2022,FC Sion,2 - 0,Lucerne
+228,19-10-2022,Lucerne,3 - 3,St Gallen
+229,22-10-2022,Lucerne,3 - 1,FC Lugano
+230,29-10-2022,Grasshoppers,1 - 3,Lucerne
+231,05-11-2022,Lucerne,1 - 1,FC Winterthur
+232,09-11-2022,Lucerne,0 - 2,Basel
+233,13-11-2022,Young Boys,3 - 0,Lucerne
+234,21-01-2023,Lucerne,2 - 2,FC Zurich
+235,28-01-2023,Basel,2 - 3,Lucerne
+236,05-02-2023,Lucerne,1 - 1,Young Boys
+237,12-02-2023,FC Lugano,1 - 1,Lucerne
+238,19-02-2023,St Gallen,2 - 2,Lucerne
+239,26-02-2023,Lucerne,1 - 0,Grasshoppers
+240,04-03-2023,Lucerne,0 - 1,Basel
+241,12-03-2023,Servette FC,0 - 1,Lucerne
+242,18-03-2023,FC Zurich,2 - 1,Lucerne
+243,02-04-2023,Lucerne,1 - 2,FC Sion
+244,10-04-2023,FC Winterthur,1 - 2,Lucerne
+245,15-04-2023,Lucerne,4 - 1,FC Zurich
+246,23-04-2023,Basel,0 - 2,Lucerne
+247,27-04-2023,Lucerne,3 - 1,FC Winterthur
+248,30-04-2023,Young Boys,5 - 1,Lucerne
+249,07-05-2023,Lucerne,2 - 2,FC Lugano
+250,13-05-2023,Grasshoppers,2 - 0,Lucerne
+251,20-05-2023,Lucerne,1 - 1,St Gallen
+252,25-05-2023,FC Sion,1 - 2,Lucerne
+253,29-05-2023,Lucerne,0 - 1,Servette FC
+254,17-07-2022,Servette FC,1 - 0,St Gallen
+255,24-07-2022,Basel,1 - 1,Servette FC
+256,30-07-2022,FC Sion,0 - 0,Servette FC
+257,06-08-2022,Servette FC,1 - 0,FC Winterthur
+258,14-08-2022,Young Boys,3 - 0,Servette FC
+259,27-08-2022,Servette FC,3 - 1,Grasshoppers
+260,04-09-2022,Lucerne,0 - 2,Servette FC
+261,11-09-2022,Servette FC,3 - 2,FC Zurich
+262,02-10-2022,FC Lugano,1 - 0,Servette FC
+263,09-10-2022,Servette FC,1 - 1,Lucerne
+264,16-10-2022,Servette FC,0 - 0,Basel
+265,20-10-2022,Grasshoppers,2 - 3,Servette FC
+266,23-10-2022,St Gallen,1 - 1,Servette FC
+267,29-10-2022,Servette FC,2 - 2,FC Lugano
+268,06-11-2022,Servette FC,0 - 0,Young Boys
+269,13-11-2022,FC Zurich,4 - 1,Servette FC
+270,29-01-2023,Servette FC,2 - 2,FC Sion
+271,04-02-2023,St Gallen,3 - 0,Servette FC
+272,11-02-2023,Servette FC,2 - 1,Grasshoppers
+273,15-02-2023,FC Winterthur,1 - 2,Servette FC
+274,19-02-2023,Basel,2 - 2,Servette FC
+275,26-02-2023,Servette FC,1 - 1,FC Winterthur
+276,05-03-2023,FC Zurich,1 - 1,Servette FC
+277,12-03-2023,Servette FC,0 - 1,Lucerne
+278,19-03-2023,FC Lugano,1 - 1,Servette FC
+279,01-04-2023,Servette FC,2 - 1,Young Boys
+280,08-04-2023,FC Sion,2 - 2,Servette FC
+281,15-04-2023,Servette FC,0 - 0,FC Lugano
+282,22-04-2023,Young Boys,6 - 1,Servette FC
+283,26-04-2023,Servette FC,4 - 0,FC Zurich
+284,29-04-2023,Servette FC,1 - 1,St Gallen
+285,07-05-2023,Grasshoppers,2 - 3,Servette FC
+286,13-05-2023,Servette FC,5 - 0,FC Sion
+287,20-05-2023,FC Winterthur,0 - 1,Servette FC
+288,25-05-2023,Servette FC,3 - 3,Basel
+289,29-05-2023,Lucerne,0 - 1,Servette FC
+290,17-07-2022,Servette FC,1 - 0,St Gallen
+291,23-07-2022,St Gallen,2 - 0,FC Winterthur
+292,30-07-2022,St Gallen,2 - 0,FC Zurich
+293,06-08-2022,Grasshoppers,3 - 2,St Gallen
+294,13-08-2022,St Gallen,4 - 1,Lucerne
+295,28-08-2022,FC Lugano,2 - 3,St Gallen
+296,04-09-2022,St Gallen,2 - 1,Young Boys
+297,10-09-2022,St Gallen,1 - 2,FC Sion
+298,01-10-2022,Basel,3 - 2,St Gallen
+299,08-10-2022,Young Boys,2 - 1,St Gallen
+300,16-10-2022,St Gallen,1 - 1,FC Lugano
+301,19-10-2022,Lucerne,3 - 3,St Gallen
+302,23-10-2022,St Gallen,1 - 1,Servette FC
+303,30-10-2022,FC Winterthur,1 - 0,St Gallen
+304,05-11-2022,St Gallen,2 - 1,Grasshoppers
+305,12-11-2022,FC Sion,2 - 7,St Gallen
+306,22-01-2023,St Gallen,1 - 1,Basel
+307,29-01-2023,FC Zurich,1 - 0,St Gallen
+308,04-02-2023,St Gallen,3 - 0,Servette FC
+309,12-02-2023,Young Boys,5 - 1,St Gallen
+310,19-02-2023,St Gallen,2 - 2,Lucerne
+311,25-02-2023,FC Sion,0 - 4,St Gallen
+312,05-03-2023,St Gallen,1 - 1,Grasshoppers
+313,12-03-2023,Basel,1 - 1,St Gallen
+314,19-03-2023,FC Winterthur,1 - 0,St Gallen
+315,02-04-2023,St Gallen,2 - 2,FC Zurich
+316,10-04-2023,FC Lugano,1 - 1,St Gallen
+317,16-04-2023,St Gallen,2 - 3,FC Winterthur
+318,23-04-2023,FC Zurich,1 - 0,St Gallen
+319,26-04-2023,St Gallen,1 - 2,FC Lugano
+320,29-04-2023,Servette FC,1 - 1,St Gallen
+321,06-05-2023,St Gallen,0 - 2,Young Boys
+322,14-05-2023,St Gallen,6 - 1,Basel
+323,20-05-2023,Lucerne,1 - 1,St Gallen
+324,25-05-2023,Grasshoppers,2 - 2,St Gallen
+325,29-05-2023,St Gallen,4 - 0,FC Sion
+326,03-06-2023,FC Sion,0 - 2,Stade Lausanne-Ouchy
+327,06-06-2023,Stade Lausanne-Ouchy,4 - 2,FC Sion
+328,16-07-2022,Young Boys,4 - 0,FC Zurich
+329,24-07-2022,FC Sion,0 - 3,Young Boys
+330,31-07-2022,Young Boys,1 - 1,Grasshoppers
+331,07-08-2022,Basel,0 - 0,Young Boys
+332,14-08-2022,Young Boys,3 - 0,Servette FC
+333,28-08-2022,FC Winterthur,1 - 5,Young Boys
+334,04-09-2022,St Gallen,2 - 1,Young Boys
+335,11-09-2022,Young Boys,3 - 0,FC Lugano
+336,02-10-2022,Lucerne,1 - 2,Young Boys
+337,08-10-2022,Young Boys,2 - 1,St Gallen
+338,16-10-2022,FC Zurich,0 - 0,Young Boys
+339,19-10-2022,FC Lugano,1 - 4,Young Boys
+340,22-10-2022,Young Boys,1 - 1,FC Sion
+341,30-10-2022,Young Boys,3 - 1,Basel
+342,06-11-2022,Servette FC,0 - 0,Young Boys
+343,13-11-2022,Young Boys,3 - 0,Lucerne
+344,21-01-2023,Grasshoppers,1 - 2,Young Boys
+345,29-01-2023,Young Boys,5 - 1,FC Winterthur
+346,05-02-2023,Lucerne,1 - 1,Young Boys
+347,12-02-2023,Young Boys,5 - 1,St Gallen
+348,18-02-2023,Young Boys,1 - 1,FC Lugano
+349,25-02-2023,FC Zurich,2 - 2,Young Boys
+350,04-03-2023,FC Winterthur,1 - 1,Young Boys
+351,11-03-2023,Young Boys,4 - 0,FC Sion
+352,19-03-2023,Young Boys,3 - 0,Basel
+353,01-04-2023,Servette FC,2 - 1,Young Boys
+354,10-04-2023,Young Boys,2 - 0,Grasshoppers
+355,16-04-2023,Basel,1 - 1,Young Boys
+356,22-04-2023,Young Boys,6 - 1,Servette FC
+357,25-04-2023,Grasshoppers,4 - 1,Young Boys
+358,30-04-2023,Young Boys,5 - 1,Lucerne
+359,06-05-2023,St Gallen,0 - 2,Young Boys
+360,14-05-2023,Young Boys,1 - 1,FC Zurich
+361,21-05-2023,FC Sion,0 - 2,Young Boys
+362,25-05-2023,FC Lugano,2 - 0,Young Boys
+363,29-05-2023,Young Boys,2 - 1,FC Winterthur

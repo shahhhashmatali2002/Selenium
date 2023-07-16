@@ -1,0 +1,185 @@
+,date,home_team,score,away_team
+0,05-04-2023,Kooteepee,0 - 2,AC oulu
+1,14-04-2023,Valkeakosk Haka,2 - 2,AC oulu
+2,23-04-2023,HJK,1 - 1,AC oulu
+3,29-04-2023,AC oulu,0 - 3,SJK
+4,05-05-2023,Ilves,1 - 2,AC oulu
+5,09-05-2023,AC oulu,0 - 2,KuPS Kuopio
+6,13-05-2023,AC oulu,2 - 1,vaasa PS
+7,22-05-2023,AC oulu,1 - 3,FC Honka
+8,26-05-2023,FC Lahti,1 - 2,AC oulu
+9,03-06-2023,AC oulu,3 - 2,IFK Mariehamn
+10,07-06-2023,KuPS Kuopio,1 - 0,AC oulu
+11,11-06-2023,AC oulu,1 - 1,FC Inter Turku
+12,27-06-2023,SJK,1 - 4,AC oulu
+13,01-07-2023,AC oulu,3 - 0,Valkeakosk Haka
+14,09-07-2023,IFK Mariehamn,1 - 2,AC oulu
+15,15-07-2023,vaasa PS,? - ?,AC oulu
+16,05-04-2023,HJK,2 - 0,FC Honka
+17,15-04-2023,FC Honka,0 - 0,SJK
+18,19-04-2023,KuPS Kuopio,0 - 1,FC Honka
+19,24-04-2023,Valkeakosk Haka,1 - 1,FC Honka
+20,29-04-2023,vaasa PS,0 - 0,FC Honka
+21,05-05-2023,FC Honka,3 - 0,FC Lahti
+22,09-05-2023,FC Honka,0 - 2,Valkeakosk Haka
+23,13-05-2023,FC Honka,0 - 1,KuPS Kuopio
+24,22-05-2023,AC oulu,1 - 3,FC Honka
+25,26-05-2023,FC Honka,0 - 1,Kooteepee
+26,03-06-2023,FC Inter Turku,2 - 0,FC Honka
+27,07-06-2023,FC Honka,2 - 1,IFK Mariehamn
+28,11-06-2023,Ilves,1 - 1,FC Honka
+29,27-06-2023,FC Honka,1 - 0,vaasa PS
+30,01-07-2023,FC Honka,1 - 1,HJK
+31,08-07-2023,SJK,1 - 0,FC Honka
+32,05-04-2023,KuPS Kuopio,1 - 2,FC Inter Turku
+33,15-04-2023,Ilves,2 - 1,FC Inter Turku
+34,05-05-2023,SJK,2 - 1,FC Inter Turku
+35,13-05-2023,HJK,4 - 1,FC Inter Turku
+36,22-05-2023,FC Inter Turku,1 - 1,IFK Mariehamn
+37,26-05-2023,FC Inter Turku,3 - 0,Valkeakosk Haka
+38,03-06-2023,FC Inter Turku,2 - 0,FC Honka
+39,07-06-2023,FC Inter Turku,2 - 1,Kooteepee
+40,11-06-2023,AC oulu,1 - 1,FC Inter Turku
+41,27-06-2023,FC Inter Turku,2 - 1,Ilves
+42,01-07-2023,vaasa PS,3 - 0,FC Inter Turku
+43,08-07-2023,Valkeakosk Haka,2 - 2,FC Inter Turku
+44,12-07-2023,FC Inter Turku,0 - 2,vaasa PS
+45,17-07-2023,FC Inter Turku,? - ?,KuPS Kuopio
+46,05-04-2023,vaasa PS,0 - 0,FC Lahti
+47,16-04-2023,IFK Mariehamn,2 - 3,FC Lahti
+48,22-04-2023,SJK,0 - 0,FC Lahti
+49,05-05-2023,FC Honka,3 - 0,FC Lahti
+50,13-05-2023,FC Lahti,0 - 0,Kooteepee
+51,20-05-2023,KuPS Kuopio,2 - 0,FC Lahti
+52,26-05-2023,FC Lahti,1 - 2,AC oulu
+53,03-06-2023,Ilves,2 - 2,FC Lahti
+54,07-06-2023,FC Lahti,1 - 2,HJK
+55,11-06-2023,FC Lahti,1 - 0,Valkeakosk Haka
+56,27-06-2023,Kooteepee,2 - 0,FC Lahti
+57,01-07-2023,FC Lahti,3 - 4,KuPS Kuopio
+58,08-07-2023,HJK,0 - 1,FC Lahti
+59,16-07-2023,FC Lahti,? - ?,SJK
+60,05-04-2023,HJK,2 - 0,FC Honka
+61,15-04-2023,vaasa PS,0 - 1,HJK
+62,19-04-2023,HJK,4 - 0,vaasa PS
+63,23-04-2023,HJK,1 - 1,AC oulu
+64,29-04-2023,HJK,2 - 0,Valkeakosk Haka
+65,05-05-2023,KuPS Kuopio,2 - 1,HJK
+66,09-05-2023,Kooteepee,3 - 3,HJK
+67,13-05-2023,HJK,4 - 1,FC Inter Turku
+68,21-05-2023,Ilves,1 - 1,HJK
+69,27-05-2023,IFK Mariehamn,0 - 0,HJK
+70,03-06-2023,HJK,0 - 0,SJK
+71,07-06-2023,FC Lahti,1 - 2,HJK
+72,11-06-2023,HJK,1 - 0,Kooteepee
+73,27-06-2023,Valkeakosk Haka,1 - 1,HJK
+74,01-07-2023,FC Honka,1 - 1,HJK
+75,08-07-2023,HJK,0 - 1,FC Lahti
+76,05-04-2023,IFK Mariehamn,1 - 1,Ilves
+77,16-04-2023,IFK Mariehamn,2 - 3,FC Lahti
+78,22-04-2023,Kooteepee,2 - 1,IFK Mariehamn
+79,30-04-2023,IFK Mariehamn,0 - 2,KuPS Kuopio
+80,05-05-2023,vaasa PS,2 - 1,IFK Mariehamn
+81,13-05-2023,IFK Mariehamn,2 - 1,Valkeakosk Haka
+82,22-05-2023,FC Inter Turku,1 - 1,IFK Mariehamn
+83,27-05-2023,IFK Mariehamn,0 - 0,HJK
+84,03-06-2023,AC oulu,3 - 2,IFK Mariehamn
+85,07-06-2023,FC Honka,2 - 1,IFK Mariehamn
+86,11-06-2023,IFK Mariehamn,0 - 2,SJK
+87,27-06-2023,KuPS Kuopio,0 - 1,IFK Mariehamn
+88,01-07-2023,IFK Mariehamn,0 - 0,Kooteepee
+89,09-07-2023,IFK Mariehamn,1 - 2,AC oulu
+90,15-07-2023,Ilves,? - ?,IFK Mariehamn
+91,05-04-2023,IFK Mariehamn,1 - 1,Ilves
+92,15-04-2023,Ilves,2 - 1,FC Inter Turku
+93,23-04-2023,KuPS Kuopio,1 - 0,Ilves
+94,29-04-2023,Ilves,1 - 0,Kooteepee
+95,05-05-2023,Ilves,1 - 2,AC oulu
+96,13-05-2023,SJK,1 - 0,Ilves
+97,21-05-2023,Ilves,1 - 1,HJK
+98,26-05-2023,vaasa PS,0 - 2,Ilves
+99,03-06-2023,Ilves,2 - 2,FC Lahti
+100,07-06-2023,Valkeakosk Haka,1 - 1,Ilves
+101,11-06-2023,Ilves,1 - 1,FC Honka
+102,27-06-2023,FC Inter Turku,2 - 1,Ilves
+103,01-07-2023,Ilves,1 - 1,SJK
+104,08-07-2023,Kooteepee,0 - 0,Ilves
+105,15-07-2023,Ilves,? - ?,IFK Mariehamn
+106,05-04-2023,Kooteepee,0 - 2,AC oulu
+107,14-04-2023,Kooteepee,0 - 0,KuPS Kuopio
+108,22-04-2023,Kooteepee,2 - 1,IFK Mariehamn
+109,29-04-2023,Ilves,1 - 0,Kooteepee
+110,05-05-2023,Valkeakosk Haka,4 - 2,Kooteepee
+111,09-05-2023,Kooteepee,3 - 3,HJK
+112,13-05-2023,FC Lahti,0 - 0,Kooteepee
+113,22-05-2023,Kooteepee,0 - 2,SJK
+114,26-05-2023,FC Honka,0 - 1,Kooteepee
+115,03-06-2023,Kooteepee,1 - 0,vaasa PS
+116,07-06-2023,FC Inter Turku,2 - 1,Kooteepee
+117,11-06-2023,HJK,1 - 0,Kooteepee
+118,27-06-2023,Kooteepee,2 - 0,FC Lahti
+119,01-07-2023,IFK Mariehamn,0 - 0,Kooteepee
+120,08-07-2023,Kooteepee,0 - 0,Ilves
+121,05-04-2023,KuPS Kuopio,1 - 2,FC Inter Turku
+122,14-04-2023,Kooteepee,0 - 0,KuPS Kuopio
+123,19-04-2023,KuPS Kuopio,0 - 1,FC Honka
+124,23-04-2023,KuPS Kuopio,1 - 0,Ilves
+125,30-04-2023,IFK Mariehamn,0 - 2,KuPS Kuopio
+126,05-05-2023,KuPS Kuopio,2 - 1,HJK
+127,09-05-2023,AC oulu,0 - 2,KuPS Kuopio
+128,13-05-2023,FC Honka,0 - 1,KuPS Kuopio
+129,20-05-2023,KuPS Kuopio,2 - 0,FC Lahti
+130,26-05-2023,SJK,1 - 0,KuPS Kuopio
+131,03-06-2023,KuPS Kuopio,3 - 0,Valkeakosk Haka
+132,07-06-2023,KuPS Kuopio,1 - 0,AC oulu
+133,11-06-2023,vaasa PS,0 - 2,KuPS Kuopio
+134,27-06-2023,KuPS Kuopio,0 - 1,IFK Mariehamn
+135,01-07-2023,FC Lahti,3 - 4,KuPS Kuopio
+136,08-07-2023,KuPS Kuopio,0 - 1,vaasa PS
+137,17-07-2023,FC Inter Turku,? - ?,KuPS Kuopio
+138,05-04-2023,SJK,2 - 1,Valkeakosk Haka
+139,15-04-2023,FC Honka,0 - 0,SJK
+140,22-04-2023,SJK,0 - 0,FC Lahti
+141,29-04-2023,AC oulu,0 - 3,SJK
+142,05-05-2023,SJK,2 - 1,FC Inter Turku
+143,13-05-2023,SJK,1 - 0,Ilves
+144,22-05-2023,Kooteepee,0 - 2,SJK
+145,26-05-2023,SJK,1 - 0,KuPS Kuopio
+146,03-06-2023,HJK,0 - 0,SJK
+147,08-06-2023,SJK,2 - 1,vaasa PS
+148,11-06-2023,IFK Mariehamn,0 - 2,SJK
+149,27-06-2023,SJK,1 - 4,AC oulu
+150,01-07-2023,Ilves,1 - 1,SJK
+151,08-07-2023,SJK,1 - 0,FC Honka
+152,16-07-2023,FC Lahti,? - ?,SJK
+153,05-04-2023,SJK,2 - 1,Valkeakosk Haka
+154,14-04-2023,Valkeakosk Haka,2 - 2,AC oulu
+155,24-04-2023,Valkeakosk Haka,1 - 1,FC Honka
+156,29-04-2023,HJK,2 - 0,Valkeakosk Haka
+157,05-05-2023,Valkeakosk Haka,4 - 2,Kooteepee
+158,09-05-2023,FC Honka,0 - 2,Valkeakosk Haka
+159,13-05-2023,IFK Mariehamn,2 - 1,Valkeakosk Haka
+160,22-05-2023,Valkeakosk Haka,2 - 2,vaasa PS
+161,26-05-2023,FC Inter Turku,3 - 0,Valkeakosk Haka
+162,03-06-2023,KuPS Kuopio,3 - 0,Valkeakosk Haka
+163,07-06-2023,Valkeakosk Haka,1 - 1,Ilves
+164,11-06-2023,FC Lahti,1 - 0,Valkeakosk Haka
+165,27-06-2023,Valkeakosk Haka,1 - 1,HJK
+166,01-07-2023,AC oulu,3 - 0,Valkeakosk Haka
+167,08-07-2023,Valkeakosk Haka,2 - 2,FC Inter Turku
+168,05-04-2023,vaasa PS,0 - 0,FC Lahti
+169,15-04-2023,vaasa PS,0 - 1,HJK
+170,19-04-2023,HJK,4 - 0,vaasa PS
+171,29-04-2023,vaasa PS,0 - 0,FC Honka
+172,05-05-2023,vaasa PS,2 - 1,IFK Mariehamn
+173,13-05-2023,AC oulu,2 - 1,vaasa PS
+174,22-05-2023,Valkeakosk Haka,2 - 2,vaasa PS
+175,26-05-2023,vaasa PS,0 - 2,Ilves
+176,03-06-2023,Kooteepee,1 - 0,vaasa PS
+177,08-06-2023,SJK,2 - 1,vaasa PS
+178,11-06-2023,vaasa PS,0 - 2,KuPS Kuopio
+179,27-06-2023,FC Honka,1 - 0,vaasa PS
+180,01-07-2023,vaasa PS,3 - 0,FC Inter Turku
+181,08-07-2023,KuPS Kuopio,0 - 1,vaasa PS
+182,12-07-2023,FC Inter Turku,0 - 2,vaasa PS
+183,15-07-2023,vaasa PS,? - ?,AC oulu

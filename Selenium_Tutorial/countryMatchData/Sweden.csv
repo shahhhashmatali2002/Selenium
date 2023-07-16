@@ -1,0 +1,245 @@
+,date,home_team,score,away_team
+0,02-04-2023,Halmstad,2 - 1,AIK
+1,10-04-2023,AIK,0 - 3,IFK Norrköping
+2,16-04-2023,AIK,2 - 0,Hammarby IF
+3,24-04-2023,IFK Varnamo,1 - 0,AIK
+4,29-04-2023,AIK,0 - 0,IK Sirius
+5,03-05-2023,Mjällby AIF,0 - 0,AIK
+6,07-05-2023,Malmö FF,3 - 1,AIK
+7,15-05-2023,AIK,2 - 2,IFK Goteborg
+8,20-05-2023,Degerfors IF,2 - 1,AIK
+9,28-05-2023,Djurgårdens IF,1 - 0,AIK
+10,04-06-2023,AIK,1 - 1,Kalmar FF
+11,11-06-2023,AIK,1 - 2,Elfsborg
+12,01-07-2023,IF Brommapojkarna,0 - 2,AIK
+13,08-07-2023,AIK,1 - 2,BK Hacken
+14,17-07-2023,Varbergs BoIS,? - ?,AIK
+15,03-04-2023,Elfsborg,0 - 2,BK Hacken
+16,09-04-2023,BK Hacken,3 - 1,Hammarby IF
+17,15-04-2023,BK Hacken,1 - 3,Kalmar FF
+18,23-04-2023,IK Sirius,1 - 4,BK Hacken
+19,29-04-2023,BK Hacken,3 - 1,IFK Varnamo
+20,03-05-2023,BK Hacken,4 - 1,Djurgårdens IF
+21,07-05-2023,Halmstad,1 - 0,BK Hacken
+22,13-05-2023,BK Hacken,6 - 1,Degerfors IF
+23,21-05-2023,Malmö FF,2 - 2,BK Hacken
+24,24-05-2023,Djurgårdens IF,1 - 0,BK Hacken
+25,29-05-2023,BK Hacken,4 - 1,IFK Goteborg
+26,05-06-2023,Varbergs BoIS,0 - 2,BK Hacken
+27,11-06-2023,BK Hacken,3 - 0,Mjällby AIF
+28,02-07-2023,IFK Norrköping,2 - 2,BK Hacken
+29,08-07-2023,AIK,1 - 2,BK Hacken
+30,15-07-2023,BK Hacken,? - ?,IF Brommapojkarna
+31,02-04-2023,Hammarby IF,3 - 1,Degerfors IF
+32,08-04-2023,Degerfors IF,3 - 1,Halmstad
+33,16-04-2023,Mjällby AIF,2 - 0,Degerfors IF
+34,22-04-2023,Degerfors IF,1 - 2,Elfsborg
+35,30-04-2023,Degerfors IF,2 - 1,Djurgårdens IF
+36,04-05-2023,IFK Goteborg,6 - 0,Degerfors IF
+37,08-05-2023,Degerfors IF,0 - 2,IFK Norrköping
+38,13-05-2023,BK Hacken,6 - 1,Degerfors IF
+39,20-05-2023,Degerfors IF,2 - 1,AIK
+40,25-05-2023,Degerfors IF,2 - 2,Hammarby IF
+41,29-05-2023,Degerfors IF,1 - 1,Varbergs BoIS
+42,05-06-2023,Malmö FF,5 - 0,Degerfors IF
+43,10-06-2023,Kalmar FF,2 - 1,Degerfors IF
+44,01-07-2023,Degerfors IF,0 - 2,IFK Varnamo
+45,08-07-2023,IF Brommapojkarna,1 - 2,Degerfors IF
+46,15-07-2023,Degerfors IF,? - ?,IK Sirius
+47,01-04-2023,Djurgårdens IF,3 - 1,IF Brommapojkarna
+48,09-04-2023,IK Sirius,0 - 0,Djurgårdens IF
+49,16-04-2023,Halmstad,2 - 0,Djurgårdens IF
+50,23-04-2023,Djurgårdens IF,1 - 0,IFK Goteborg
+51,30-04-2023,Degerfors IF,2 - 1,Djurgårdens IF
+52,03-05-2023,BK Hacken,4 - 1,Djurgårdens IF
+53,08-05-2023,Djurgårdens IF,3 - 1,Kalmar FF
+54,14-05-2023,Hammarby IF,4 - 3,Djurgårdens IF
+55,21-05-2023,Djurgårdens IF,2 - 0,Mjällby AIF
+56,24-05-2023,Djurgårdens IF,1 - 0,BK Hacken
+57,28-05-2023,Djurgårdens IF,1 - 0,AIK
+58,04-06-2023,Elfsborg,1 - 1,Djurgårdens IF
+59,11-06-2023,Djurgårdens IF,2 - 2,IFK Norrköping
+60,02-07-2023,Djurgårdens IF,2 - 0,Varbergs BoIS
+61,08-07-2023,IFK Varnamo,1 - 2,Djurgårdens IF
+62,17-07-2023,Djurgårdens IF,? - ?,Malmö FF
+63,03-04-2023,Elfsborg,0 - 2,BK Hacken
+64,10-04-2023,Varbergs BoIS,0 - 0,Elfsborg
+65,15-04-2023,Elfsborg,5 - 0,IF Brommapojkarna
+66,22-04-2023,Degerfors IF,1 - 2,Elfsborg
+67,29-04-2023,Mjällby AIF,0 - 1,Elfsborg
+68,03-05-2023,Elfsborg,6 - 1,Halmstad
+69,08-05-2023,IK Sirius,3 - 4,Elfsborg
+70,14-05-2023,Elfsborg,2 - 0,IFK Varnamo
+71,22-05-2023,IFK Norrköping,1 - 2,Elfsborg
+72,28-05-2023,Elfsborg,3 - 0,Malmö FF
+73,04-06-2023,Elfsborg,1 - 1,Djurgårdens IF
+74,11-06-2023,AIK,1 - 2,Elfsborg
+75,03-07-2023,Elfsborg,2 - 0,Hammarby IF
+76,09-07-2023,Kalmar FF,0 - 4,Elfsborg
+77,16-07-2023,Elfsborg,? - ?,IFK Goteborg
+78,02-04-2023,Halmstad,2 - 1,AIK
+79,08-04-2023,Degerfors IF,3 - 1,Halmstad
+80,16-04-2023,Halmstad,2 - 0,Djurgårdens IF
+81,23-04-2023,Kalmar FF,2 - 0,Halmstad
+82,29-04-2023,Halmstad,0 - 2,IF Brommapojkarna
+83,03-05-2023,Elfsborg,6 - 1,Halmstad
+84,07-05-2023,Halmstad,1 - 0,BK Hacken
+85,14-05-2023,Halmstad,0 - 1,Malmö FF
+86,21-05-2023,IK Sirius,1 - 2,Halmstad
+87,27-05-2023,Mjällby AIF,0 - 2,Halmstad
+88,04-06-2023,Halmstad,0 - 0,Hammarby IF
+89,10-06-2023,Varbergs BoIS,1 - 2,Halmstad
+90,02-07-2023,Halmstad,0 - 0,IFK Goteborg
+91,10-07-2023,IFK Norrköping,1 - 2,Halmstad
+92,15-07-2023,Halmstad,? - ?,IFK Varnamo
+93,02-04-2023,Hammarby IF,3 - 1,Degerfors IF
+94,09-04-2023,BK Hacken,3 - 1,Hammarby IF
+95,16-04-2023,AIK,2 - 0,Hammarby IF
+96,22-04-2023,Hammarby IF,2 - 0,Varbergs BoIS
+97,30-04-2023,Malmö FF,4 - 2,Hammarby IF
+98,04-05-2023,IFK Norrköping,2 - 0,Hammarby IF
+99,09-05-2023,Hammarby IF,0 - 0,Mjällby AIF
+100,14-05-2023,Hammarby IF,4 - 3,Djurgårdens IF
+101,21-05-2023,IFK Goteborg,1 - 1,Hammarby IF
+102,25-05-2023,Degerfors IF,2 - 2,Hammarby IF
+103,29-05-2023,Hammarby IF,0 - 2,IFK Varnamo
+104,04-06-2023,Halmstad,0 - 0,Hammarby IF
+105,09-06-2023,Hammarby IF,2 - 1,IF Brommapojkarna
+106,03-07-2023,Elfsborg,2 - 0,Hammarby IF
+107,09-07-2023,IK Sirius,1 - 2,Hammarby IF
+108,16-07-2023,Hammarby IF,? - ?,Kalmar FF
+109,01-04-2023,Djurgårdens IF,3 - 1,IF Brommapojkarna
+110,08-04-2023,IF Brommapojkarna,1 - 2,Malmö FF
+111,15-04-2023,Elfsborg,5 - 0,IF Brommapojkarna
+112,24-04-2023,IF Brommapojkarna,2 - 0,Mjällby AIF
+113,29-04-2023,Halmstad,0 - 2,IF Brommapojkarna
+114,04-05-2023,IFK Varnamo,0 - 1,IF Brommapojkarna
+115,08-05-2023,IF Brommapojkarna,0 - 0,IFK Goteborg
+116,14-05-2023,Kalmar FF,1 - 3,IF Brommapojkarna
+117,21-05-2023,IF Brommapojkarna,2 - 1,Varbergs BoIS
+118,27-05-2023,IF Brommapojkarna,1 - 2,IK Sirius
+119,03-06-2023,IFK Norrköping,0 - 2,IF Brommapojkarna
+120,09-06-2023,Hammarby IF,2 - 1,IF Brommapojkarna
+121,01-07-2023,IF Brommapojkarna,0 - 2,AIK
+122,08-07-2023,IF Brommapojkarna,1 - 2,Degerfors IF
+123,15-07-2023,BK Hacken,? - ?,IF Brommapojkarna
+124,02-04-2023,IFK Goteborg,0 - 1,IFK Varnamo
+125,09-04-2023,Kalmar FF,2 - 0,IFK Goteborg
+126,17-04-2023,IFK Goteborg,0 - 1,Malmö FF
+127,23-04-2023,Djurgårdens IF,1 - 0,IFK Goteborg
+128,01-05-2023,IFK Goteborg,1 - 1,IFK Norrköping
+129,04-05-2023,IFK Goteborg,6 - 0,Degerfors IF
+130,08-05-2023,IF Brommapojkarna,0 - 0,IFK Goteborg
+131,15-05-2023,AIK,2 - 2,IFK Goteborg
+132,21-05-2023,IFK Goteborg,1 - 1,Hammarby IF
+133,29-05-2023,BK Hacken,4 - 1,IFK Goteborg
+134,03-06-2023,IFK Goteborg,0 - 1,Mjällby AIF
+135,11-06-2023,IK Sirius,2 - 0,IFK Goteborg
+136,02-07-2023,Halmstad,0 - 0,IFK Goteborg
+137,10-07-2023,IFK Goteborg,1 - 2,Varbergs BoIS
+138,16-07-2023,Elfsborg,? - ?,IFK Goteborg
+139,02-04-2023,IFK Norrköping,1 - 1,IK Sirius
+140,10-04-2023,AIK,0 - 3,IFK Norrköping
+141,16-04-2023,IFK Norrköping,2 - 1,IFK Varnamo
+142,24-04-2023,Malmö FF,3 - 0,IFK Norrköping
+143,01-05-2023,IFK Goteborg,1 - 1,IFK Norrköping
+144,04-05-2023,IFK Norrköping,2 - 0,Hammarby IF
+145,08-05-2023,Degerfors IF,0 - 2,IFK Norrköping
+146,13-05-2023,Varbergs BoIS,1 - 3,IFK Norrköping
+147,22-05-2023,IFK Norrköping,1 - 2,Elfsborg
+148,28-05-2023,Kalmar FF,2 - 1,IFK Norrköping
+149,03-06-2023,IFK Norrköping,0 - 2,IF Brommapojkarna
+150,11-06-2023,Djurgårdens IF,2 - 2,IFK Norrköping
+151,02-07-2023,IFK Norrköping,2 - 2,BK Hacken
+152,10-07-2023,IFK Norrköping,1 - 2,Halmstad
+153,16-07-2023,Mjällby AIF,? - ?,IFK Norrköping
+154,02-04-2023,IFK Goteborg,0 - 1,IFK Varnamo
+155,10-04-2023,IFK Varnamo,0 - 1,Mjällby AIF
+156,16-04-2023,IFK Norrköping,2 - 1,IFK Varnamo
+157,24-04-2023,IFK Varnamo,1 - 0,AIK
+158,29-04-2023,BK Hacken,3 - 1,IFK Varnamo
+159,04-05-2023,IFK Varnamo,0 - 1,IF Brommapojkarna
+160,09-05-2023,IFK Varnamo,3 - 1,Varbergs BoIS
+161,14-05-2023,Elfsborg,2 - 0,IFK Varnamo
+162,22-05-2023,IFK Varnamo,0 - 1,Kalmar FF
+163,29-05-2023,Hammarby IF,0 - 2,IFK Varnamo
+164,04-06-2023,IK Sirius,2 - 0,IFK Varnamo
+165,10-06-2023,IFK Varnamo,1 - 3,Malmö FF
+166,01-07-2023,Degerfors IF,0 - 2,IFK Varnamo
+167,08-07-2023,IFK Varnamo,1 - 2,Djurgårdens IF
+168,15-07-2023,Halmstad,? - ?,IFK Varnamo
+169,02-04-2023,IFK Norrköping,1 - 1,IK Sirius
+170,09-04-2023,IK Sirius,0 - 0,Djurgårdens IF
+171,17-04-2023,Varbergs BoIS,1 - 1,IK Sirius
+172,23-04-2023,IK Sirius,1 - 4,BK Hacken
+173,29-04-2023,AIK,0 - 0,IK Sirius
+174,03-05-2023,Kalmar FF,2 - 2,IK Sirius
+175,08-05-2023,IK Sirius,3 - 4,Elfsborg
+176,14-05-2023,Mjällby AIF,3 - 0,IK Sirius
+177,21-05-2023,IK Sirius,1 - 2,Halmstad
+178,27-05-2023,IF Brommapojkarna,1 - 2,IK Sirius
+179,04-06-2023,IK Sirius,2 - 0,IFK Varnamo
+180,11-06-2023,IK Sirius,2 - 0,IFK Goteborg
+181,01-07-2023,Malmö FF,3 - 0,IK Sirius
+182,09-07-2023,IK Sirius,1 - 2,Hammarby IF
+183,15-07-2023,Degerfors IF,? - ?,IK Sirius
+184,01-04-2023,Malmö FF,1 - 0,Kalmar FF
+185,09-04-2023,Kalmar FF,2 - 0,IFK Goteborg
+186,15-04-2023,BK Hacken,1 - 3,Kalmar FF
+187,23-04-2023,Kalmar FF,2 - 0,Halmstad
+188,30-04-2023,Varbergs BoIS,0 - 0,Kalmar FF
+189,03-05-2023,Kalmar FF,2 - 2,IK Sirius
+190,08-05-2023,Djurgårdens IF,3 - 1,Kalmar FF
+191,14-05-2023,Kalmar FF,1 - 3,IF Brommapojkarna
+192,22-05-2023,IFK Varnamo,0 - 1,Kalmar FF
+193,28-05-2023,Kalmar FF,2 - 1,IFK Norrköping
+194,04-06-2023,AIK,1 - 1,Kalmar FF
+195,10-06-2023,Kalmar FF,2 - 1,Degerfors IF
+196,03-07-2023,Mjällby AIF,1 - 1,Kalmar FF
+197,09-07-2023,Kalmar FF,0 - 4,Elfsborg
+198,16-07-2023,Hammarby IF,? - ?,Kalmar FF
+199,01-04-2023,Malmö FF,1 - 0,Kalmar FF
+200,08-04-2023,IF Brommapojkarna,1 - 2,Malmö FF
+201,17-04-2023,IFK Goteborg,0 - 1,Malmö FF
+202,24-04-2023,Malmö FF,3 - 0,IFK Norrköping
+203,30-04-2023,Malmö FF,4 - 2,Hammarby IF
+204,04-05-2023,Varbergs BoIS,0 - 6,Malmö FF
+205,07-05-2023,Malmö FF,3 - 1,AIK
+206,14-05-2023,Halmstad,0 - 1,Malmö FF
+207,21-05-2023,Malmö FF,2 - 2,BK Hacken
+208,28-05-2023,Elfsborg,3 - 0,Malmö FF
+209,05-06-2023,Malmö FF,5 - 0,Degerfors IF
+210,10-06-2023,IFK Varnamo,1 - 3,Malmö FF
+211,01-07-2023,Malmö FF,3 - 0,IK Sirius
+212,09-07-2023,Malmö FF,1 - 2,Mjällby AIF
+213,17-07-2023,Djurgårdens IF,? - ?,Malmö FF
+214,03-04-2023,Mjällby AIF,2 - 2,Varbergs BoIS
+215,10-04-2023,IFK Varnamo,0 - 1,Mjällby AIF
+216,16-04-2023,Mjällby AIF,2 - 0,Degerfors IF
+217,24-04-2023,IF Brommapojkarna,2 - 0,Mjällby AIF
+218,29-04-2023,Mjällby AIF,0 - 1,Elfsborg
+219,03-05-2023,Mjällby AIF,0 - 0,AIK
+220,09-05-2023,Hammarby IF,0 - 0,Mjällby AIF
+221,14-05-2023,Mjällby AIF,3 - 0,IK Sirius
+222,21-05-2023,Djurgårdens IF,2 - 0,Mjällby AIF
+223,27-05-2023,Mjällby AIF,0 - 2,Halmstad
+224,03-06-2023,IFK Goteborg,0 - 1,Mjällby AIF
+225,11-06-2023,BK Hacken,3 - 0,Mjällby AIF
+226,03-07-2023,Mjällby AIF,1 - 1,Kalmar FF
+227,09-07-2023,Malmö FF,1 - 2,Mjällby AIF
+228,16-07-2023,Mjällby AIF,? - ?,IFK Norrköping
+229,03-04-2023,Mjällby AIF,2 - 2,Varbergs BoIS
+230,10-04-2023,Varbergs BoIS,0 - 0,Elfsborg
+231,17-04-2023,Varbergs BoIS,1 - 1,IK Sirius
+232,22-04-2023,Hammarby IF,2 - 0,Varbergs BoIS
+233,30-04-2023,Varbergs BoIS,0 - 0,Kalmar FF
+234,04-05-2023,Varbergs BoIS,0 - 6,Malmö FF
+235,09-05-2023,IFK Varnamo,3 - 1,Varbergs BoIS
+236,13-05-2023,Varbergs BoIS,1 - 3,IFK Norrköping
+237,21-05-2023,IF Brommapojkarna,2 - 1,Varbergs BoIS
+238,29-05-2023,Degerfors IF,1 - 1,Varbergs BoIS
+239,05-06-2023,Varbergs BoIS,0 - 2,BK Hacken
+240,10-06-2023,Varbergs BoIS,1 - 2,Halmstad
+241,02-07-2023,Djurgårdens IF,2 - 0,Varbergs BoIS
+242,10-07-2023,IFK Goteborg,1 - 2,Varbergs BoIS
+243,17-07-2023,Varbergs BoIS,? - ?,AIK

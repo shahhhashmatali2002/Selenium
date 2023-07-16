@@ -1,0 +1,297 @@
+,date,home_team,score,away_team
+0,15-04-2023,America Mineiro,0 - 3,Fluminense FC
+1,22-04-2023,Sao Paulo,3 - 0,America Mineiro
+2,29-04-2023,Santos,3 - 2,America Mineiro
+3,07-05-2023,America Mineiro,1 - 2,Cuiaba
+4,10-05-2023,RB Bragantino,2 - 2,America Mineiro
+5,14-05-2023,America Mineiro,0 - 4,Cruzeiro
+6,20-05-2023,America Mineiro,2 - 1,Fortaleza EC
+7,28-05-2023,Botafogo FR,2 - 0,America Mineiro
+8,03-06-2023,America Mineiro,2 - 0,Corinthians
+9,11-06-2023,America Mineiro,2 - 2,CA Paranaense
+10,22-06-2023,Grêmio Porto Al,3 - 1,America Mineiro
+11,25-06-2023,America Mineiro,1 - 2,Internacional RS
+12,02-07-2023,Atletico Mineiro,2 - 2,America Mineiro
+13,08-07-2023,Coritiba FBC,3 - 1,America Mineiro
+14,16-04-2023,Atletico Mineiro,1 - 2,Vasco da Gama
+15,23-04-2023,Santos,0 - 0,Atletico Mineiro
+16,30-04-2023,Atletico Mineiro,2 - 1,CA Paranaense
+17,07-05-2023,Botafogo FR,2 - 0,Atletico Mineiro
+18,10-05-2023,Cuiaba,0 - 4,Atletico Mineiro
+19,14-05-2023,Atletico Mineiro,2 - 0,Internacional RS
+20,20-05-2023,Coritiba FBC,1 - 2,Atletico Mineiro
+21,28-05-2023,Atletico Mineiro,1 - 1,SE Palmeiras
+22,03-06-2023,Cruzeiro,0 - 1,Atletico Mineiro
+23,10-06-2023,Atletico Mineiro,1 - 1,RB Bragantino
+24,22-06-2023,Fluminense FC,1 - 1,Atletico Mineiro
+25,24-06-2023,Fortaleza EC,2 - 1,Atletico Mineiro
+26,02-07-2023,Atletico Mineiro,2 - 2,America Mineiro
+27,08-07-2023,Atletico Mineiro,0 - 1,Corinthians
+28,17-07-2023,Goiás EC,? - ?,Atletico Mineiro
+29,15-04-2023,Botafogo FR,2 - 1,Sao Paulo
+30,24-04-2023,EC Bahia,1 - 2,Botafogo FR
+31,30-04-2023,Flamengo RJ,2 - 3,Botafogo FR
+32,07-05-2023,Botafogo FR,2 - 0,Atletico Mineiro
+33,11-05-2023,Botafogo FR,3 - 0,Corinthians
+34,14-05-2023,Goiás EC,2 - 1,Botafogo FR
+35,20-05-2023,Botafogo FR,1 - 0,Fluminense FC
+36,28-05-2023,Botafogo FR,2 - 0,America Mineiro
+37,03-06-2023,CA Paranaense,1 - 0,Botafogo FR
+38,11-06-2023,Botafogo FR,2 - 0,Fortaleza EC
+39,22-06-2023,Cuiaba,0 - 1,Botafogo FR
+40,25-06-2023,SE Palmeiras,0 - 1,Botafogo FR
+41,02-07-2023,Botafogo FR,2 - 0,Vasco da Gama
+42,09-07-2023,Grêmio Porto Al,0 - 2,Botafogo FR
+43,16-07-2023,Botafogo FR,? - ?,RB Bragantino
+44,15-04-2023,CA Paranaense,2 - 0,Goiás EC
+45,22-04-2023,Fluminense FC,2 - 0,CA Paranaense
+46,30-04-2023,Atletico Mineiro,2 - 1,CA Paranaense
+47,07-05-2023,CA Paranaense,2 - 1,Flamengo RJ
+48,10-05-2023,Internacional RS,0 - 2,CA Paranaense
+49,14-05-2023,CA Paranaense,3 - 2,Coritiba FBC
+50,20-05-2023,RB Bragantino,2 - 0,CA Paranaense
+51,27-05-2023,CA Paranaense,1 - 2,Grêmio Porto Al
+52,03-06-2023,CA Paranaense,1 - 0,Botafogo FR
+53,11-06-2023,America Mineiro,2 - 2,CA Paranaense
+54,21-06-2023,Sao Paulo,2 - 1,CA Paranaense
+55,24-06-2023,CA Paranaense,1 - 0,Corinthians
+56,02-07-2023,CA Paranaense,2 - 2,SE Palmeiras
+57,09-07-2023,Fortaleza EC,1 - 0,CA Paranaense
+58,16-07-2023,CA Paranaense,? - ?,EC Bahia
+59,16-04-2023,Corinthians,2 - 1,Cruzeiro
+60,23-04-2023,Goiás EC,3 - 1,Corinthians
+61,29-04-2023,SE Palmeiras,2 - 1,Corinthians
+62,08-05-2023,Corinthians,1 - 1,Fortaleza EC
+63,11-05-2023,Botafogo FR,3 - 0,Corinthians
+64,14-05-2023,Corinthians,1 - 1,Sao Paulo
+65,21-05-2023,Flamengo RJ,1 - 0,Corinthians
+66,28-05-2023,Corinthians,2 - 0,Fluminense FC
+67,03-06-2023,America Mineiro,2 - 0,Corinthians
+68,10-06-2023,Corinthians,1 - 1,Cuiaba
+69,21-06-2023,Santos,0 - 2,Corinthians
+70,24-06-2023,CA Paranaense,1 - 0,Corinthians
+71,02-07-2023,Corinthians,0 - 1,RB Bragantino
+72,08-07-2023,Atletico Mineiro,0 - 1,Corinthians
+73,16-04-2023,Flamengo RJ,3 - 0,Coritiba FBC
+74,23-04-2023,Coritiba FBC,0 - 3,Fortaleza EC
+75,29-04-2023,Coritiba FBC,1 - 1,Sao Paulo
+76,07-05-2023,EC Bahia,3 - 1,Coritiba FBC
+77,11-05-2023,Coritiba FBC,1 - 1,Vasco da Gama
+78,14-05-2023,CA Paranaense,3 - 2,Coritiba FBC
+79,20-05-2023,Coritiba FBC,1 - 2,Atletico Mineiro
+80,27-05-2023,Cuiaba,1 - 1,Coritiba FBC
+81,04-06-2023,SE Palmeiras,3 - 1,Coritiba FBC
+82,10-06-2023,Coritiba FBC,0 - 0,Santos
+83,22-06-2023,Coritiba FBC,0 - 1,Internacional RS
+84,25-06-2023,Grêmio Porto Al,5 - 1,Coritiba FBC
+85,03-07-2023,Goiás EC,1 - 2,Coritiba FBC
+86,08-07-2023,Coritiba FBC,3 - 1,America Mineiro
+87,16-07-2023,Cruzeiro,? - ?,Coritiba FBC
+88,16-04-2023,Corinthians,2 - 1,Cruzeiro
+89,23-04-2023,Cruzeiro,1 - 0,Grêmio Porto Al
+90,29-04-2023,RB Bragantino,0 - 3,Cruzeiro
+91,06-05-2023,Cruzeiro,2 - 1,Santos
+92,11-05-2023,Cruzeiro,0 - 2,Fluminense FC
+93,14-05-2023,America Mineiro,0 - 4,Cruzeiro
+94,22-05-2023,Cruzeiro,0 - 1,Cuiaba
+95,27-05-2023,Flamengo RJ,1 - 1,Cruzeiro
+96,03-06-2023,Cruzeiro,0 - 1,Atletico Mineiro
+97,10-06-2023,EC Bahia,2 - 2,Cruzeiro
+98,21-06-2023,Cruzeiro,0 - 1,Fortaleza EC
+99,25-06-2023,Cruzeiro,1 - 0,Sao Paulo
+100,02-07-2023,Internacional RS,0 - 0,Cruzeiro
+101,08-07-2023,Vasco da Gama,0 - 1,Cruzeiro
+102,16-07-2023,Cruzeiro,? - ?,Coritiba FBC
+103,15-04-2023,SE Palmeiras,2 - 1,Cuiaba
+104,22-04-2023,Cuiaba,1 - 1,RB Bragantino
+105,30-04-2023,Cuiaba,1 - 2,Grêmio Porto Al
+106,07-05-2023,America Mineiro,1 - 2,Cuiaba
+107,10-05-2023,Cuiaba,0 - 4,Atletico Mineiro
+108,13-05-2023,Fluminense FC,2 - 0,Cuiaba
+109,22-05-2023,Cruzeiro,0 - 1,Cuiaba
+110,27-05-2023,Cuiaba,1 - 1,Coritiba FBC
+111,04-06-2023,Goiás EC,0 - 1,Cuiaba
+112,10-06-2023,Corinthians,1 - 1,Cuiaba
+113,22-06-2023,Cuiaba,0 - 1,Botafogo FR
+114,27-06-2023,Vasco da Gama,1 - 0,Cuiaba
+115,02-07-2023,Cuiaba,3 - 0,Santos
+116,08-07-2023,Cuiaba,1 - 1,EC Bahia
+117,16-07-2023,Fortaleza EC,? - ?,Cuiaba
+118,15-04-2023,RB Bragantino,2 - 1,EC Bahia
+119,24-04-2023,EC Bahia,1 - 2,Botafogo FR
+120,01-05-2023,Vasco da Gama,0 - 1,EC Bahia
+121,07-05-2023,EC Bahia,3 - 1,Coritiba FBC
+122,10-05-2023,Santos,3 - 0,EC Bahia
+123,13-05-2023,EC Bahia,2 - 3,Flamengo RJ
+124,20-05-2023,EC Bahia,1 - 1,Goiás EC
+125,28-05-2023,Internacional RS,2 - 0,EC Bahia
+126,03-06-2023,Fortaleza EC,0 - 0,EC Bahia
+127,10-06-2023,EC Bahia,2 - 2,Cruzeiro
+128,22-06-2023,EC Bahia,1 - 0,SE Palmeiras
+129,24-06-2023,Fluminense FC,2 - 1,EC Bahia
+130,01-07-2023,EC Bahia,1 - 2,Grêmio Porto Al
+131,08-07-2023,Cuiaba,1 - 1,EC Bahia
+132,16-07-2023,CA Paranaense,? - ?,EC Bahia
+133,16-04-2023,Flamengo RJ,3 - 0,Coritiba FBC
+134,23-04-2023,Internacional RS,2 - 1,Flamengo RJ
+135,30-04-2023,Flamengo RJ,2 - 3,Botafogo FR
+136,07-05-2023,CA Paranaense,2 - 1,Flamengo RJ
+137,10-05-2023,Flamengo RJ,2 - 0,Goiás EC
+138,13-05-2023,EC Bahia,2 - 3,Flamengo RJ
+139,21-05-2023,Flamengo RJ,1 - 0,Corinthians
+140,27-05-2023,Flamengo RJ,1 - 1,Cruzeiro
+141,05-06-2023,Vasco da Gama,1 - 4,Flamengo RJ
+142,11-06-2023,Flamengo RJ,3 - 0,Grêmio Porto Al
+143,23-06-2023,RB Bragantino,4 - 0,Flamengo RJ
+144,25-06-2023,Santos,2 - 3,Flamengo RJ
+145,01-07-2023,Flamengo RJ,2 - 0,Fortaleza EC
+146,09-07-2023,SE Palmeiras,1 - 1,Flamengo RJ
+147,16-07-2023,Fluminense FC,? - ?,Flamengo RJ
+148,15-04-2023,America Mineiro,0 - 3,Fluminense FC
+149,22-04-2023,Fluminense FC,2 - 0,CA Paranaense
+150,29-04-2023,Fortaleza EC,4 - 2,Fluminense FC
+151,07-05-2023,Fluminense FC,1 - 1,Vasco da Gama
+152,11-05-2023,Cruzeiro,0 - 2,Fluminense FC
+153,13-05-2023,Fluminense FC,2 - 0,Cuiaba
+154,20-05-2023,Botafogo FR,1 - 0,Fluminense FC
+155,28-05-2023,Corinthians,2 - 0,Fluminense FC
+156,04-06-2023,Fluminense FC,2 - 1,RB Bragantino
+157,11-06-2023,Goiás EC,2 - 2,Fluminense FC
+158,22-06-2023,Fluminense FC,1 - 1,Atletico Mineiro
+159,24-06-2023,Fluminense FC,2 - 1,EC Bahia
+160,01-07-2023,Sao Paulo,1 - 0,Fluminense FC
+161,09-07-2023,Fluminense FC,2 - 0,Internacional RS
+162,16-07-2023,Fluminense FC,? - ?,Flamengo RJ
+163,15-04-2023,Fortaleza EC,1 - 1,Internacional RS
+164,23-04-2023,Coritiba FBC,0 - 3,Fortaleza EC
+165,29-04-2023,Fortaleza EC,4 - 2,Fluminense FC
+166,08-05-2023,Corinthians,1 - 1,Fortaleza EC
+167,11-05-2023,Fortaleza EC,0 - 0,Sao Paulo
+168,14-05-2023,Grêmio Porto Al,0 - 0,Fortaleza EC
+169,20-05-2023,America Mineiro,2 - 1,Fortaleza EC
+170,27-05-2023,Fortaleza EC,2 - 0,Vasco da Gama
+171,03-06-2023,Fortaleza EC,0 - 0,EC Bahia
+172,11-06-2023,Botafogo FR,2 - 0,Fortaleza EC
+173,21-06-2023,Cruzeiro,0 - 1,Fortaleza EC
+174,24-06-2023,Fortaleza EC,2 - 1,Atletico Mineiro
+175,01-07-2023,Flamengo RJ,2 - 0,Fortaleza EC
+176,09-07-2023,Fortaleza EC,1 - 0,CA Paranaense
+177,16-07-2023,Fortaleza EC,? - ?,Cuiaba
+178,15-04-2023,CA Paranaense,2 - 0,Goiás EC
+179,23-04-2023,Goiás EC,3 - 1,Corinthians
+180,30-04-2023,Internacional RS,1 - 0,Goiás EC
+181,07-05-2023,Goiás EC,0 - 5,SE Palmeiras
+182,10-05-2023,Flamengo RJ,2 - 0,Goiás EC
+183,14-05-2023,Goiás EC,2 - 1,Botafogo FR
+184,20-05-2023,EC Bahia,1 - 1,Goiás EC
+185,28-05-2023,Sao Paulo,2 - 1,Goiás EC
+186,04-06-2023,Goiás EC,0 - 1,Cuiaba
+187,11-06-2023,Goiás EC,2 - 2,Fluminense FC
+188,22-06-2023,Vasco da Gama,0 - 1,Goiás EC
+189,25-06-2023,RB Bragantino,2 - 0,Goiás EC
+190,03-07-2023,Goiás EC,1 - 2,Coritiba FBC
+191,09-07-2023,Santos,4 - 3,Goiás EC
+192,17-07-2023,Goiás EC,? - ?,Atletico Mineiro
+193,16-04-2023,Grêmio Porto Al,1 - 0,Santos
+194,23-04-2023,Cruzeiro,1 - 0,Grêmio Porto Al
+195,30-04-2023,Cuiaba,1 - 2,Grêmio Porto Al
+196,07-05-2023,Grêmio Porto Al,3 - 3,RB Bragantino
+197,11-05-2023,SE Palmeiras,4 - 1,Grêmio Porto Al
+198,14-05-2023,Grêmio Porto Al,0 - 0,Fortaleza EC
+199,21-05-2023,Grêmio Porto Al,3 - 1,Internacional RS
+200,27-05-2023,CA Paranaense,1 - 2,Grêmio Porto Al
+201,04-06-2023,Grêmio Porto Al,2 - 1,Sao Paulo
+202,11-06-2023,Flamengo RJ,3 - 0,Grêmio Porto Al
+203,22-06-2023,Grêmio Porto Al,3 - 1,America Mineiro
+204,25-06-2023,Grêmio Porto Al,5 - 1,Coritiba FBC
+205,01-07-2023,EC Bahia,1 - 2,Grêmio Porto Al
+206,09-07-2023,Grêmio Porto Al,0 - 2,Botafogo FR
+207,15-04-2023,Fortaleza EC,1 - 1,Internacional RS
+208,23-04-2023,Internacional RS,2 - 1,Flamengo RJ
+209,30-04-2023,Internacional RS,1 - 0,Goiás EC
+210,07-05-2023,Sao Paulo,2 - 0,Internacional RS
+211,10-05-2023,Internacional RS,0 - 2,CA Paranaense
+212,14-05-2023,Atletico Mineiro,2 - 0,Internacional RS
+213,21-05-2023,Grêmio Porto Al,3 - 1,Internacional RS
+214,28-05-2023,Internacional RS,2 - 0,EC Bahia
+215,04-06-2023,Santos,1 - 1,Internacional RS
+216,11-06-2023,Internacional RS,2 - 1,Vasco da Gama
+217,22-06-2023,Coritiba FBC,0 - 1,Internacional RS
+218,25-06-2023,America Mineiro,1 - 2,Internacional RS
+219,02-07-2023,Internacional RS,0 - 0,Cruzeiro
+220,09-07-2023,Fluminense FC,2 - 0,Internacional RS
+221,16-07-2023,Internacional RS,? - ?,SE Palmeiras
+222,15-04-2023,RB Bragantino,2 - 1,EC Bahia
+223,22-04-2023,Cuiaba,1 - 1,RB Bragantino
+224,29-04-2023,RB Bragantino,0 - 3,Cruzeiro
+225,07-05-2023,Grêmio Porto Al,3 - 3,RB Bragantino
+226,10-05-2023,RB Bragantino,2 - 2,America Mineiro
+227,13-05-2023,SE Palmeiras,1 - 1,RB Bragantino
+228,20-05-2023,RB Bragantino,2 - 0,CA Paranaense
+229,28-05-2023,RB Bragantino,2 - 0,Santos
+230,04-06-2023,Fluminense FC,2 - 1,RB Bragantino
+231,10-06-2023,Atletico Mineiro,1 - 1,RB Bragantino
+232,23-06-2023,RB Bragantino,4 - 0,Flamengo RJ
+233,25-06-2023,RB Bragantino,2 - 0,Goiás EC
+234,02-07-2023,Corinthians,0 - 1,RB Bragantino
+235,09-07-2023,RB Bragantino,0 - 0,Sao Paulo
+236,16-07-2023,Botafogo FR,? - ?,RB Bragantino
+237,15-04-2023,SE Palmeiras,2 - 1,Cuiaba
+238,23-04-2023,Vasco da Gama,2 - 2,SE Palmeiras
+239,29-04-2023,SE Palmeiras,2 - 1,Corinthians
+240,07-05-2023,Goiás EC,0 - 5,SE Palmeiras
+241,11-05-2023,SE Palmeiras,4 - 1,Grêmio Porto Al
+242,13-05-2023,SE Palmeiras,1 - 1,RB Bragantino
+243,21-05-2023,Santos,0 - 0,SE Palmeiras
+244,28-05-2023,Atletico Mineiro,1 - 1,SE Palmeiras
+245,04-06-2023,SE Palmeiras,3 - 1,Coritiba FBC
+246,11-06-2023,Sao Paulo,0 - 2,SE Palmeiras
+247,22-06-2023,EC Bahia,1 - 0,SE Palmeiras
+248,25-06-2023,SE Palmeiras,0 - 1,Botafogo FR
+249,02-07-2023,CA Paranaense,2 - 2,SE Palmeiras
+250,09-07-2023,SE Palmeiras,1 - 1,Flamengo RJ
+251,16-07-2023,Internacional RS,? - ?,SE Palmeiras
+252,16-04-2023,Grêmio Porto Al,1 - 0,Santos
+253,23-04-2023,Santos,0 - 0,Atletico Mineiro
+254,29-04-2023,Santos,3 - 2,America Mineiro
+255,06-05-2023,Cruzeiro,2 - 1,Santos
+256,10-05-2023,Santos,3 - 0,EC Bahia
+257,14-05-2023,Vasco da Gama,0 - 1,Santos
+258,21-05-2023,Santos,0 - 0,SE Palmeiras
+259,28-05-2023,RB Bragantino,2 - 0,Santos
+260,04-06-2023,Santos,1 - 1,Internacional RS
+261,10-06-2023,Coritiba FBC,0 - 0,Santos
+262,21-06-2023,Santos,0 - 2,Corinthians
+263,25-06-2023,Santos,2 - 3,Flamengo RJ
+264,02-07-2023,Cuiaba,3 - 0,Santos
+265,09-07-2023,Santos,4 - 3,Goiás EC
+266,16-07-2023,Sao Paulo,? - ?,Santos
+267,15-04-2023,Botafogo FR,2 - 1,Sao Paulo
+268,22-04-2023,Sao Paulo,3 - 0,America Mineiro
+269,29-04-2023,Coritiba FBC,1 - 1,Sao Paulo
+270,07-05-2023,Sao Paulo,2 - 0,Internacional RS
+271,11-05-2023,Fortaleza EC,0 - 0,Sao Paulo
+272,14-05-2023,Corinthians,1 - 1,Sao Paulo
+273,20-05-2023,Sao Paulo,4 - 2,Vasco da Gama
+274,28-05-2023,Sao Paulo,2 - 1,Goiás EC
+275,04-06-2023,Grêmio Porto Al,2 - 1,Sao Paulo
+276,11-06-2023,Sao Paulo,0 - 2,SE Palmeiras
+277,21-06-2023,Sao Paulo,2 - 1,CA Paranaense
+278,25-06-2023,Cruzeiro,1 - 0,Sao Paulo
+279,01-07-2023,Sao Paulo,1 - 0,Fluminense FC
+280,09-07-2023,RB Bragantino,0 - 0,Sao Paulo
+281,16-07-2023,Sao Paulo,? - ?,Santos
+282,16-04-2023,Atletico Mineiro,1 - 2,Vasco da Gama
+283,23-04-2023,Vasco da Gama,2 - 2,SE Palmeiras
+284,01-05-2023,Vasco da Gama,0 - 1,EC Bahia
+285,07-05-2023,Fluminense FC,1 - 1,Vasco da Gama
+286,11-05-2023,Coritiba FBC,1 - 1,Vasco da Gama
+287,14-05-2023,Vasco da Gama,0 - 1,Santos
+288,20-05-2023,Sao Paulo,4 - 2,Vasco da Gama
+289,27-05-2023,Fortaleza EC,2 - 0,Vasco da Gama
+290,05-06-2023,Vasco da Gama,1 - 4,Flamengo RJ
+291,11-06-2023,Internacional RS,2 - 1,Vasco da Gama
+292,22-06-2023,Vasco da Gama,0 - 1,Goiás EC
+293,27-06-2023,Vasco da Gama,1 - 0,Cuiaba
+294,02-07-2023,Botafogo FR,2 - 0,Vasco da Gama
+295,08-07-2023,Vasco da Gama,0 - 1,Cruzeiro

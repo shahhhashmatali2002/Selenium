@@ -1,0 +1,761 @@
+,date,home_team,score,away_team
+0,05-08-2022,Crystal Palace,0 - 2,Arsenal
+1,13-08-2022,Arsenal,4 - 2,Leicester
+2,20-08-2022,Bournemouth,0 - 3,Arsenal
+3,27-08-2022,Arsenal,2 - 1,Fulham
+4,31-08-2022,Arsenal,2 - 1,Aston Villa
+5,04-09-2022,Man United,3 - 1,Arsenal
+6,18-09-2022,Brentford,0 - 3,Arsenal
+7,01-10-2022,Arsenal,3 - 1,Tottenham
+8,09-10-2022,Arsenal,3 - 2,Liverpool
+9,16-10-2022,Leeds,0 - 1,Arsenal
+10,23-10-2022,Southampton,1 - 1,Arsenal
+11,30-10-2022,Arsenal,5 - 0,Nott'm Forest
+12,06-11-2022,Chelsea,0 - 1,Arsenal
+13,12-11-2022,Wolves,0 - 2,Arsenal
+14,26-12-2022,Arsenal,3 - 1,West Ham
+15,31-12-2022,Brighton,2 - 4,Arsenal
+16,03-01-2023,Arsenal,0 - 0,Newcastle
+17,15-01-2023,Tottenham,0 - 2,Arsenal
+18,22-01-2023,Arsenal,3 - 2,Man United
+19,04-02-2023,Everton,1 - 0,Arsenal
+20,11-02-2023,Arsenal,1 - 1,Brentford
+21,15-02-2023,Arsenal,1 - 3,Man City
+22,18-02-2023,Aston Villa,2 - 4,Arsenal
+23,25-02-2023,Leicester,0 - 1,Arsenal
+24,01-03-2023,Arsenal,4 - 0,Everton
+25,04-03-2023,Arsenal,3 - 2,Bournemouth
+26,12-03-2023,Fulham,0 - 3,Arsenal
+27,19-03-2023,Arsenal,4 - 1,Crystal Palace
+28,01-04-2023,Arsenal,4 - 1,Leeds
+29,09-04-2023,Liverpool,2 - 2,Arsenal
+30,16-04-2023,West Ham,2 - 2,Arsenal
+31,21-04-2023,Arsenal,3 - 3,Southampton
+32,26-04-2023,Man City,4 - 1,Arsenal
+33,02-05-2023,Arsenal,3 - 1,Chelsea
+34,07-05-2023,Newcastle,0 - 2,Arsenal
+35,14-05-2023,Arsenal,0 - 3,Brighton
+36,20-05-2023,Nott'm Forest,1 - 0,Arsenal
+37,28-05-2023,Arsenal,5 - 0,Wolves
+38,06-08-2022,Bournemouth,2 - 0,Aston Villa
+39,13-08-2022,Aston Villa,2 - 1,Everton
+40,20-08-2022,Crystal Palace,3 - 1,Aston Villa
+41,28-08-2022,Aston Villa,0 - 1,West Ham
+42,31-08-2022,Arsenal,2 - 1,Aston Villa
+43,03-09-2022,Aston Villa,1 - 1,Man City
+44,16-09-2022,Aston Villa,1 - 0,Southampton
+45,02-10-2022,Leeds,0 - 0,Aston Villa
+46,10-10-2022,Nott'm Forest,1 - 1,Aston Villa
+47,16-10-2022,Aston Villa,0 - 2,Chelsea
+48,20-10-2022,Fulham,3 - 0,Aston Villa
+49,23-10-2022,Aston Villa,4 - 0,Brentford
+50,29-10-2022,Newcastle,4 - 0,Aston Villa
+51,06-11-2022,Aston Villa,3 - 1,Man United
+52,13-11-2022,Brighton,1 - 2,Aston Villa
+53,26-12-2022,Aston Villa,1 - 3,Liverpool
+54,01-01-2023,Tottenham,0 - 2,Aston Villa
+55,04-01-2023,Aston Villa,1 - 1,Wolves
+56,13-01-2023,Aston Villa,2 - 1,Leeds
+57,21-01-2023,Southampton,0 - 1,Aston Villa
+58,04-02-2023,Aston Villa,2 - 4,Leicester
+59,12-02-2023,Man City,3 - 1,Aston Villa
+60,18-02-2023,Aston Villa,2 - 4,Arsenal
+61,25-02-2023,Everton,0 - 2,Aston Villa
+62,04-03-2023,Aston Villa,1 - 0,Crystal Palace
+63,12-03-2023,West Ham,1 - 1,Aston Villa
+64,18-03-2023,Aston Villa,3 - 0,Bournemouth
+65,01-04-2023,Chelsea,0 - 2,Aston Villa
+66,04-04-2023,Leicester,1 - 2,Aston Villa
+67,08-04-2023,Aston Villa,2 - 0,Nott'm Forest
+68,15-04-2023,Aston Villa,3 - 0,Newcastle
+69,22-04-2023,Brentford,1 - 1,Aston Villa
+70,25-04-2023,Aston Villa,1 - 0,Fulham
+71,30-04-2023,Man United,1 - 0,Aston Villa
+72,06-05-2023,Wolves,1 - 0,Aston Villa
+73,13-05-2023,Aston Villa,2 - 1,Tottenham
+74,20-05-2023,Liverpool,1 - 1,Aston Villa
+75,28-05-2023,Aston Villa,2 - 1,Brighton
+76,06-08-2022,Bournemouth,2 - 0,Aston Villa
+77,13-08-2022,Man City,4 - 0,Bournemouth
+78,20-08-2022,Bournemouth,0 - 3,Arsenal
+79,27-08-2022,Liverpool,9 - 0,Bournemouth
+80,31-08-2022,Bournemouth,0 - 0,Wolves
+81,03-09-2022,Nott'm Forest,2 - 3,Bournemouth
+82,17-09-2022,Newcastle,1 - 1,Bournemouth
+83,01-10-2022,Bournemouth,0 - 0,Brentford
+84,08-10-2022,Bournemouth,2 - 1,Leicester
+85,15-10-2022,Fulham,2 - 2,Bournemouth
+86,19-10-2022,Bournemouth,0 - 1,Southampton
+87,24-10-2022,West Ham,2 - 0,Bournemouth
+88,29-10-2022,Bournemouth,2 - 3,Tottenham
+89,05-11-2022,Leeds,4 - 3,Bournemouth
+90,12-11-2022,Bournemouth,3 - 0,Everton
+91,27-12-2022,Chelsea,2 - 0,Bournemouth
+92,31-12-2022,Bournemouth,0 - 2,Crystal Palace
+93,03-01-2023,Man United,3 - 0,Bournemouth
+94,14-01-2023,Brentford,2 - 0,Bournemouth
+95,21-01-2023,Bournemouth,1 - 1,Nott'm Forest
+96,04-02-2023,Brighton,1 - 0,Bournemouth
+97,11-02-2023,Bournemouth,1 - 1,Newcastle
+98,18-02-2023,Wolves,0 - 1,Bournemouth
+99,25-02-2023,Bournemouth,1 - 4,Man City
+100,04-03-2023,Arsenal,3 - 2,Bournemouth
+101,11-03-2023,Bournemouth,1 - 0,Liverpool
+102,18-03-2023,Aston Villa,3 - 0,Bournemouth
+103,01-04-2023,Bournemouth,2 - 1,Fulham
+104,04-04-2023,Bournemouth,0 - 2,Brighton
+105,08-04-2023,Leicester,0 - 1,Bournemouth
+106,15-04-2023,Tottenham,2 - 3,Bournemouth
+107,23-04-2023,Bournemouth,0 - 4,West Ham
+108,27-04-2023,Southampton,0 - 1,Bournemouth
+109,30-04-2023,Bournemouth,4 - 1,Leeds
+110,06-05-2023,Bournemouth,1 - 3,Chelsea
+111,13-05-2023,Crystal Palace,2 - 0,Bournemouth
+112,20-05-2023,Bournemouth,0 - 1,Man United
+113,28-05-2023,Everton,1 - 0,Bournemouth
+114,07-08-2022,Leicester,2 - 2,Brentford
+115,13-08-2022,Brentford,4 - 0,Man United
+116,20-08-2022,Fulham,3 - 2,Brentford
+117,27-08-2022,Brentford,1 - 1,Everton
+118,30-08-2022,Crystal Palace,1 - 1,Brentford
+119,03-09-2022,Brentford,5 - 2,Leeds
+120,18-09-2022,Brentford,0 - 3,Arsenal
+121,01-10-2022,Bournemouth,0 - 0,Brentford
+122,08-10-2022,Newcastle,5 - 1,Brentford
+123,14-10-2022,Brentford,2 - 0,Brighton
+124,19-10-2022,Brentford,0 - 0,Chelsea
+125,23-10-2022,Aston Villa,4 - 0,Brentford
+126,29-10-2022,Brentford,1 - 1,Wolves
+127,05-11-2022,Nott'm Forest,2 - 2,Brentford
+128,12-11-2022,Man City,1 - 2,Brentford
+129,26-12-2022,Brentford,2 - 2,Tottenham
+130,30-12-2022,West Ham,0 - 2,Brentford
+131,02-01-2023,Brentford,3 - 1,Liverpool
+132,14-01-2023,Brentford,2 - 0,Bournemouth
+133,22-01-2023,Leeds,0 - 0,Brentford
+134,04-02-2023,Brentford,3 - 0,Southampton
+135,11-02-2023,Arsenal,1 - 1,Brentford
+136,18-02-2023,Brentford,1 - 1,Crystal Palace
+137,06-03-2023,Brentford,3 - 2,Fulham
+138,11-03-2023,Everton,1 - 0,Brentford
+139,15-03-2023,Southampton,0 - 2,Brentford
+140,18-03-2023,Brentford,1 - 1,Leicester
+141,01-04-2023,Brighton,3 - 3,Brentford
+142,05-04-2023,Man United,1 - 0,Brentford
+143,08-04-2023,Brentford,1 - 2,Newcastle
+144,15-04-2023,Wolves,2 - 0,Brentford
+145,22-04-2023,Brentford,1 - 1,Aston Villa
+146,26-04-2023,Chelsea,0 - 2,Brentford
+147,29-04-2023,Brentford,2 - 1,Nott'm Forest
+148,06-05-2023,Liverpool,1 - 0,Brentford
+149,14-05-2023,Brentford,2 - 0,West Ham
+150,20-05-2023,Tottenham,1 - 3,Brentford
+151,28-05-2023,Brentford,1 - 0,Man City
+152,07-08-2022,Man United,1 - 2,Brighton
+153,13-08-2022,Brighton,0 - 0,Newcastle
+154,21-08-2022,West Ham,0 - 2,Brighton
+155,27-08-2022,Brighton,1 - 0,Leeds
+156,30-08-2022,Fulham,2 - 1,Brighton
+157,04-09-2022,Brighton,5 - 2,Leicester
+158,01-10-2022,Liverpool,3 - 3,Brighton
+159,08-10-2022,Brighton,0 - 1,Tottenham
+160,14-10-2022,Brentford,2 - 0,Brighton
+161,18-10-2022,Brighton,0 - 0,Nott'm Forest
+162,22-10-2022,Man City,3 - 1,Brighton
+163,29-10-2022,Brighton,4 - 1,Chelsea
+164,05-11-2022,Wolves,2 - 3,Brighton
+165,13-11-2022,Brighton,1 - 2,Aston Villa
+166,26-12-2022,Southampton,1 - 3,Brighton
+167,31-12-2022,Brighton,2 - 4,Arsenal
+168,03-01-2023,Everton,1 - 4,Brighton
+169,14-01-2023,Brighton,3 - 0,Liverpool
+170,21-01-2023,Leicester,2 - 2,Brighton
+171,04-02-2023,Brighton,1 - 0,Bournemouth
+172,11-02-2023,Crystal Palace,1 - 1,Brighton
+173,18-02-2023,Brighton,0 - 1,Fulham
+174,04-03-2023,Brighton,4 - 0,West Ham
+175,11-03-2023,Leeds,2 - 2,Brighton
+176,15-03-2023,Brighton,1 - 0,Crystal Palace
+177,01-04-2023,Brighton,3 - 3,Brentford
+178,04-04-2023,Bournemouth,0 - 2,Brighton
+179,08-04-2023,Tottenham,2 - 1,Brighton
+180,15-04-2023,Chelsea,1 - 2,Brighton
+181,26-04-2023,Nott'm Forest,3 - 1,Brighton
+182,29-04-2023,Brighton,6 - 0,Wolves
+183,04-05-2023,Brighton,1 - 0,Man United
+184,08-05-2023,Brighton,1 - 5,Everton
+185,14-05-2023,Arsenal,0 - 3,Brighton
+186,18-05-2023,Newcastle,4 - 1,Brighton
+187,21-05-2023,Brighton,3 - 1,Southampton
+188,24-05-2023,Brighton,1 - 1,Man City
+189,28-05-2023,Aston Villa,2 - 1,Brighton
+190,06-08-2022,Everton,0 - 1,Chelsea
+191,14-08-2022,Chelsea,2 - 2,Tottenham
+192,21-08-2022,Leeds,3 - 0,Chelsea
+193,27-08-2022,Chelsea,2 - 1,Leicester
+194,30-08-2022,Southampton,2 - 1,Chelsea
+195,03-09-2022,Chelsea,2 - 1,West Ham
+196,01-10-2022,Crystal Palace,1 - 2,Chelsea
+197,08-10-2022,Chelsea,3 - 0,Wolves
+198,16-10-2022,Aston Villa,0 - 2,Chelsea
+199,19-10-2022,Brentford,0 - 0,Chelsea
+200,22-10-2022,Chelsea,1 - 1,Man United
+201,29-10-2022,Brighton,4 - 1,Chelsea
+202,06-11-2022,Chelsea,0 - 1,Arsenal
+203,12-11-2022,Newcastle,1 - 0,Chelsea
+204,27-12-2022,Chelsea,2 - 0,Bournemouth
+205,01-01-2023,Nott'm Forest,1 - 1,Chelsea
+206,05-01-2023,Chelsea,0 - 1,Man City
+207,12-01-2023,Fulham,2 - 1,Chelsea
+208,15-01-2023,Chelsea,1 - 0,Crystal Palace
+209,21-01-2023,Liverpool,0 - 0,Chelsea
+210,03-02-2023,Chelsea,0 - 0,Fulham
+211,11-02-2023,West Ham,1 - 1,Chelsea
+212,18-02-2023,Chelsea,0 - 1,Southampton
+213,26-02-2023,Tottenham,2 - 0,Chelsea
+214,04-03-2023,Chelsea,1 - 0,Leeds
+215,11-03-2023,Leicester,1 - 3,Chelsea
+216,18-03-2023,Chelsea,2 - 2,Everton
+217,01-04-2023,Chelsea,0 - 2,Aston Villa
+218,04-04-2023,Chelsea,0 - 0,Liverpool
+219,08-04-2023,Wolves,1 - 0,Chelsea
+220,15-04-2023,Chelsea,1 - 2,Brighton
+221,26-04-2023,Chelsea,0 - 2,Brentford
+222,02-05-2023,Arsenal,3 - 1,Chelsea
+223,06-05-2023,Bournemouth,1 - 3,Chelsea
+224,13-05-2023,Chelsea,2 - 2,Nott'm Forest
+225,21-05-2023,Man City,1 - 0,Chelsea
+226,25-05-2023,Man United,4 - 1,Chelsea
+227,28-05-2023,Chelsea,1 - 1,Newcastle
+228,05-08-2022,Crystal Palace,0 - 2,Arsenal
+229,15-08-2022,Liverpool,1 - 1,Crystal Palace
+230,20-08-2022,Crystal Palace,3 - 1,Aston Villa
+231,27-08-2022,Man City,4 - 2,Crystal Palace
+232,30-08-2022,Crystal Palace,1 - 1,Brentford
+233,03-09-2022,Newcastle,0 - 0,Crystal Palace
+234,01-10-2022,Crystal Palace,1 - 2,Chelsea
+235,09-10-2022,Crystal Palace,2 - 1,Leeds
+236,15-10-2022,Leicester,0 - 0,Crystal Palace
+237,18-10-2022,Crystal Palace,2 - 1,Wolves
+238,22-10-2022,Everton,3 - 0,Crystal Palace
+239,29-10-2022,Crystal Palace,1 - 0,Southampton
+240,06-11-2022,West Ham,1 - 2,Crystal Palace
+241,12-11-2022,Nott'm Forest,1 - 0,Crystal Palace
+242,26-12-2022,Crystal Palace,0 - 3,Fulham
+243,31-12-2022,Bournemouth,0 - 2,Crystal Palace
+244,04-01-2023,Crystal Palace,0 - 4,Tottenham
+245,15-01-2023,Chelsea,1 - 0,Crystal Palace
+246,18-01-2023,Crystal Palace,1 - 1,Man United
+247,21-01-2023,Crystal Palace,0 - 0,Newcastle
+248,04-02-2023,Man United,2 - 1,Crystal Palace
+249,11-02-2023,Crystal Palace,1 - 1,Brighton
+250,18-02-2023,Brentford,1 - 1,Crystal Palace
+251,25-02-2023,Crystal Palace,0 - 0,Liverpool
+252,04-03-2023,Aston Villa,1 - 0,Crystal Palace
+253,11-03-2023,Crystal Palace,0 - 1,Man City
+254,15-03-2023,Brighton,1 - 0,Crystal Palace
+255,19-03-2023,Arsenal,4 - 1,Crystal Palace
+256,01-04-2023,Crystal Palace,2 - 1,Leicester
+257,09-04-2023,Leeds,1 - 5,Crystal Palace
+258,15-04-2023,Southampton,0 - 2,Crystal Palace
+259,22-04-2023,Crystal Palace,0 - 0,Everton
+260,25-04-2023,Wolves,2 - 0,Crystal Palace
+261,29-04-2023,Crystal Palace,4 - 3,West Ham
+262,06-05-2023,Tottenham,1 - 0,Crystal Palace
+263,13-05-2023,Crystal Palace,2 - 0,Bournemouth
+264,20-05-2023,Fulham,2 - 2,Crystal Palace
+265,28-05-2023,Crystal Palace,1 - 1,Nott'm Forest
+266,06-08-2022,Everton,0 - 1,Chelsea
+267,13-08-2022,Aston Villa,2 - 1,Everton
+268,20-08-2022,Everton,1 - 1,Nott'm Forest
+269,27-08-2022,Brentford,1 - 1,Everton
+270,30-08-2022,Leeds,1 - 1,Everton
+271,03-09-2022,Everton,0 - 0,Liverpool
+272,18-09-2022,Everton,1 - 0,West Ham
+273,01-10-2022,Southampton,1 - 2,Everton
+274,09-10-2022,Everton,1 - 2,Man United
+275,15-10-2022,Tottenham,2 - 0,Everton
+276,19-10-2022,Newcastle,1 - 0,Everton
+277,22-10-2022,Everton,3 - 0,Crystal Palace
+278,29-10-2022,Fulham,0 - 0,Everton
+279,05-11-2022,Everton,0 - 2,Leicester
+280,12-11-2022,Bournemouth,3 - 0,Everton
+281,26-12-2022,Everton,1 - 2,Wolves
+282,31-12-2022,Man City,1 - 1,Everton
+283,03-01-2023,Everton,1 - 4,Brighton
+284,14-01-2023,Everton,1 - 2,Southampton
+285,21-01-2023,West Ham,2 - 0,Everton
+286,04-02-2023,Everton,1 - 0,Arsenal
+287,13-02-2023,Liverpool,2 - 0,Everton
+288,18-02-2023,Everton,1 - 0,Leeds
+289,25-02-2023,Everton,0 - 2,Aston Villa
+290,01-03-2023,Arsenal,4 - 0,Everton
+291,05-03-2023,Nott'm Forest,2 - 2,Everton
+292,11-03-2023,Everton,1 - 0,Brentford
+293,18-03-2023,Chelsea,2 - 2,Everton
+294,03-04-2023,Everton,1 - 1,Tottenham
+295,08-04-2023,Man United,2 - 0,Everton
+296,15-04-2023,Everton,1 - 3,Fulham
+297,22-04-2023,Crystal Palace,0 - 0,Everton
+298,27-04-2023,Everton,1 - 4,Newcastle
+299,01-05-2023,Leicester,2 - 2,Everton
+300,08-05-2023,Brighton,1 - 5,Everton
+301,14-05-2023,Everton,0 - 3,Man City
+302,20-05-2023,Wolves,1 - 1,Everton
+303,28-05-2023,Everton,1 - 0,Bournemouth
+304,06-08-2022,Fulham,2 - 2,Liverpool
+305,13-08-2022,Wolves,0 - 0,Fulham
+306,20-08-2022,Fulham,3 - 2,Brentford
+307,27-08-2022,Arsenal,2 - 1,Fulham
+308,30-08-2022,Fulham,2 - 1,Brighton
+309,03-09-2022,Tottenham,2 - 1,Fulham
+310,16-09-2022,Nott'm Forest,2 - 3,Fulham
+311,01-10-2022,Fulham,1 - 4,Newcastle
+312,09-10-2022,West Ham,3 - 1,Fulham
+313,15-10-2022,Fulham,2 - 2,Bournemouth
+314,20-10-2022,Fulham,3 - 0,Aston Villa
+315,23-10-2022,Leeds,2 - 3,Fulham
+316,29-10-2022,Fulham,0 - 0,Everton
+317,05-11-2022,Man City,2 - 1,Fulham
+318,13-11-2022,Fulham,1 - 2,Man United
+319,26-12-2022,Crystal Palace,0 - 3,Fulham
+320,31-12-2022,Fulham,2 - 1,Southampton
+321,03-01-2023,Leicester,0 - 1,Fulham
+322,12-01-2023,Fulham,2 - 1,Chelsea
+323,15-01-2023,Newcastle,1 - 0,Fulham
+324,23-01-2023,Fulham,0 - 1,Tottenham
+325,03-02-2023,Chelsea,0 - 0,Fulham
+326,11-02-2023,Fulham,2 - 0,Nott'm Forest
+327,18-02-2023,Brighton,0 - 1,Fulham
+328,24-02-2023,Fulham,1 - 1,Wolves
+329,06-03-2023,Brentford,3 - 2,Fulham
+330,12-03-2023,Fulham,0 - 3,Arsenal
+331,01-04-2023,Bournemouth,2 - 1,Fulham
+332,08-04-2023,Fulham,0 - 1,West Ham
+333,15-04-2023,Everton,1 - 3,Fulham
+334,22-04-2023,Fulham,2 - 1,Leeds
+335,25-04-2023,Aston Villa,1 - 0,Fulham
+336,30-04-2023,Fulham,1 - 2,Man City
+337,03-05-2023,Liverpool,1 - 0,Fulham
+338,08-05-2023,Fulham,5 - 3,Leicester
+339,13-05-2023,Southampton,0 - 2,Fulham
+340,20-05-2023,Fulham,2 - 2,Crystal Palace
+341,28-05-2023,Man United,2 - 1,Fulham
+342,06-08-2022,Leeds,2 - 1,Wolves
+343,13-08-2022,Southampton,2 - 2,Leeds
+344,21-08-2022,Leeds,3 - 0,Chelsea
+345,27-08-2022,Brighton,1 - 0,Leeds
+346,30-08-2022,Leeds,1 - 1,Everton
+347,03-09-2022,Brentford,5 - 2,Leeds
+348,02-10-2022,Leeds,0 - 0,Aston Villa
+349,09-10-2022,Crystal Palace,2 - 1,Leeds
+350,16-10-2022,Leeds,0 - 1,Arsenal
+351,20-10-2022,Leicester,2 - 0,Leeds
+352,23-10-2022,Leeds,2 - 3,Fulham
+353,29-10-2022,Liverpool,1 - 2,Leeds
+354,05-11-2022,Leeds,4 - 3,Bournemouth
+355,12-11-2022,Tottenham,4 - 3,Leeds
+356,28-12-2022,Leeds,1 - 3,Man City
+357,31-12-2022,Newcastle,0 - 0,Leeds
+358,04-01-2023,Leeds,2 - 2,West Ham
+359,13-01-2023,Aston Villa,2 - 1,Leeds
+360,22-01-2023,Leeds,0 - 0,Brentford
+361,05-02-2023,Nott'm Forest,1 - 0,Leeds
+362,08-02-2023,Man United,2 - 2,Leeds
+363,12-02-2023,Leeds,0 - 2,Man United
+364,18-02-2023,Everton,1 - 0,Leeds
+365,25-02-2023,Leeds,1 - 0,Southampton
+366,04-03-2023,Chelsea,1 - 0,Leeds
+367,11-03-2023,Leeds,2 - 2,Brighton
+368,18-03-2023,Wolves,2 - 4,Leeds
+369,01-04-2023,Arsenal,4 - 1,Leeds
+370,04-04-2023,Leeds,2 - 1,Nott'm Forest
+371,09-04-2023,Leeds,1 - 5,Crystal Palace
+372,17-04-2023,Leeds,1 - 6,Liverpool
+373,22-04-2023,Fulham,2 - 1,Leeds
+374,25-04-2023,Leeds,1 - 1,Leicester
+375,30-04-2023,Bournemouth,4 - 1,Leeds
+376,06-05-2023,Man City,2 - 1,Leeds
+377,13-05-2023,Leeds,2 - 2,Newcastle
+378,21-05-2023,West Ham,3 - 1,Leeds
+379,28-05-2023,Leeds,1 - 4,Tottenham
+380,07-08-2022,Leicester,2 - 2,Brentford
+381,13-08-2022,Arsenal,4 - 2,Leicester
+382,20-08-2022,Leicester,1 - 2,Southampton
+383,27-08-2022,Chelsea,2 - 1,Leicester
+384,01-09-2022,Leicester,0 - 1,Man United
+385,04-09-2022,Brighton,5 - 2,Leicester
+386,17-09-2022,Tottenham,6 - 2,Leicester
+387,03-10-2022,Leicester,4 - 0,Nott'm Forest
+388,08-10-2022,Bournemouth,2 - 1,Leicester
+389,15-10-2022,Leicester,0 - 0,Crystal Palace
+390,20-10-2022,Leicester,2 - 0,Leeds
+391,23-10-2022,Wolves,0 - 4,Leicester
+392,29-10-2022,Leicester,0 - 1,Man City
+393,05-11-2022,Everton,0 - 2,Leicester
+394,12-11-2022,West Ham,0 - 2,Leicester
+395,26-12-2022,Leicester,0 - 3,Newcastle
+396,30-12-2022,Liverpool,2 - 1,Leicester
+397,03-01-2023,Leicester,0 - 1,Fulham
+398,14-01-2023,Nott'm Forest,2 - 0,Leicester
+399,21-01-2023,Leicester,2 - 2,Brighton
+400,04-02-2023,Aston Villa,2 - 4,Leicester
+401,11-02-2023,Leicester,4 - 1,Tottenham
+402,19-02-2023,Man United,3 - 0,Leicester
+403,25-02-2023,Leicester,0 - 1,Arsenal
+404,04-03-2023,Southampton,1 - 0,Leicester
+405,11-03-2023,Leicester,1 - 3,Chelsea
+406,18-03-2023,Brentford,1 - 1,Leicester
+407,01-04-2023,Crystal Palace,2 - 1,Leicester
+408,04-04-2023,Leicester,1 - 2,Aston Villa
+409,08-04-2023,Leicester,0 - 1,Bournemouth
+410,15-04-2023,Man City,3 - 1,Leicester
+411,22-04-2023,Leicester,2 - 1,Wolves
+412,25-04-2023,Leeds,1 - 1,Leicester
+413,01-05-2023,Leicester,2 - 2,Everton
+414,08-05-2023,Fulham,5 - 3,Leicester
+415,15-05-2023,Leicester,0 - 3,Liverpool
+416,22-05-2023,Newcastle,0 - 0,Leicester
+417,28-05-2023,Leicester,2 - 1,West Ham
+418,06-08-2022,Fulham,2 - 2,Liverpool
+419,15-08-2022,Liverpool,1 - 1,Crystal Palace
+420,22-08-2022,Man United,2 - 1,Liverpool
+421,27-08-2022,Liverpool,9 - 0,Bournemouth
+422,31-08-2022,Liverpool,2 - 1,Newcastle
+423,03-09-2022,Everton,0 - 0,Liverpool
+424,01-10-2022,Liverpool,3 - 3,Brighton
+425,09-10-2022,Arsenal,3 - 2,Liverpool
+426,16-10-2022,Liverpool,1 - 0,Man City
+427,19-10-2022,Liverpool,1 - 0,West Ham
+428,22-10-2022,Nott'm Forest,1 - 0,Liverpool
+429,29-10-2022,Liverpool,1 - 2,Leeds
+430,06-11-2022,Tottenham,1 - 2,Liverpool
+431,12-11-2022,Liverpool,3 - 1,Southampton
+432,26-12-2022,Aston Villa,1 - 3,Liverpool
+433,30-12-2022,Liverpool,2 - 1,Leicester
+434,02-01-2023,Brentford,3 - 1,Liverpool
+435,14-01-2023,Brighton,3 - 0,Liverpool
+436,21-01-2023,Liverpool,0 - 0,Chelsea
+437,04-02-2023,Wolves,3 - 0,Liverpool
+438,13-02-2023,Liverpool,2 - 0,Everton
+439,18-02-2023,Newcastle,0 - 2,Liverpool
+440,25-02-2023,Crystal Palace,0 - 0,Liverpool
+441,01-03-2023,Liverpool,2 - 0,Wolves
+442,05-03-2023,Liverpool,7 - 0,Man United
+443,11-03-2023,Bournemouth,1 - 0,Liverpool
+444,01-04-2023,Man City,4 - 1,Liverpool
+445,04-04-2023,Chelsea,0 - 0,Liverpool
+446,09-04-2023,Liverpool,2 - 2,Arsenal
+447,17-04-2023,Leeds,1 - 6,Liverpool
+448,22-04-2023,Liverpool,3 - 2,Nott'm Forest
+449,26-04-2023,West Ham,1 - 2,Liverpool
+450,30-04-2023,Liverpool,4 - 3,Tottenham
+451,03-05-2023,Liverpool,1 - 0,Fulham
+452,06-05-2023,Liverpool,1 - 0,Brentford
+453,15-05-2023,Leicester,0 - 3,Liverpool
+454,20-05-2023,Liverpool,1 - 1,Aston Villa
+455,28-05-2023,Southampton,4 - 4,Liverpool
+456,07-08-2022,West Ham,0 - 2,Man City
+457,13-08-2022,Man City,4 - 0,Bournemouth
+458,21-08-2022,Newcastle,3 - 3,Man City
+459,27-08-2022,Man City,4 - 2,Crystal Palace
+460,31-08-2022,Man City,6 - 0,Nott'm Forest
+461,03-09-2022,Aston Villa,1 - 1,Man City
+462,17-09-2022,Wolves,0 - 3,Man City
+463,02-10-2022,Man City,6 - 3,Man United
+464,08-10-2022,Man City,4 - 0,Southampton
+465,16-10-2022,Liverpool,1 - 0,Man City
+466,22-10-2022,Man City,3 - 1,Brighton
+467,29-10-2022,Leicester,0 - 1,Man City
+468,05-11-2022,Man City,2 - 1,Fulham
+469,12-11-2022,Man City,1 - 2,Brentford
+470,28-12-2022,Leeds,1 - 3,Man City
+471,31-12-2022,Man City,1 - 1,Everton
+472,05-01-2023,Chelsea,0 - 1,Man City
+473,14-01-2023,Man United,2 - 1,Man City
+474,19-01-2023,Man City,4 - 2,Tottenham
+475,22-01-2023,Man City,3 - 0,Wolves
+476,05-02-2023,Tottenham,1 - 0,Man City
+477,12-02-2023,Man City,3 - 1,Aston Villa
+478,15-02-2023,Arsenal,1 - 3,Man City
+479,18-02-2023,Nott'm Forest,1 - 1,Man City
+480,25-02-2023,Bournemouth,1 - 4,Man City
+481,04-03-2023,Man City,2 - 0,Newcastle
+482,11-03-2023,Crystal Palace,0 - 1,Man City
+483,01-04-2023,Man City,4 - 1,Liverpool
+484,08-04-2023,Southampton,1 - 4,Man City
+485,15-04-2023,Man City,3 - 1,Leicester
+486,26-04-2023,Man City,4 - 1,Arsenal
+487,30-04-2023,Fulham,1 - 2,Man City
+488,03-05-2023,Man City,3 - 0,West Ham
+489,06-05-2023,Man City,2 - 1,Leeds
+490,14-05-2023,Everton,0 - 3,Man City
+491,21-05-2023,Man City,1 - 0,Chelsea
+492,24-05-2023,Brighton,1 - 1,Man City
+493,28-05-2023,Brentford,1 - 0,Man City
+494,07-08-2022,Man United,1 - 2,Brighton
+495,13-08-2022,Brentford,4 - 0,Man United
+496,22-08-2022,Man United,2 - 1,Liverpool
+497,27-08-2022,Southampton,0 - 1,Man United
+498,01-09-2022,Leicester,0 - 1,Man United
+499,04-09-2022,Man United,3 - 1,Arsenal
+500,02-10-2022,Man City,6 - 3,Man United
+501,09-10-2022,Everton,1 - 2,Man United
+502,16-10-2022,Man United,0 - 0,Newcastle
+503,19-10-2022,Man United,2 - 0,Tottenham
+504,22-10-2022,Chelsea,1 - 1,Man United
+505,30-10-2022,Man United,1 - 0,West Ham
+506,06-11-2022,Aston Villa,3 - 1,Man United
+507,13-11-2022,Fulham,1 - 2,Man United
+508,27-12-2022,Man United,3 - 0,Nott'm Forest
+509,31-12-2022,Wolves,0 - 1,Man United
+510,03-01-2023,Man United,3 - 0,Bournemouth
+511,14-01-2023,Man United,2 - 1,Man City
+512,18-01-2023,Crystal Palace,1 - 1,Man United
+513,22-01-2023,Arsenal,3 - 2,Man United
+514,04-02-2023,Man United,2 - 1,Crystal Palace
+515,08-02-2023,Man United,2 - 2,Leeds
+516,12-02-2023,Leeds,0 - 2,Man United
+517,19-02-2023,Man United,3 - 0,Leicester
+518,05-03-2023,Liverpool,7 - 0,Man United
+519,12-03-2023,Man United,0 - 0,Southampton
+520,02-04-2023,Newcastle,2 - 0,Man United
+521,05-04-2023,Man United,1 - 0,Brentford
+522,08-04-2023,Man United,2 - 0,Everton
+523,16-04-2023,Nott'm Forest,0 - 2,Man United
+524,27-04-2023,Tottenham,2 - 2,Man United
+525,30-04-2023,Man United,1 - 0,Aston Villa
+526,04-05-2023,Brighton,1 - 0,Man United
+527,07-05-2023,West Ham,1 - 0,Man United
+528,13-05-2023,Man United,2 - 0,Wolves
+529,20-05-2023,Bournemouth,0 - 1,Man United
+530,25-05-2023,Man United,4 - 1,Chelsea
+531,28-05-2023,Man United,2 - 1,Fulham
+532,06-08-2022,Newcastle,2 - 0,Nott'm Forest
+533,13-08-2022,Brighton,0 - 0,Newcastle
+534,21-08-2022,Newcastle,3 - 3,Man City
+535,28-08-2022,Wolves,1 - 1,Newcastle
+536,31-08-2022,Liverpool,2 - 1,Newcastle
+537,03-09-2022,Newcastle,0 - 0,Crystal Palace
+538,17-09-2022,Newcastle,1 - 1,Bournemouth
+539,01-10-2022,Fulham,1 - 4,Newcastle
+540,08-10-2022,Newcastle,5 - 1,Brentford
+541,16-10-2022,Man United,0 - 0,Newcastle
+542,19-10-2022,Newcastle,1 - 0,Everton
+543,23-10-2022,Tottenham,1 - 2,Newcastle
+544,29-10-2022,Newcastle,4 - 0,Aston Villa
+545,06-11-2022,Southampton,1 - 4,Newcastle
+546,12-11-2022,Newcastle,1 - 0,Chelsea
+547,26-12-2022,Leicester,0 - 3,Newcastle
+548,31-12-2022,Newcastle,0 - 0,Leeds
+549,03-01-2023,Arsenal,0 - 0,Newcastle
+550,15-01-2023,Newcastle,1 - 0,Fulham
+551,21-01-2023,Crystal Palace,0 - 0,Newcastle
+552,04-02-2023,Newcastle,1 - 1,West Ham
+553,11-02-2023,Bournemouth,1 - 1,Newcastle
+554,18-02-2023,Newcastle,0 - 2,Liverpool
+555,04-03-2023,Man City,2 - 0,Newcastle
+556,12-03-2023,Newcastle,2 - 1,Wolves
+557,17-03-2023,Nott'm Forest,1 - 2,Newcastle
+558,02-04-2023,Newcastle,2 - 0,Man United
+559,05-04-2023,West Ham,1 - 5,Newcastle
+560,08-04-2023,Brentford,1 - 2,Newcastle
+561,15-04-2023,Aston Villa,3 - 0,Newcastle
+562,23-04-2023,Newcastle,6 - 1,Tottenham
+563,27-04-2023,Everton,1 - 4,Newcastle
+564,30-04-2023,Newcastle,3 - 1,Southampton
+565,07-05-2023,Newcastle,0 - 2,Arsenal
+566,13-05-2023,Leeds,2 - 2,Newcastle
+567,18-05-2023,Newcastle,4 - 1,Brighton
+568,22-05-2023,Newcastle,0 - 0,Leicester
+569,28-05-2023,Chelsea,1 - 1,Newcastle
+570,06-08-2022,Newcastle,2 - 0,Nott'm Forest
+571,14-08-2022,Nott'm Forest,1 - 0,West Ham
+572,20-08-2022,Everton,1 - 1,Nott'm Forest
+573,28-08-2022,Nott'm Forest,0 - 2,Tottenham
+574,31-08-2022,Man City,6 - 0,Nott'm Forest
+575,03-09-2022,Nott'm Forest,2 - 3,Bournemouth
+576,16-09-2022,Nott'm Forest,2 - 3,Fulham
+577,03-10-2022,Leicester,4 - 0,Nott'm Forest
+578,10-10-2022,Nott'm Forest,1 - 1,Aston Villa
+579,15-10-2022,Wolves,1 - 0,Nott'm Forest
+580,18-10-2022,Brighton,0 - 0,Nott'm Forest
+581,22-10-2022,Nott'm Forest,1 - 0,Liverpool
+582,30-10-2022,Arsenal,5 - 0,Nott'm Forest
+583,05-11-2022,Nott'm Forest,2 - 2,Brentford
+584,12-11-2022,Nott'm Forest,1 - 0,Crystal Palace
+585,27-12-2022,Man United,3 - 0,Nott'm Forest
+586,01-01-2023,Nott'm Forest,1 - 1,Chelsea
+587,04-01-2023,Southampton,0 - 1,Nott'm Forest
+588,14-01-2023,Nott'm Forest,2 - 0,Leicester
+589,21-01-2023,Bournemouth,1 - 1,Nott'm Forest
+590,05-02-2023,Nott'm Forest,1 - 0,Leeds
+591,11-02-2023,Fulham,2 - 0,Nott'm Forest
+592,18-02-2023,Nott'm Forest,1 - 1,Man City
+593,25-02-2023,West Ham,4 - 0,Nott'm Forest
+594,05-03-2023,Nott'm Forest,2 - 2,Everton
+595,11-03-2023,Tottenham,3 - 1,Nott'm Forest
+596,17-03-2023,Nott'm Forest,1 - 2,Newcastle
+597,01-04-2023,Nott'm Forest,1 - 1,Wolves
+598,04-04-2023,Leeds,2 - 1,Nott'm Forest
+599,08-04-2023,Aston Villa,2 - 0,Nott'm Forest
+600,16-04-2023,Nott'm Forest,0 - 2,Man United
+601,22-04-2023,Liverpool,3 - 2,Nott'm Forest
+602,26-04-2023,Nott'm Forest,3 - 1,Brighton
+603,29-04-2023,Brentford,2 - 1,Nott'm Forest
+604,08-05-2023,Nott'm Forest,4 - 3,Southampton
+605,13-05-2023,Chelsea,2 - 2,Nott'm Forest
+606,20-05-2023,Nott'm Forest,1 - 0,Arsenal
+607,28-05-2023,Crystal Palace,1 - 1,Nott'm Forest
+608,06-08-2022,Tottenham,4 - 1,Southampton
+609,13-08-2022,Southampton,2 - 2,Leeds
+610,20-08-2022,Leicester,1 - 2,Southampton
+611,27-08-2022,Southampton,0 - 1,Man United
+612,30-08-2022,Southampton,2 - 1,Chelsea
+613,03-09-2022,Wolves,1 - 0,Southampton
+614,16-09-2022,Aston Villa,1 - 0,Southampton
+615,01-10-2022,Southampton,1 - 2,Everton
+616,08-10-2022,Man City,4 - 0,Southampton
+617,16-10-2022,Southampton,1 - 1,West Ham
+618,19-10-2022,Bournemouth,0 - 1,Southampton
+619,23-10-2022,Southampton,1 - 1,Arsenal
+620,29-10-2022,Crystal Palace,1 - 0,Southampton
+621,06-11-2022,Southampton,1 - 4,Newcastle
+622,12-11-2022,Liverpool,3 - 1,Southampton
+623,26-12-2022,Southampton,1 - 3,Brighton
+624,31-12-2022,Fulham,2 - 1,Southampton
+625,04-01-2023,Southampton,0 - 1,Nott'm Forest
+626,14-01-2023,Everton,1 - 2,Southampton
+627,21-01-2023,Southampton,0 - 1,Aston Villa
+628,04-02-2023,Brentford,3 - 0,Southampton
+629,11-02-2023,Southampton,1 - 2,Wolves
+630,18-02-2023,Chelsea,0 - 1,Southampton
+631,25-02-2023,Leeds,1 - 0,Southampton
+632,04-03-2023,Southampton,1 - 0,Leicester
+633,12-03-2023,Man United,0 - 0,Southampton
+634,15-03-2023,Southampton,0 - 2,Brentford
+635,18-03-2023,Southampton,3 - 3,Tottenham
+636,02-04-2023,West Ham,1 - 0,Southampton
+637,08-04-2023,Southampton,1 - 4,Man City
+638,15-04-2023,Southampton,0 - 2,Crystal Palace
+639,21-04-2023,Arsenal,3 - 3,Southampton
+640,27-04-2023,Southampton,0 - 1,Bournemouth
+641,30-04-2023,Newcastle,3 - 1,Southampton
+642,08-05-2023,Nott'm Forest,4 - 3,Southampton
+643,13-05-2023,Southampton,0 - 2,Fulham
+644,21-05-2023,Brighton,3 - 1,Southampton
+645,28-05-2023,Southampton,4 - 4,Liverpool
+646,06-08-2022,Tottenham,4 - 1,Southampton
+647,14-08-2022,Chelsea,2 - 2,Tottenham
+648,20-08-2022,Tottenham,1 - 0,Wolves
+649,28-08-2022,Nott'm Forest,0 - 2,Tottenham
+650,31-08-2022,West Ham,1 - 1,Tottenham
+651,03-09-2022,Tottenham,2 - 1,Fulham
+652,17-09-2022,Tottenham,6 - 2,Leicester
+653,01-10-2022,Arsenal,3 - 1,Tottenham
+654,08-10-2022,Brighton,0 - 1,Tottenham
+655,15-10-2022,Tottenham,2 - 0,Everton
+656,19-10-2022,Man United,2 - 0,Tottenham
+657,23-10-2022,Tottenham,1 - 2,Newcastle
+658,29-10-2022,Bournemouth,2 - 3,Tottenham
+659,06-11-2022,Tottenham,1 - 2,Liverpool
+660,12-11-2022,Tottenham,4 - 3,Leeds
+661,26-12-2022,Brentford,2 - 2,Tottenham
+662,01-01-2023,Tottenham,0 - 2,Aston Villa
+663,04-01-2023,Crystal Palace,0 - 4,Tottenham
+664,15-01-2023,Tottenham,0 - 2,Arsenal
+665,19-01-2023,Man City,4 - 2,Tottenham
+666,23-01-2023,Fulham,0 - 1,Tottenham
+667,05-02-2023,Tottenham,1 - 0,Man City
+668,11-02-2023,Leicester,4 - 1,Tottenham
+669,19-02-2023,Tottenham,2 - 0,West Ham
+670,26-02-2023,Tottenham,2 - 0,Chelsea
+671,04-03-2023,Wolves,1 - 0,Tottenham
+672,11-03-2023,Tottenham,3 - 1,Nott'm Forest
+673,18-03-2023,Southampton,3 - 3,Tottenham
+674,03-04-2023,Everton,1 - 1,Tottenham
+675,08-04-2023,Tottenham,2 - 1,Brighton
+676,15-04-2023,Tottenham,2 - 3,Bournemouth
+677,23-04-2023,Newcastle,6 - 1,Tottenham
+678,27-04-2023,Tottenham,2 - 2,Man United
+679,30-04-2023,Liverpool,4 - 3,Tottenham
+680,06-05-2023,Tottenham,1 - 0,Crystal Palace
+681,13-05-2023,Aston Villa,2 - 1,Tottenham
+682,20-05-2023,Tottenham,1 - 3,Brentford
+683,28-05-2023,Leeds,1 - 4,Tottenham
+684,07-08-2022,West Ham,0 - 2,Man City
+685,14-08-2022,Nott'm Forest,1 - 0,West Ham
+686,21-08-2022,West Ham,0 - 2,Brighton
+687,28-08-2022,Aston Villa,0 - 1,West Ham
+688,31-08-2022,West Ham,1 - 1,Tottenham
+689,03-09-2022,Chelsea,2 - 1,West Ham
+690,18-09-2022,Everton,1 - 0,West Ham
+691,01-10-2022,West Ham,2 - 0,Wolves
+692,09-10-2022,West Ham,3 - 1,Fulham
+693,16-10-2022,Southampton,1 - 1,West Ham
+694,19-10-2022,Liverpool,1 - 0,West Ham
+695,24-10-2022,West Ham,2 - 0,Bournemouth
+696,30-10-2022,Man United,1 - 0,West Ham
+697,06-11-2022,West Ham,1 - 2,Crystal Palace
+698,12-11-2022,West Ham,0 - 2,Leicester
+699,26-12-2022,Arsenal,3 - 1,West Ham
+700,30-12-2022,West Ham,0 - 2,Brentford
+701,04-01-2023,Leeds,2 - 2,West Ham
+702,14-01-2023,Wolves,1 - 0,West Ham
+703,21-01-2023,West Ham,2 - 0,Everton
+704,04-02-2023,Newcastle,1 - 1,West Ham
+705,11-02-2023,West Ham,1 - 1,Chelsea
+706,19-02-2023,Tottenham,2 - 0,West Ham
+707,25-02-2023,West Ham,4 - 0,Nott'm Forest
+708,04-03-2023,Brighton,4 - 0,West Ham
+709,12-03-2023,West Ham,1 - 1,Aston Villa
+710,02-04-2023,West Ham,1 - 0,Southampton
+711,05-04-2023,West Ham,1 - 5,Newcastle
+712,08-04-2023,Fulham,0 - 1,West Ham
+713,16-04-2023,West Ham,2 - 2,Arsenal
+714,23-04-2023,Bournemouth,0 - 4,West Ham
+715,26-04-2023,West Ham,1 - 2,Liverpool
+716,29-04-2023,Crystal Palace,4 - 3,West Ham
+717,03-05-2023,Man City,3 - 0,West Ham
+718,07-05-2023,West Ham,1 - 0,Man United
+719,14-05-2023,Brentford,2 - 0,West Ham
+720,21-05-2023,West Ham,3 - 1,Leeds
+721,28-05-2023,Leicester,2 - 1,West Ham
+722,06-08-2022,Leeds,2 - 1,Wolves
+723,13-08-2022,Wolves,0 - 0,Fulham
+724,20-08-2022,Tottenham,1 - 0,Wolves
+725,28-08-2022,Wolves,1 - 1,Newcastle
+726,31-08-2022,Bournemouth,0 - 0,Wolves
+727,03-09-2022,Wolves,1 - 0,Southampton
+728,17-09-2022,Wolves,0 - 3,Man City
+729,01-10-2022,West Ham,2 - 0,Wolves
+730,08-10-2022,Chelsea,3 - 0,Wolves
+731,15-10-2022,Wolves,1 - 0,Nott'm Forest
+732,18-10-2022,Crystal Palace,2 - 1,Wolves
+733,23-10-2022,Wolves,0 - 4,Leicester
+734,29-10-2022,Brentford,1 - 1,Wolves
+735,05-11-2022,Wolves,2 - 3,Brighton
+736,12-11-2022,Wolves,0 - 2,Arsenal
+737,26-12-2022,Everton,1 - 2,Wolves
+738,31-12-2022,Wolves,0 - 1,Man United
+739,04-01-2023,Aston Villa,1 - 1,Wolves
+740,14-01-2023,Wolves,1 - 0,West Ham
+741,22-01-2023,Man City,3 - 0,Wolves
+742,04-02-2023,Wolves,3 - 0,Liverpool
+743,11-02-2023,Southampton,1 - 2,Wolves
+744,18-02-2023,Wolves,0 - 1,Bournemouth
+745,24-02-2023,Fulham,1 - 1,Wolves
+746,01-03-2023,Liverpool,2 - 0,Wolves
+747,04-03-2023,Wolves,1 - 0,Tottenham
+748,12-03-2023,Newcastle,2 - 1,Wolves
+749,18-03-2023,Wolves,2 - 4,Leeds
+750,01-04-2023,Nott'm Forest,1 - 1,Wolves
+751,08-04-2023,Wolves,1 - 0,Chelsea
+752,15-04-2023,Wolves,2 - 0,Brentford
+753,22-04-2023,Leicester,2 - 1,Wolves
+754,25-04-2023,Wolves,2 - 0,Crystal Palace
+755,29-04-2023,Brighton,6 - 0,Wolves
+756,06-05-2023,Wolves,1 - 0,Aston Villa
+757,13-05-2023,Man United,2 - 0,Wolves
+758,20-05-2023,Wolves,1 - 1,Everton
+759,28-05-2023,Arsenal,5 - 0,Wolves

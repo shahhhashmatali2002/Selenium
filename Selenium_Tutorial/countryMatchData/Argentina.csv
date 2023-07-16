@@ -1,0 +1,701 @@
+,date,home_team,score,away_team
+0,26-01-2023,Rosario Central,1 - 0,Argentinos Jrs
+1,05-02-2023,Argentinos Jrs,1 - 0,Racing Club
+2,12-02-2023,River Plate,2 - 1,Argentinos Jrs
+3,18-02-2023,Argentinos Jrs,3 - 0,Belgrano Cordoba
+4,28-02-2023,CA Central Córdoba de Santiago del Estero,1 - 0,Argentinos Jrs
+5,06-03-2023,Tigre,0 - 1,Argentinos Jrs
+6,11-03-2023,Argentinos Jrs,1 - 1,Arsenal de Sarandi
+7,21-03-2023,Lanus,0 - 0,Argentinos Jrs
+8,31-03-2023,Argentinos Jrs,3 - 0,Godoy Cruz
+9,08-04-2023,Sarmiento Junin,2 - 0,Argentinos Jrs
+10,11-04-2023,Argentinos Jrs,5 - 1,Union Santa Fe
+11,16-04-2023,Huracan,0 - 0,Argentinos Jrs
+12,25-04-2023,Argentinos Jrs,2 - 4,Gimnasia LP
+13,28-04-2023,Newells,0 - 0,Argentinos Jrs
+14,06-05-2023,Argentinos Jrs,2 - 2,CA Independiente
+15,13-05-2023,CA Tucuman,1 - 2,Argentinos Jrs
+16,20-05-2023,Argentinos Jrs,0 - 1,Boca Juniors
+17,28-05-2023,Talleres Cord.,1 - 0,Argentinos Jrs
+18,03-06-2023,Argentinos Jrs,1 - 0,Platense
+19,13-06-2023,Velez Sarsfield,0 - 1,Argentinos Jrs
+20,24-06-2023,Argentinos Jrs,3 - 1,Defensa y Justicia
+21,02-07-2023,Banfield,1 - 0,Argentinos Jrs
+22,06-07-2023,Argentinos Jrs,0 - 0,Instituto Cordoba
+23,10-07-2023,Barracas Central,0 - 0,Argentinos Jrs
+24,17-07-2023,Argentinos Jrs,? - ?,Colon
+25,28-01-2023,San Lorenzo,1 - 0,Arsenal de Sarandi
+26,04-02-2023,Arsenal de Sarandi,1 - 1,Estudiantes LP
+27,12-02-2023,Rosario Central,2 - 1,Arsenal de Sarandi
+28,18-02-2023,Arsenal de Sarandi,0 - 3,Racing Club
+29,26-02-2023,River Plate,1 - 2,Arsenal de Sarandi
+30,06-03-2023,Arsenal de Sarandi,0 - 1,Belgrano Cordoba
+31,11-03-2023,Argentinos Jrs,1 - 1,Arsenal de Sarandi
+32,18-03-2023,Arsenal de Sarandi,2 - 0,Tigre
+33,04-04-2023,CA Central Córdoba de Santiago del Estero,1 - 0,Arsenal de Sarandi
+34,07-04-2023,Lanus,3 - 0,Arsenal de Sarandi
+35,13-04-2023,Arsenal de Sarandi,2 - 3,Godoy Cruz
+36,17-04-2023,Sarmiento Junin,1 - 0,Arsenal de Sarandi
+37,22-04-2023,Arsenal de Sarandi,2 - 1,Union Santa Fe
+38,28-04-2023,Huracan,2 - 1,Arsenal de Sarandi
+39,08-05-2023,Arsenal de Sarandi,0 - 1,Gimnasia LP
+40,13-05-2023,Newells,2 - 0,Arsenal de Sarandi
+41,19-05-2023,Arsenal de Sarandi,2 - 1,CA Independiente
+42,27-05-2023,CA Tucuman,1 - 0,Arsenal de Sarandi
+43,02-06-2023,Arsenal de Sarandi,1 - 0,Boca Juniors
+44,11-06-2023,Talleres Cord.,1 - 0,Arsenal de Sarandi
+45,25-06-2023,Arsenal de Sarandi,0 - 2,Platense
+46,01-07-2023,Velez Sarsfield,1 - 0,Arsenal de Sarandi
+47,06-07-2023,Arsenal de Sarandi,1 - 2,Defensa y Justicia
+48,09-07-2023,Banfield,0 - 0,Arsenal de Sarandi
+49,17-07-2023,Arsenal de Sarandi,? - ?,Instituto Cordoba
+50,30-01-2023,Banfield,0 - 0,Union Santa Fe
+51,07-02-2023,Huracan,3 - 2,Banfield
+52,12-02-2023,Banfield,0 - 0,Gimnasia LP
+53,19-02-2023,Newells,2 - 0,Banfield
+54,27-02-2023,Banfield,0 - 0,CA Independiente
+55,05-03-2023,CA Tucuman,1 - 0,Banfield
+56,13-03-2023,Banfield,1 - 0,Boca Juniors
+57,20-03-2023,Talleres Cord.,0 - 1,Banfield
+58,03-04-2023,Banfield,0 - 2,Platense
+59,08-04-2023,Velez Sarsfield,3 - 3,Banfield
+60,12-04-2023,Banfield,0 - 3,Defensa y Justicia
+61,17-04-2023,Banfield,1 - 0,CA Central Córdoba de Santiago del Estero
+62,23-04-2023,Instituto Cordoba,1 - 1,Banfield
+63,29-04-2023,Banfield,0 - 0,Barracas Central
+64,06-05-2023,Colon,2 - 0,Banfield
+65,13-05-2023,Banfield,1 - 2,San Lorenzo
+66,19-05-2023,Estudiantes LP,1 - 0,Banfield
+67,29-05-2023,Banfield,2 - 0,Rosario Central
+68,04-06-2023,Racing Club,2 - 0,Banfield
+69,12-06-2023,Banfield,1 - 4,River Plate
+70,26-06-2023,Belgrano Cordoba,3 - 1,Banfield
+71,02-07-2023,Banfield,1 - 0,Argentinos Jrs
+72,05-07-2023,Tigre,1 - 2,Banfield
+73,09-07-2023,Banfield,0 - 0,Arsenal de Sarandi
+74,16-07-2023,Lanus,? - ?,Banfield
+75,30-01-2023,Barracas Central,0 - 1,Godoy Cruz
+76,04-02-2023,Sarmiento Junin,3 - 5,Barracas Central
+77,13-02-2023,Barracas Central,1 - 1,Union Santa Fe
+78,18-02-2023,Huracan,2 - 0,Barracas Central
+79,27-02-2023,Barracas Central,1 - 0,Gimnasia LP
+80,05-03-2023,Newells,1 - 0,Barracas Central
+81,10-03-2023,Barracas Central,1 - 1,CA Independiente
+82,19-03-2023,CA Tucuman,1 - 1,Barracas Central
+83,01-04-2023,Barracas Central,0 - 3,Boca Juniors
+84,08-04-2023,Talleres Cord.,3 - 0,Barracas Central
+85,11-04-2023,Barracas Central,1 - 0,Platense
+86,16-04-2023,Velez Sarsfield,0 - 0,Barracas Central
+87,24-04-2023,Barracas Central,0 - 2,Defensa y Justicia
+88,29-04-2023,Banfield,0 - 0,Barracas Central
+89,05-05-2023,Barracas Central,3 - 0,Instituto Cordoba
+90,15-05-2023,Barracas Central,2 - 2,CA Central Córdoba de Santiago del Estero
+91,21-05-2023,Colon,1 - 1,Barracas Central
+92,28-05-2023,Barracas Central,1 - 0,San Lorenzo
+93,02-06-2023,Estudiantes LP,5 - 2,Barracas Central
+94,09-06-2023,Barracas Central,0 - 0,Rosario Central
+95,22-06-2023,Racing Club,1 - 1,Barracas Central
+96,01-07-2023,Barracas Central,2 - 1,River Plate
+97,07-07-2023,Belgrano Cordoba,0 - 2,Barracas Central
+98,10-07-2023,Barracas Central,0 - 0,Argentinos Jrs
+99,17-07-2023,Tigre,? - ?,Barracas Central
+100,28-01-2023,Racing Club,0 - 0,Belgrano Cordoba
+101,04-02-2023,Belgrano Cordoba,2 - 1,River Plate
+102,11-02-2023,CA Central Córdoba de Santiago del Estero,0 - 1,Belgrano Cordoba
+103,18-02-2023,Argentinos Jrs,3 - 0,Belgrano Cordoba
+104,25-02-2023,Belgrano Cordoba,0 - 2,Tigre
+105,06-03-2023,Arsenal de Sarandi,0 - 1,Belgrano Cordoba
+106,12-03-2023,Belgrano Cordoba,0 - 0,Lanus
+107,19-03-2023,Godoy Cruz,3 - 1,Belgrano Cordoba
+108,03-04-2023,Belgrano Cordoba,0 - 0,Sarmiento Junin
+109,08-04-2023,Union Santa Fe,0 - 3,Belgrano Cordoba
+110,12-04-2023,Belgrano Cordoba,2 - 0,Huracan
+111,16-04-2023,Gimnasia LP,0 - 2,Belgrano Cordoba
+112,22-04-2023,Belgrano Cordoba,1 - 0,Newells
+113,30-04-2023,CA Independiente,2 - 0,Belgrano Cordoba
+114,06-05-2023,Belgrano Cordoba,1 - 0,CA Tucuman
+115,14-05-2023,Boca Juniors,2 - 0,Belgrano Cordoba
+116,21-05-2023,Belgrano Cordoba,1 - 1,Talleres Cord.
+117,27-05-2023,Platense,1 - 0,Belgrano Cordoba
+118,03-06-2023,Belgrano Cordoba,2 - 0,Velez Sarsfield
+119,13-06-2023,Defensa y Justicia,2 - 0,Belgrano Cordoba
+120,26-06-2023,Belgrano Cordoba,3 - 1,Banfield
+121,02-07-2023,Instituto Cordoba,1 - 0,Belgrano Cordoba
+122,07-07-2023,Belgrano Cordoba,0 - 2,Barracas Central
+123,10-07-2023,Colon,0 - 0,Belgrano Cordoba
+124,16-07-2023,Belgrano Cordoba,? - ?,San Lorenzo
+125,30-01-2023,Boca Juniors,1 - 0,CA Tucuman
+126,05-02-2023,Boca Juniors,0 - 0,CA Central Córdoba de Santiago del Estero
+127,12-02-2023,Talleres Cord.,2 - 1,Boca Juniors
+128,19-02-2023,Boca Juniors,3 - 1,Platense
+129,26-02-2023,Velez Sarsfield,1 - 2,Boca Juniors
+130,07-03-2023,Boca Juniors,0 - 0,Defensa y Justicia
+131,13-03-2023,Banfield,1 - 0,Boca Juniors
+132,19-03-2023,Boca Juniors,2 - 3,Instituto Cordoba
+133,01-04-2023,Barracas Central,0 - 3,Boca Juniors
+134,10-04-2023,Boca Juniors,1 - 2,Colon
+135,12-04-2023,San Lorenzo,1 - 0,Boca Juniors
+136,15-04-2023,Boca Juniors,0 - 1,Estudiantes LP
+137,23-04-2023,Rosario Central,2 - 2,Boca Juniors
+138,30-04-2023,Boca Juniors,3 - 1,Racing Club
+139,07-05-2023,River Plate,1 - 0,Boca Juniors
+140,14-05-2023,Boca Juniors,2 - 0,Belgrano Cordoba
+141,20-05-2023,Argentinos Jrs,0 - 1,Boca Juniors
+142,28-05-2023,Boca Juniors,1 - 0,Tigre
+143,02-06-2023,Arsenal de Sarandi,1 - 0,Boca Juniors
+144,10-06-2023,Boca Juniors,1 - 1,Lanus
+145,23-06-2023,Godoy Cruz,4 - 0,Boca Juniors
+146,03-07-2023,Boca Juniors,2 - 0,Sarmiento Junin
+147,06-07-2023,Union Santa Fe,0 - 0,Boca Juniors
+148,10-07-2023,Boca Juniors,1 - 0,Huracan
+149,16-07-2023,Gimnasia LP,? - ?,Boca Juniors
+150,29-01-2023,CA Central Córdoba de Santiago del Estero,0 - 2,River Plate
+151,05-02-2023,Boca Juniors,0 - 0,CA Central Córdoba de Santiago del Estero
+152,11-02-2023,CA Central Córdoba de Santiago del Estero,0 - 1,Belgrano Cordoba
+153,20-02-2023,Talleres Cord.,2 - 0,CA Central Córdoba de Santiago del Estero
+154,28-02-2023,CA Central Córdoba de Santiago del Estero,1 - 0,Argentinos Jrs
+155,04-03-2023,Platense,1 - 1,CA Central Córdoba de Santiago del Estero
+156,12-03-2023,CA Central Córdoba de Santiago del Estero,2 - 0,Tigre
+157,22-03-2023,Velez Sarsfield,4 - 0,CA Central Córdoba de Santiago del Estero
+158,04-04-2023,CA Central Córdoba de Santiago del Estero,1 - 0,Arsenal de Sarandi
+159,08-04-2023,Defensa y Justicia,1 - 2,CA Central Córdoba de Santiago del Estero
+160,12-04-2023,CA Central Córdoba de Santiago del Estero,1 - 1,Lanus
+161,17-04-2023,Banfield,1 - 0,CA Central Córdoba de Santiago del Estero
+162,22-04-2023,CA Central Córdoba de Santiago del Estero,0 - 2,Godoy Cruz
+163,29-04-2023,Instituto Cordoba,0 - 2,CA Central Córdoba de Santiago del Estero
+164,09-05-2023,CA Central Córdoba de Santiago del Estero,0 - 1,Sarmiento Junin
+165,15-05-2023,Barracas Central,2 - 2,CA Central Córdoba de Santiago del Estero
+166,19-05-2023,CA Central Córdoba de Santiago del Estero,0 - 1,Union Santa Fe
+167,29-05-2023,Colon,2 - 2,CA Central Córdoba de Santiago del Estero
+168,03-06-2023,CA Central Córdoba de Santiago del Estero,2 - 0,Huracan
+169,12-06-2023,San Lorenzo,0 - 0,CA Central Córdoba de Santiago del Estero
+170,22-06-2023,CA Central Córdoba de Santiago del Estero,0 - 0,Gimnasia LP
+171,01-07-2023,Estudiantes LP,1 - 1,CA Central Córdoba de Santiago del Estero
+172,08-07-2023,CA Central Córdoba de Santiago del Estero,2 - 0,Newells
+173,11-07-2023,Rosario Central,2 - 0,CA Central Córdoba de Santiago del Estero
+174,17-07-2023,CA Central Córdoba de Santiago del Estero,? - ?,CA Independiente
+175,27-01-2023,Talleres Cord.,0 - 1,CA Independiente
+176,05-02-2023,CA Independiente,1 - 2,Platense
+177,12-02-2023,Velez Sarsfield,0 - 0,CA Independiente
+178,20-02-2023,CA Independiente,0 - 2,Defensa y Justicia
+179,27-02-2023,Banfield,0 - 0,CA Independiente
+180,05-03-2023,CA Independiente,2 - 2,Instituto Cordoba
+181,10-03-2023,Barracas Central,1 - 1,CA Independiente
+182,18-03-2023,CA Independiente,2 - 2,Colon
+183,02-04-2023,San Lorenzo,0 - 0,CA Independiente
+184,09-04-2023,CA Independiente,1 - 2,Estudiantes LP
+185,13-04-2023,Rosario Central,1 - 0,CA Independiente
+186,16-04-2023,CA Independiente,1 - 1,Racing Club
+187,23-04-2023,River Plate,2 - 0,CA Independiente
+188,30-04-2023,CA Independiente,2 - 0,Belgrano Cordoba
+189,06-05-2023,Argentinos Jrs,2 - 2,CA Independiente
+190,13-05-2023,CA Independiente,2 - 1,Tigre
+191,19-05-2023,Arsenal de Sarandi,2 - 1,CA Independiente
+192,27-05-2023,CA Independiente,1 - 1,Lanus
+193,04-06-2023,Godoy Cruz,2 - 1,CA Independiente
+194,09-06-2023,CA Independiente,2 - 0,Sarmiento Junin
+195,24-06-2023,Union Santa Fe,3 - 0,CA Independiente
+196,02-07-2023,CA Independiente,1 - 0,Huracan
+197,07-07-2023,Gimnasia LP,1 - 1,CA Independiente
+198,11-07-2023,CA Independiente,0 - 2,Newells
+199,17-07-2023,CA Central Córdoba de Santiago del Estero,? - ?,CA Independiente
+200,30-01-2023,Boca Juniors,1 - 0,CA Tucuman
+201,06-02-2023,CA Tucuman,0 - 2,Talleres Cord.
+202,11-02-2023,Platense,1 - 1,CA Tucuman
+203,21-02-2023,CA Tucuman,1 - 1,Velez Sarsfield
+204,26-02-2023,Defensa y Justicia,3 - 0,CA Tucuman
+205,05-03-2023,CA Tucuman,1 - 0,Banfield
+206,11-03-2023,Instituto Cordoba,1 - 1,CA Tucuman
+207,19-03-2023,CA Tucuman,1 - 1,Barracas Central
+208,02-04-2023,Colon,0 - 0,CA Tucuman
+209,08-04-2023,CA Tucuman,1 - 3,San Lorenzo
+210,13-04-2023,Estudiantes LP,0 - 0,CA Tucuman
+211,18-04-2023,CA Tucuman,2 - 2,Rosario Central
+212,24-04-2023,Racing Club,1 - 3,CA Tucuman
+213,29-04-2023,CA Tucuman,1 - 1,River Plate
+214,06-05-2023,Belgrano Cordoba,1 - 0,CA Tucuman
+215,13-05-2023,CA Tucuman,1 - 2,Argentinos Jrs
+216,21-05-2023,Tigre,0 - 0,CA Tucuman
+217,27-05-2023,CA Tucuman,1 - 0,Arsenal de Sarandi
+218,05-06-2023,Lanus,2 - 1,CA Tucuman
+219,13-06-2023,CA Tucuman,2 - 1,Godoy Cruz
+220,25-06-2023,Sarmiento Junin,4 - 1,CA Tucuman
+221,01-07-2023,CA Tucuman,1 - 0,Union Santa Fe
+222,07-07-2023,Huracan,0 - 1,CA Tucuman
+223,12-07-2023,CA Tucuman,2 - 0,Gimnasia LP
+224,17-07-2023,Newells,? - ?,CA Tucuman
+225,28-01-2023,Colon,1 - 2,Lanus
+226,06-02-2023,Godoy Cruz,1 - 0,Colon
+227,11-02-2023,Colon,0 - 2,Sarmiento Junin
+228,19-02-2023,Union Santa Fe,1 - 1,Colon
+229,26-02-2023,Colon,1 - 1,Huracan
+230,04-03-2023,Gimnasia LP,0 - 0,Colon
+231,14-03-2023,Colon,1 - 1,Newells
+232,18-03-2023,CA Independiente,2 - 2,Colon
+233,02-04-2023,Colon,0 - 0,CA Tucuman
+234,10-04-2023,Boca Juniors,1 - 2,Colon
+235,13-04-2023,Colon,2 - 2,Talleres Cord.
+236,17-04-2023,Platense,0 - 0,Colon
+237,21-04-2023,Colon,2 - 1,Velez Sarsfield
+238,30-04-2023,Defensa y Justicia,2 - 0,Colon
+239,06-05-2023,Colon,2 - 0,Banfield
+240,13-05-2023,Instituto Cordoba,1 - 0,Colon
+241,21-05-2023,Colon,1 - 1,Barracas Central
+242,29-05-2023,Colon,2 - 2,CA Central Córdoba de Santiago del Estero
+243,04-06-2023,San Lorenzo,0 - 0,Colon
+244,13-06-2023,Colon,1 - 0,Estudiantes LP
+245,25-06-2023,Rosario Central,1 - 1,Colon
+246,02-07-2023,Colon,0 - 4,Racing Club
+247,06-07-2023,River Plate,2 - 0,Colon
+248,10-07-2023,Colon,0 - 0,Belgrano Cordoba
+249,17-07-2023,Argentinos Jrs,? - ?,Colon
+250,28-01-2023,Defensa y Justicia,2 - 4,Huracan
+251,06-02-2023,Gimnasia LP,0 - 2,Defensa y Justicia
+252,11-02-2023,Defensa y Justicia,1 - 0,Newells
+253,20-02-2023,CA Independiente,0 - 2,Defensa y Justicia
+254,26-02-2023,Defensa y Justicia,3 - 0,CA Tucuman
+255,07-03-2023,Boca Juniors,0 - 0,Defensa y Justicia
+256,11-03-2023,Defensa y Justicia,1 - 1,Talleres Cord.
+257,18-03-2023,Platense,1 - 0,Defensa y Justicia
+258,30-03-2023,Defensa y Justicia,0 - 0,Velez Sarsfield
+259,08-04-2023,Defensa y Justicia,1 - 2,CA Central Córdoba de Santiago del Estero
+260,12-04-2023,Banfield,0 - 3,Defensa y Justicia
+261,15-04-2023,Defensa y Justicia,1 - 0,Instituto Cordoba
+262,24-04-2023,Barracas Central,0 - 2,Defensa y Justicia
+263,30-04-2023,Defensa y Justicia,2 - 0,Colon
+264,08-05-2023,San Lorenzo,0 - 0,Defensa y Justicia
+265,14-05-2023,Defensa y Justicia,1 - 1,Estudiantes LP
+266,19-05-2023,Rosario Central,2 - 1,Defensa y Justicia
+267,28-05-2023,Defensa y Justicia,1 - 1,Racing Club
+268,13-06-2023,Defensa y Justicia,2 - 0,Belgrano Cordoba
+269,18-06-2023,River Plate,1 - 0,Defensa y Justicia
+270,24-06-2023,Argentinos Jrs,3 - 1,Defensa y Justicia
+271,02-07-2023,Defensa y Justicia,1 - 0,Tigre
+272,06-07-2023,Arsenal de Sarandi,1 - 2,Defensa y Justicia
+273,09-07-2023,Defensa y Justicia,2 - 2,Lanus
+274,14-07-2023,Godoy Cruz,? - ?,Defensa y Justicia
+275,27-01-2023,Estudiantes LP,1 - 2,Tigre
+276,04-02-2023,Arsenal de Sarandi,1 - 1,Estudiantes LP
+277,13-02-2023,Estudiantes LP,0 - 2,Lanus
+278,18-02-2023,Godoy Cruz,0 - 1,Estudiantes LP
+279,25-02-2023,Estudiantes LP,1 - 1,Sarmiento Junin
+280,03-03-2023,Union Santa Fe,2 - 0,Estudiantes LP
+281,12-03-2023,Estudiantes LP,2 - 1,Huracan
+282,19-03-2023,Gimnasia LP,2 - 1,Estudiantes LP
+283,31-03-2023,Estudiantes LP,3 - 0,Newells
+284,09-04-2023,CA Independiente,1 - 2,Estudiantes LP
+285,13-04-2023,Estudiantes LP,0 - 0,CA Tucuman
+286,15-04-2023,Boca Juniors,0 - 1,Estudiantes LP
+287,23-04-2023,Estudiantes LP,1 - 0,Talleres Cord.
+288,27-04-2023,Platense,1 - 2,Estudiantes LP
+289,08-05-2023,Estudiantes LP,2 - 0,Velez Sarsfield
+290,14-05-2023,Defensa y Justicia,1 - 1,Estudiantes LP
+291,19-05-2023,Estudiantes LP,1 - 0,Banfield
+292,29-05-2023,Instituto Cordoba,0 - 0,Estudiantes LP
+293,02-06-2023,Estudiantes LP,5 - 2,Barracas Central
+294,13-06-2023,Colon,1 - 0,Estudiantes LP
+295,21-06-2023,Estudiantes LP,1 - 1,San Lorenzo
+296,01-07-2023,Estudiantes LP,1 - 1,CA Central Córdoba de Santiago del Estero
+297,05-07-2023,Rosario Central,0 - 0,Estudiantes LP
+298,08-07-2023,Estudiantes LP,0 - 0,Racing Club
+299,15-07-2023,River Plate,? - ?,Estudiantes LP
+300,30-01-2023,Velez Sarsfield,3 - 1,Gimnasia LP
+301,06-02-2023,Gimnasia LP,0 - 2,Defensa y Justicia
+302,12-02-2023,Banfield,0 - 0,Gimnasia LP
+303,17-02-2023,Gimnasia LP,2 - 0,Instituto Cordoba
+304,27-02-2023,Barracas Central,1 - 0,Gimnasia LP
+305,04-03-2023,Gimnasia LP,0 - 0,Colon
+306,11-03-2023,San Lorenzo,4 - 0,Gimnasia LP
+307,19-03-2023,Gimnasia LP,2 - 1,Estudiantes LP
+308,31-03-2023,Rosario Central,3 - 1,Gimnasia LP
+309,08-04-2023,Gimnasia LP,3 - 1,Racing Club
+310,13-04-2023,River Plate,3 - 0,Gimnasia LP
+311,16-04-2023,Gimnasia LP,0 - 2,Belgrano Cordoba
+312,25-04-2023,Argentinos Jrs,2 - 4,Gimnasia LP
+313,29-04-2023,Gimnasia LP,1 - 1,Tigre
+314,08-05-2023,Arsenal de Sarandi,0 - 1,Gimnasia LP
+315,15-05-2023,Gimnasia LP,1 - 0,Lanus
+316,19-05-2023,Godoy Cruz,2 - 0,Gimnasia LP
+317,27-05-2023,Gimnasia LP,0 - 0,Sarmiento Junin
+318,04-06-2023,Union Santa Fe,2 - 0,Gimnasia LP
+319,13-06-2023,Gimnasia LP,1 - 0,Huracan
+320,22-06-2023,CA Central Córdoba de Santiago del Estero,0 - 0,Gimnasia LP
+321,03-07-2023,Newells,2 - 2,Gimnasia LP
+322,07-07-2023,Gimnasia LP,1 - 1,CA Independiente
+323,12-07-2023,CA Tucuman,2 - 0,Gimnasia LP
+324,16-07-2023,Gimnasia LP,? - ?,Boca Juniors
+325,30-01-2023,Barracas Central,0 - 1,Godoy Cruz
+326,06-02-2023,Godoy Cruz,1 - 0,Colon
+327,11-02-2023,San Lorenzo,1 - 0,Godoy Cruz
+328,18-02-2023,Godoy Cruz,0 - 1,Estudiantes LP
+329,25-02-2023,Rosario Central,1 - 0,Godoy Cruz
+330,06-03-2023,Godoy Cruz,2 - 0,Racing Club
+331,12-03-2023,River Plate,3 - 0,Godoy Cruz
+332,19-03-2023,Godoy Cruz,3 - 1,Belgrano Cordoba
+333,31-03-2023,Argentinos Jrs,3 - 0,Godoy Cruz
+334,09-04-2023,Godoy Cruz,1 - 1,Tigre
+335,13-04-2023,Arsenal de Sarandi,2 - 3,Godoy Cruz
+336,18-04-2023,Godoy Cruz,4 - 4,Lanus
+337,22-04-2023,CA Central Córdoba de Santiago del Estero,0 - 2,Godoy Cruz
+338,27-04-2023,Sarmiento Junin,1 - 1,Godoy Cruz
+339,05-05-2023,Godoy Cruz,0 - 0,Union Santa Fe
+340,12-05-2023,Huracan,0 - 0,Godoy Cruz
+341,19-05-2023,Godoy Cruz,2 - 0,Gimnasia LP
+342,29-05-2023,Newells,2 - 0,Godoy Cruz
+343,04-06-2023,Godoy Cruz,2 - 1,CA Independiente
+344,13-06-2023,CA Tucuman,2 - 1,Godoy Cruz
+345,23-06-2023,Godoy Cruz,4 - 0,Boca Juniors
+346,02-07-2023,Talleres Cord.,1 - 1,Godoy Cruz
+347,05-07-2023,Godoy Cruz,2 - 1,Platense
+348,09-07-2023,Velez Sarsfield,1 - 1,Godoy Cruz
+349,14-07-2023,Godoy Cruz,? - ?,Defensa y Justicia
+350,28-01-2023,Defensa y Justicia,2 - 4,Huracan
+351,07-02-2023,Huracan,3 - 2,Banfield
+352,13-02-2023,Instituto Cordoba,0 - 0,Huracan
+353,18-02-2023,Huracan,2 - 0,Barracas Central
+354,26-02-2023,Colon,1 - 1,Huracan
+355,05-03-2023,Huracan,1 - 1,San Lorenzo
+356,12-03-2023,Estudiantes LP,2 - 1,Huracan
+357,21-03-2023,Huracan,0 - 2,Rosario Central
+358,02-04-2023,Racing Club,2 - 1,Huracan
+359,09-04-2023,Huracan,0 - 3,River Plate
+360,12-04-2023,Belgrano Cordoba,2 - 0,Huracan
+361,16-04-2023,Huracan,0 - 0,Argentinos Jrs
+362,25-04-2023,Tigre,1 - 0,Huracan
+363,28-04-2023,Huracan,2 - 1,Arsenal de Sarandi
+364,06-05-2023,Lanus,1 - 0,Huracan
+365,12-05-2023,Huracan,0 - 0,Godoy Cruz
+366,21-05-2023,Sarmiento Junin,0 - 0,Huracan
+367,29-05-2023,Huracan,0 - 1,Union Santa Fe
+368,03-06-2023,CA Central Córdoba de Santiago del Estero,2 - 0,Huracan
+369,13-06-2023,Gimnasia LP,1 - 0,Huracan
+370,23-06-2023,Huracan,1 - 1,Newells
+371,02-07-2023,CA Independiente,1 - 0,Huracan
+372,07-07-2023,Huracan,0 - 1,CA Tucuman
+373,10-07-2023,Boca Juniors,1 - 0,Huracan
+374,15-07-2023,Huracan,? - ?,Talleres Cord.
+375,28-01-2023,Instituto Cordoba,0 - 0,Sarmiento Junin
+376,06-02-2023,Union Santa Fe,0 - 2,Instituto Cordoba
+377,13-02-2023,Instituto Cordoba,0 - 0,Huracan
+378,17-02-2023,Gimnasia LP,2 - 0,Instituto Cordoba
+379,27-02-2023,Instituto Cordoba,3 - 1,Newells
+380,05-03-2023,CA Independiente,2 - 2,Instituto Cordoba
+381,11-03-2023,Instituto Cordoba,1 - 1,CA Tucuman
+382,19-03-2023,Boca Juniors,2 - 3,Instituto Cordoba
+383,02-04-2023,Instituto Cordoba,0 - 3,Talleres Cord.
+384,07-04-2023,Platense,1 - 0,Instituto Cordoba
+385,12-04-2023,Instituto Cordoba,1 - 0,Velez Sarsfield
+386,15-04-2023,Defensa y Justicia,1 - 0,Instituto Cordoba
+387,23-04-2023,Instituto Cordoba,1 - 1,Banfield
+388,29-04-2023,Instituto Cordoba,0 - 2,CA Central Córdoba de Santiago del Estero
+389,05-05-2023,Barracas Central,3 - 0,Instituto Cordoba
+390,13-05-2023,Instituto Cordoba,1 - 0,Colon
+391,20-05-2023,San Lorenzo,2 - 0,Instituto Cordoba
+392,29-05-2023,Instituto Cordoba,0 - 0,Estudiantes LP
+393,03-06-2023,Rosario Central,4 - 1,Instituto Cordoba
+394,13-06-2023,Instituto Cordoba,1 - 1,Racing Club
+395,22-06-2023,River Plate,3 - 1,Instituto Cordoba
+396,02-07-2023,Instituto Cordoba,1 - 0,Belgrano Cordoba
+397,06-07-2023,Argentinos Jrs,0 - 0,Instituto Cordoba
+398,09-07-2023,Instituto Cordoba,0 - 1,Tigre
+399,17-07-2023,Arsenal de Sarandi,? - ?,Instituto Cordoba
+400,28-01-2023,Colon,1 - 2,Lanus
+401,05-02-2023,Lanus,2 - 1,San Lorenzo
+402,13-02-2023,Estudiantes LP,0 - 2,Lanus
+403,18-02-2023,Lanus,3 - 0,Rosario Central
+404,27-02-2023,Racing Club,2 - 1,Lanus
+405,04-03-2023,Lanus,0 - 2,River Plate
+406,12-03-2023,Belgrano Cordoba,0 - 0,Lanus
+407,21-03-2023,Lanus,0 - 0,Argentinos Jrs
+408,02-04-2023,Tigre,2 - 1,Lanus
+409,07-04-2023,Lanus,3 - 0,Arsenal de Sarandi
+410,12-04-2023,CA Central Córdoba de Santiago del Estero,1 - 1,Lanus
+411,18-04-2023,Godoy Cruz,4 - 4,Lanus
+412,22-04-2023,Lanus,2 - 1,Sarmiento Junin
+413,06-05-2023,Lanus,1 - 0,Huracan
+414,15-05-2023,Gimnasia LP,1 - 0,Lanus
+415,21-05-2023,Lanus,1 - 0,Newells
+416,27-05-2023,CA Independiente,1 - 1,Lanus
+417,05-06-2023,Lanus,2 - 1,CA Tucuman
+418,10-06-2023,Boca Juniors,1 - 1,Lanus
+419,17-06-2023,Union Santa Fe,1 - 1,Lanus
+420,24-06-2023,Lanus,2 - 1,Talleres Cord.
+421,30-06-2023,Platense,0 - 1,Lanus
+422,04-07-2023,Lanus,0 - 1,Velez Sarsfield
+423,09-07-2023,Defensa y Justicia,2 - 2,Lanus
+424,16-07-2023,Lanus,? - ?,Banfield
+425,29-01-2023,Platense,2 - 2,Newells
+426,03-02-2023,Newells,1 - 0,Velez Sarsfield
+427,11-02-2023,Defensa y Justicia,1 - 0,Newells
+428,19-02-2023,Newells,2 - 0,Banfield
+429,27-02-2023,Instituto Cordoba,3 - 1,Newells
+430,05-03-2023,Newells,1 - 0,Barracas Central
+431,14-03-2023,Colon,1 - 1,Newells
+432,20-03-2023,Newells,1 - 0,San Lorenzo
+433,31-03-2023,Estudiantes LP,3 - 0,Newells
+434,09-04-2023,Newells,0 - 0,Rosario Central
+435,12-04-2023,Racing Club,0 - 1,Newells
+436,16-04-2023,Newells,0 - 1,River Plate
+437,22-04-2023,Belgrano Cordoba,1 - 0,Newells
+438,28-04-2023,Newells,0 - 0,Argentinos Jrs
+439,08-05-2023,Tigre,2 - 2,Newells
+440,13-05-2023,Newells,2 - 0,Arsenal de Sarandi
+441,21-05-2023,Lanus,1 - 0,Newells
+442,29-05-2023,Newells,2 - 0,Godoy Cruz
+443,01-06-2023,Sarmiento Junin,0 - 0,Newells
+444,12-06-2023,Newells,1 - 1,Union Santa Fe
+445,23-06-2023,Huracan,1 - 1,Newells
+446,03-07-2023,Newells,2 - 2,Gimnasia LP
+447,08-07-2023,CA Central Córdoba de Santiago del Estero,2 - 0,Newells
+448,11-07-2023,CA Independiente,0 - 2,Newells
+449,17-07-2023,Newells,? - ?,CA Tucuman
+450,29-01-2023,Platense,2 - 2,Newells
+451,05-02-2023,CA Independiente,1 - 2,Platense
+452,11-02-2023,Platense,1 - 1,CA Tucuman
+453,19-02-2023,Boca Juniors,3 - 1,Platense
+454,25-02-2023,Platense,2 - 4,Talleres Cord.
+455,04-03-2023,Platense,1 - 1,CA Central Córdoba de Santiago del Estero
+456,14-03-2023,Velez Sarsfield,1 - 1,Platense
+457,18-03-2023,Platense,1 - 0,Defensa y Justicia
+458,03-04-2023,Banfield,0 - 2,Platense
+459,07-04-2023,Platense,1 - 0,Instituto Cordoba
+460,11-04-2023,Barracas Central,1 - 0,Platense
+461,17-04-2023,Platense,0 - 0,Colon
+462,23-04-2023,San Lorenzo,1 - 0,Platense
+463,27-04-2023,Platense,1 - 2,Estudiantes LP
+464,07-05-2023,Rosario Central,4 - 0,Platense
+465,14-05-2023,Platense,3 - 0,Racing Club
+466,21-05-2023,River Plate,2 - 1,Platense
+467,27-05-2023,Platense,1 - 0,Belgrano Cordoba
+468,03-06-2023,Argentinos Jrs,1 - 0,Platense
+469,10-06-2023,Platense,1 - 0,Tigre
+470,25-06-2023,Arsenal de Sarandi,0 - 2,Platense
+471,30-06-2023,Platense,0 - 1,Lanus
+472,05-07-2023,Godoy Cruz,2 - 1,Platense
+473,09-07-2023,Platense,1 - 0,Sarmiento Junin
+474,15-07-2023,Union Santa Fe,? - ?,Platense
+475,28-01-2023,Racing Club,0 - 0,Belgrano Cordoba
+476,05-02-2023,Argentinos Jrs,1 - 0,Racing Club
+477,13-02-2023,Racing Club,2 - 2,Tigre
+478,18-02-2023,Arsenal de Sarandi,0 - 3,Racing Club
+479,27-02-2023,Racing Club,2 - 1,Lanus
+480,06-03-2023,Godoy Cruz,2 - 0,Racing Club
+481,12-03-2023,Racing Club,1 - 0,Sarmiento Junin
+482,18-03-2023,Union Santa Fe,1 - 3,Racing Club
+483,02-04-2023,Racing Club,2 - 1,Huracan
+484,08-04-2023,Gimnasia LP,3 - 1,Racing Club
+485,12-04-2023,Racing Club,0 - 1,Newells
+486,16-04-2023,CA Independiente,1 - 1,Racing Club
+487,24-04-2023,Racing Club,1 - 3,CA Tucuman
+488,30-04-2023,Boca Juniors,3 - 1,Racing Club
+489,08-05-2023,Racing Club,2 - 4,Talleres Cord.
+490,14-05-2023,Platense,3 - 0,Racing Club
+491,28-05-2023,Defensa y Justicia,1 - 1,Racing Club
+492,04-06-2023,Racing Club,2 - 0,Banfield
+493,13-06-2023,Instituto Cordoba,1 - 1,Racing Club
+494,17-06-2023,Racing Club,2 - 1,Velez Sarsfield
+495,22-06-2023,Racing Club,1 - 1,Barracas Central
+496,02-07-2023,Colon,0 - 4,Racing Club
+497,05-07-2023,Racing Club,1 - 1,San Lorenzo
+498,08-07-2023,Estudiantes LP,0 - 0,Racing Club
+499,15-07-2023,Racing Club,? - ?,Rosario Central
+500,29-01-2023,CA Central Córdoba de Santiago del Estero,0 - 2,River Plate
+501,04-02-2023,Belgrano Cordoba,2 - 1,River Plate
+502,12-02-2023,River Plate,2 - 1,Argentinos Jrs
+503,18-02-2023,Tigre,0 - 1,River Plate
+504,26-02-2023,River Plate,1 - 2,Arsenal de Sarandi
+505,04-03-2023,Lanus,0 - 2,River Plate
+506,12-03-2023,River Plate,3 - 0,Godoy Cruz
+507,20-03-2023,Sarmiento Junin,0 - 2,River Plate
+508,01-04-2023,River Plate,1 - 0,Union Santa Fe
+509,09-04-2023,Huracan,0 - 3,River Plate
+510,13-04-2023,River Plate,3 - 0,Gimnasia LP
+511,16-04-2023,Newells,0 - 1,River Plate
+512,23-04-2023,River Plate,2 - 0,CA Independiente
+513,29-04-2023,CA Tucuman,1 - 1,River Plate
+514,07-05-2023,River Plate,1 - 0,Boca Juniors
+515,15-05-2023,Talleres Cord.,2 - 1,River Plate
+516,21-05-2023,River Plate,2 - 1,Platense
+517,30-05-2023,Velez Sarsfield,2 - 2,River Plate
+518,12-06-2023,Banfield,1 - 4,River Plate
+519,18-06-2023,River Plate,1 - 0,Defensa y Justicia
+520,22-06-2023,River Plate,3 - 1,Instituto Cordoba
+521,01-07-2023,Barracas Central,2 - 1,River Plate
+522,06-07-2023,River Plate,2 - 0,Colon
+523,08-07-2023,San Lorenzo,0 - 0,River Plate
+524,15-07-2023,River Plate,? - ?,Estudiantes LP
+525,26-01-2023,Rosario Central,1 - 0,Argentinos Jrs
+526,03-02-2023,Tigre,2 - 2,Rosario Central
+527,12-02-2023,Rosario Central,2 - 1,Arsenal de Sarandi
+528,18-02-2023,Lanus,3 - 0,Rosario Central
+529,25-02-2023,Rosario Central,1 - 0,Godoy Cruz
+530,03-03-2023,Sarmiento Junin,4 - 1,Rosario Central
+531,13-03-2023,Rosario Central,1 - 1,Union Santa Fe
+532,21-03-2023,Huracan,0 - 2,Rosario Central
+533,31-03-2023,Rosario Central,3 - 1,Gimnasia LP
+534,09-04-2023,Newells,0 - 0,Rosario Central
+535,13-04-2023,Rosario Central,1 - 0,CA Independiente
+536,18-04-2023,CA Tucuman,2 - 2,Rosario Central
+537,23-04-2023,Rosario Central,2 - 2,Boca Juniors
+538,30-04-2023,Talleres Cord.,3 - 1,Rosario Central
+539,07-05-2023,Rosario Central,4 - 0,Platense
+540,15-05-2023,Velez Sarsfield,0 - 0,Rosario Central
+541,19-05-2023,Rosario Central,2 - 1,Defensa y Justicia
+542,29-05-2023,Banfield,2 - 0,Rosario Central
+543,03-06-2023,Rosario Central,4 - 1,Instituto Cordoba
+544,09-06-2023,Barracas Central,0 - 0,Rosario Central
+545,25-06-2023,Rosario Central,1 - 1,Colon
+546,01-07-2023,San Lorenzo,1 - 0,Rosario Central
+547,05-07-2023,Rosario Central,0 - 0,Estudiantes LP
+548,11-07-2023,Rosario Central,2 - 0,CA Central Córdoba de Santiago del Estero
+549,15-07-2023,Racing Club,? - ?,Rosario Central
+550,28-01-2023,San Lorenzo,1 - 0,Arsenal de Sarandi
+551,05-02-2023,Lanus,2 - 1,San Lorenzo
+552,11-02-2023,San Lorenzo,1 - 0,Godoy Cruz
+553,20-02-2023,Sarmiento Junin,0 - 1,San Lorenzo
+554,25-02-2023,San Lorenzo,1 - 0,Union Santa Fe
+555,05-03-2023,Huracan,1 - 1,San Lorenzo
+556,11-03-2023,San Lorenzo,4 - 0,Gimnasia LP
+557,20-03-2023,Newells,1 - 0,San Lorenzo
+558,02-04-2023,San Lorenzo,0 - 0,CA Independiente
+559,08-04-2023,CA Tucuman,1 - 3,San Lorenzo
+560,12-04-2023,San Lorenzo,1 - 0,Boca Juniors
+561,17-04-2023,Talleres Cord.,0 - 0,San Lorenzo
+562,23-04-2023,San Lorenzo,1 - 0,Platense
+563,29-04-2023,Velez Sarsfield,0 - 0,San Lorenzo
+564,08-05-2023,San Lorenzo,0 - 0,Defensa y Justicia
+565,13-05-2023,Banfield,1 - 2,San Lorenzo
+566,20-05-2023,San Lorenzo,2 - 0,Instituto Cordoba
+567,28-05-2023,Barracas Central,1 - 0,San Lorenzo
+568,04-06-2023,San Lorenzo,0 - 0,Colon
+569,12-06-2023,San Lorenzo,0 - 0,CA Central Córdoba de Santiago del Estero
+570,21-06-2023,Estudiantes LP,1 - 1,San Lorenzo
+571,01-07-2023,San Lorenzo,1 - 0,Rosario Central
+572,05-07-2023,Racing Club,1 - 1,San Lorenzo
+573,08-07-2023,San Lorenzo,0 - 0,River Plate
+574,16-07-2023,Belgrano Cordoba,? - ?,San Lorenzo
+575,28-01-2023,Instituto Cordoba,0 - 0,Sarmiento Junin
+576,04-02-2023,Sarmiento Junin,3 - 5,Barracas Central
+577,11-02-2023,Colon,0 - 2,Sarmiento Junin
+578,20-02-2023,Sarmiento Junin,0 - 1,San Lorenzo
+579,25-02-2023,Estudiantes LP,1 - 1,Sarmiento Junin
+580,03-03-2023,Sarmiento Junin,4 - 1,Rosario Central
+581,12-03-2023,Racing Club,1 - 0,Sarmiento Junin
+582,20-03-2023,Sarmiento Junin,0 - 2,River Plate
+583,03-04-2023,Belgrano Cordoba,0 - 0,Sarmiento Junin
+584,08-04-2023,Sarmiento Junin,2 - 0,Argentinos Jrs
+585,14-04-2023,Tigre,1 - 0,Sarmiento Junin
+586,17-04-2023,Sarmiento Junin,1 - 0,Arsenal de Sarandi
+587,22-04-2023,Lanus,2 - 1,Sarmiento Junin
+588,27-04-2023,Sarmiento Junin,1 - 1,Godoy Cruz
+589,09-05-2023,CA Central Córdoba de Santiago del Estero,0 - 1,Sarmiento Junin
+590,15-05-2023,Union Santa Fe,0 - 2,Sarmiento Junin
+591,21-05-2023,Sarmiento Junin,0 - 0,Huracan
+592,27-05-2023,Gimnasia LP,0 - 0,Sarmiento Junin
+593,01-06-2023,Sarmiento Junin,0 - 0,Newells
+594,09-06-2023,CA Independiente,2 - 0,Sarmiento Junin
+595,25-06-2023,Sarmiento Junin,4 - 1,CA Tucuman
+596,03-07-2023,Boca Juniors,2 - 0,Sarmiento Junin
+597,06-07-2023,Sarmiento Junin,0 - 1,Talleres Cord.
+598,09-07-2023,Platense,1 - 0,Sarmiento Junin
+599,14-07-2023,Sarmiento Junin,? - ?,Velez Sarsfield
+600,27-01-2023,Talleres Cord.,0 - 1,CA Independiente
+601,06-02-2023,CA Tucuman,0 - 2,Talleres Cord.
+602,12-02-2023,Talleres Cord.,2 - 1,Boca Juniors
+603,20-02-2023,Talleres Cord.,2 - 0,CA Central Córdoba de Santiago del Estero
+604,25-02-2023,Platense,2 - 4,Talleres Cord.
+605,06-03-2023,Talleres Cord.,1 - 2,Velez Sarsfield
+606,11-03-2023,Defensa y Justicia,1 - 1,Talleres Cord.
+607,20-03-2023,Talleres Cord.,0 - 1,Banfield
+608,02-04-2023,Instituto Cordoba,0 - 3,Talleres Cord.
+609,08-04-2023,Talleres Cord.,3 - 0,Barracas Central
+610,13-04-2023,Colon,2 - 2,Talleres Cord.
+611,17-04-2023,Talleres Cord.,0 - 0,San Lorenzo
+612,23-04-2023,Estudiantes LP,1 - 0,Talleres Cord.
+613,30-04-2023,Talleres Cord.,3 - 1,Rosario Central
+614,08-05-2023,Racing Club,2 - 4,Talleres Cord.
+615,15-05-2023,Talleres Cord.,2 - 1,River Plate
+616,21-05-2023,Belgrano Cordoba,1 - 1,Talleres Cord.
+617,28-05-2023,Talleres Cord.,1 - 0,Argentinos Jrs
+618,03-06-2023,Tigre,1 - 3,Talleres Cord.
+619,11-06-2023,Talleres Cord.,1 - 0,Arsenal de Sarandi
+620,24-06-2023,Lanus,2 - 1,Talleres Cord.
+621,02-07-2023,Talleres Cord.,1 - 1,Godoy Cruz
+622,06-07-2023,Sarmiento Junin,0 - 1,Talleres Cord.
+623,11-07-2023,Talleres Cord.,0 - 0,Union Santa Fe
+624,15-07-2023,Huracan,? - ?,Talleres Cord.
+625,27-01-2023,Estudiantes LP,1 - 2,Tigre
+626,03-02-2023,Tigre,2 - 2,Rosario Central
+627,13-02-2023,Racing Club,2 - 2,Tigre
+628,18-02-2023,Tigre,0 - 1,River Plate
+629,25-02-2023,Belgrano Cordoba,0 - 2,Tigre
+630,06-03-2023,Tigre,0 - 1,Argentinos Jrs
+631,12-03-2023,CA Central Córdoba de Santiago del Estero,2 - 0,Tigre
+632,18-03-2023,Arsenal de Sarandi,2 - 0,Tigre
+633,02-04-2023,Tigre,2 - 1,Lanus
+634,09-04-2023,Godoy Cruz,1 - 1,Tigre
+635,14-04-2023,Tigre,1 - 0,Sarmiento Junin
+636,16-04-2023,Union Santa Fe,0 - 0,Tigre
+637,25-04-2023,Tigre,1 - 0,Huracan
+638,29-04-2023,Gimnasia LP,1 - 1,Tigre
+639,08-05-2023,Tigre,2 - 2,Newells
+640,13-05-2023,CA Independiente,2 - 1,Tigre
+641,21-05-2023,Tigre,0 - 0,CA Tucuman
+642,28-05-2023,Boca Juniors,1 - 0,Tigre
+643,03-06-2023,Tigre,1 - 3,Talleres Cord.
+644,10-06-2023,Platense,1 - 0,Tigre
+645,22-06-2023,Tigre,2 - 1,Velez Sarsfield
+646,02-07-2023,Defensa y Justicia,1 - 0,Tigre
+647,05-07-2023,Tigre,1 - 2,Banfield
+648,09-07-2023,Instituto Cordoba,0 - 1,Tigre
+649,17-07-2023,Tigre,? - ?,Barracas Central
+650,30-01-2023,Banfield,0 - 0,Union Santa Fe
+651,06-02-2023,Union Santa Fe,0 - 2,Instituto Cordoba
+652,13-02-2023,Barracas Central,1 - 1,Union Santa Fe
+653,19-02-2023,Union Santa Fe,1 - 1,Colon
+654,25-02-2023,San Lorenzo,1 - 0,Union Santa Fe
+655,03-03-2023,Union Santa Fe,2 - 0,Estudiantes LP
+656,13-03-2023,Rosario Central,1 - 1,Union Santa Fe
+657,18-03-2023,Union Santa Fe,1 - 3,Racing Club
+658,01-04-2023,River Plate,1 - 0,Union Santa Fe
+659,08-04-2023,Union Santa Fe,0 - 3,Belgrano Cordoba
+660,11-04-2023,Argentinos Jrs,5 - 1,Union Santa Fe
+661,16-04-2023,Union Santa Fe,0 - 0,Tigre
+662,22-04-2023,Arsenal de Sarandi,2 - 1,Union Santa Fe
+663,05-05-2023,Godoy Cruz,0 - 0,Union Santa Fe
+664,15-05-2023,Union Santa Fe,0 - 2,Sarmiento Junin
+665,19-05-2023,CA Central Córdoba de Santiago del Estero,0 - 1,Union Santa Fe
+666,29-05-2023,Huracan,0 - 1,Union Santa Fe
+667,04-06-2023,Union Santa Fe,2 - 0,Gimnasia LP
+668,12-06-2023,Newells,1 - 1,Union Santa Fe
+669,17-06-2023,Union Santa Fe,1 - 1,Lanus
+670,24-06-2023,Union Santa Fe,3 - 0,CA Independiente
+671,01-07-2023,CA Tucuman,1 - 0,Union Santa Fe
+672,06-07-2023,Union Santa Fe,0 - 0,Boca Juniors
+673,11-07-2023,Talleres Cord.,0 - 0,Union Santa Fe
+674,15-07-2023,Union Santa Fe,? - ?,Platense
+675,30-01-2023,Velez Sarsfield,3 - 1,Gimnasia LP
+676,03-02-2023,Newells,1 - 0,Velez Sarsfield
+677,12-02-2023,Velez Sarsfield,0 - 0,CA Independiente
+678,21-02-2023,CA Tucuman,1 - 1,Velez Sarsfield
+679,26-02-2023,Velez Sarsfield,1 - 2,Boca Juniors
+680,06-03-2023,Talleres Cord.,1 - 2,Velez Sarsfield
+681,14-03-2023,Velez Sarsfield,1 - 1,Platense
+682,22-03-2023,Velez Sarsfield,4 - 0,CA Central Córdoba de Santiago del Estero
+683,30-03-2023,Defensa y Justicia,0 - 0,Velez Sarsfield
+684,08-04-2023,Velez Sarsfield,3 - 3,Banfield
+685,12-04-2023,Instituto Cordoba,1 - 0,Velez Sarsfield
+686,16-04-2023,Velez Sarsfield,0 - 0,Barracas Central
+687,21-04-2023,Colon,2 - 1,Velez Sarsfield
+688,29-04-2023,Velez Sarsfield,0 - 0,San Lorenzo
+689,08-05-2023,Estudiantes LP,2 - 0,Velez Sarsfield
+690,15-05-2023,Velez Sarsfield,0 - 0,Rosario Central
+691,30-05-2023,Velez Sarsfield,2 - 2,River Plate
+692,03-06-2023,Belgrano Cordoba,2 - 0,Velez Sarsfield
+693,13-06-2023,Velez Sarsfield,0 - 1,Argentinos Jrs
+694,17-06-2023,Racing Club,2 - 1,Velez Sarsfield
+695,22-06-2023,Tigre,2 - 1,Velez Sarsfield
+696,01-07-2023,Velez Sarsfield,1 - 0,Arsenal de Sarandi
+697,04-07-2023,Lanus,0 - 1,Velez Sarsfield
+698,09-07-2023,Velez Sarsfield,1 - 1,Godoy Cruz
+699,14-07-2023,Sarmiento Junin,? - ?,Velez Sarsfield
